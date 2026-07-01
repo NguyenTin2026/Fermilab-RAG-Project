@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenvs
+ndo1/
+venv/
+.venv/
+
+# Model weights / fine-tuning artifacts (too large for GitHub)
+Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/
+
+# Large corpus / embeddings artifacts
+Fermilab-process_data_and_finetune_model/corpus_st7.jsonl
+Fermilab-process_data_and_finetune_model/corpus_embeddings.npy
+crawled_data/
+
+# HTCondor/SLURM job logs
+*.e[0-9]*
+*.o[0-9]*
+
+# OS
+.DS_Store

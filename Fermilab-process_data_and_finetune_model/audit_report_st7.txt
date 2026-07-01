@@ -1,0 +1,9 @@
+DSSI Fermilab -- Stage 1 (st7 text) audit
+text files found      : 2233
+usable documents      : 2233
+skipped (empty/failed): 0
+boilerplate lines cut : 68
+chunks written        : 8847
+  train chunks        : 7100
+  test  chunks        : 1747
+output file           : corpus_st7.jsonl

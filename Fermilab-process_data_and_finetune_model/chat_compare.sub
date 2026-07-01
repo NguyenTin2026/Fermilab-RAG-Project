@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH -A cis251425-gpu
+#SBATCH -p gpu
+#SBATCH --nodes=1
+#SBATCH --gpus-per-node=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --time=00:20:00
+#SBATCH -J chat_compare
+#SBATCH -o chat_compare.o%j
+#SBATCH -e chat_compare.e%j
+#SBATCH --mail-type=all
+
+module load anaconda
+conda activate $SCRATCH/envs/ndo1
+
+export HF_HOME=$SCRATCH/hf_cache
+export HF_HUB_OFFLINE=1
+
+cd ~/Fermilab_Project/Fermilab-process_data_and_finetune_model
+
+python 03_finetune_qlora.py --chat ./ft-qwen3-fermilab

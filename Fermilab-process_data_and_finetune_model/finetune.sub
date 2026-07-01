@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH -A cis251425-gpu
+#SBATCH -p gpu
+#SBATCH --nodes=1
+#SBATCH --gpus-per-node=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=32
+#SBATCH --time=02:00:00
+#SBATCH -J qlora_fermilab
+#SBATCH -o finetune.o%j
+#SBATCH -e finetune.e%j
+#SBATCH --mail-type=all
+
+module load anaconda
+conda activate $SCRATCH/envs/ndo1
+
+export HF_HOME=$SCRATCH/hf_cache
+export HF_HUB_OFFLINE=1
+
+cd ~/Fermilab_Project/Fermilab-process_data_and_finetune_model
+
+python 03_finetune_qlora.py --data train_qa.jsonl --out ./ft-qwen3-fermilab

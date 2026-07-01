@@ -1,0 +1,11 @@
+# Fermilab seed URLs for WP1 web acquisition.
+# One URL per line. Lines starting with '#' are ignored.
+# Start small to verify the pipeline, then expand.
+https://www.fnal.gov/pub/about/index.html
+https://www.fnal.gov/pub/about/whatis/index.html
+https://www.fnal.gov/pub/about/history/index.html
+https://www.fnal.gov/pub/science/index.html
+https://www.fnal.gov/pub/science/particle-physics/index.html
+https://www.fnal.gov/pub/science/particle-accelerators/index.html
+https://www.fnal.gov/pub/science/lattice-qcd/index.html
+https://www.fnal.gov/pub/science/experiments/index.html

@@ -1,0 +1,26 @@
+# Discovery Hub fine-tuning stack
+# Tested target: Ubuntu 22.04, Python 3.10-3.11, CUDA 12.x, 2x 12GB GPUs.
+#
+# Install into a fresh venv:
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt
+
+# Core training / embedding
+sentence-transformers>=3.3.0
+transformers>=4.45.0
+torch>=2.4.0                 # install the CUDA build matching your driver
+datasets>=3.0.0
+accelerate>=1.0.0
+
+# Parameter-efficient fine-tuning (only needed for the 4B+ LoRA path)
+peft>=0.13.0
+
+# Qwen3-Embedding needs trust_remote_code + a recent tokenizers
+tokenizers>=0.20.0
+einops>=0.8.0
+
+# Synthetic query generation (Phase-1 Gemini infra)
+google-genai>=0.3.0
+
+# Utilities
+numpy>=1.26.0
