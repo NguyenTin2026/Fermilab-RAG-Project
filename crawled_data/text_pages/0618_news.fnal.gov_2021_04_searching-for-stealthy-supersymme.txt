@@ -1,0 +1,173 @@
+URL: https://news.fnal.gov/2021/04/searching-for-stealthy-supersymmetry/
+Title: Searching for stealthy supersymmetry
+────────────────────────────────────────────────────────────
+Searching for stealthy supersymmetry
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Searching for stealthy supersymmetry
+April 2, 2021
+| By:
+Jim Hirschauer
+Tags:
+CERN
+CMS
+Large Hadron Collider
+LHC
+LPC
+machine learning
+result
+supersymmetry
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+U.S. CMS physicists from Fermilab and associated universities collaborating under the umbrella of the LPC make up a team that is the first to perform a new kind of search for “stealthy” supersymmetry that does not result in an obvious signature of large energy imbalance. Instead, the LPC team is looking for collisions that result in an unusually large number of particles in the detector. CMS recently published a briefing explaining their analysis.
+Supersymmetry is a theory that predicts that all known particles have as-yet-undiscovered partner particles, or superpartners. These superpartners, according to this theory, could be produced in proton-proton collisions at the Large Hadron Collider at the European Laboratory for Particle Physics, CERN. Scientists have been actively exploring the nature of supersymmetry for over 40 years, in part because it can help explain the Higgs boson’s mass, which is currently measured to be about 125 times the mass of the proton. Searches for new partner particles with the CMS and ATLAS experiments at the LHC most often look for a large imbalance of energy resulting from supersymmetric particles that escape without detection. So far, these searches have found no sign of supersymmetry.
+These physicists comprise the LPC team that contributed to the supersymmetry analysis.
+One team working on these searches comprises U.S. CMS physicists from Fermilab and associated universities collaborating under the umbrella of the Fermilab LHC Physics Center, which is also known as the LPC. This team is the first to perform a new kind of search for “stealthy” supersymmetry that does not result in an obvious signature of large energy imbalance. Instead, the LPC team is looking for collisions that result in an unusually large number of particles in the CMS detector. The LPC team uses a special machine-learning technique in which two neural networks, pitted against each other, discover subtle differences between signal and background events. Those differences are then used to help identify the few interesting collisions that may come from stealthy supersymmetry from the billion collisions per second that the LHC produces.
+CMS recently published a physics briefing describing this analysis
+. In it, you can read more about stealthy supersymmetry, the importance of dueling neural networks and what the LPC team has learned from the data.
+Jim Hirschauer is a Fermilab scientist.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+New ultra-fast particle detector could help unmask dark matter
+March 24, 2026
+CMS
+dark matter
+High-Luminosity Large Hadron Collider
+Fermilab feature
+The CMS experiment at CERN is building a new detector that will unravel the chaotic particle collisions at the Large Hadron Collider, helping scientists identify particles based on their speeds.
+LHC Physics Center at Fermilab reaches 15-year milestone for CMS Data Analysis School
+March 11, 2026
+CMS
+LHC
+particle physics
+Fermilab feature
+The intensive program trains the next generation of researchers in advanced particle physics, data analysis and agentic artificial intelligence.
+Anadi Canepa begins work as new CMS spokesperson
+February 23, 2026
+CMS
+High-Luminosity Large Hadron Collider
+particle physics
+Fermilab feature
+The Fermilab senior scientist brings a wealth of scientific leadership experience to her new role as the collaboration prepares for the High-Luminosity Large Hadron Collider.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

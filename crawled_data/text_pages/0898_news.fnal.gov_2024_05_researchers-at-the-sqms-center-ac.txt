@@ -1,0 +1,225 @@
+URL: https://news.fnal.gov/2024/05/researchers-at-the-sqms-center-achieve-leading-performance-in-transmon-qubits/
+Title: Researchers at the SQMS Center achieve leading performance in transmon qubits
+────────────────────────────────────────────────────────────
+Researchers at the SQMS Center achieve leading performance in transmon qubits
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Researchers at the SQMS Center achieve leading performance in transmon qubits
+May 15, 2024
+| By:
+Emily Ayshford
+and
+Anna Grassellino
+Tags:
+quantum
+qubits
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Through unique qubit fabrication techniques, scientists have demonstrated systematic improvements in the performance of superconducting devices for quantum computing, communication, and sensing.
+Scientists and engineers at the Superconducting Quantum Materials and Systems Center, hosted by the U.S. Department of Energy’s Fermi National Accelerator Laboratory, have achieved reproducible improvements in superconducting transmon qubit lifetimes with record values of 0.6 milliseconds. The result was achieved through an innovative materials technique that eliminated a major loss source in the devices.
+These results have been published in
+Nature Partner Journal Quantum Information.
+Quantum devices such as qubits are critical for storing and manipulating quantum information. The qubit lifespan, known as coherence time, determines how long data can be stored and processed before an error occurs. This phenomenon, called quantum decoherence, is a key obstacle to operating quantum processors and sensors.
+Electron microscopy images show the surface of the various superconducting transmon qubits fabricated at SQMS with the novel encapsulation technique. The qubit with the native niobium oxide is compared to the tantalum and gold capping layers that prevent the re-growth of the niobium oxide. Graphic: SQMS Center, Fermilab
+The novel process called “surface encapsulation” protects key layers of the qubit during fabrication and prevents the formation of problematic, “lossy” oxides at the surfaces and interfaces of these devices. By carefully investigating and comparing various materials and deposition techniques, SQMS researchers have studied different oxides that lead to longer qubit lifetimes and fewer losses.
+“SQMS is pushing the envelope of qubit performance,” said Alexander Romanenko, a senior scientist at Fermilab and SQMS Center’s quantum technology thrust leader. “These efforts show that undergoing a systematic review of processes and materials and attacking what matters most first is the key to pushing qubit coherence. Pursuing device fabrication and characterization, hand in hand with materials science is the right recipe to deepen our scientific understanding of loss mechanisms and improve quantum devices in the future.”
+Anna Grassellino, Fermilab senior scientist and SQMS Center director, and Akshay Murthy, SQMS Materials Focus area leader and Materials Characterization group leader, apply state-of-the-art characterization techniques in the Materials Science Lab, such as X-ray photoelectron spectroscopy and time-of-flight secondary ion mass spectrometry, to examine the effectiveness of niobium surface capping. Photo: Ryan Postel, Fermilab
+The biggest hurdle for qubits: coherence time
+There are many types of qubits. These basic building blocks of quantum computers process information differently — and potentially faster — than classical computers. The longer a qubit can store quantum information, the better its potential for use in a quantum computer.
+Since its inception in 2020, the SQMS research team has focused on understanding the source of errors and decoherence in transmon qubits. This type of qubit is patterned on a chip consisting of a metallic niobium layer on top of a substrate, such as silicon or sapphire. Many consider these superconducting qubits to be the most advanced platform for quantum computers. Tech companies in the United States and around the world are also exploring them.
+Mustafa Bal, nanofabrication group leader at the Fermilab SQMS division and leader of the SQMS Center national nanofabrication taskforce (left) and graduate student Francesco Crisa hold transmon chips of leading performance they produced at the Pritzker Nanofabrication Facility. Photo: Dan Svoboda, Fermilab
+However, scientists must still overcome some challenges before quantum computers can fulfill their promise of solving previously unsolvable problems. Specific properties of the materials used to create these qubits can lead to the decoherence of quantum information. At SQMS, developing a deeper scientific understanding of these properties and loss mitigation strategies is an active area of research.
+To make qubits last longer, focus on the materials
+Shaojiang Zhu, qubit design and simulation group leader at the Fermilab SQMS Division, holds transmon qubits prepared with the surface encapsulation technique ready to be measured at the SQMS Quantum Garage at Fermilab. Photo: Dan Svoboda, Fermilab
+SQMS scientists studying the losses in transmon qubits pointed to the niobium surface as the primary culprit. These qubits are fabricated in a vacuum, but when exposed to air, an oxide forms on the surface of niobium. Though this oxide layer is thin — only about 5 nanometers — it is a major source of energy loss and leads to shorter coherence times.
+“
+Our prior measurements
+indicate that niobium is the best superconductor for these qubits. While the metal losses are near zero, the niobium surface oxide is problematic and the main driver of losses in these circuits.” Romanenko said.
+SQMS scientists proposed encapsulating the niobium during fabrication so it would never be exposed to air and, therefore, its oxide would not form. While they had a hypothesis on which materials would work best for capping, determining the optimal material required a detailed study. So, they systematically tested this technique with different materials, including aluminum, tantalum, titanium nitride, and gold.
+With each capping layer attempt, SQMS scientists analyzed the materials using several advanced characterization techniques at material science labs at Fermilab, Ames National Laboratory, Northwestern University, and Temple University. Qubit performances were measured inside a dilution refrigerator at the
+SQMS Quantum Garage at Fermilab
+. This cryogenic device cools qubits to just a tick above absolute zero. The results demonstrated that the researchers could prepare qubits with 2 to 5 times coherence improvement compared to samples prepared without a capping layer (containing the niobium oxide layer).
+The team found that the capping process improved coherence times for all materials explored in the study. Of these materials, tantalum and gold proved to be the most effective for enabling a higher coherence time,
+with an average of 0.3 milliseconds and maximum values as high as 0.6 milliseconds.
+These results shed further light on the natu
+re, hierarchy, and the mechanism of losses in these qubits. They are found to be driven by the presence of
+amorphous oxides
+and interfaces.
+“When fabricating a qubit, there are many variables, more or less hidden, that can impact performance,” said Mustafa Bal, a scientist at Fermilab and head of the SQMS nanofabrication group and task force. “This is a first-of-its-kind study that very carefully compares one material change and one process change at a time, on a chip of a fixed geometry, across different fabrication facilities. This approach ensures that we develop reproducible techniques for improvement in qubit performance.”
+Coherence times: how far we have come
+The teams fabricated and tested qubits in different facilities as part of the SQMS Center’s National Nanofabrication Taskforce. Fermilab led the way with the SQMS nanofabrication group headed by Bal, making qubits at the Pritzker Nanofabrication Facility at the University of Chicago. Other facilities included Rigetti Computing, a quantum computing company with a quantum foundry, and the National Institute of Standards and Technology Boulder Laboratories. Both are flagship partners at the SQMS Center. Fabricating the chip at Rigetti’s commercial foundry proved that the technique is easily reproducible and scalable for the industry.
+“At Rigetti Computing, we want to make the best possible superconducting qubits to make the best possible quantum computers, and extending the lifetimes of qubits in a reproducible way has been one of the hardest problems,” said Andrew Bestwick, senior vice president of quantum systems at Rigetti. “These are among the leading transmon coherence times that the field has been able to achieve on a two-dimensional chip. Most importantly, the study has been guided by the scientific understanding of qubit loss, leading to reproducibility across different labs and in our fabrication facility.”
+Rigetti’s Fab-1 is the industry’s first dedicated and integrated quantum device and manufacturing facility, located in Fremont, California. The qubit surface encapsulation technique was easily reproduced at the Rigetti facilities. Photo: Rigetti Computing
+At NIST, scientists are interested in using quantum technology to make fundamental measurements of photons, microwave radiation, and voltage. “This has been a great team effort and a good planting of a flag that shows both how far we have come and the challenges that remain to be faced,” said Peter Hopkins, a physicist at NIST who leads the superconductive electronics group and is a lead member of the SQMS Center
+National Nanofabrication Taskforce
+.
+Following this work, SQMS researchers continue to push qubits’ performance frontier further. The next steps include engineering creative and robust nanofabrication solutions for applying this technique to other transmon qubit surfaces to eliminate all lossy interfaces present in these devices. The underlying substrate upon which these qubits are prepared also represents the next major source of losses. SQMS researchers are already hard at work
+characterizing
+and developing better silicon wafers or other lower-loss substrates suitable for quantum applications.
+Moreover, SQMS scientists are working to ensure these advances in the coherence studies can be preserved in more complex chip architectures with several interconnected qubits.
+SQMS Quantum Technology Roadmap
+Given the breadth of the SQMS Center collaboration, the Center’s vision and mission are multi-fold. The researchers seek to improve the performance of the building blocks of a quantum computer and apply these innovations in mid-scale prototypes of quantum processors.
+At SQMS, two main superconducting quantum computing platforms are under exploration: 2D transmon qubit chip-based and 3D cavity-based architectures. For the chip-based processors, SQMS researchers work hand in hand with industry partners such as Rigetti to advance performance and scalability of these platforms.
+Currently, SQMS researchers from Fermilab and Rigetti have co-developed a 9-qubit processor incorporating these surface encapsulation advances. The chip is being installed in the SQMS Quantum Garage at Fermilab. Its performance will be evaluated and benchmarked in the upcoming weeks.
+This timeline shows shows a roadmap for the SQMS Center’s development of 2D transmon qubits and 3D cavity-based platforms. Graphic: Samantha Koch, Fermilab
+For the 3D cavity-based platforms, Fermilab scientists have been working to integrate these qubits with superconducting radio-frequency cavities. Scientists initially developed these cavities for particle accelerators and Fermilab builds upon decades of experience in making the world’s best SRF cavities, demonstrating
+photon lifetimes of up to 2 seconds
+. When combined with transmon qubits, these cavities can also be used as building blocks of quantum computing platforms. Such an approach promises potentially better coherence, scalability and qubit connectivity. To date, Fermilab scientists have
+achieved up to several milliseconds
+of coherence in these cavity-qubit combined systems.
+“We know how to make the world’s best cavities, but the success of the 3D platforms under construction at Fermilab also heavily depends on how far we can keep pushing the performance of these transmon qubits used to control and manipulate the quantum states in the cavities,” said Romanenko. “So, it’s kind of two birds with one stone. As we push to advance our transformational 3D technologies, we also work alongside industry to enable important advances in 2D chip-based quantum computing platforms.”
+The Superconducting Quantum Materials and Systems Center at Fermilab is supported by the
+DOE Office of Science
+.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of more than 30 partner institutions — national labs, academia and industry — working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. Working hand in hand with embedded industry partners, SQMS will build a quantum computer and new quantum sensors at Fermilab, which will open unprecedented computational opportunities. For more information, please visit
+sqmscenter.fnal.gov
+.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC. Visit Fermilab’s website at
+https://www.fnal.gov
+and follow us on Twitter
+@Fermilab
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

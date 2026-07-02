@@ -1,0 +1,216 @@
+URL: https://news.fnal.gov/tag/big-data/
+Title: big data Archives - News
+────────────────────────────────────────────────────────────
+big data Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+big data
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 10 results
+DOE invests $13.7 million for research in data reduction for science
+September 14, 2021
+big data
+computing
+funding
+Fermilab feature
+The U.S. Department of Energy recently announced $13.7 million in funding for nine research projects that will advance the state of the art in computer science and applied mathematics. One of the recipients of this funding, Fermilab scientist Nhan Tran will lead a project to explore methods for programming custom hardware accelerators for streaming compression.
+Blink and it’s gone
+July 13, 2021
+artificial intelligence
+big data
+CERN
+CMS
+Large Hadron Collider
+Fast electronics and artificial intelligence are helping physicists working on experiments with massive amounts of data, such as the CMS experiment, decide which data to keep and which to throw away.
+The data wranglers
+March 29, 2021
+big data
+career
+data science
+Symmetry feature
+A degree in particle physics or astrophysics can lead to a career in data science. Physicists know how to take enormous amounts of raw data and use it to address a question—often approaching it from multiple angles before finding the answer.
+Tackling big data challenges for next-generation experiments
+February 22, 2021
+big data
+computing
+Deep Underground Neutrino Experiment
+DUNE
+neutrino
+Science and Technology Facilities Council
+STFC
+United Kingdom
+From UKRI, Feb. 22, 2021: UKRI scientists are developing vital software to exploit the large data sets collected by the next-generation experiments in high-energy physics. The new software will have the capability to crunch the masses of data that the LHC at CERN and next-generation neutrino experiments, such as the Fermilab-hosted Deep Underground Neutrino Experiment, will produce this decade.
+Coffea speeds up particle physics data analysis
+February 19, 2021
+big data
+CMS
+computing
+result
+Fermilab feature
+The prodigious amount of data produced at the Large Hadron Collider presents a major challenge for data analysis. Coffea, a Python package developed by Fermilab researchers, speeds up computation and helps scientists work more efficiently. Around a dozen international LHC research groups now use Coffea, which draws on big data techniques used outside physics.
+Boosting computing power for the future of particle physics
+August 19, 2019
+big data
+CMS
+computing
+Large Hadron Collider
+LHC
+machine learning
+MIT
+From MIT News, Aug. 19, 2019: A new prototype machine-learning technology co-developed by Fermilab and MIT scientists speeds Large Hadron Collider data processing by up to 175 times over traditional methods.
+A glimpse into the future: accelerated computing for accelerated particles
+August 15, 2019
+big data
+CMS
+computing
+machine learning
+Fermilab feature
+A new machine learning technology tested by Fermilab scientists and collaborators can spot specific particle signatures among an ocean of LHC data in the blink of an eye, much faster than standard methods. Sophisticated and swift, its performance gives a glimpse into the game-changing role machine learning will play in making future discoveries in particle physics as data sets get bigger and more complex.
+LHC data: how it’s made
+November 28, 2017
+ATLAS
+big data
+CMS
+Large Hadron Collider
+LHC
+Symmetry feature
+In the Large Hadron Collider, protons become new particles, which become energy and light, which become data.
+Tape lives on at Fermilab
+August 9, 2017
+big data
+CERN
+CMS
+computing
+data
+France
+Large Hadron Collider
+LHC
+Switzerland
+Fermilab feature
+Storing a deluge of particle physics data requires the help of an old friend: tape cartridges.
+Deep learning takes on physics
+December 6, 2016
+big data
+computing
+detector technology
+Symmetry feature
+Can the same type of technology Facebook uses to recognize faces also recognize particles?
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

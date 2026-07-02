@@ -1,0 +1,191 @@
+URL: https://news.fnal.gov/2024/09/ana-martina-botti-wins-2024-ura-honorary-tollestrup-award-for-postdoctoral-research/
+Title: Ana Martina Botti receives 2024 URA Honorary Tollestrup Award for Postdoctoral Research
+────────────────────────────────────────────────────────────
+Ana Martina Botti receives 2024 URA Honorary Tollestrup Award for Postdoctoral Research
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Ana Martina Botti receives 2024 URA Honorary Tollestrup Award for Postdoctoral Research
+September 12, 2024
+| By:
+Emily Driehaus
+Tags:
+award
+URA
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Ana Martina Botti’s work as a postdoctoral researcher has helped pave the way for more sensitive dark matter searches using skipper CCDs. For this important contribution, Botti was presented the 2024 URA Honorary Tollestrup Award for Postdoctoral Research.
+Scientists at the U.S. Department of Energy’s Fermi National Accelerator Laboratory spend a lot of time thinking about one of the most difficult cosmological puzzles: how to find dark matter. Multiple experiments at the laboratory are focused on detecting elusive dark matter particles, each with different methods and detectors. However, regardless of the type of detector, they must be incredibly sensitive to potential dark matter particles with little to no outside interference, or background noise.
+Ana Martina Botti
+Ana Martina Botti, winner of this year’s Universities Research Association’s Honorary Tollestrup Award for Postdoctoral Research, has helped the
+SENSEI
+collaboration and the
+OSCURA
+collaboration increase the sensitivities of their detectors during her time as a post-doctoral researcher at Fermilab. Botti’s work on these detectors, known as skipper charged-couple devices, has helped to advance both experiments, which are aimed to unlock the mysteries of dark matter.
+“URA is proud to recognize Dr Botti’s work that illustrates how exacting requirements of Dark Matter searches drive technological innovation,” said URA president and CEO, John Mester.
+SENSEI is a detector intended for measuring interactions from light dark matter using a
+skipper CCD
+, which is typically a silicon die with square pixels. Scientists use these devices to see how a photon, or a dark matter particle, interacts with the electrons in the detector. When these particles create ionization electrons, the electrons are moved through the pixels with electric voltages in the sensor, where researchers can determine when a particle hit the detector. In skipper CCDs, these readout charges can be read multiple times and averaged, which filters out noise that may have entered the measurement.
+Even though these devices are extremely precise, some background noise can still make its way into the detector. Environmental radiation, trapped electrons and dark current can all get in the way of accurate measurements, reducing the sensitivity of the detector.
+Botti’s work on reducing the interference of these backgrounds has greatly increased the sensitivity of skipper-CCD detectors for dark matter searches, holding interference from dark current to a relatively rare occurrence where only one extra background electron is expected to show up in a pixel over the span of 200 years. This unprecedented sensitivity will also help efforts to scale up SENSEI for the Observatory of Skipper CCDs Unveiling Recoiling Atoms collaboration. OSCURA detectors will have 10 kilograms of active mass to make even more advances in the search for dark matter.
+Having always been fascinated with unanswered questions about science and the universe, Botti studied physics as both an undergraduate at Buenos Aires University and graduate student before obtaining a Ph.D. in astrophysics from Karlsruhe Institute of Technology.
+“From my point of view, physics was the field that gave you the most possibilities,” Botti said. “And I wanted to keep my doors as open as possible.”
+Botti contributed to research at Pierre Auger Observatory while obtaining her Ph.D. and discovered a love for building detectors and instrumentation for experiments. After finishing up her work at the observatory, moving into building detectors for one of cosmology’s biggest mysteries seemed like a no-brainer.
+“I think that dark matter is all about instrumentation. The main challenge of solving one of the biggest puzzles in cosmology is who makes the best instrument,” Botti said. “So, I saw the opportunity to use my skills to make a contribution that has an impact.”
+The work has not been without obstacles. When the COVID-19 pandemic hit in March 2020, Botti was preparing to start postdoctoral work at Fermilab. However, the borders closed just a few days before she was scheduled to leave for the United States and plans were put on hold. Botti said the interruption allowed her to spend more time with family while working in a temporary position at the University of Buenos Aires.
+“I was very lucky that I had the chance to spend most of the COVID pandemic at home close to my family and still work, which was great,” Botti said.
+While Botti has contributed to achieving previously unthinkable levels of sensitivity for the SENSEI detector, the work is still ongoing. OSCURA will be a multikilogram detector, requiring careful, precise work to scale up from the 100-gram SENSEI detectors.
+“I lead a lot of efforts in OSCURA to make a low-background package that allows us to scale up in mass,” Botti said. “This is opening the door to make OSCURA possible.”
+Even though the work is intense, Botti thoroughly enjoys participating in this collaboration in such a fast-moving field. She appreciates the benefits of working with a smaller group of scientists with so much expertise.
+“It’s very visible how each person contributes to the experiment,” Botti said. “I see the impact of my work much more clearly, and I see the impact of my colleagues’ work much more clearly.”
+Botti’s dedication and the dedication of colleagues is evident in the results that have been achieved in such a short amount of time. With these ongoing efforts, it’s possible we are getting closer to measuring dark matter.
+“I am always impressed with the work here at Fermilab from the CCD group and how fast they are developing this tool,” Botti said. “I’m always impressed with how fast and how well this is working, and I’m super happy to be part of it.”
+Botti said she is very thankful for the technical staffs at Fermilab, Argonne and SNOLAB, as well as the collaborators in SENSEI and OSCURA, for aiding in the pursuit of this research.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+April 2, 2026
+AI
+award
+particle physics
+Fermilab feature
+Aleksandra Ćiprijanović will use artificial intelligence to solve the domain shift problem in high-energy physics research. Fermilab’s computing capabilities make it uniquely positioned to support this project.
+Meet the winners of the 2025 Universities Research Association awards
+December 19, 2025
+accelerator complex
+ICARUS
+LBNF/DUNE
+Muon g-2
+neutrino
+SBND
+URA
+Fermilab feature
+Gray Putnam, James Mott, Lauren Yates and Chris Jensen are this year’s recipients of the URA Honorary Awards. The awards are presented each year to recognize significant contributions to research at Fermilab.
+Fermilab’s Anna Grassellino receives one of Italy’s highest honors
+February 19, 2025
+award
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino, a senior scientist and the director of the Superconducting Quantum Materials and Systems Center at Fermilab, was honored with the Knight of the Order of Merit of the Italian Republic for her pioneering contributions to superconducting quantum technologies. Known for her groundbreaking work on superconducting radiofrequency cavities, Grassellino has helped to revolutionize and lead advancements in particle accelerators and quantum information science.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

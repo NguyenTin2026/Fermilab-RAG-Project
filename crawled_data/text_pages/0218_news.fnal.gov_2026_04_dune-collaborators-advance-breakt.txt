@@ -1,0 +1,218 @@
+URL: https://news.fnal.gov/2026/04/dune-collaborators-advance-breakthrough-power-over-fiber-technology/
+Title: DUNE collaborators advance breakthrough power-over-fiber technology
+────────────────────────────────────────────────────────────
+DUNE collaborators advance breakthrough power-over-fiber technology
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+DUNE collaborators advance breakthrough power-over-fiber technology
+April 22, 2026
+| By:
+Zachary Burton
+Tags:
+DUNE
+particle detector technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Researchers at the South Dakota School of Mines and Technology, working as part of the international Deep Underground Neutrino Experiment collaboration, are perfecting an innovative power-over-fiber system to enable photon detectors to operate reliably in cryogenic, high-voltage conditions.
+Inside an unassuming building on the campus of the South Dakota School of Mines and Technology in Rapid City, a small research team is tackling a challenge vital to the world’s largest neutrino experiment. Their work focuses on powering photon detectors, key instruments that could contribute to revealing our universe’s deepest secrets and ultimately uncover new physics.
+Associate Professor David Martinez Caicedo is leading a research group of undergraduate and graduate students at the university, along with postdoctoral researchers, to perfect a method for carefully sending power to the highly sensitive photon detectors that will be installed within the Deep Underground Neutrino Experiment’s massive far detector modules.
+David Martinez Caicedo, left, with his team at South Dakota School of Mines and Technology. Credit: David Martinez Caicedo
+Martinez is a member of the international collaboration for DUNE, composed of more than 1,500 scientists and engineers from over 35 countries and hosted by the U.S. Department of Energy’s Fermi National Accelerator Laboratory. DUNE will seek to deepen our understanding of neutrinos — mysterious subatomic particles
+that may have played a central role in tipping the scale toward there being more matter than antimatter in our universe.
+Inception of an idea
+In 2019, two Fermilab researchers began discussing ways to provide power to the two liquid-argon detector modules that would be installed at the DUNE far site a mile underground at the Sanford Underground Research Facility in South Dakota. While sending power to the first detector module was relatively straightforward, the second, called the vertical drift, presented a unique challenge due to its design. Flavio Cavanna, a senior scientist with Fermilab, was the point person to solve this problem.
+“In the vertical drift design, there is no easy way to provide power to the photon detectors,” Cavanna said. “My first idea was to put it on the cathode, but we didn’t have any idea for how this would work.”
+Cavanna reached out to Bill Pellico, a senior engineer with Fermilab, to chart a course to provide power to the vertical drift that would be compatible with the existing design of the detector module.
+“Bill is an expert on high voltage and power delivery, and he came up with a couple ideas, one of which was to use power over fiber,” Cavanna said. While this technology exists in the market already, there was no clear indication it would work within a liquid-argon environment.
+“In the vertical drift design, there is no easy way to provide power to the photon detectors.”
+Flavio Cavanna, Fermilab
+“I had some experience with using fiber technology, so in combination with Bill’s previous experience and proposal, we selected to move forward with exploring this technology,” Cavanna said.
+After several years of testing and demonstrations, the DUNE collaboration approved the technology, and work began at CERN and Fermilab on prototypes. At that point, other institutions, including SD Mines and Stony Brook University in New York, became involved in the construction, quality control and installation of the power-over-fiber technology.
+Going to extremes
+To study neutrino interactions, DUNE will use liquid-argon time projection chamber technology. At room temperature argon is a gas, so for argon to reach its liquid state, it must be chilled below minus 300 degrees Fahrenheit (minus 184 degrees Celsius). Such extreme temperatures make it essential for researchers to find new ways to power the photon detectors.
+“Particles generated after a neutrino interacts with an argon atom in the detector produce ionization electrons and scintillation light,” Martinez explained at SD Mines. “To detect the scintillation light, the photon detectors need to be powered while immersed in liquid argon. With these challenges in mind, we pursued a novel application of power-over-fiber technology.”
+According to Pellico, the technology has strengths that prove especially useful where electronics in contact with high voltages need to be isolated from their surroundings.
+“Optical fibers have previously been used at very low temperatures, such as in space applications or quantum computing experiments, so this is not new,” Pellico noted. “However, their use for carrying high-intensity photon power in a cryogenic application is novel.”
+Jairo Rodriguez works with a fiber cable, a laser box and a sensor at South Dakota School of Mines and Technology. Credit: Diana Leon
+This innovative use of power-over-fiber technology allows the photon detectors to operate reliably in liquid argon and the high-voltage conditions of DUNE’s detectors. In addition to the temperature, the sheer size of DUNE’s detectors also pose a challenge. At nearly six stories tall and more than 72 yards long, scintillation light produced far from the photon detectors may not be collected. To improve light collection efficiency, researchers plan to increase photon detector coverage in parts of the detector that were not previously considered because of high-voltage environment. Increasing light collection will improve the ability to study neutrinos from supernovae and solar neutrinos and could help scientists search for new physics beyond the Standard Model.
+“So, how do you enhance the monitoring of interactions occurring inside the detector? We needed a system that allows us to place more photon detectors,” Pellico said. “The power-over-fiber technology would allow researchers to better analyze those interactions that would perhaps otherwise go undetected by having the ability to place more detectors.”
+After a three-year effort of experimentation and working with different vendors, the power-over-fiber team was able to develop a system that could work at extremely cold temperatures and provide the DUNE researchers the line-of-sight they needed.
+“We ended up working with a vendor that was able to obtain up to 55% optical to electrical power conversion efficiency under cryogenic conditions, so we can use this efficient system to power photon detectors,” Pellico said. “We now have a way to place photon detectors anywhere in the detector.”
+Launch-ready te
+c
+hnology
+Importantly, this power-over-fiber technology is being treated as “launch technology.”
+“Just like launching a system into space, once the technology is deployed inside the detectors, it is expected to be operational for the entirety of those detectors’ lifetimes,” Pellico said. “Repairs are not feasible.”
+Unlike conventional copper cables, power-over-fiber components such as lasers, fibers and optical power converters are very delicate. This could mean that, if not carefully handled during installation, issues could arise during assembly of the DUNE far detector. To ensure success, Martinez and his team at SD Mines have engaged in significant testing and planning in advance of installation. Due to the customization of the technology, all the components must be inspected and qualified — not only at room temperature but also at cryogenic temperatures.
+“To characterize how the power-over-fiber system works in cryogenic conditions, we built a long-term test here at SD Mines,” said Jairo Rodriguez, a graduate student in Martinez’s group.
+“We send laser light through a fiber to an optical power converter that is inside a dewar [an insulated storage container] filled with liquid nitrogen, and we monitor its voltage to check proper system behavior,” added Denis Torres, a graduate student also working in the group.
+It was very exciting to see this milestone, not just for DUNE, but for the high-energy physics community as well.”
+David Martinez Caicedo, SD Mines
+This testing has been running for over two years and the system has remained operational, with data demonstrating the stability of the system. “We are monitoring the system every day and determine if there are any variations and where these could come from,” Denis said.
+Diana Leon, a graduate student in the SD Mines group, traveled to CERN in 2023 and 2024 to help lead in the installation of the power-over-fiber system for
+ProtoDUNE
+, a prototype of the DUNE detector. Commissioning and operation of the power-over-fiber technology followed in 2025. This test was critical for determining how effectively it can be applied in a large-scale detector prototype. After commissioning, and prior to the start of operation, the team anxiously watched as the detector was powered up.
+As they had hoped, all of the photon detectors activated and functioned according to plan. “When all of the photon detectors were turned on, we were so happy to see the power-over-fiber technology working after many years of work,” Leon recalled.
+“When we clicked that button in 2025, all the channels were working just like the light bulb in your room,” Cavanna recalled. “In one click, they didn’t blink or have any faults. It’s been a year and there’s been no failure.”
+“It is one of the greatest memories I’ve had in my entire life,” Cavanna added.
+“I was here in South Dakota when the photon detectors on the prototype detector at CERN turned on,” added Martinez. “I received a text message early in the morning that read, ‘It works!’ It was very exciting to see this milestone, not just for DUNE, but for the high-energy physics community as well.”
+Diana Leon, a graduate student at South Dakota School of Mines and Technology, works on ProtoDUNE at CERN. Credit: Dante Totani
+Diana will soon be traveling to CERN again, this time to practice the mechanical integration of power-over-fiber technology. The work will occur at CERN on a mock-up
+detector, which will be the same height as the actual DUNE detector.
+Martinez emphasized the importance of the close collaboration of his group with Fermilab and is also proud of the work the power-over-fiber team at SD Mines has accomplished for DUNE. “The students are involved in the entire process,” he said. “They had the opportunity to put their hands on it, installing and operating power-over-fiber technology and closely collaborating with experts at Fermilab. All the team here, including undergraduate and graduate students, the postdoctoral researcher, and Connie Krosschell, our department secretary, have a role to play. So, everyone has their own contribution, but we pull together as a team.”
+Benefits beyond DUNE
+Biswaranjan Behera, a former postdoctoral researcher who worked with both Pellico and Martinez and is currently a Ramanujan Fellow at the Center for High Energy Physics at the Indian Institute of Science in Bangalore, noted that power-over-fiber technology at cryogenic temperatures could be used far beyond high-energy particle physics experiments.
+“With innovative technologies working together, including the novel implementation of power-over-fiber, DUNE has strong potential for groundbreaking discoveries,” Behera said. “But, also, we are working on a new application of the technology for use in other cryogenic environments.”
+“The DUNE future is bright, and we are making engineering advances and developing tools necessary for cutting-edge neutrino research.”
+Biswaranjan Behera, Indian Institute of Science
+Certain sectors of the economy, such as quantum computing, data centers and space exploration stand to benefit from this technology. Power over fiber technology offers low noise, superior isolation, optimal efficiency and is immune to electromagnetic interference, while also performing reliably at cryogenic temperatures.
+“This can be used in any type of system where it’s cold and you want to monitor what’s going on,” Pellico said. “Electronics become more efficient at cryogenic temperatures, creating opportunities for AI data centers to operate in extreme cold with improved energy efficiency.”
+Ultimately, the advancements made for the Deep Underground Neutrino Experiment are paving the way for a more integrated, high-tech future. “The DUNE future is bright, and we are making engineering advances and developing tools necessary for cutting-edge neutrino research,” Behera added. “In addition, with artificial intelligence already widely employed in DUNE, great things are on the horizon.”
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

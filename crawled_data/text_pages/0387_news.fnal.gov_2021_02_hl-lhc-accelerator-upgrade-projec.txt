@@ -1,0 +1,224 @@
+URL: https://news.fnal.gov/2021/02/hl-lhc-accelerator-upgrade-project-receives-approval-to-move-full-speed-ahead-from-department-of-energy/
+Title: HL-LHC Accelerator Upgrade Project receives approval to move full-speed-ahead from Department of Energy
+────────────────────────────────────────────────────────────
+HL-LHC Accelerator Upgrade Project receives approval to move full-speed-ahead from Department of Energy
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+HL-LHC Accelerator Upgrade Project receives approval to move full-speed-ahead from Department of Energy
+February 10, 2021
+| By:
+Leah Hesla
+Tags:
+accelerator technology
+Berkeley Lab
+Brookhaven
+Brookhaven National Laboratory
+cavity
+CERN
+Department of Energy
+DOE
+High-Luminosity Large Hadron Collider
+High-Luminosity LHC
+HL-LHC
+HL-LHC Accelerator Upgrade Project
+Jefferson Lab
+LHC Accelerator Upgrade Project
+magnet
+National High Magnetic Field Laboratory
+Old Dominion University
+SLAC National Accelerator Laboratory
+University of Florida
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The U.S. Department of Energy has given the U.S. High-Luminosity Large Hadron Collider Accelerator Upgrade Project approval to move full-speed-ahead in building and delivering components for the HL-LHC, specifically, cutting-edge magnets and accelerator cavities that will enable more rapid-fire collisions at the collider. The collider upgrades will allow physicists to study particles such as the Higgs boson in greater detail and reveal rare new physics phenomena. The U.S. collaborators on the project may now move into production mode.
+The U.S. Department of Energy has formally approved the start of execution of the High-Luminosity LHC Accelerator Upgrade Project being carried out at eight U.S. institutions.
+The approval, known as Critical Decision 3, or CD-3, is the endorsement by DOE to proceed with the full production of the U.S. contribution to the high-luminosity upgrade of the Large Hadron Collider, or
+HL-LHC
+, at the European laboratory CERN.
+Fermilab leads the U.S. upgrade effort, which comprises two cutting-edge technologies: accelerator magnets and cavities. Under the HL-LHC Accelerator Upgrade Project, or AUP, the U.S. collaborators will contribute 16 magnets to dramatically focus the LHC’s near-light-speed particle beams to a tiny volume before colliding. The collaborators are also contributing eight superconducting cavities, radio-frequency devices designed to manipulate the powerful beams. (They will also provide four spare magnets and two spare cavities.)
+With CD-3 approval, AUP collaborators can now move full-speed-ahead building and delivering the crucial components. The new instruments will enable a giant leap in the number of particle collisions at the future HL-LHC, a 10-fold increase compared to the current LHC.
+The high-luminosity upgrade to the Large Hadron Collider will enable physicists to study particles such as the
+Higgs boson
+in greater detail. And the increase in the number of collisions could also uncover rare physics phenomena or signs of new physics.
+The HL-LHC Accelerator Upgrade Project magnets use conductors made of niobium-tin to generate a stronger magnetic field compared to predecessor technology. These world-record-setting magnets will have their debut in the HL-LHC: Its run will be the first time that U.S.-built niobium-tin magnets will be used in a particle accelerator for particle physics research. Photo: Dan Cheng, Lawrence Berkeley National Laboratory
+“Gaining DOE’s endorsement to move to full production is a huge achievement. Knowing what it means for the future of particle physics — for the new physics that the HL-LHC will reveal and for future accelerators enabled by these technologies — makes it even more gratifying,” said Giorgio Apollinari, Fermilab scientist and HL-LHC AUP project manager. “I congratulate the entire AUP team on the milestone. They have been instrumental in ensuring the development and technical successes of the leading-edge technologies needed for the HL-LHC.”
+The AUP is supported by the DOE Office of Science. The AUP team consists of six U.S. laboratories and two universities: Fermilab, Brookhaven National Laboratory, Lawrence Berkeley National Laboratory, SLAC National Accelerator Laboratory, Thomas Jefferson National Accelerator Facility (all DOE national laboratories), the National High Magnetic Field Laboratory, Old Dominion University and the University of Florida.
+The AUP magnets use conductors made of niobium-tin to generate a stronger magnetic field compared to predecessor technology. These
+world-record-setting magnets
+will have their debut in the HL-LHC: Its run will be the first time that U.S.-built niobium-tin magnets will be used in a particle accelerator for particle physics research.
+The 16 magnets will be installed in eight cryoassemblies — cooling and housing units that enable the magnets’ superconductivity.
+“It is very exciting to see this cutting-edge magnet technology, which is enabling breakthrough science at the LHC, enter the production phase after the successful tests of our first magnets and with the approval of CD-3,” said scientist Kathleen Amm, the Brookhaven representative for the Accelerator Upgrade Project and director of Brookhaven’s Magnet Division. “The incredible talent across our national laboratories working seamlessly has made this possible.”
+The operation of crab cavities like this one in the High-Luminosity LHC will be the first application of Fermilab superconducting radio-frequency technology — building upon critical contributions from Jefferson Lab, Old Dominion University, SLAC and industrial partners — in a particle-physics-dedicated accelerator. Photo: Ryan Postel, Fermilab
+The AUP accelerator cavities, made of niobium, are a type known as “crab cavities,” manipulating the beam in a particular way to increase the likelihood of particle collisions. While Fermilab high-performance superconducting cavities have already been put to good use in accelerators such as XFEL in Germany or LCLS-II at SLAC National Accelerator Laboratory, the operation of these crab cavities in the HL-LHC will be the first application of Fermilab superconducting radio-frequency technology — building upon critical contributions from Jefferson Lab, Old Dominion University, SLAC and industrial partners — in a particle-physics-dedicated accelerator.
+At the Large Hadron Collider, beams of protons race in opposite directions around the collider’s 17-mile circumference, colliding at high energies at four specific interaction points along the way. Scientists study the collisions to better understand nature’s constituent components and to look for exotic states of matter, such as
+dark matter
+.
+The HL-LHC AUP magnets and cavities will be positioned near two of the LHC’s collision points — the
+ATLAS
+and
+CMS
+particle detectors. These giant, stories-high instruments are also being upgraded to take full advantage of the HL-LHC’s more rapid-fire collisions.
+Over the course of the HL-LHC Accelerator Upgrade Project, the AUP team has seen one success after another, hitting both technological and project milestones according to the schedule established in 2015, says Apollinari. The U.S. collaboration’s first focusing magnet, completed last year,
+met or exceeded specifications
+.
+“Building such an ambitious machine requires not only vision but discipline in carrying it out — tight, transparent, respectful coordination with partners, including with funding agencies and the independent reviewers,” Apollinari said. “The achievement is not only that we received CD-3 approval, but how we got here. We met our goals on a timescale that was put down on paper five years ago. That’s thanks to incredible teamwork of everyone involved.”
+Fermilab, Brookhaven National Laboratory and Lawrence Berkeley National Laboratory are currently building the components and plan to begin delivering the first magnet cryoassembly by late 2021 for critical tests. Components will be installed in the HL-LHC from 2025 to early 2027. The HL-LHC is expected to start operations in 2027 and run through the 2030s.
+“HL-LHC is a truly global scientific and engineering undertaking that will usher in a new era of research and discovery in particle physics. AUP plays a critical role in making this possible,” said Fermilab Director Nigel Lockyer. “The technologies developed by AUP will be important not only for the operation of HL-LHC, but also for the viability of future hadron colliders and the future of the field of particles — beyond the end of the HL-LHC’s run.”
+Learn more about
+the LHC Accelerator Upgrade project, the AUP focusing magnets and the AUP cavities
+.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

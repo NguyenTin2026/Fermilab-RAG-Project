@@ -1,0 +1,206 @@
+URL: https://news.fnal.gov/2025/04/fermilab-funded-research-demonstrates-new-method-for-3d-printing-high-temperature-superconductors/
+Title: Fermilab-funded research demonstrates new method for 3D printing high-temperature superconductors
+────────────────────────────────────────────────────────────
+Fermilab-funded research demonstrates new method for 3D printing high-temperature superconductors
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab-funded research demonstrates new method for 3D printing high-temperature superconductors
+April 28, 2025
+| By:
+Madeleine O’Keefe
+Tags:
+material science
+superconductors
+technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+This technique, published recently in Nature Communications, is the first to fabricate 3D-printed ceramic superconductors with a monocrystalline microstructure, advancing beyond the traditional polycrystalline microstructures.
+Funding from the U.S. Department of Energy’s Fermi National Accelerator Laboratory has enabled researchers at
+Northwestern University
+and Fermilab to invent a new process for 3D printing high-temperature superconductors. This method is the first to fabricate 3D-printed ceramic superconductors with a monocrystalline microstructure and is currently awaiting U.S. patent approval.
+Their
+paper
+was published Feb. 24 in
+Nature Communications
+.
+Cristian Boffo holds a folded superconductor foil 3D printed from a single crystal of yttrium barium copper oxide.
+Credit: Melanie Turenne
+Superconductors
+are a special type of material that can conduct electricity with zero resistance — but only at extremely cold temperatures. High-temperature superconductors are unique because they work at temperatures greater than traditional superconductors, making them more practical for applications.
+Cristian Boffo, a co-author on the paper, secured funding for the project through Fermilab’s Laboratory Directed Research and Development program. Boffo is project director for the Proton Improvement Plan-II, a project building a state-of-the-art
+superconducting linear accelerator
+at Fermilab.
+Boffo received LDRD funding to develop advanced magnets called superconducting undulators, aligning with activities planned in Fermilab’s Applied Physics and Superconducting Technology Directorate. One of the project’s aims is to explore new technologies that can revolutionize the design and manufacturing of superconducting undulators through the introduction of high-temperature superconductors and 3D printing. That’s where the Northwestern researchers came in.
+“Fermilab wants to make better and better magnet systems that are more efficient and reach higher performance,” said Boffo. “Northwestern provides the experience in 3D printing, and we provide experience in superconductors.”
+The quest for high-temperature superconductors
+When electricity flows through a material at normal temperatures, there will always be some energy loss due to resistance. Over 100 years ago, scientists discovered the phenomenon of superconductivity: when brought down to temperatures close to absolute zero — minus 460 degrees Fahrenheit (minus 273 degrees Celsius) — materials lose electrical resistance, enabling electricity to move through them extremely efficiently. This requires expensive and hard-to-handle coolants like liquid helium.
+In the 1980s, scientists discovered high-temperature superconductors that will operate at a higher — albeit still frigid — critical temperature of minus 321 degrees Fahrenheit (minus 196 degrees Celsius). These are mostly ceramic materials, often copper oxides combined with other metallic oxides. These superconductors can be cooled with liquid nitrogen instead of liquid helium.
+“This new technology will enable new magnet designs, leading to higher performances and potentially even allow the production of a new generation of superconducting radio-frequency cavities.”
+Cristian Boffo
+Fermilab
+“Using liquid nitrogen, it’s much less expensive to cool down the structure to where it becomes superconducting,” said David Dunand, a professor of materials science and engineering at Northwestern University who performed the research.
+Today, technological uses for superconductivity range from low-loss power generators to electric motors, from medical imaging technology to quick, quiet magnetically levitated trains. But superconductors’ need for extreme cold limits their usefulness, so developing high-temperature superconductors is vital for advancing everyday applications.
+And in physics, high-temperature superconductors are especially advantageous because they retain their superconductivity in higher magnetic fields than traditional superconducting materials do.
+From polycrystals to monocrystal
+To 3D print superconducting ceramics, scientists start with a “precursor powder”: a finely milled mix of chemical compounds. They combine the powder with a binder to create a printable paste, which can then be extruded by a 3D printer to build a structure, layer by layer — like the coil technique of making pottery. The structure is then heated and baked in a furnace, a high-temperature process known as sintering.
+The resulting piece has a polycrystalline microstructure, but this is not ideal for creating or trapping a strong magnetic field. A monocrystalline superconductor would have much better properties for potential uses in accelerator physics, but it cannot be made via powder 3D printing.
+So Dunand and his graduate student Dingchang Zhang sought to demonstrate, for the first time, a way to combine the superior physics properties of a monocrystalline superconductor with the complex architecture of a 3D-printed polycrystalline structure.
+A sample of a superconductor 3D printed from a single seed — this one shaped like a paper airplane — is shown levitating over a magnet. Credit: Dingchang Zhang
+This folded superconducting material was 3D printed from a single crystal of yttrium barium copper oxide. Credit: Melanie Turenne
+A superconducting material is 3D printed. Credit: Dingchang Zhang
+3D-printed superconducting coil. Credit: Dingchang Zhang
+The new paper outlines their successful method. They 3D print a ceramic polycrystalline superconductor using common precursor powder mixture called yttrium barium copper oxide, or YBCO. Once it is sintered, researchers place a single-crystal seed made of a different superconducting material, neodymium barium copper oxide, or NdBCO, on top. They then begin a process called top seeded melt growth: heating the printed structure so it partially melts, filling holes or pores in the 3D-printed microstructure, making it more robust. Researchers then cool the structure very slowly so it re-solidifies with the same crystallographic orientation as the seed. The final piece retains its original 3D-printed shape, now with a stronger monocrystalline structure.
+Dunand and Zhang used their method first with a 3D-printed micro-lattice shape, then graduated to more complex shapes. They found they could use a single seed to fabricate superconducting pieces up to 10 centimeters in diameter. They even used their method to 3D print a foil of superconducting material that Zhang folded into the shape of a tiny paper airplane, demonstrating that 3D-printed superconductors can be formed into complex shapes with sharp corners.
+In the future, they hope to investigate multi-seed methods — different from the polycrystal method — in which they hope to produce larger pieces by using many separate single-crystal seeds.
+“If we want to use it for accelerators, we need to print larger parts,” said Zhang, who completed his PhD at Northwestern in August 2024. “If we want to get bigger parts, how will we place the seeds? Whether that will have other problems, we don’t know.”
+Dunand said their method “made a huge step forward” by showing it is possible to create monocrystal superconductors with complex shapes. They hope it also inspires further research into 3D printing monocrystal ceramics.
+“I think it’s highly, highly scalable,” said Dunand. If they could do it in their lab at Northwestern, Dunand said he thinks it can be replicated in many other settings.
+“This new technology will enable new magnet designs, leading to higher performances and potentially even allow the production of a new generation of superconducting radio-frequency cavities,” said Boffo. “I think that this was a very successful collaboration.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab innovators earn six patents for groundbreaking technologies
+June 10, 2025
+emerging technologies
+inventions
+technology
+technology transfer
+Fermilab feature
+Scientists and engineers at Fermilab are turning visionary science into real-world solutions, bridging the gap between fundamental research and industry. Their patented technologies reflect not only scientific excellence but also a growing emphasis on practical impact, economic value and cross-sector collaboration.
+Argonne and Fermilab receive $3.2M in federal funding for nuclear transmutation technology
+June 2, 2025
+cryogenics
+emerging technologies
+nuclear energy
+SRF cavities
+technology
+Press release
+The labs are developing a practical approach to reduce the size and cost of superconducting linear accelerators, which offer great potential for addressing used nuclear fuel, while also improving their reliability.
+Scientists advance their vision for a muon collider
+May 22, 2025
+muon collider
+muons
+technology
+Fermilab feature
+Physicists are exploring the development of a muon collider — an advanced particle accelerator that could reveal new insights into the nature of our universe. Though great challenges exist in studying fast-decaying muons, technological advancements in accelerators, magnets and detectors could make building the collider a reality. Recent workshops hosted by Fermilab brought together researchers from around the globe to address some of these challenges.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

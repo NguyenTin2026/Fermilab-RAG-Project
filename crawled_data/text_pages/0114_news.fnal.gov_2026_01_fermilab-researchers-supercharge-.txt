@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2026/01/fermilab-researchers-supercharge-neural-networks-boosting-potential-of-ai-to-revolutionize-particle-physics/
+Title: Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+────────────────────────────────────────────────────────────
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+January 15, 2026
+| By:
+Maxwell Bernstein
+Tags:
+AI
+emerging technologies
+machine learning
+microelectronics
+particle detector technology
+partnership
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab researchers have provided expertise and leadership in developing an open-source framework that enables the design of hardware capable of making split-second decisions. These advances aim to prioritize the enormous volumes of data produced by some of humanity’s most ambitious physics experiments.
+A lot can happen in the blink of an eye. In a laboratory setting, it takes an average person about one-fifth of a second to see a light and press a button, and in that same interval a hummingbird could beat its wings about a dozen times. Meanwhile, in that same fraction of a second, specialized computer hardware analyzing particle collider data can
+harness artificial intelligence
+to make more than 10 million decisions about whether to keep or discard information created by collision events.
+“Neural network algorithms help us to gain deeper insights into our data more efficiently to make discoveries much faster than traditional, simple techniques.”
+Nhan Tran, head of Fermilab’s AI Coordination Office
+At the U.S. Department of Energy’s Fermi National Accelerator Laboratory, researchers are pushing the limits of what machines can do, leading an open-source collaboration to embed neural networks directly into physical hardware in the form of efficient, customized digital circuits.
+Central to this effort is hls4ml
+, a software framework developed with Fermilab researchers contributing their expertise. Hls4ml can be used to create ultrafast, decision-making hardware for applications ranging from particle physics to fusion science — and beyond.
+Humanity’s most ambitious scientific projects, many led by Fermilab or supported by Fermilab researchers, generate staggering amounts of data. Particle collider detectors, such as CMS at the Large Hadron Collider at CERN, probe the universe at its most fundamental level.
+Fermilab is the host laboratory in the U.S.
+that facilitates participation of hundreds of U.S. physicists from more than 50 institutions in the CMS experiment at CERN.
+“The CMS upgrades for the High-Luminosity LHC will produce almost six times more data when it starts running in the 2030s,” said Anadi Canepa, a senior scientist at Fermilab and spokesperson for the international CMS collaboration. “Our updated trigger system will allow us to access more granular information, extended coverage and extended timing information. The challenge is that if we analyze all this extra data, we need to do it fast.”
+Neural networks — algorithms inspired by the way the human brain processes information — learn by passing data through interconnected layers, adjusting connections to recognize patterns and make predictions. But learning alone isn’t enough; these networks must also be deployed efficiently to deliver real-world value.
+Nhan Tran, head of Fermilab’s AI Coordination Office, holds a circuit board used for particle tracker data analysis. Credit: Ryan Postel, Fermilab
+“Neural network algorithms help us to gain deeper insights into our data more efficiently to make discoveries much faster than traditional, simple techniques,” said Nhan Tran, head of Fermilab’s AI Coordination Office.
+Once a network is modeled and trained, researchers need a clear path to accelerate it in hardware. That’s where hls4ml comes in.
+“Hls4ml takes code for neural networks, which can be written with open-source machine learning libraries like PyTorch and TensorFlow, and essentially turns them into a series of logic gates,” Tran explained.
+Traditionally, central processing units, commonly called CPUs, and graphics processing units, or GPUs, found in laptops and desktop computers have been used to perform machine learning algorithms.
+“As these methods became more widely used, it was natural to ask whether there was a more efficient approach,” said Giuseppe Di Guglielmo, principal engineer at Fermilab.
+By moving neural networks onto specialized hardware such as field-programmable gate arrays and application-specific integrated circuits, researchers can perform many calculations at once and make decisions faster while using less power.
+“Even though they are more complicated to program, they let us run sophisticated algorithms in real time, where latency and power matter,” Di Guglielmo added.
+Programming these devices traditionally requires deep expertise. With hls4ml, however, preparing decision-making hardware for particle detector triggers becomes attainable to a broader range of researchers.
+“The hls4ml team is making the trigger more accessible,” said Canepa. “Anyone who has a new idea can now write an algorithm for the trigger and run it. Hls4ml is absolutely critical to the success of the CMS upgrade, because we will collect an unprecedented, very large and complex data set. Without a capable trigger system to select events, we would not be able to store the most interesting collisions.”
+“Many fields of cutting-edge science confront big data challenges and explore the nature of the universe at very short timescales, so research communities ranging from fusion energy to neuroscience and materials science are very interested in what we’re doing to enable new capabilities through the power of AI,” added Tran.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

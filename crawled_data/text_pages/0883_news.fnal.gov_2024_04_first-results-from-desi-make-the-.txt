@@ -1,0 +1,227 @@
+URL: https://news.fnal.gov/2024/04/first-results-from-desi-make-the-most-precise-measurement-of-our-expanding-universe/
+Title: First results from DESI make the most precise measurement of our expanding universe
+────────────────────────────────────────────────────────────
+First results from DESI make the most precise measurement of our expanding universe
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+First results from DESI make the most precise measurement of our expanding universe
+April 4, 2024
+| By:
+Lauren Biron
+Tags:
+Berkeley Lab
+dark energy
+DESI
+galaxy
+universe
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Researchers have used the Dark Energy Spectroscopic Instrument to make the largest 3D map of our universe and world-leading measurements of dark energy, the mysterious cause of its accelerating expansion.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Editor’s note: This
+press release
+was originally published by the U.S. Department of Energy’s Lawrence Berkeley National Laboratory.
+Fermilab contributed key elements to the Dark Energy Spectroscopic Instrument, most notably, the online databases for data acquisition and the software that ensures that each of the
+5,000 robotic positioners
+are precisely pointing to their celestial targets to within a tenth of the width of a human hair. Fermilab also carried out the testing and packaging of DESI’s charge-coupled devices. The CCDs convert the light from distant galaxies into digital information that can then be analyzed by the collaboration.
+“This is an amazing new dataset from the first year of DESI observations,” said Steve Kent, Fermilab scientist and author of the software that aligns the robotic positioners with their targets. “These results are a big step forward in improving the precision of baryon acoustic oscillations measurements, which are needed to distinguish among alternative models of dark energy.”
+Key takeaways:
+DESI mapped galaxies and quasars with unprecedented detail, creating the largest 3D map of the universe ever made and measuring how fast the universe expanded over 11 billion years
+This is the first time that scientists have measured the expansion history of that distant period (8-11 billion years) with a precision of better than 1%, providing a powerful way to study dark energy
+With just its first year of data, DESI has surpassed all previous 3D spectroscopic maps combined and confirmed the basics of our best model of the universe – with some tantalizing areas to explore with more data
+With 5,000 tiny robots in a mountaintop telescope, researchers can look 11 billion years into the past. The light from far-flung objects in space is just now reaching the Dark Energy Spectroscopic Instrument (DESI), enabling us to map our cosmos as it was in its youth and trace its growth to what we see today. Understanding how our universe has evolved is tied to how it ends, and to one of the biggest mysteries in physics: dark energy, the unknown ingredient causing our universe to expand faster and faster.
+To study dark energy’s effects over the past 11 billion years, DESI has created the largest 3D map of our cosmos ever constructed, with the most precise measurements to date. This is the first time scientists have measured the expansion history of the young universe with a precision better than 1%, giving us our best view yet of how the universe evolved. Researchers shared the analysis of their first year of collected data in
+multiple papers
+that will be posted today on the arXiv and in talks at the American Physical Society meeting in the United States and the Rencontres de Moriond in Italy.
+DESI has made the largest 3D map of our universe to date. Earth is at the center of this thin slice of the full map. In the magnified section, it is easy to see the underlying structure of matter in our universe. Credit: Claire Lamman/DESI collaboration; custom colormap package by cmastro
+“We’re incredibly proud of the data, which have produced world-leading cosmology results and are the first to come out of the new generation of dark energy experiments,” said Michael Levi, DESI director and a scientist at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab), which manages the project. “So far, we’re seeing basic agreement with our best model of the universe, but we’re also seeing some potentially interesting differences that could indicate that dark energy is evolving with time. Those may or may not go away with more data, so we’re excited to start analyzing our three-year dataset soon.”
+Our leading model of the universe is known as Lambda CDM. It includes both a weakly interacting type of matter (cold dark matter, or CDM) and dark energy (Lambda). Both matter and dark energy shape how the universe expands – but in opposing ways. Matter and dark matter slow the expansion down, while dark energy speeds it up. The amount of each influences how our universe evolves. This model does a good job of describing results from previous experiments and how the universe looks throughout time.
+However, when DESI’s first-year results are combined with data from other studies, there are some subtle differences with what Lambda CDM would predict. As DESI gathers more information during its five-year survey, these early results will become more precise, shedding light on whether the data are pointing to different explanations for the results we observe or the need to update our model. More data will also improve DESI’s other early results, which weigh in on the Hubble constant (a measure of how fast the universe is expanding today) and the mass of particles called neutrinos.
+“No spectroscopic experiment has had this much data before, and we’re continuing to gather data from more than a million galaxies every month,” said Nathalie Palanque-Delabrouille, a Berkeley Lab scientist and co-spokesperson for the experiment. “It’s astonishing that with only our first year of data, we can already measure the expansion history of our universe at seven different slices of cosmic time, each with a precision of 1 to 3%. The team put in a tremendous amount of work to account for instrumental and theoretical modeling intricacies, which gives us confidence in the robustness of our first results.”
+DESI’s overall precision on the expansion history across all 11 billion years is 0.5%, and the most distant epoch, covering 8-11 billion years in the past, has a record-setting precision of 0.82%. That measurement of our young universe is incredibly difficult to make. Yet within one year, DESI has become twice as powerful at measuring the expansion history at these early times as its predecessor (the Sloan Digital Sky Survey’s BOSS/eBOSS), which took more than a decade.
+“We are delighted to see cosmology results from DESI’s first year of operations,” said Gina Rameika, associate director for High Energy Physics at DOE. “DESI continues to amaze us with its stellar performance and is already shaping our understanding of the universe.”
+Traveling back in time
+DESI is an international collaboration of more than 900 researchers from over 70 institutions around the world. The instrument was constructed and is operated with funding from the DOE Office of Science, and sits atop the U.S. National Science Foundation’s Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory, a program of NSF’s NOIRLab.
+Looking at DESI’s map, it’s easy to see the underlying structure of the universe: strands of galaxies clustered together, separated by voids with fewer objects. Our very early universe, well beyond DESI’s view, was quite different: a hot, dense soup of subatomic particles moving too fast to form stable matter like the atoms we know today. Among those particles were hydrogen and helium nuclei, collectively called baryons.
+Tiny fluctuations in this early ionized plasma caused pressure waves, moving the baryons into a pattern of ripples that is similar to what you’d see if you tossed a handful of gravel into a pond. As the universe expanded and cooled, neutral atoms formed and the pressure waves stopped, freezing the ripples in three dimensions and increasing clustering of future galaxies in the dense areas. Billions of years later, we can still see this faint pattern of 3D ripples, or bubbles, in the characteristic separation of galaxies – a feature called Baryon Acoustic Oscillations (BAOs).
+Researchers use the BAO measurements as a cosmic ruler. By measuring the apparent size of these bubbles, they can determine distances to the matter responsible for this extremely faint pattern on the sky. Mapping the BAO bubbles both near and far lets researchers slice the data into chunks, measuring how fast the universe was expanding at each time in its past and modeling how dark energy affects that expansion.
+“We’ve measured the expansion history over this huge range of cosmic time with a precision that surpasses all of the previous BAO surveys combined,” said Hee-Jong Seo, a professor at Ohio University and the co-leader of DESI’s BAO analysis. “We’re very excited to learn how these new measurements will improve and alter our understanding of the cosmos. Humans have a timeless fascination with our universe, wanting to know both what it is made of and what will happen to it.”
+Using galaxies to measure the expansion history and better understand dark energy is one technique, but it can only reach so far. At a certain point, light from typical galaxies is too faint, so researchers turn to quasars, extremely distant, bright galactic cores with black holes at their centers. Light from quasars is absorbed as it passes through intergalactic clouds of gas, enabling researchers to map the pockets of dense matter and use them the same way they use galaxies – a technique known as using the “Lyman-alpha forest.”
+“We use quasars as a backlight to basically see the shadow of the intervening gas between the quasars and us,” said Andreu Font-Ribera, a scientist at the Institute for High Energy Physics (IFAE) in Spain who co-leads DESI’s Lyman-alpha forest analysis. “It lets us look out further to when the universe was very young. It’s a really hard measurement to do, and very cool to see it succeed.”
+Researchers used 450,000 quasars, the largest set ever collected for these Lyman-alpha forest measurements, to extend their BAO measurements all the way out to 11 billion years in the past. By the end of the survey, DESI plans to map 3 million quasars and 37 million galaxies.
+State-of-the-art science
+DESI is the first spectroscopic experiment to perform a fully “blinded analysis,” which conceals the true result from the scientists to avoid any subconscious confirmation bias. Researchers work in the dark with modified data, writing the code to analyze their findings. Once everything is finalized, they apply their analysis to the original data to reveal the actual answer.
+“The way we did the analysis gives us confidence in our results, and particularly in showing that the Lyman-alpha forest is a powerful tool for measuring the universe’s expansion,” said Julien Guy, a scientist at Berkeley Lab and the co-lead for processing information from DESI’s spectrographs. “The dataset we are collecting is exceptional, as is the rate at which we are gathering it. This is the most precise measurement I have ever done in my life.”
+DESI’s data will be used to complement future sky surveys such as the Vera C. Rubin Observatory and Nancy Grace Roman Space Telescope, and to prepare for a potential upgrade to DESI (DESI-II) that was recommended in a recent
+report
+by the U.S. Particle Physics Project Prioritization Panel.
+“We are in the golden era of cosmology, with large-scale surveys ongoing and about to be started, and new techniques being developed to make the best use of these datasets,” said Arnaud de Mattia, a researcher with the French Alternative Energies and Atomic Energy Commission (CEA) and co-leader of DESI’s group interpreting the cosmological data. “We’re all really motivated to see whether new data will confirm the features we saw in our first-year sample and build a better understanding of the dynamics of our universe.”
+DESI is supported by the DOE Office of Science and by the National Energy Research Scientific Computing Center, a DOE Office of Science user facility. Additional support for DESI is provided by the U.S. National Science Foundation; the Science and Technology Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission (CEA); the National Council of Humanities, Sciences, and Technologies of Mexico; the Ministry of Science and Innovation of Spain; and by the DESI member institutions.
+The DESI collaboration is honored to be permitted to conduct scientific research on Iolkam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+DESI opens access to the largest 3D map of the universe yet
+March 19, 2025
+cosmology
+DESI
+Skipper CCD
+Press release
+A new data release from the Dark Energy Spectroscopic Instrument is now available for researchers to explore. The collection contains information on 18.7 million galaxies, quasars, and stars — the largest dataset of its kind ever shared.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

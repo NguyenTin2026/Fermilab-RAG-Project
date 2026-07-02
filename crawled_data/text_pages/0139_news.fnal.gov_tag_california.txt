@@ -1,0 +1,256 @@
+URL: https://news.fnal.gov/tag/california/
+Title: California Archives - News
+────────────────────────────────────────────────────────────
+California Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+California
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 37 results
+Fermilab and partners achieve sustained, high-fidelity quantum teleportation
+December 15, 2020
+California
+Caltech
+IN-Q-NET
+quantum communication
+quantum information science
+quantum science
+quantum teleportation
+Press release
+A joint team of researchers at Fermilab and partner institutions have achieved quantum teleportation, teleporting information over a distance of 44 kilometers. The remarkable achievement supports the premise that scientists and engineers can build a workable and high-fidelity quantum network using practical devices.
+Dark Energy Survey census of the smallest galaxies hones the search for dark matter
+August 4, 2020
+California
+cosmology
+Dark Energy Survey
+dark matter
+SLAC
+Fermilab feature
+Scientists on the Dark Energy Survey have used observations of the smallest known galaxies to better understand dark matter, the mysterious substance that makes up 85% of the matter in the universe. The smallest galaxies can contain hundreds to thousands of times more dark matter than normal visible matter, making them ideal laboratories for studying this mysterious substance. By performing a rigorous census of small galaxies surrounding our Milky Way, scientists on the Dark Energy Survey have been able to constrain the fundamental particle physics that governs dark matter.
+Caltech and JPL launch hybrid high rate quantum communication systems
+March 10, 2020
+California
+Caltech
+quantum communication
+quantum information science
+quantum network
+quantum science
+From EurekAlert!, March 6, 2020: Caltech and JPL have designed a practical, high-rate, high-fidelity quantum communication system over fiber and free space. The team is on track to deploy, commission and demonstrate both concepts, including a free-space, municipal quantum link between JPL and Caltech, in 2020-21. They will also establish a space-based quantum optical connection between the Caltech-JPL quantum network and quantum networks in the Midwest, including Fermilab’s FQNET and IEQNET, together with Argonne National Laboratory.
+Fermilab contributes to award-winning Spack software tool
+December 18, 2019
+California
+computing
+Lawrence Livermore National Laboratory
+software
+Fermilab feature
+Spack, a software package management tool, was recognized with an R&D 100 Award in November. Developed for high-performance computing applications, Spack is used as an end-to-end development tool within the high-energy physics community. Fermilab is a contributor to Spack, whose initial development was led by Lawrence Livermore National Laboratory.
+Probing boosted dark matter
+December 5, 2019
+California
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+Long-Baseline Neutrino Facility
+neutrino
+Riverside
+University of California
+From UC Riverside, Dec. 4, 2019: The University of California, Riverside is participating in the international Deep Underground Neutrino Experiment, which brings together more than 1,000 scientists from around the world to learn more about ghostly particles called neutrinos.
+A million pulses per second: How particle accelerators are powering X-ray lasers
+August 12, 2019
+accelerator technology
+California
+Jefferson Lab
+LCLS-II
+SLAC
+Virginia
+Fermilab feature
+Three United States DOE national laboratories – SLAC, Fermilab and Jefferson Lab – have partnered to build an advanced particle accelerator that will power the LCLS-II X-ray laser. Thanks to technology developed for nuclear and high-energy physics, the new X-ray laser will produce a nearly continuous wave of electrons and allow scientists to peer more deeply than ever before into the building blocks of life and matter.
+Powered by pixels
+August 1, 2019
+ArgonCube
+Berkeley Lab
+California
+Deep Underground Neutrino Experiment
+detector technology
+DUNE
+dune-international
+international engagement
+neutrino
+Switzerland
+University of Bern
+Fermilab feature
+Scientists are working on a pixelated detector capable of clearly and quickly capturing neutrino interactions — a crucial component for the near detector of the Deep Underground Neutrino Experiment. Using technological solutions developed at University of Bern and Berkeley Lab, a prototype detector called ArgonCube is under construction in Bern and will arrive at Fermilab next year.
+Three sky surveys completed in preparation for Dark Energy Spectroscopic Instrument
+July 8, 2019
+astrophysics
+Berkeley Lab
+California
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+It took three sky surveys to prepare for a new project that will create the largest 3-D map of the universe’s galaxies and glean new insights about the universe’s accelerating expansion. This Dark Energy Spectroscopic Instrument project will explore this expansion, driven by a mysterious property known as dark energy, in great detail. The surveys, which wrapped up in March, have amassed images of more than 1 billion galaxies and are essential in selecting celestial objects to target with DESI, now under construction in Arizona.
+Topping off a telescope with new tools to explore dark energy
+December 12, 2018
+Berkeley Lab
+California
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+From Berkeley Lab, Dec. 4, 2018: Key components of Berkeley Lab’s Dark Energy Spectroscopic Instrument are installed after months of planning, prep work. A team at Fermilab built the corrector, hexapod, and other top-end support structures. The structures are designed to align the lenses with an accuracy of tens of microns (millionths of a meter) – similar to the width of the thinnest human hair.
+The building boom
+October 23, 2018
+ADMX
+Berkeley Lab
+California
+Canada
+CERN
+collaboration
+Dark Energy Spectroscopic Instrument
+Deep Underground Neutrino Experiment
+DESI
+DUNE
+High-Luminosity LHC
+HL-LHC
+internationality
+LBNF
+Long-Baseline Neutrino Facility
+LSST
+LUX-ZEPLIN
+LZ
+Mu2e
+Muon g-2
+PIP-II
+SLAC
+SNOLAB
+SuperCDMS
+Switzerland
+University of Washington
+Washington
+Symmetry feature
+These international projects, selected during the process to plan the future of U.S. particle physics, are all set to come online within the next 10 years.
+1
+2
+3
+4
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

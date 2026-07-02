@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2026/01/sqms-center-team-from-fermilab-and-nyu-langone-advance-in-nih-quantum-computing-challenge/
+Title: SQMS Center team from Fermilab and NYU Langone advance in NIH Quantum Computing Challenge
+────────────────────────────────────────────────────────────
+SQMS Center team from Fermilab and NYU Langone advance in NIH Quantum Computing Challenge
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+SQMS Center team from Fermilab and NYU Langone advance in NIH Quantum Computing Challenge
+January 6, 2026
+| By:
+Hannah Brumbaugh
+Tags:
+partnership
+quantum
+quantum computing
+SQMS
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Magnetic resonance imaging, commonly known as MRI, is a cornerstone of modern medical diagnostics. Now, a collaboration from Fermilab and NYU Langone Health, both partners in the Superconducting Quantum Materials and Systems Center, takes this technology a step further with Quantitative MRI.
+Groundbreaking work by a joint team from the
+Superconducting Quantum Materials and Systems Center
+, hosted at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, and
+NYU Langone
+Health was recognized as one of the top 10 submissions in the National Institutes of Health Quantum Computing Challenge.
+The team, called QuantuMRI, developed a quantum algorithm to simulate how human tissue responds during MRI scans, paving the way for more accurate and efficient medical imaging technologies. QuantuMRI received a $10,000 award and advanced to the challenge’s second phase, where finalists will further test and demonstrate their solutions for clinical and biomedical use cases.
+“This achievement reflects the kind of innovation we aim to foster through DOE-supported quantum research.”
+Zachary Goff-Eldredge, program manager in DOE Office of High Energy Physics
+“It’s inspiring to see a team like Fermilab-NYU bring bold, cross-disciplinary thinking to such an important area of biomedical research,” said Zachary Goff-Eldredge, program manager in the Department of Energy’s Office of High Energy Physics. “This achievement reflects the kind of innovation we aim to foster through DOE-supported quantum research. I’m excited to see how their work continues to evolve throughout the NIH challenge and how it might ultimately shape the future of medical imaging.”
+MRI scans offer detailed, non-invasive views of soft tissues for medical diagnoses. The technology relies on intrinsic magnetic moments that atoms in the human tissues possess. These atoms interact with an external magnetic field and enable the detection of local features of the tissue.
+Quantitative MRI, or qMRI, goes a step further by measuring how the relaxation times of the local magnetic moments are influenced by biophysical tissue properties — offering clinicians deeper insights into subtle changes in tissue composition and making it easier to detect and characterize changes that may not be visible with traditional methods.
+The challenge? Simulating these complex tissue behaviors requires significant computational resources as researchers aim for greater resolution and accuracy. The Fermilab-NYU team aims to leverage quantum computing to advance qMRI by enabling fast, high-resolution estimates of multiple tissue properties that are highly accurate and reproducible.
+“The collaboration between Fermilab and NYU Langone is a perfect example of how quantum computing can be applied to real-world challenges with meaningful impact,” said Riccardo Lattanzi, professor of radiology and director of the Center for Biomedical Imaging at NYU Grossman School of Medicine. “This project highlights the potential for quantum technologies to transform medical imaging and accelerate the clinical translation of qMRI, helping doctors make better decisions and moving us closer to precise, personalized medicine.”
+The QuantuMRI team, clockwise from top left: Riccardo Lattanzi of NYU Langone Health, Jose Cruz Serralles of NYU Langone Health, Doga Kurkcuoglu of Fermilab, Norm Tubman of NASA Ames Research Center, and Oluwadara Ogunkoya of Fermilab.
+NYU first joined the SQMS collaboration in 2022
+with a plan to explore a new method for analyzing MRI scans. The collaboration reflects a growing interdisciplinary effort to bridge physics, computer science, and medicine — combining the SQMS Center’s expertise in quantum systems with NYU Langone’s clinical insight and leadership in imaging research.
+As the NIH challenge continues, the Fermilab-NYU team will build on this early success, aiming to deliver scalable, high-resolution and reproducible qMRI tools that could ultimately enhance patient care and diagnostics across a wide range of conditions. Currently, the team is engaged in the second stage of the competition. The
+NIH Quantum Computing Challenge
+concludes in the fall of 2027.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+The Superconducting Quantum Materials and Systems Center at Fermilab is supported by the
+DOE Office of Science
+.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of more than 40 partner institutions — national labs, academia and industry — working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. For more information, please visit
+www.sqmscenter.fnal.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/tag/qubits/
+Title: qubits Archives - News
+────────────────────────────────────────────────────────────
+qubits Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+qubits
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 40 results
+Northwestern and Fermilab quantum data helps build a new AI benchmark for quantum calibration with NVIDIA Ising open models
+Northwestern Institute for Quantum Information Research and Engineering, April 14, 2026
+emerging technologies
+NEXUS
+QICK
+quantum
+qubits
+In recognition of World Quantum Day, Fermilab’s Sara Sussman writes about the first benchmark from NEXUS qubit data. The new data has enabled the training of NVIDIA Ising Calibration, a vision language model for automating the calibration of quantum processors.
+350 feet underground US lab helps turn qubits into sensors for dark matter research
+Interesting Engineering, March 11, 2026
+emerging technologies
+NEXUS
+quantum
+qubits
+The NEXUS research team at Fermilab recently repeated the 2019 experiment after removing cosmic interference, find quantum information disturbed by other ways. This is the first time scientists have measured charge noise in a chip consisting of multiple qubits.
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+February 26, 2026
+emerging technologies
+ions
+microelectronics
+quantum
+quantum electronics
+qubits
+Press release
+A partnership between the Quantum Science Center and the Quantum Systems Accelerator, two U.S. Department of Energy national quantum information science research centers, has enabled a breakthrough by Fermilab and MIT Lincoln Laboratory. Researchers used cryoelectronics to control ion traps, a key step toward realizing scalable quantum computers.
+Connecting qubits to photons: The future of quantum computing with Dr Silvia Zorzetti
+Scientific Computing World
+quantum computing
+qubits
+Fermilab’s Silvia Zorzetti is the principal investigator on a multi-year DOE Early Career Award focused on high-efficiency quantum transduction across microwave and optical domains to interface superconducting quantum computing with photonic networks.
+Microwave losses in transmon designs limit quantum coherence times, study finds
+Quantum Zeitgeist, July 28, 2025
+quantum computers
+qubits
+Superconducting Quantum Materials and Systems Center
+A team of researchers, including scientists from SQMS and Fermilab, are investigating superconducting qubits to extend the computational power of quantum computers. This research could provide vital insights for designing more stable and powerful quantum processors.
+Quantum entanglement of remote qubits boosts fidelity with time-bin encoding
+Quantum Zeitgeist, June 20, 2025
+quantum
+qubits
+Superconducting Quantum Materials and Systems Center
+A team of researchers at Fermilab titled, “Entangling remote superconducting qubits via transducer-generated multi-time-bin states”, demonstrates improved fidelity in both ideal transduction systems and those subject to noise, aiming to offer a potentially scalable architecture for future heterogeneous quantum networks.
+Superconducting innovation: SQMS shapes up for scalable success in quantum computing
+Physics World, June 5, 2025
+qubits
+SQMS
+superconducting radio-frequency technology
+The SQMS Center is working on reproducible and scalable realization of highly coherent superconducting qubits to open the way to more complex and scalable quantum computing operations. These capabilities could be used in Fermilab’s core particle physics research and fundamental physics more generally over time.
+Fermilab leads project to develop novel quantum sensor
+March 24, 2025
+collaboration
+quantum sensor
+qubits
+Press release
+Fermilab is finalizing a partnership with Diraq and several universities for the Quandarum project. The project team intends to combine extreme environment electronics and silicon spin qubits to develop a quantum sensor that could profoundly impact the field of high-energy physics.
+Customizable quantum control toolkit developed at Fermilab ready for commercial production
+December 4, 2024
+emerging technologies
+partnership
+QICK
+quantum
+quantum computing
+qubits
+Press release
+The Quantum Instrumentation Control Kit now features updated software and firmware and new companion hardware called QICK box. This Fermilab-developed system combines everything a scientist might need to conduct mind-bending research in a pizza-box-sized case.
+Fermilab goes deep to silence noisy radiation affecting qubits
+Physics Today, Aug. 2, 2024
+qubits
+QUIET
+superconducting technology
+Fermilab has twin laboratories that will probe superconducting qubits: QUIET is a new detector 100 meters underground and its counterpart is on the surface called LOUD, which began operations in 2022. The differences between the two detectors’ observations will allow researchers to assess how cosmic radiation affects qubit performance.
+1
+2
+3
+4
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

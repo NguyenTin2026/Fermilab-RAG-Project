@@ -1,0 +1,280 @@
+URL: https://news.fnal.gov/2020/09/northern-illinois-flourishes-as-accelerator-rd-hub-under-fermilab-leadership/
+Title: Northern Illinois flourishes as accelerator R&D hub under Fermilab leadership
+────────────────────────────────────────────────────────────
+Northern Illinois flourishes as accelerator R&D hub under Fermilab leadership
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Northern Illinois flourishes as accelerator R&D hub under Fermilab leadership
+September 25, 2020
+| By:
+Steve Koppes
+Tags:
+accelerator
+accelerator science
+accelerator technology
+Argonne
+Argonne National Laboratory
+education
+Illinois
+Illinois Institute of Technology
+Northern Illinois University
+Northwestern University
+University of Chicago
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab and partners in northern Illinois have established the region as a leader in particle accelerator science and technology. Few places in the world boast such a concentrated effort in particle acceleration research, developing and building cutting-edge particle accelerators, and growing an accelerator-focused workforce.
+Only a handful of particle accelerators around the world can produce proton beams intense enough for use in neutrino experiments. Europe and Japan each has an accelerator chain. So does the U.S. Department of Energy’s Fermi National Accelerator Laboratory.
+Fermilab, however, is the only laboratory that produces protons at energies suitable for both low- and high-energy neutrino experiments. In fact, it produces the most intense neutrino beam in the world. This is but one example of Fermilab’s accelerator prowess. The laboratory’s collaborations with nearby universities and research laboratories have established the northern Illinois region as a leader in multiple areas of particle accelerator science and technology.
+“In Chicago we have a very strong academic environment, not only in physics, in fundamental science, but also in applied science as well as engineering,” said Sergei Nagaitsev, head of Fermilab’s accelerator science programs and a University of Chicago faculty member.
+This has led to accelerator research collaborations with the Illinois Institute of Technology, Northern Illinois University, Northwestern University and the University of Chicago.
+“The combined accelerator R&D portfolio of Fermilab and collaborating Illinois institutions covers nearly every facet of particle acceleration, from basic principles to applications of accelerators in industry,” said Fermilab Chief Technology Officer Sergey Belomestnykh.
+A spectrum of discovery and invention
+Together with its northern Illinois partners, Fermilab grapples with multiple scientific and engineering challenges that are vitally important to improving accelerator beams and experimental outcomes.
+“It’s hard to point at where science ends and technology begins,” Nagaitsev said. “There is a spectrum of discovery on one side versus invention on the other side. Both require creativity from our scientists and engineers.”
+Researchers at Fermilab, Illinois Institute of Technology, Northern Illinois University and the University of Chicago all use IOTA, the Integrable Optics Test Accelerator, a major component of the lab’s accelerator-science enterprise and one of only a few accelerators in the world dedicated to studying the physics of beams. Photo: Giulio Stancari, Fermilab
+The physics of beams
+The challenges on the accelerator science side relate to the physics of the beam itself.
+Scientists work to produce beams of higher quality, which is connected to properties such as beam size and spread; achieve better measurements and control of beams down to the level of individual particles; predict beam behavior with better fidelity using computer simulations; and produce beams of higher intensity.
+“Our particle physics experiments, especially the neutrino experiments, are hungry for intense proton beams delivered to the target,” Nagaitsev said.
+To investigate problems in beam physics, Fermilab operates the Integrable Optics Test Accelerator, called
+IOTA
+, a major component of the lab’s accelerator-science enterprise and one of only a few accelerators in the world dedicated to studying the physics of beams. Researchers at Fermilab, IIT, NIU and the University of Chicago all use IOTA. Their work includes studies of electron and proton beams in rings, and their results will directly affect the Fermilab high-intensity proton rings used for neutrino and other particle physics research. Nagaitsev and his colleagues will also soon aim to demonstrate a new beam cooling technique called optical stochastic cooling — a novel way to improve the beam’s quality.
+Science and technology of superconductivity
+Science and technology of superconductivity is critical for building modern particle accelerators. Superconducting radio-frequency cavities – structures that impart energy to a particle beam – provide high levels of acceleration, making it more efficient, while high-field superconducting magnets allow tighter bending of particle trajectories, thus reducing the footprint of future accelerators. Members of Fermilab’s
+Applied Physics and Superconducting Technology Division
+are at the forefront of this field.
+“It’s a cool blend of basic and applied science. We’re applying our understanding of the principles of materials science to giant particle-accelerating machines,” Belomestnykh said. “In turn, these machines enable us to scrutinize matter’s fundamental constituents.”
+In July, Fermilab set the new
+world record for field strength
+for a superconducting accelerator dipole magnet – 14.5 teslas. And it is ambitiously setting its sights on developing magnets that can generate a field of 20 teslas — about 2,000 times higher than a strong refrigerator magnet.
+Among achievements in
+superconducting radio-frequency technology
+, Fermilab researchers have discovered ways to significantly boost the cavity’s efficiency and accelerating field, both of which are crucial for future particle accelerators. And it turns out that these cavities, developed for accelerators, find applications in somewhat unexpected areas. They are leading candidates for
+scalable quantum computing technology
+thanks to the exceptionally long times they can maintain energy. The same technology has proven to be very useful in a
+search for elusive dark matter particles, such as dark photons
+.
+Here, too, Fermilab collaborates with regional partners. For example, scientists at the
+Center for Applied Physics and Superconducting Technologies
+, known as CAPST, a collaboration between Fermilab and nearby Northwestern University, are exploring the upper limits of superconductivity to design and build more powerful and efficient accelerator components.
+“The importance of superconductivity research for particle accelerators can not be overstated,” said Fermilab Deputy Chief Technology Officer and CAPST Co-Director Anna Grassellino. “We’re making great strides in this area in northern Illinois.”
+Scientists at Fermilab are studying superconductivity to design and build more powerful and efficient accelerator components. Several Fermilab and Northwestern University scientists are part of Center for Applied Physics and Superconducting Technologies to explore the upper limits of superconductivity. Photo: Reidar Hahn, Fermilab
+Targets and beams
+There’s also the science and technology of targetry: engineering materials to withstand the powerful particle beams smashing into them.
+“Suppose we resolve the challenge of making beams very intense. Then you put them on a target and the target melts,” Nagaitsev said. “There has to be continuing research on how to make the targets more robust so that when the science delivers high-intensity beams, the target can take it.”
+Toward autonomous accelerators
+Fermilab scientists are exploring the use of artificial intelligence and machine learning for tuning accelerators, delivering flexible beam patterns and increasing a machine’s uptime. This steady move toward autonomous accelerator operation means that, one day, accelerators could run with little to no human intervention. Researchers are carrying out autonomous-accelerator studies at the
+Fermilab Science and Technology
+facility and at Fermilab’s PIP-II Injector Test Facility, a proving ground for the future heart of the lab’s accelerator complex, its PIP-II accelerator.
+A number of these studies are being conducted as
+part of a program led by the University of Chicago
+.
+And in the next five years or so, Fermilab’s accelerator researchers would like to build an electron injector for testing a potential way to do large-scale quantum computing.
+“Fermilab has many interesting research plans for both near and far future,” Nagaitsev promised.
+Accelerator applications
+The use of accelerator technology goes beyond the academic. The world’s more than
+30,000 operating particle accelerators
+also shrink tumors, make better tires, spot suspicious cargo, clean up dirty drinking water and help design drugs.
+To facilitate the application of accelerators for societal benefit, Fermilab established the
+IARC at Fermilab
+(formerly known as the Illinois Accelerator Research Center), a technology development hub that connects scientists with members of industry. Industry partners are welcome to use the lab’s facilities to try out accelerator-related concepts. For example, IARC’s
+Accelerator Applications Development and Demonstration Facility
+, known as A2D2, is a test platform experts can use to evaluate new ideas for electron-beam applications.
+“We have a wonderful concentration of accelerator expertise at Fermilab and in northern Illinois, and we’re facilitating cross-pollination with people who are innovating accelerator-based technologies for our everyday lives,” said Tim Meyer, head of Fermilab Technology Engagements. “By putting our heads together, by sharing our capabilities and facilities, we’re discovering uses for particle accelerators we wouldn’t otherwise.”
+One of IARC’s goals is to make the technologies developed for science more widely available for commercial applications. For example, experts at IARC are developing a
+compact, mobile, superconducting particle accelerator
+that would fit on a truck for a variety of applications. To help realize that goal, they’ve also developed a
+new cooling method
+to reduce the bulk of the traditional infrastructure needed to cool it to cryogenic temperatures.
+IARC at Fermilab is a technology development hub that connects scientists with members of industry. Photo: Reidar Hahn, Fermilab
+Accelerating the workforce
+The potential of accelerators is boundless, so accelerator research is a strong draw for early-career scientists. Perhaps this explains why Mike Syphers, an NIU research professor of physics, has yet to see a saturated demand for accelerator scientists, even as large projects have come and gone.
+The
+U.S. Particle Accelerator School
+, he noted, attracts near-record-setting numbers of students every year. Fermilab hosts and manages this national, graduate-level program, which provides training and workforce development in the science and technology of charged-particle accelerators and associated systems.
+Multiple training programs will help develop young scientists to help realize the field’s future plans.
+The
+Joint University-Fermilab Doctoral Program
+in Accelerator Physics and Technology, for example, has graduated 53 Ph.D. students since its establishment in 1985. Three more are currently in the pipeline.
+Students study at the U.S. Particle Accelerator School hosted by Northern Illinois University in 2017. USPAS is just one particle accelerator science program in which Fermilab participates. Others include The Joint University-Fermilab Doctoral Program in Accelerator Physics and Technology and the Chicagoland Accelerator Science Traineeship, launched by NIU and IIT. Photo: USPAS
+A related effort, launched by NIU and IIT and funded with $1.9 million from the U.S. Department of Energy, is the
+Chicagoland Accelerator Science Traineeship
+. The traineeships will provide up to two years of funding for graduate students at NIU and IIT to prepare them for careers in accelerator science and technology. Fermilab also participates in two other similar programs: the Accelerator Science and Engineering Traineeship at Michigan State University and the
+Ernest Courant Traineeship in Accelerator Science & Engineering
+at Stony Brook University.
+Two Fermilab internships attract students interested in particle accelerator physics and technology to the lab: The
+Lee Teng Internship
+is a joint program between Fermilab and neighboring Argonne National Laboratory for undergraduate students. The
+Helen Edwards Summer Internship
+brings European physics and engineering students to Fermilab.
+“The field has continued to grow as the use of particle accelerators has expanded beyond national laboratories and pure scientific research,” Syphers said. “Various applications of accelerators and medical uses have driven further demand for people with knowledge of these devices.”
+Building acceleration
+Fermilab stands alone as a laboratory that can deliver the most intense beam of
+neutrinos
+in the world and accelerate beams for low- and high-energy neutrino experiments. This is thanks to a major accelerator upgrade currently underway at the lab: the Proton Improvement Plan-II. The heart of
+PIP-II
+will be the construction of a 215-meter-long superconducting accelerator that can generate powerful proton beams for the lab’s experiments.
+Again, partnership is key: Argonne National Laboratory — a 30-mile jaunt from Fermilab — pursues accelerator R&D and serves as one of Fermilab’s U.S. partners in PIP-II. And Fermilab collaborates with Argonne accelerator research groups at the Advanced Photon Source, the Argonne Tandem Linac Accelerator System and the Argonne Wakefield Accelerator Facility.
+With PIP-II scheduled to become fully operational in the late 2020s, NIU’s Syphers is already helping to develop plans for Fermilab’s next accelerator upgrade path.
+“We have to start thinking now about what the next step would be beyond PIP-II because it would take years to plan,” Syphers said.
+Fermilab and partners, including Argonne National Laboratory and Northern Illinois University, are designing and building the upcoming PIP-II accelerator, scheduled to become fully operational in the late 2020s. Photo: Reidar Hahn, Fermilab
+While prototyping and testing of PIP-II components take place, researchers already are discussing ideas for improvements beyond the new machine, for example, doubling the number of protons Fermilab’s accelerator chain would send to experiments.
+Intense proton beams are necessary to produce the neutrinos for the international
+Deep Underground Neutrino Experiment
+, or DUNE, hosted by Fermilab, and its Long-Baseline Neutrino Facility. By studying neutrinos, the most abundant matter particles in the universe, DUNE discoveries could revolutionize cosmological research.
+PIP-II boasts collaborators beyond Illinois borders: It is the only accelerator project in the U.S. that receives major
+international contributions
+.
+Once operational, PIP-II will dramatically boost Fermilab’s proton production for DUNE and future research programs.
+“We are always innovating technologies to help design and build the leanest and most powerful machines we can for discovery,” Belomestnykh said. “In sharing those innovations with our global partners, we’re helping advance accelerator technology not just in Illinois, but around the world.”
+For example, together with other DOE national laboratories, Fermilab leads the U.S. effort to design, build and test next-generation
+focusing magnets for upgrading the Large Hadron Collider
+at CERN and is building
+superconducting cryomodules for the Linac Coherence Light Source-II project, a revolutionary X-ray laser
+under construction at SLAC National Accelerator Laboratory.
+“Accelerator science and technology is one Fermilab’s core competencies. Together with our regional partners, we are striving to make Chicagoland the next Silicon Valley for particle accelerators and their applications,” Nagaitsev said. “With the unparalleled wealth of accelerator knowledge and activity here in one of the tech hubs of the country, we’re very well positioned to do just that.”
+Fermilab accelerator R&D is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+March 9, 2026
+accelerator science
+AI
+Fermilab feature
+Fermilab’s FAST/IOTA accelerator test facility has successfully accelerated and stored its first proton beams, marking a major milestone in the lab’s R&D program for next-generation particle accelerator technology. This achievement paves the way for breakthroughs in high-intensity beam physics, artificial intelligence applications and innovations that will power future experiments like the Deep Underground Neutrino Experiment.
+Fermilab partners with community colleges to develop technical talent
+July 25, 2025
+community colleges
+education
+internship
+Fermilab feature
+Fermilab is forging innovative partnerships with community colleges to develop the next generation of technical talent. Through hands-on internships and collaborative curriculum development, students are gaining access to real-world experiences that launch meaningful careers in science and engineering.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

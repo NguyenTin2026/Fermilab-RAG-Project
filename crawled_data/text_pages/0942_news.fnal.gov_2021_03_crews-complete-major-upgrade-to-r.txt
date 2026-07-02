@@ -1,0 +1,200 @@
+URL: https://news.fnal.gov/2021/03/crews-complete-major-upgrade-to-ross-hoists/
+Title: Crews complete major upgrade to Ross Hoists
+────────────────────────────────────────────────────────────
+Crews complete major upgrade to Ross Hoists
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Crews complete major upgrade to Ross Hoists
+March 23, 2021
+| By:
+Erin Lorraine Broberg
+Tags:
+construction
+DUNE
+LBNF/DUNE
+Sanford Lab
+Sanford Underground Research Facility
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Ross Hoists, built in the 1930s, receive major upgrades in preparation for LBNF/DUNE construction and operation.
+Editor’s note:
+This article
+originally was published by Sanford Underground Research Facility on March 22, 2021.
+Contractors completed major mechanical and electrical upgrades to the Ross Hoists at Sanford Underground Research Facility. Newly installed equipment can be identified by its dark blue color, the signature color of Siemag Tecberg, the company contracted by Fermilab for the design, supply and commissioning of the Ross Hoistroom upgrade. Photo: Matthew Kapust, Sanford Underground Research Facility
+This week, contractors completed major mechanical and electrical upgrades to the Ross Hoists at Sanford Underground Research Facility, or Sanford Lab.
+During upcoming construction of Long-Baseline Neutrino Facility and future operation of the Deep Underground Neutrino Experiment, the Ross Hoists will power the excavation of 800,000 tons of waste rock and serve as the conveyance for people, materials and equipment underground. Originally manufactured in the 1930s, the hoists needed to be upgraded to support this ambitious undertaking.
+“It’s remarkable that the Ross Hoists were still in such good working condition, although several key components needed to be refurbished or replaced,” said Colton Clark, project engineer with the LBNF/DUNE Project at the Department of Energy’s Fermi National Accelerator Laboratory.
+Mechanical upgrades were made to both the cage hoist, which conveys people and equipment, and the production hoist, which will skip excavated rock to the surface to be crushed and transported to the Open Cut. The upgrades included new motors, brakes and clutches for both hoists, as well as advanced safety features and auxiliary brakes for the cage hoist.
+New clutches were part of the Ross Hoists upgrades. Newly installed equipment can be identified by its dark blue color, the signature color of Siemag Tecberg, the company contracted by Fermilab for the design, supply and commissioning of the Ross Hoistroom upgrade. Photo: Matthew Kapust, Sanford Underground Research Facility
+The Ross Hoists were originally powered by direct current, or DC, motors, with two motor-generator sets converting alternating current, or AC, from the nearby substation into DC power. The electrical portion of the upgrade replaced the original DC motors and motor-generator sets with AC motors and variable frequency drives. In addition, a new transformer was installed to maintain a modern industry standard voltage.
+Perhaps the most visual change to the Ross Hoistroom is an upgrade to the hoist operator platforms. The former open-air platforms with manual controls have been replaced by enclosed booths and electronic operating systems.
+This is one of the final projects in a series of infrastructure improvements geared toward preparing the Ross Complex as part of the LBNF/DUNE Project. Previous efforts replaced
+Ross cages, skips and ropes
+;
+strengthened the Ross Headframe
+; and
+restored the tramway and built the conveyor system
+. In addition, the Ross Shaft Rehabilitation project
+refurbished the entire Ross Shaft
+.
+“These upgrades are necessary for the construction and operation of LBNF/DUNE,” said Mike Headley, the executive director of Sanford Lab. “And these facility improvements benefit the site overall, providing access and reliability to all science users who do research at Sanford Lab.”
+Siemag Tecberg, Inc. was contracted by Fermilab for the design, supply and commissioning of the Ross Hoistroom upgrade. In 2000, Siemag Tecberg had acquired Nordberg Manufacturers, the original manufacturer of the Ross Hoists.
+“These contractors are subject matter experts on the hoists, and they are still amazed by what Nordberg did in the 1930s,” Clark said. “They’ve never worked in a hoistroom that was built like this. The size of it, the cleanliness, how everything’s been maintained — they are completely impressed.”
+Several components being replaced in this upgrade are of historic significance, including the controls and large dials on the operator platforms. These components will be preserved by Sanford Lab for educational purposes.
+“The facility’s hoists are an amazing engineering feat,” Headley said. “They have served the site well for nearly 90 years, and we’re now upgrading them with modern systems to support Sanford Lab for decades into the future.”
+The Ross Hoistroom in 2010, before the major upgrade. Photo: Matthew Kapust, Sanford Underground Research Facility
+A panorama of the Ross Hoistroom in 2021 showcases recent upgrades. Newly installed equipment can be identified by its dark blue color, the signature color of Siemag Tecberg, the company contracted by Fermilab for the design, supply and commissioning of the Ross Hoistroom upgrade. Photo: Matthew Kapust, Sanford Underground Research Facility
+Sanford Lab is operated by the South Dakota Science and Technology Authority (SDSTA) with funding from the Department of Energy. Our mission is to advance world class science and inspire learning across generations. Visit Sanford Lab at
+www.SanfordLab.org
+.
+Fermilab is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC, a joint partnership between the University of Chicago and the Universities Research Association Inc. Visit Fermilab’s website at
+www.fnal.gov
+.
+The Office of Science of the U.S. Department of Energy is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

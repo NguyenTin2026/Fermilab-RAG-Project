@@ -1,0 +1,194 @@
+URL: https://news.fnal.gov/2024/12/fermilab-expecting-95-ton-coldbox-delivery/
+Title: Fermilab expecting 95-ton coldbox delivery
+────────────────────────────────────────────────────────────
+Fermilab expecting 95-ton coldbox delivery
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab expecting 95-ton coldbox delivery
+December 16, 2024
+Tags:
+accelerator technology
+cryogenics
+PIP-II
+technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The coldbox, a vital piece of Fermilab’s new linear accelerator, is on a two-month voyage from France to its new home in Batavia, Illinois. It will be at the heart of the cryogenic system for the lab’s upgraded accelerator complex.
+The U.S. Department of Energy’s Fermi National Accelerator Laboratory is expecting a 95-ton coldbox delivery from Sassenage, France. A 55-by-14-foot cryogenic vessel coldbox will soon arrive at the lab after a two-month voyage across the Atlantic Ocean, passage up the Mississippi River and a slow, careful drive via interstate to Batavia, Illinois.
+At the Port of Marseille-Fos, France, the coldbox was transferred from a barge to the transport ship for its transatlantic trip to the Port of New Orleans in the United States. Credit: Air Liquide Advanced Technologies
+The coldbox will be at the heart of the cryogenic system for the Proton Improvement Plan-II, the project providing significant upgrades to the particle accelerator complex at Fermilab, including a new state-of-the-art linear accelerator. The accelerator will make use of the latest advances in
+superconducting radio-frequency technologies
+. But for it to work, the accelerating structures must be kept extremely cold — near the temperature of outer space.
+Cryogenics will play a vital role in cooling the superconducting components in the PIP-II accelerator. The coldbox is one piece of the PIP-II cryogenic plant, which is being provided as an
+in-kind contribution
+from the Department of Atomic Energy in India — the single largest external contribution to the PIP-II project. The cryogenic plant was built thanks to the combined efforts of the Fermilab and DAE teams on all phases of the project, from technical specifications and design to construction follow-up and, finally, delivery.
+The journey
+The coldbox, assembled at the Air Liquide Advanced Technologies workshop in Sassenage, France, departed for its journey on Oct. 14. A week later it was loaded onto a transport ship on the southern French coast for its 25-day cross-Atlantic trip to the Port of New Orleans in the United States.
+The coldbox, assembled in France, is being provided as an in-kind contribution from the Department of Atomic Energy in India. Credit: Air Liquide Advanced Technologies
+After arrival at the Port of New Orleans in late November, the coldbox was transferred to a river barge for transport up the Mississippi River to Romeoville, Illinois, where it will be offloaded onto a 277-foot-long heavy-haul truck. The coldbox will be driven at 10 miles-per-hour to Fermilab, where it will be carefully moved to a smaller, more maneuverable trailer for the drive across the laboratory campus to the PIP-II site. Crews will install the coldbox inside its new home in the
+new PIP-II Cryogenic Plant Building
+.
+The coldbox departed from France mid-October and will arrive at Fermilab on December 16. After a two-month voyage by ocean river and interstate, the public is welcome to see the final transport of the 95-ton coldbox to the new accelerator complex at Fermilab. Credit: Cynthia Gonzalez, Fermilab
+Visitors are invited to Fermilab to see the coldbox delivery from a public viewing area at Wilson Hall. The viewing event is scheduled for January 7 from 9:00 – 11:00 a.m. but is subject to change based on extreme weather. Confirmation or updates on the delivery will be posted to the
+website
+48 hours prior to the event.
+The coldbox’s journey to Fermilab was chronicled on the
+PIP-II website
+and on Fermilab’s
+Facebook
+and
+X/Twitter
+. Those interested in attending the January 7 coldbox event should check the
+website
+and follow Fermilab on
+Facebook
+and
+X/Twitter
+for the most up-to-date status of the delivery.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Research Alliance manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

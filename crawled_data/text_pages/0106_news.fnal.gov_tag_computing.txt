@@ -1,0 +1,226 @@
+URL: https://news.fnal.gov/tag/computing/
+Title: computing Archives - News
+────────────────────────────────────────────────────────────
+computing Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+computing
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 76 results
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+How to do particle physics in a climate emergency
+February 7, 2023
+climate change
+CMS
+computing
+LHC
+particle accelerator
+Snowmass
+sustainability
+travel
+Symmetry feature
+Scientists in the particle physics community are bringing environmental and climate issues to the table in discussions about future research.
+A minute with Sajid Ali Syed, computational science and AI research associate
+November 2, 2022
+accelerator
+computing
+people
+Fermilab feature
+Always looking for a new trail to ride his bike on or an opportunity to catch a live show in town, Sajid Ali Syed is a research associate in the Computational Science and AI Directorate for high-energy physics applications at Fermilab.
+The coevolution of particle physics and computing
+September 28, 2021
+computing
+machine learning
+quantum
+Tevatron
+Symmetry feature
+Over time, particle physics and astrophysics and computing have built upon one another’s successes. That coevolution continues today. New physics experiments require computing innovation, including cluster computing for the Tevatron, and more recently machine learning and quantum problem-solving.
+DOE invests $13.7 million for research in data reduction for science
+September 14, 2021
+big data
+computing
+funding
+Fermilab feature
+The U.S. Department of Energy recently announced $13.7 million in funding for nine research projects that will advance the state of the art in computer science and applied mathematics. One of the recipients of this funding, Fermilab scientist Nhan Tran will lead a project to explore methods for programming custom hardware accelerators for streaming compression.
+U.S. Department of Energy announces $54 million to increase energy efficiency in microelectronics technology
+August 25, 2021
+computing
+cryogenics
+detector
+research
+From the DOE Office of Science, Aug. 25: The DOE Office of Science announced 10 DOE national laboratory projects, including one led by Fermilab, have been selected to receive funding as part of research related to microelectronics co-design. Senior engineer Davide Braga’s work on hybrid cryogenic detector architectures for sensing and edge computing enabled by new fabrication processes was chosen as one of the 10 awards.
+How physics explores the world’s unanswered questions
+July 7, 2021
+computing
+Fermilab
+QCD
+Standard Model
+From Silicon Republic (Ireland), July 7, 2021: Sinéad Ryan, a professor of theoretical high-energy physics at Trinity College Dublin, describes her postdoctoral research work on lattice QCD at Fermilab, the next-generation of exascale computing and the structural barriers and imbalance of diversity in the physics community.
+Tackling big data challenges for next-generation experiments
+February 22, 2021
+big data
+computing
+Deep Underground Neutrino Experiment
+DUNE
+neutrino
+Science and Technology Facilities Council
+STFC
+United Kingdom
+From UKRI, Feb. 22, 2021: UKRI scientists are developing vital software to exploit the large data sets collected by the next-generation experiments in high-energy physics. The new software will have the capability to crunch the masses of data that the LHC at CERN and next-generation neutrino experiments, such as the Fermilab-hosted Deep Underground Neutrino Experiment, will produce this decade.
+Coffea speeds up particle physics data analysis
+February 19, 2021
+big data
+CMS
+computing
+result
+Fermilab feature
+The prodigious amount of data produced at the Large Hadron Collider presents a major challenge for data analysis. Coffea, a Python package developed by Fermilab researchers, speeds up computation and helps scientists work more efficiently. Around a dozen international LHC research groups now use Coffea, which draws on big data techniques used outside physics.
+Quantum teleportation makes progress, but toward what?
+February 5, 2021
+computing
+data
+quantum
+quantum communication
+quantum entanglement
+quantum internet
+quantum network
+quantum teleportation
+qubits
+From Data Center Knowledge, Feb. 3, 2021: That Fermilab and partners achieved sustained, high-fidelity quantum teleportation has big implications in many fields. Fermilab scientist, Panagiotis Spentzouris talks about what the results could mean for the future of data centers.
+1
+2
+3
+…
+8
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,224 @@
+URL: https://news.fnal.gov/2021/03/particle-detector-at-fermilab-plays-crucial-role-in-deep-underground-neutrino-experiment/
+Title: Particle detector at Fermilab plays crucial role in Deep Underground Neutrino Experiment
+────────────────────────────────────────────────────────────
+Particle detector at Fermilab plays crucial role in Deep Underground Neutrino Experiment
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Particle detector at Fermilab plays crucial role in Deep Underground Neutrino Experiment
+March 4, 2021
+| By:
+Steve Koppes
+Tags:
+antimatter
+ArgonCube
+astrophysics
+cosmology
+dark photon
+Deep Underground Neutrino Experiment
+detector
+DUNE
+electrons
+heavy neutrino
+INFN
+Italy
+liquid argon
+muons
+neutrino
+oscillation
+Sanford Underground Research Facility
+SLAC National Accelerator Laboratory
+Stanford University
+tau
+University of Bern
+University of Oxford
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+DUNE’s near detector, located at Fermilab, will take vital measurements of neutrino beam energy and composition before it reaches the experiment’s far detector in South Dakota. Its unmatched precision measurements will offer its own opportunities for the discovery of new physics.
+A century ago, physicists didn’t know about the existence of
+neutrinos
+, the most abundant, elusive and ethereal subatomic particles of matter in the universe.
+Although they are abundant, each individual neutrino is almost massless. Nevertheless, “they shape many aspects of the universe as we know it,” said Hirohisa Tanaka, a professor of particle physics and astrophysics at Stanford University and SLAC National Accelerator Laboratory.
+That’s why Tanaka and more than 1,000 other researchers from over 30 nations are engaged in the
+Deep Underground Neutrino Experiment
+, or DUNE, hosted by the Department of Energy’s Fermi National Accelerator Laboratory.
+“Billions of neutrinos can cross through you without you ever realizing it, so they are very hard to get hold of and to study,” said Alfons Weber, a physics professor at the University of Oxford.
+Neutrinos
+come in three types that morph from one into another: electron, muon and tau, and each has an antimatter cousin. DUNE will use two particle detectors separated by 800 miles (1,300 kilometers) to measure how the neutrinos morph, or oscillate, as they travel through space, matter and time. The DUNE near detector, located at Fermilab outside Chicago, will measure the neutrinos and how they interact before they oscillate. The DUNE far detector, to be located at the Sanford Underground Research Facility in South Dakota, will observe them after oscillation.
+One of the DUNE near detector’s subdetectors, SAND, will detect neutrinos with an electronic calorimeter, which measures particle energy, and a tracker, which records particle momenta and charge. A second subdetector will use liquid argon to mimic the neutrino interactions in the far detector. The third will use gaseous argon. Working together, they will measure particles with more precision than other neutrino detectors have able been to achieve. Credit: DUNE collaboration
+The project is ambitious in its international scope and scientific goals. It could provide new insight into the unbalanced mixing of matter and antimatter, the phenomenon that made possible the formation of matter in the universe. Such an important discovery will require both detectors working in tandem.
+“Because of oscillation, the methodology is to measure the neutrino beam at the near site and then the far site and compare the two behaviors,” said Luca Stanco of Italy’s National Institute for Nuclear Physics, often referred to by its Italian acronym, INFN. “It is fundamental to have under control all the characteristics of the neutrino beam in the near detector, where the beam is coming from.”
+Hirohisa Tanaka, Alfons Weber, Luca Stanco, the University of Bern’s Michele Weber, and Fermilab’s Alan Bross and Jennifer Raaf play key roles in developing the neutrino-snagging components of the DUNE near detector.
+Three subdetector systems
+Building on lessons learned from previous experiments, the detector designs have become more sophisticated. The DUNE near detector, to be installed about 600 meters from where the neutrinos are produced in Fermilab’s accelerators, will consist of three subdetectors that will sit side by side.
+One of the subdetectors, known as SAND, with its 15,000 kilometers (9,320 miles) of scintillator fibers and its 5,000 photomultipliers, will detect neutrinos with an electronic calorimeter, which measures particle energy, and a tracker, which records particle momenta and charge. A second subdetector, based on the
+ArgonCube technology
+developed at the University of Bern in Switzerland, will use liquid argon to mimic the neutrino interactions in the far detector, and the third will use gaseous argon. Working together, they will measure particles with more precision than other neutrino detectors have able to achieve.
+“It’s a very complicated system,” said Stanco, who leads the group working on SAND.
+SAND will sit directly in the path of the neutrino beam to measure its stability and composition. The two argon-based detectors, meanwhile, will be moveable, able to sit either directly in the beam’s path or to be angled to one side. The different viewing angles will allow those detectors to measure how neutrino interactions change as the particles’ energies change.
+The liquid-argon subdetector will function the same way as DUNE’s much larger far detector: When neutrinos interact with the liquid argon, the interaction will create charged particles that will be detected by electronics components that amplify, digitize and then send signals to a computer where the information contained in the signals can be reconstructed.
+Several earlier generations of neutrino experiments have led to an evolution in neutrino detector design. When the detectors for those earlier experiments were designed, “We had no idea how poorly we understood how neutrinos interact and all the different effects that we need to study to make a robust measurement,” said Alfons Weber.
+Liquid-argon detectors need many-kiloton masses to increase their chances of observing neutrino interactions.
+“We always talk about neutrinos being elusive and difficult to detect,” said Tanaka, whose SLAC team will provide key components of the liquid-argon subdetector. “You see only a few of them and only very rarely.”
+The opposite will apply to the near detector. There, “the neutrino beam we’re producing is so intense that in the liquid-argon subdetector we’ll see something like 50 interactions within millionths of a second,” he said.
+The challenge thus created is to identify individual neutrinos, their energies and their types at a rate that matches the flood of neutrinos the near detector will see.
+To capture such data, the liquid-argon subdetector will consist of an array of 35 nearly independently functioning smaller modules. Each module in the array will have a mass of about three tons. When high voltage is applied to the liquid argon volume, the otherwise passive electrons in the argon atoms become liberated and start moving toward an array of detection elements.
+Liquid argon — cooled to that state from its gaseous form — is so dense that neutrinos interact at an enhanced rate. Nevertheless, some particles escape from the liquid argon detector and their properties are measured in the
+argon-gas subdetector sitting next to its liquid-argon counterpart.
+“You can measure other things in the argon-gas subdetector that you can’t measure in the liquid-argon subdetector,” Weber said. This includes measuring the effects of neutrino interactions on argon nuclei, a process that creates uncertainty in neutrino oscillation measurements.
+Search for new particles
+The three subdetectors working in combination will make it possible for physicists to look for phenomena that go beyond the bounds of known physical laws. As Fermilab’s Main Injector particle accelerator generates neutrinos that pass through the DUNE near detector, “other particles might get produced as well, particles that we don’t know anything about yet,” Weber said.
+“Other particles might get produced as well, particles that we don’t know anything about yet.” Alfons Weber, Oxford University, on research with the DUNE near detector.
+Heavy neutrinos and dark photons fall into this category. The existence of heavy neutrinos could explain the perplexing fact that the known neutrinos have a tiny mass, and their discovery could help explain the nature of dark matter. Dark photons would be the invisible cousins of regular photons, which are electromagnetic particles. The detection of dark photons — if they exist — could illuminate the expansive but currently invisible dark sector part of the universe.
+And then there is the unexpected.
+“I think and I hope we will have a surprise in the physics result,” Stanco said.
+The international
+Deep Underground Neutrino Experiment
+is supported by the Department of Energy Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

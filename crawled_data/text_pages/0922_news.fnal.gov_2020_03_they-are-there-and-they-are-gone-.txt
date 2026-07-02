@@ -1,0 +1,186 @@
+URL: https://news.fnal.gov/2020/03/they-are-there-and-they-are-gone-icarus-chases-a-fourth-neutrino/
+Title: They are there and they are gone: ICARUS chases a fourth neutrino
+────────────────────────────────────────────────────────────
+They are there and they are gone: ICARUS chases a fourth neutrino
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+They are there and they are gone: ICARUS chases a fourth neutrino
+March 2, 2020
+| By:
+Catherine N. Steffel
+Tags:
+ICARUS
+neutrino
+Short-Baseline Neutrino program
+sterile neutrino
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists have begun filling the ICARUS detector at Fermilab with liquid argon, moving one step closer toward neutrino oscillation measurements and the potential discovery of sterile neutrinos.
+Argon. It’s all around us. It’s in the air we breathe, incandescent lights we read by and plasma globes many of us played with as children.
+In liquid form, argon is also an inexpensive and effective target for neutrino physics experiments. On Feb. 21, scientists at Fermilab began cooling down ICARUS – the largest particle detector in the lab’s Short-Baseline Neutrino Program – and filling it with 760 tons of liquid argon, moving ICARUS closer to operation and the search for a fourth type of neutrino.
+“The Short-Baseline Neutrino Program is amazing because it will finally resolve longstanding anomalous results in neutrino measurements,” said Robert Wilson, deputy spokesperson of ICARUS and professor of physics at Colorado State University.
+“Neutrinos are a fundamental and abundant component of our universe: We still know too little about them, and this keeps me very interested to continue searching their properties,” added Carlo Rubbia, Nobel laureate and ICARUS spokesperson.
+Over 20 years ago, scientists at Los Alamos National Laboratory found more electron antineutrinos than they expected in their results from the Liquid Scintillator Neutrino Detector. In a follow-up experiment more than 10 years later, scientists on the MiniBooNE experiment at Fermilab observed a similar inconsistency and uncovered a new anomaly in their neutrino data.
+Scientists wonder whether this was more than coincidence.
+ICARUS – the largest particle detector in the lab’s Short-Baseline Neutrino Program – and filling it with 760 tons of liquid argon, moving ICARUS closer to operation and the search for a fourth type of neutrino. Photo: Al Johnson, Fermilab
+A fourth type of neutrino
+It is well-established that the three known neutrino types – electron, muon and tau – oscillate, or change, into one another. To study these oscillations and how they happen, scientists need neutrinos to interact with something. For ICARUS, that substance is liquid argon.
+In the ICARUS experiment, a muon-type neutrino beam will interact with liquid argon and should, in theory, produce mostly charged particles called muons. (An electron-type neutrino beam should produce mostly electrons.) But given results from the Liquid Scintillator Neutrino Detector and MiniBooNE, this is only part of the story, and ICARUS intends to fill the gaps.
+“What if the neutrinos are oscillating into a neutrino that does not interact at all, not even a little bit like other neutrinos do?” Wilson said. “This is not a natural extension of neutrino theory, but it could explain the LSND and MiniBooNE results.”
+Such a fourth type of neutrino, unlike the others, would not change into a complementary charged particle upon interaction in a detector. In fact, it wouldn’t interact at all. By quantum mechanics, however, this so-called sterile neutrino could still oscillate between neutrino types and alter the oscillation pattern that ICARUS will observe.
+Discovery of a sterile neutrino would upend the Standard Model of subatomic particles and affect our understanding of how the universe has evolved.
+From filling to beam
+ICARUS’s optimal location, size and detector material make it uniquely sensitive to detecting neutrinos that would display this oscillation effect. If ICARUS scientists find more electron neutrinos in their muon-type neutrino beam than expected, they would at long last have concrete evidence of sterile neutrinos.
+ICARUS’s measurements will also inform how long-baseline neutrino experiments collect and analyze data. For example, scientists’ experience on ICARUS will inform the much larger, international
+Deep Underground Neutrino Experiment
+, hosted by Fermilab. ICARUS’s liquid-argon detection technology will be adapted for DUNE, which will use 70,000 tons of liquid argon to study the three known neutrino types and how they change from one to another.
+“ICARUS has come a long way from its conception and data taking activity at the Gran Sasso Laboratory in Italy and is now approaching an new phase of data acquisition here at Fermilab. I am thrilled to see the enthusiasm of a younger generation of scientists now at work on this experiment,” Rubbia said.
+It will take approximately eight weeks to fill ICARUS with liquid argon. Once the detector is filled, scientists will check its stability and the argon’s purity. Then, they will turn on power for the first time since ICARUS
+made its way to Fermilab
+across the Atlantic Ocean. They expect to see first particle tracks later this year.
+This work is supported by the U.S. Department of Energy Office of Science.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+ICARUS experiment marks major milestone in first neutrino science results
+April 15, 2026
+ICARUS
+neutrino physics
+SBN
+Short-Baseline Neutrino program
+Press release
+The milestone by ICARUS paves the way to probe sterile‑neutrino oscillations for the full Short-Baseline Neutrino Program at Fermilab. The first results demonstrate the data’s excellent quality and suitability for physics analyses, as well as the maturity of the software tools for event selection, fitting and detector simulation.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,230 @@
+URL: https://news.fnal.gov/2025/03/new-desi-results-strengthen-hints-that-dark-energy-may-evolve/
+Title: New DESI results strengthen hints that dark energy may evolve
+────────────────────────────────────────────────────────────
+New DESI results strengthen hints that dark energy may evolve
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+New DESI results strengthen hints that dark energy may evolve
+March 19, 2025
+| By:
+Lauren Biron
+Tags:
+cosmology
+dark energy
+DESI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Dark Energy Spectroscopic Instrument used millions of galaxies and quasars to build the largest 3D map of our universe to date. Combining the DESI data with other experiments shows signs that the impact of dark energy may be weakening over time — and the standard model of how the universe works may need an update.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+This
+press release
+was originally published by the U.S. Department of Energy’s Lawrence Berkeley National Laboratory. DOE’s Fermi National Accelerator Laboratory contributed key elements to DESI, including the online databases used for data acquisition and the software that ensures that each of the
+5,000 robotic positioners
+are precisely pointing to their celestial targets to within a 10th of the width of a human hair.
+Fermilab also contributed the
+atmospheric dispersion corrector
+,
+corrector barrel, hexapod and cage. The corrector barrel holds DESI’s six large lenses in precise alignment. The hexapod, designed and built with partners in Italy, focuses the DESI images by moving the barrel-lens system. Both the barrel and hexapod are housed in the cage, which provides the attachment to the telescope structure. In addition, Fermilab carried out the testing and packaging of DESI’s charge-coupled devices. The CCDs convert the light passing through the lenses from distant galaxies into digital information that can then be analyzed by the collaboration.
+Key takeaways
+The DESI collaboration published a new analysis of dark energy using their first three years of collected data, which spans nearly 15 million galaxies and quasars.
+Researchers combined the DESI data with information from studies of the cosmic microwave background, supernovae and weak gravitational lensing.
+The standard model of cosmology struggles to explain all the observations when taken together — but a model where dark energy’s influence changes over time seems to fit the data well.
+The fate of the universe hinges on the balance between matter and dark energy: the fundamental ingredient that drives its accelerating expansion. New results from the
+Dark Energy Spectroscopic Instrument
+(DESI) collaboration use the largest 3D map of our universe ever made to track dark energy’s influence over the past 11 billion years. Researchers see hints that dark energy, widely thought to be a “cosmological constant,” might be evolving over time in unexpected ways.
+DESI is an international experiment with more than 900 researchers from over 70 institutions around the world and is managed by the U.S. Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab). The collaboration shared their findings today in
+multiple papers
+that will be posted on the online repository arXiv and in a presentation at the
+American Physical Society’s Global Physics Summit
+in Anaheim, California.
+“What we are seeing is deeply intriguing,” said Alexie Leauthaud-Harnett, co-spokesperson for DESI and a professor at UC Santa Cruz. “It is exciting to think that we may be on the cusp of a major discovery about dark energy and the fundamental nature of our universe.”
+Taken alone, DESI’s data are consistent with our standard model of the universe: Lambda CDM (where CDM is cold dark matter and Lambda represents the simplest case of dark energy, where it acts as a cosmological constant). However, when paired with other measurements, there are mounting indications that the impact of dark energy may be weakening over time and that other models may be a better fit. Those other measurements include the light leftover from the dawn of the universe (the cosmic microwave background or CMB), exploding stars (supernovae), and how light from distant galaxies is warped by gravity (weak lensing).
+“We’re guided by Occam’s razor, and the simplest explanation for what we see is shifting,” said Will Percival, co-spokesperson for DESI and a professor at the University of Waterloo. “It’s looking more and more like we may need to modify our standard model of cosmology to make these different datasets make sense together — and evolving dark energy seems promising.”
+So far, the preference for an evolving dark energy has not risen to “5 sigma,” the gold standard in physics that represents the threshold for a discovery. However, different combinations of DESI data with the CMB, weak lensing, and supernovae datasets range from 2.8 to 4.2 sigma. (A 3-sigma event has a 0.3% chance of being a statistical fluke, but many 3-sigma events in physics have faded away with more data.) The analysis used a technique to hide the results from the scientists until the end, mitigating any unconscious bias about the data.
+“We’re in the business of letting the universe tell us how it works, and maybe the universe is telling us it’s more complicated than we thought it was,” said Andrei Cuceu, a postdoctoral researcher at Berkeley Lab and co-chair of DESI’s Lyman-alpha working group, which uses the distribution of intergalactic hydrogen gas to map the distant universe. “It’s interesting and gives us more confidence to see that many different lines of evidence are pointing in the same direction.”
+DESI is one of the most extensive surveys of the cosmos ever conducted. The state-of-the-art instrument, which capture light from 5,000 galaxies simultaneously, was constructed and is operated with funding from the DOE Office of Science. DESI is mounted on the U.S. National Science Foundation’s Nicholas U. Mayall 4-meter Telescope at
+Kitt Peak National Observatory
+(a program of NSF NOIRLab) in Arizona. The experiment is now in its fourth of five years surveying the sky, with plans to measure roughly 50 million galaxies and quasars (extremely distant yet bright objects with black holes at their cores) by the time the project ends.
+DESI is a state-of-the-art instrument and can capture light from up to 5,000 celestial objects simultaneously.
+Credit: Marilyn Sargent/Berkeley Lab
+The new analysis uses data from the first three years of observations and includes nearly 15 million of the best measured galaxies and quasars. It’s a major leap forward, improving the experiment’s precision with a dataset that is more than double what was used in DESI’s first analysis, which also hinted at an
+evolving dark energy
+.
+“It’s not just that the data continue to show a preference for evolving dark energy, but that the evidence is stronger now than it was,” said Seshadri Nadathur, professor at the University of Portsmouth and co-chair of DESI’s Galaxy and Quasar Clustering working group. “We’ve also performed many additional tests compared to the first year, and they’re making us confident that the results aren’t driven by some unknown effect in the data that we haven’t accounted for.”
+DESI tracks dark energy’s influence by studying how matter is spread across the universe. Events in the very early universe left subtle patterns in how matter is distributed, a feature called baryon acoustic oscillations (BAO). That BAO pattern acts as a standard ruler, with its size at different times directly affected by how the universe was expanding. Measuring the ruler at different distances shows researchers the strength of dark energy throughout history. DESI’s precision with this approach is the best in the world.
+“For a couple of decades, we’ve had this standard model of cosmology that is really impressive,” said Willem Elbers, a postdoctoral researcher at Durham University and co-chair of DESI’s Cosmological Parameter Estimation working group, which works out the numbers that describe our universe. “As our data are getting more and more precise, we’re finding potential cracks in the model and realizing we may need something new to explain all the results together.”
+The collaboration will soon begin work on additional analyses to extract even more information from the current dataset, and DESI will continue collecting data. Other experiments coming online over the next several years will also provide complementary datasets for future analyses.
+“Our results are fertile ground for our theory colleagues as they look at new and existing models, and we’re excited to see what they come up with,” said Michael Levi, DESI director and a scientist at Berkeley Lab. “Whatever the nature of dark energy is, it will shape the future of our universe. It’s pretty remarkable that we can look up at the sky with our telescopes and try to answer one of the biggest questions that humanity has ever asked.”
+Videos discussing the experiment’s new analysis are available on the
+DESI YouTube channel
+. Alongside unveiling its latest dark energy results at the APS meeting today, the DESI collaboration also announced that its
+Data Release 1 (DR1)
+is now available for anyone to explore. With information on millions of celestial objects, the dataset will support a wide range of astrophysical research by others, in addition to DESI’s cosmology goals.
+DESI is supported by the DOE Office of Science and by the National Energy Research Scientific Computing Center, a DOE Office of Science national user facility. Additional support for DESI is provided by the U.S. National Science Foundation; the Science and Technology Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission (CEA); the National Council of Humanities, Sciences, and Technologies of Mexico; the Ministry of Science and Innovation of Spain; and by the DESI member institutions.
+The DESI collaboration is honored to be permitted to conduct scientific research on I’oligam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation.
+Lawrence Berkeley National Laboratory
+(Berkeley Lab) is committed to groundbreaking research focused on discovery science and solutions for abundant and reliable energy supplies. The lab’s expertise spans materials, chemistry, physics, biology, earth and environmental science, mathematics, and computing. Researchers from around the world rely on the lab’s world-class scientific facilities for their own pioneering research. Founded in 1931 on the belief that the biggest problems are best addressed by teams, Berkeley Lab and its scientists have been recognized with 16 Nobel Prizes. Berkeley Lab is a multiprogram national laboratory managed by the University of California for the U.S. Department of Energy’s Office of Science.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States, and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+DESI opens access to the largest 3D map of the universe yet
+March 19, 2025
+cosmology
+DESI
+Skipper CCD
+Press release
+A new data release from the Dark Energy Spectroscopic Instrument is now available for researchers to explore. The collection contains information on 18.7 million galaxies, quasars, and stars — the largest dataset of its kind ever shared.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

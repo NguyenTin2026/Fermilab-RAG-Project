@@ -1,0 +1,209 @@
+URL: https://news.fnal.gov/tag/quantum/
+Title: quantum Archives - News
+────────────────────────────────────────────────────────────
+quantum Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 122 results
+500+ scientists worldwide now utilize Fermilab’s QICK Toolkit
+Quantum Zeitgeist, June 4, 2026
+collaboration
+QICK
+quantum
+Fermilab is collaborating with Harmoniqs to integrate its Piccolo.jl software, a quantum control and calibration package, with QICK, to enable more precise and repeatable qubit manipulation.
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+April 23, 2026
+dark matter
+quantum
+SQMS
+Fermilab feature
+Supported by a DOE Early Career Award, a Fermilab scientist is building a scalable superconducting cavity array to detect faint signals from mysterious dark photons with unprecedented speed and sensitivity.
+Northwestern and Fermilab quantum data helps build a new AI benchmark for quantum calibration with NVIDIA Ising open models
+Northwestern Institute for Quantum Information Research and Engineering, April 14, 2026
+emerging technologies
+NEXUS
+QICK
+quantum
+qubits
+In recognition of World Quantum Day, Fermilab’s Sara Sussman writes about the first benchmark from NEXUS qubit data. The new data has enabled the training of NVIDIA Ising Calibration, a vision language model for automating the calibration of quantum processors.
+Fermilab develops tunable quantum detector to accelerate dark matter search
+National Today, April 8, 2026
+dark matter
+quantum
+A team of researchers from Fermilab, University of Chicago, Stanford University, and New York University
+have developed an electronically-tunable quantum detector that significantly speeds up the search for dark photons, a leading candidate for dark matter.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+Quantum computers gain speed with network achieving 100ps synchronisation
+Quantum Zeitgeist, March 21, 2026
+emerging technologies
+QICK
+quantum
+Fermilab and Stanford University researchers have developed XCOM, a novel network designed to synchronize quantum instrumentation and facilitate low-latency communication.
+Fermilab tackles quantum control bottleneck with low-latency network
+SDX Central, March 25, 2026
+emerging technologies
+QICK
+quantum
+A new network architecture from Fermilab targets a key challenge in scaling quantum computing systems: low-latency, predictable communication across control hardware. The XCOM system connects multiple QICK boards in a mesh network, enabling synchronized operation and deterministic communication between distributed control electronics.
+1
+2
+3
+…
+13
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

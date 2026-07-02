@@ -1,0 +1,227 @@
+URL: https://news.fnal.gov/2026/04/fermilab-completes-its-part-in-upgrading-worlds-most-powerful-x-ray-laser/
+Title: Fermilab completes its part in upgrading world’s most powerful X-ray laser
+────────────────────────────────────────────────────────────
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+| By:
+Madeleine O’Keefe
+Tags:
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+The U.S. Department of Energy’s Fermi National Accelerator Laboratory has completed building and delivering the final component it is providing to the high-energy upgrade of the world’s most powerful X-ray free-electron laser, the Linac Coherent Light Source, LCLS, at SLAC National Accelerator Laboratory.
+Fermilab’s contributions have been crucial for the
+superconducting accelerator for LCLS
+, which enables X-ray laser beams that are 10,000 times brighter with pulses that arrive up to a million times per second. The
+high-energy upgrade
+will add 23 cryomodules to the superconducting accelerator, doubling the energy of the beam and more than doubling the maximum X-ray energy.
+Fermilab team members stand in front of the final superconducting cryomodule built for the high-energy LCLS upgrade. Credit: JJ Starr, Fermilab
+The shipment of the Fermilab-built cryomodule — an accelerating structure that is a key part of the LCLS high-energy upgrade — was commemorated in a ceremony on April 22, attended by the directors of both laboratories, Fermilab’s Norbert Holtkamp and SLAC’s John Sarrao. The cryomodule departed Fermilab in Batavia, Illinois on April 24 and arrived at SLAC in Menlo Park, California, on April 28.
+With this successful delivery, Fermilab completed its decade-long cryomodule production run for the superconducting LCLS upgrades, which was a close partnership between Fermilab, SLAC and Thomas Jefferson National Accelerator Facility. Lawrence Berkeley National Laboratory, Argonne National Laboratory, Cornell University, Michigan State University and Helmholtz-Zentrum Dresden-Rossendorf laboratory also made technical contributions to the upgrades. This work reinforces America’s leadership in accelerator science and its ability to deliver world-class scientific infrastructure.
+“We need collaborations to build the projects necessary to answer the big scientific questions of today,” said Holtkamp, who managed the construction of the LCLS-II upgrade during his
+tenure as deputy director of SLAC
+. “SLAC’s Linac Coherent Light Source upgrades are the perfect example of the Department of Energy national labs working together to usher in a new era of science.”
+“We need collaborations to build the projects necessary to answer the big scientific questions of today.”
+Fermilab Director Norbert Holtkamp
+The lab’s success in developing and building these superconducting cryomodules with rigorous safety and quality standards set the stage for the
+Proton Improvement Plan-II
+, one of Fermilab’s flagship projects. PIP-II is similarly assembling superconducting radio-frequency cryomodules to build a linear accelerator to power the forthcoming
+Deep Underground Neutrino Experiment
+. Fermilab is the host laboratory for DUNE — an international collaboration of institutions from over 35 countries — strengthening the lab’s position as a center for neutrino research.
+“Our work on these LCLS upgrade projects has been a major accomplishment for the lab and was critical for us to develop the capabilities and confidence to execute PIP-II,” said Sam Posen, associate lab director for the Applied Physics and Superconducting Technology division at Fermilab.
+Beyond physics, the effort has also enabled partnerships with industry, allowing Fermilab to directly apply its research to benefiting the public.
+“I feel an incredible sense of pride for this wonderful team, and there’s a little bit of bittersweetness because it’s the conclusion of such a great project,” said Posen. “We’re sad to see it end, but we’re excited for all the other work that we’ve embarked on.”
+Wanted: more X-rays
+LCLS, the world’s first free-electron
+light source
+producing hard X-rays, turned on in 2009. Ten years later, its first upgrade, LCLS-II, was completed, resulting in a superconducting linear accelerator that significantly boosted the facility’s capability beyond anything else on the planet.
+The upgraded LCLS linac uses superconducting radio-frequency technology to power an electron beam to high energies. The beam is sent through special magnets called undulators to make it jiggle, creating X-rays. As the X-rays and electron beam move together and interact, they produce coherent radiation.
+“It’s sort of the same process that you have in a laser pointer, but now it’s in an accelerator,” Genfa Wu, who has led the Fermilab scope of LCLS upgrades since 2024. “And instead of producing visible light, it produces coherent photons in the X-ray spectrum.”
+Those X-rays are routed to scientific end-stations along the linac. LCLS-enabled experiments address fundamental questions in energy storage, catalysis, biology, materials science and quantum physics.
+The current
+upgrade
+, called LCLS-II High Energy, will double the energy of the X-ray laser. But when it was first being planned, teams realized it wouldn’t be possible to reach those higher energies in the limited space left in the linac tunnel with the current technology. So, they had to innovate.
+The final Fermilab-built cryomodule for the high-energy upgrade of the superconducting Linac Coherent Light Source was tested at Fermilab in March 2026. Credit: JJ Starr, Fermilab
+Accelerator experts at SLAC, Jefferson Lab, Cornell University, and Fermilab combined forces to figure out how to improve the cryomodules. They targeted the superconducting accelerator cavities, the components inside the cryomodules that accelerate the particle beam. Through a process called “nitrogen doping,” they optimized the molecular makeup of the walls of the cavities, and they developed new procedures to assemble and finish the components. They also improved the cleanliness to reduce unwanted effects from any contamination on the surface, including errant dust particles.
+“Fermilab didn’t just build the cryomodules — we developed the enabling technologies at the heart of these components, and we were the Designer of Record for the cryomodules,” said Posen. “We have incredible people on the Fermilab technical team who innovated and came up with brilliant new approaches.”
+Once Fermilab
+verified
+the new design in 2021, they and the team at Jefferson Lab began constructing the rest of the 24 cryomodules needed for the high-energy upgrade — 23 for the linac and one spare. Jefferson Lab finished sending their 10 cryomodules
+last year
+, and now, all 14 Fermilab cryomodules are also at SLAC.
+In December 2025, SLAC shut down the LCLS linac to begin the installation and commissioning process, which is expected to take about two years. Soon, the superconducting Linac Coherent Light Source will be even more powerful and able to conduct science at unprecedented energies.
+Celebrating a milestone
+At the Fermilab ceremony on April 22, Fermilab Director Holtkamp, SLAC Director Sarrao, and other officials and team members delivered remarks in honor of the achievement. Holtkamp, drawing on his time at SLAC, recalled some of the history of the LCLS high-energy upgrade. He, Sarrao and others signed their names on the bright orange cryomodule, commemorating the milestone and bidding the component safe travels to its home at SLAC.
+“I’ve been part of the story from both ends,” said Holtkamp. “In 2013, I was part of starting it. And today, I put my signature on the final cryomodule.”
+SLAC Director John Sarrao, left, and Fermilab Director Norbert Holtkamp sign their names on the final Fermilab cryomodule. Its completion marks a milestone for the high-energy LCLS upgrade. Credit: JJ Starr, Fermilab
+“This is a machine that stands not only as the world’s most powerful X-ray free-electron laser but really as a testament to what is possible when vision, courage and collaboration come together at the highest level,” said Fermilab Chief Technology Officer Anna Grassellino, who was instrumental in developing the novel nitrogen-doping technique when she was an associate scientist at Fermilab, at the ceremony.
+“We brought together all of us — from the scientists to the technicians to the engineers — and we made it work. It was a project that required us to take risks, to challenge assumptions, to explore uncharted territory,” said Grassellino, who is also director of the Superconducting Quantum Materials and Systems Center at Fermilab. “And I think what’s very important here is that what we did not only enabled this incredible machine but also opened the doors to broader impacts.”
+Impacts in science and beyond
+The technology Fermilab developed for the high-energy LCLS superconducting linac bolsters American competitiveness through a partnership with the U.S. company xLight, enabled by a Cooperative Research and Development Agreement
+in 2024
+. xLight reached out to Fermilab seeking a partner in developing superconducting radio-frequency, or SRF, systems for their semiconductor lithography systems. Their goal is to improve semiconductor chips that are critical to many aspects of modern life, from smartphones and computers to military and defense.
+The Fermilab team is thrilled that technology developed at national labs will be transferred to industry to benefit the American public. “This is exactly what the U.S. national labs should be doing,” said Posen.
+“This is a machine that stands not only as the world’s most powerful X-ray free-electron laser but really as a testament to what is possible when vision, courage and collaboration come together at the highest level.”
+Fermilab Chief Technology Officer Anna Grassellino,
+Fermilab’s work on the SRF technology also paved the way for future projects. LCLS-II High Energy cryomodules were the first SRF cryomodules that Fermilab built — perfect practice for the SRF cryomodules that the Proton Improvement Plan-II will need to assemble Fermilab’s new linear accelerator. The PIP-II linac will power the Deep Underground Neutrino Experiment at the Long Baseline Neutrino Facility, which is one of Fermilab’s highest priorities.
+“There was investment in our facilities, our expertise and our capabilities, and that was so, so important for PIP-II,” said Posen. “For us to have gotten that experience and confidence was vital. The people who assembled and tested the high-energy LCLS cryomodules are now turning around and doing the same for PIP-II cryomodules.”
+Fermilab’s deep involvement in the LCLS upgrades also enhances and cements the lab’s dominant position in the global SRF landscape. “The LCLS upgrades really put Fermilab on the world map that we’re one of the leading institutes to build this type of cryomodule,” said Wu. “We can say that we have the best latest, greatest technology.”
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+SLAC is operated by Stanford University for the U.S. Department of Energy’s
+Office of Science
+. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time.
+Recommended reading
+View all news
+Fermilab completes laser lab construction for world’s largest vertical atom interferometer
+January 7, 2026
+emerging technologies
+laser
+MAGIS-100
+quantum
+Fermilab feature
+Construction of a laser laboratory that will house state-of-the-art lasers necessary to run the experiment’s 100-meter atom interferometer is complete. This is an important step in building a quantum sensing device capable of seeing tiniest of signals emanating from the farthest reaches of the universe to discover new physics phenomena.
+New collaboration sheds bright light on advancing semiconductor production in the U.S.
+April 4, 2024
+collaboration
+cryomodule
+superconducting radio-frequency technology
+Press release
+A partnership between Fermilab and xLight Inc. will focus on producing advanced semiconductors in the United States using extreme ultraviolet light and accelerator technology.
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+September 18, 2023
+cryomodule
+LCLS-II
+x-ray
+Fermilab feature
+Press release
+With up to a million X-ray flashes per second, 8,000 times more than its predecessor, it transforms the ability of scientists to explore atomic-scale, ultrafast phenomena that are key to a broad range of applications, from quantum materials to clean-energy technologies and medicine.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

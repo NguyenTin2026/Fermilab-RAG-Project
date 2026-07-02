@@ -1,0 +1,197 @@
+URL: https://news.fnal.gov/2020/08/dark-energy-survey-census-of-the-smallest-galaxies-hones-the-search-for-dark-matter/
+Title: Dark Energy Survey census of the smallest galaxies hones the search for dark matter
+────────────────────────────────────────────────────────────
+Dark Energy Survey census of the smallest galaxies hones the search for dark matter
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Dark Energy Survey census of the smallest galaxies hones the search for dark matter
+August 4, 2020
+| By:
+Lauren Biron
+Tags:
+California
+cosmology
+Dark Energy Survey
+dark matter
+SLAC
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists on the Dark Energy Survey have used observations of the smallest known galaxies to better understand dark matter, the mysterious substance that makes up 85% of the matter in the universe. The smallest galaxies can contain hundreds to thousands of times more dark matter than normal visible matter, making them ideal laboratories for studying this mysterious substance. By performing a rigorous census of small galaxies surrounding our Milky Way, scientists on the Dark Energy Survey have been able to constrain the fundamental particle physics that governs dark matter.
+Today, scientists in the Dark Energy Survey released
+results that have been five years in the making
+. Researchers used
+the world’s most complete census of dwarf galaxies around our Milky Way galaxy
+to probe the nature of dark matter, an invisible form of matter that dominates the universe. These
+new measurements
+provide information about what dark matter can and cannot be made of.
+In particular, the
+new results
+constrain the minimum mass of the dark matter particles, as well as the strength of interactions between dark matter and normal matter.
+According to these new results, a dark matter particle must be heavier than a zeptoelectronvolt, which is 10
+-21
+electronvolts. That’s one trillionth of a trillionth of the mass of an electron. This study also shows that dark matter’s interactions with normal matter must be roughly 1,000 times weaker than the weak nuclear force. Of the known forces, only gravity is weaker.
+This shows the result of two numerical simulations predicting the distribution of dark matter around a galaxy similar to our Milky Way. The left panel assumes that dark matter particles were moving fast in the early universe (warm dark matter), while the right panel assumes that dark matter particles were moving slowly (cold dark matter). The warm dark matter model predicts many fewer small clumps of dark matter surrounding our galaxy and thus many fewer satellite galaxies that inhabit these small clumps of dark matter. By measuring the number of satellite galaxies, scientists can distinguish between these models of dark matter. Image: Bullock and Boylan-Kolchin (2017); simulations by V. Robles, T. Kelley and B. Bozek, in collaboration with Bullock and Boylan-Kolchin
+These novel measurements used data from the
+Dark Energy Survey
+, a cosmological survey designed to study dark energy, the mysterious force driving the accelerated expansion of the universe. In contrast,
+dark matter
+is gravitationally attractive, resisting the expansion of the universe and gravitationally binding astronomical systems such as galaxies. The smallest “dwarf” galaxies can have hundreds to thousands of times more dark matter than normal matter. Over the past five years, the Dark Energy Survey has combined with other surveys to more than double the known population of these tiny galaxies. The current total is now over 50.
+“The Dark Energy Survey analysis has added a stringent new test to the standard cosmological paradigm and places tight constraints on several alternative dark matter models,” said Dark Energy Survey spokesperson Rich Kron, a scientist at the University of Chicago and Fermilab. “This is a fantastic example of how cosmological observations of the very large can inform particle physics experiments studying the very small.”
+Dark matter makes up 85% of the matter in the universe, but we have yet to detect it directly in the laboratory. The gravitational effects of dark matter are indirectly but clearly visible in the motions of stars in galaxies, the clumpy distribution of galaxies in the universe, and even in the amount of lightweight elements. The robust astronomical evidence for the existence of dark matter has motivated many experimental searches here on Earth, using instruments ranging from cryogenic detectors buried deep underground to energetic particle colliders.
+“The faintest galaxies are among the most valuable tools we have to learn about dark matter because they are sensitive to several of its fundamental properties all at once,” said Ethan Nadler, the study’s lead author and graduate student at Stanford University and SLAC.
+By combining the observed census of dwarf galaxies with advanced cosmological simulations of the distribution of dark matter around the Milky Way, scientists were able to predict how the physical properties of dark matter would affect the number of small galaxies. Small galaxies form in regions where the dark matter density in the early universe is very slightly above average. Physical processes that smooth out these regions of higher density (if dark matter moves too quickly or gains energy due to interactions with normal matter) or prevent density variations from collapsing to form galaxies (thanks to quantum interference effects) would reduce the number of galaxies observed by the Dark Energy Survey.
+“It’s exciting to see the dark matter problem attacked from so many different experimental angles,” said Fermilab and University of Chicago scientist Alex Drlica-Wagner, Dark Energy Survey collaborator and one of the lead authors on the paper. “This is a milestone measurement for DES, and I’m very hopeful that future cosmological surveys will help us get to the bottom of what dark matter is.”
+The
+Dark Energy Survey
+is a collaboration of more than 300 scientists from 25 institutions in six countries. For more information about the survey, please visit the experiment’s
+website
+.
+Funding for the DES Projects has been provided by the U.S. Department of Energy, the U.S. National Science Foundation, the Ministry of Science and Education of Spain, the Science and Technology Facilities Council of the United Kingdom, the Higher Education Funding Council for England, the National Center for Supercomputing Applications at the University of Illinois at Urbana-Champaign, the Kavli Institute of Cosmological Physics at the University of Chicago, Funding Authority for Funding and Projects in Brazil, Carlos Chagas Filho Foundation for Research Support of the State of Rio de Janeiro, Brazilian National Council for Scientific and Technological Development and the Ministry of Science and Technology, the German Research Foundation and the collaborating institutions in the Dark Energy Survey.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+April 23, 2026
+dark matter
+quantum
+SQMS
+Fermilab feature
+Supported by a DOE Early Career Award, a Fermilab scientist is building a scalable superconducting cavity array to detect faint signals from mysterious dark photons with unprecedented speed and sensitivity.
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

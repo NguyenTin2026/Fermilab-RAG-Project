@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2026/03/new-ultra-fast-particle-detector-could-help-unmask-dark-matter/
+Title: New ultra-fast particle detector could help unmask dark matter
+────────────────────────────────────────────────────────────
+New ultra-fast particle detector could help unmask dark matter
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+New ultra-fast particle detector could help unmask dark matter
+March 24, 2026
+| By:
+Sarah Charley
+Tags:
+CMS
+dark matter
+High-Luminosity Large Hadron Collider
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The CMS experiment at CERN is building a new detector that will unravel the chaotic particle collisions at the Large Hadron Collider, helping scientists identify particles based on their speeds.
+What if Olympic officials could record sprinters’ times only to the nearest minute? “We would know who started the race, and who finished the race, but that’s it,” said Bryan Cardwell, a postdoctoral researcher at the University of Virginia. “There’s no way to know who arrived first and who arrived last.”
+Cardwell and his colleagues on the CMS experiment are currently tackling a similar problem. The CMS experiment records the tracks and properties of subatomic particles created by the Large Hadron Collider, the world’s most powerful particle accelerator. As it stands, physicists get a picture of all the particles produced in a collision, but they have insufficiently detailed information about when the particles were produced or how fast they were traveling, making it difficult to tell them apart.
+That’s why CMS scientists are building a new detector that will let them watch particle collisions as they unfold, with 30-picosecond (0.00000000003 second) accuracy.
+“In 30 picoseconds, light moves about one centimeter.”
+Chris Neu, University of Virginia
+“In 30 picoseconds, light moves about one centimeter,” said Chris Neu, a professor at the University of Virginia. “We’re talking about measuring the time of arrival of very fast objects with a very high precision.”
+Some scientists suspect that rare and massive particles that take a long time to decay could move more slowly than lighter, more common particles. This means that when they do finally decay, their “daughter particles” will be a step behind. The difference would be tiny; a photo finish after a race that is only four feet long. But scientists hope that a precise “stopwatch” detector will help them tell the difference.
+“We’ll be able to see if any particles are habitually arriving late,” Cardwell said. “That is inherently interesting.”
+Turning ripples into tsunamis
+The new timing detector consists of two parts:
+a barrel equipped with roughly 10,000 crystal sensors
+, and end caps coated with hair-thin silicon wafers. While silicon sensors are common inside CMS, this new detector has a special gain layer that amplifies the signal before it is read out.
+“A small signal is like a tiny ripple on the surface of the water, and it gets lost among the little waves around it, so it’s hard to tell exactly when it arrived,” said Artur Apresyan, a researcher at the U.S. Department of Energy’s Fermi National Accelerator Laboratory. “The gain layer turns the small signal into a fast-moving tsunami that stands out clearly from the background, making its arrival time very clear. This amplification feature is not present in other CMS detectors; it’s a new design specifically for timing detectors.”
+This 3D rendering shows the CMS experiment with its detector subsystems expanded, illustrating the configuration prior to upgrades for the High-Luminosity Large Hadron Collider. The new timing detector will be installed near the region highlighted in green. Credit: CMS/CERN
+Currently, scientists at Fermilab are building and testing the sensors and support structures in collaboration with their national and international partners.
+“The work on the end cap timing detector at Fermilab has been a unique possibility for many junior researchers to participate in the design and construction of a novel kind of detector,” Apresyan said. “These kinds of opportunities are very rare in such large and advanced experiments, and Fermilab provides an exceptional opportunity to allow newcomers to join and learn cutting-edge detector technologies and their applications.”
+Unveiling the dark sector
+Once the finished detector is installed inside CMS, scientists hope that it will help them separate fast-moving particles from slow-moving dark matter, a mysterious class of particles that are only visible through their gravitational pull.
+Dark matter is as good as discovered in the sense that we know it’s there.”
+Tevong You, King’s College London
+“Dark matter is as good as discovered in the sense that we know it’s there,” said Tevong You, a theorist at King’s College London. “The problem is that none of the Standard Model particles that we know of can account for the properties of dark matter.”
+According to You, many theoretical models predict that — in addition to the stable dark matter particles — there could be an entire universe of dark sector particles that might have properties similar to the known particles of the Standard Model.
+“Dark matter is very stable, but we also know that stable particles like protons are just a small subset of all visible particles,” You said. “Maybe dark matter is just one small part of an extended dark sector that is full of long-lived particles that can decay into visible matter.”
+According to Cardwell, the LHC could be producing dark matter. These dark matter particles would eat up a lot of kinetic energy from the proton-proton collisions and turn it into mass via Einstein’s equation, E = mc
+2
+. “This means they have less energy to go fast,” Cardwell said.
+When these dark matter particles decay into visible matter, the resulting daughter particles would be lagging behind everything else produced during the collision. This is where the timing detector comes into play.
+“If we can measure the time those particles are arriving, we can figure out if they came from a particle that moved a little slower before decaying,” Cardwell said.
+Pinpointing exceptional events
+The new timing detector will also give scientists a much clearer view of what exactly is happening when bunches of protons collide inside the LHC.
+“Right now in CMS, we send something like 100 billion protons through 100 billion protons 40 million times a second,” Cardwell said.
+Every time two bunches of protons cross, about 70 collide. Currently, scientists use the spatial coordinates of the smaller particles produced by the collisions to connect the dots and figure out which particles came from what collisions. But spatial orientation alone won’t be enough when
+scientists turn on the High-Luminosity LHC
+, which will increase the collision rate by up to a factor of five.
+People working on CMS in 2024 are dwarfed by the size of the experiment at the Large Hadron Collider. Credit: CMS/CERN
+“When there are so many collisions, many of them will literally be at the same point in space,” Cardwell said. “But the collisions don’t all happen at the same time; they’re actually spread out over around 200 picoseconds. With a really, really precise timing detector, 200 picoseconds can suddenly become a very long time; I can slice that 200 picoseconds into a bunch of individual frames.”
+These frames will allow scientists to disentangle the messy LHC collisions and pinpoint rare and exceptional events.
+“The cool thing about this detector is that it will make everything CMS does better,” Cardwell said. “If we are searching for dark matter, if we are measuring the properties of the Higgs boson, if we’re doing anything at all, the quality of every measurement will increase.”
+As a theorist, You is excited about this new timing detector because it will open new avenues for research.
+“The best bet for a spectacular discovery at the LHC is through developing new types of searches and new ways of
+sifting through the data
+,” You said.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+April 23, 2026
+dark matter
+quantum
+SQMS
+Fermilab feature
+Supported by a DOE Early Career Award, a Fermilab scientist is building a scalable superconducting cavity array to detect faint signals from mysterious dark photons with unprecedented speed and sensitivity.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+A chilling new search for dark matter will soon be underway
+March 17, 2026
+cryogenics
+dark matter
+Fermilab feature
+Fermilab has contributed vital components to the SuperCDMS experiment, located deep underground in a nickel mine outside of Sudbury, Canada.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

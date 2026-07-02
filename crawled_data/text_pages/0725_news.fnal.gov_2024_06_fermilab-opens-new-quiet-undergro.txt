@@ -1,0 +1,192 @@
+URL: https://news.fnal.gov/2024/06/fermilab-opens-new-quiet-underground-quantum-information-science-laboratory/
+Title: Fermilab opens new QUIET underground quantum information science laboratory
+────────────────────────────────────────────────────────────
+Fermilab opens new QUIET underground quantum information science laboratory
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab opens new QUIET underground quantum information science laboratory
+June 12, 2024
+Tags:
+emerging technologies
+quantum information science
+qubits
+superconducting technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The new state-of-the-art QUIET laboratory will study the performance of qubits isolated from cosmic radiation. Its above ground counterpart is LOUD and together they will enable  controlled experiments of quantum sensors.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+A hundred meters underground at Fermi National Accelerator Laboratory is a new quantum sensor and computing research center named the Quantum Underground Instrumentation Experimental Testbed, or
+QUIET
+. Fermilab recently opened the doors to the underground lab, which will allow scientists to study the performance of qubits isolated from cosmic radiation.
+As one of the first dedicated underground Quantum Information Science facilities in the U.S, QUIET will support research and development of QIS applications. While there are many unique aspects to QUIET, finding a space far enough underground and large enough to house such a facility was difficult but a good match for existing infrastructure at Fermilab.
+Fermilab celebrated the opening of the newest laboratory, the QUIET lab located a hundred meters underground. Pictured from left to right are:
+Northwestern University Associate Vice President of Research, Enectalí Figueroa-Feliciano, Fermilab Associate Laboratory Director for Emerging Technologies, Panagiotis Spentzouris, Fermilab scientist Dan Baxter, Fermilab Director, Lia Merminga, QSC Director Travis Humble and Fermilab Scientist, Aaron Chou. Photo: Dan Svoboda, Fermilab
+“Fermilab’s previous investment in building accelerators makes it the ideal location for a facility like QUIET,” said Fermilab scientist Dan Baxter, who leads the project.  “Now, scientists will have the opportunity to use this underground space for even more advanced science.”
+The new state-of-the-art lab is 250 square feet with an antechamber prep room for material cleaning and gowning before entering the laboratory. The entire facility is set up with cleanliness in mind to minimize background sources that interfere with devices. It has a dilution refrigerator, which is necessary for the deployment of superconducting qubits at 10mK temperatures. Radio frequency electronics, which superconducting qubits use to control and read out their quantum states, are currently being set up.
+The primary goal of QUIET is to understand the difference between the impact of gamma rays, X-rays, muons and beta particles on superconducting qubits.
+Superconducting
+qubits used in quantum computing are very susceptible to interactions with their environment, including radiation. QUIET will allow scientists to study the performance of qubits isolated from cosmic radiation.
+The Radiation Impact on Superconducting Qubits workshop was held at Fermilab in conjunction with the QUIET lab opening. It is the first meeting bringing together the broader quantum information science and particle physics communities to assess the effects of radiation and cosmic rays on superconducting solid-state qubits. Photo: Dan Svoboda, Fermilab
+“We need to learn how to protect qubits from the effects of cosmic rays and energetic particles for quantum computing applications. At the same time, we must intricately understand how qubits respond to these effects in order to optimize using qubits as sensors. QUIET is designed to do exactly that, and we expect it to have a major impact as we move forward with these technologies,” said Panagiotis Spentzouris, associate laboratory director for Emerging Technologies at Fermilab.
+QUIET is one of two
+Quantum Science Center
+companion test facilities at Fermilab. The QSC, led by Oak Ridge National Laboratory, is one of five U.S. Department of Energy
+National Quantum Information Science Research Centers
+established to support the National Quantum Initiative in the U.S. and Fermilab is a primary founding member of the QSC.
+The facility was constructed as part of the
+National Quantum Initiative
+. The underground space was originally excavated by Fermilab for its neutrino experiments. QUIET’s counterpart lab called LOUD, which resides above ground, has been operating for over a year. QUIET uses the same models of dilution refrigeration and electronics as LOUD but with additional shielding from radiation.
+“This was quite an achievement to pull off and required a significant amount of work behind the scenes,” said QSC Director Travis Humble. “Together, QUIET and LOUD will allow for controlled experiments with quantum sensors to make direct comparisons between an environment with significantly reduced cosmic ray interference and the ambient environment on Earth’s surface.”
+QUIET and LOUD are funded through the QSC.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit science.energy.gov.
+Recommended reading
+View all news
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+March 10, 2026
+emerging technologies
+quantum
+Fermilab feature
+In a pioneering study at an underground laboratory at Fermilab, scientists measured bursts of charge across multiple superconducting qubits. Their work advances understanding of how background noise impacts qubits while contributing to the development of more precise sensors to discover new physics phenomena and more fault-tolerant quantum computers.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

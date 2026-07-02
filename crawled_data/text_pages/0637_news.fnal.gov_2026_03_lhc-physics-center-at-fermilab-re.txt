@@ -1,0 +1,193 @@
+URL: https://news.fnal.gov/2026/03/lhc-physics-center-at-fermilab-reaches-15-year-milestone-for-cms-data-analysis-school/
+Title: LHC Physics Center at Fermilab reaches 15-year milestone for CMS Data Analysis School
+────────────────────────────────────────────────────────────
+LHC Physics Center at Fermilab reaches 15-year milestone for CMS Data Analysis School
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+LHC Physics Center at Fermilab reaches 15-year milestone for CMS Data Analysis School
+March 11, 2026
+| By:
+Gabriele Benelli
+,
+Jim Hirschauer
+,
+Ka Hei Martin Kwok
+,
+Isobel Ojalvo
+and
+Marguerite Tonjes
+Tags:
+CMS
+LHC
+particle physics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The intensive program trains the next generation of researchers in advanced particle physics, data analysis and agentic artificial intelligence.
+The LHC Physics Center at Fermi National Accelerator Laboratory hosted the 2026 CMS Data Analysis School in January, marking 15 years and 34 sessions of the program. Since the first school was held at Fermilab in January 2011, the program has provided intense, hands-on training for the next generation of physicists working on the CMS experiment at CERN.
+The CMS experiment is one of the primary particle detectors at the Large Hadron Collider and was one of two detectors used to confirm the existence of the Higgs boson in 2012. The LHC Physics Center at Fermilab, commonly referred to as LPC, serves as a resource and physics analysis hub, primarily for the 700 U.S. physicists working in the international CMS collaboration.
+Participants in the 2026 CMS Data Analysis School enjoyed seeing three banners depicting the CMS detector, top right, hanging in the Wilson Hall atrium. Similar banners showcase CMS in a central gathering place at CERN. Credit: JJ Star, Fermilab
+The school’s rigorous curriculum covers physics, detector technology, computing, software and data analysis. This year’s session included 48 students — primarily graduate students with a small number of undergraduates — along with 48 facilitators and 11 lecturers. Facilitators included volunteers from the CMS experiment and the
+2026 LPC Distinguished Researchers
+.
+Innovations in artificial intelligence and analysis
+The program combined traditional lectures with exercises in statistics, particle reconstruction, event simulation and machine learning. While machine learning has been a staple of the curriculum since 2019, this year featured a special demonstration of agentic AI used to simulate high-energy physics particle events.
+Facilitators Melissa Quinnan, left, and Colin Crovella, center, discuss analysis with students during the 2026 CMS Data Analysis School at Fermilab. Credit: Marguerite Tonjes, UIC
+During the latter half of the week, the focus shifted to an intensive group project. Teams of 10 students each completed all aspects of a full CMS analysis in just three days. The session culminated in a friendly competition where a panel of senior CMS researchers assessed each group’s technical understanding, teamwork and presentation skills.
+Distinguished speakers and lecturers
+Guest speakers from across the physics community presented lectures and offered insights throughout the week. Among the presenters were Fermilab Director Norbert Holtkamp, Fermilab Deputy Director for Science and Technology Bonnie Fleming and CMS collaboration Spokesperson Anadi Canepa. Additional experts in particle physics included Paddy Fox, Jeffrey Eldred and Scarlet Norberg of Fermilab; Matteo Cremonesi of Carnegie Mellon University; Tova Holmes of the University of Tennessee; Christoph Paus of MIT; Alejandro Gómez Espinoza of Carnegie Mellon; and Isobel Ojalvo of Princeton.
+Fostering collaboration
+The school also featured activities intended to foster collaboration, including group meals, a banquet featuring a trivia contest and evening social gatherings at a Fermilab recreational facility. Despite an intense week of early mornings and late nights, students maintained their enthusiasm, beginning with insightful questions during the opening lectures and concluding with “drum rolls” as the winners of the friendly competition were announced.
+The 2026 LHC Physics Center Distinguished Researchers meet with LPC leadership and support staff  for a planning session during the week of Fermilab’s CMS Data Analysis School. Credit: Marguerite Tonjes, UIC
+LPC Distinguished Researcher and school lecturer Christoph Paus of the Massachusetts Institute of Technology commented, “The event turned out to be a full success, with students learning lessons needed for graduate school, as well as making essential connections with their peers and some of the more senior members of the CMS collaboration. I highly recommend the event to any student who is just starting or has already been involved in CMS for a while.”
+The 2026 CMS Data Analysis School was organized by LPC co-coordinators Isobel Ojalvo and Jim Hirschauer. The school’s success was made possible by the dedicated efforts of CMS LPC support staff: Gabriele Benelli of Brown University, Marguerite Tonjes of the University of Illinois at Chicago, and Martin Kwok of the University of Nebraska Lincoln.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+April 2, 2026
+AI
+award
+particle physics
+Fermilab feature
+Aleksandra Ćiprijanović will use artificial intelligence to solve the domain shift problem in high-energy physics research. Fermilab’s computing capabilities make it uniquely positioned to support this project.
+New ultra-fast particle detector could help unmask dark matter
+March 24, 2026
+CMS
+dark matter
+High-Luminosity Large Hadron Collider
+Fermilab feature
+The CMS experiment at CERN is building a new detector that will unravel the chaotic particle collisions at the Large Hadron Collider, helping scientists identify particles based on their speeds.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,210 @@
+URL: https://news.fnal.gov/2020/11/fermilab-is-partner-in-quantum-science-center-based-at-oak-ridge-national-laboratory/
+Title: Fermilab is partner in Quantum Science Center based at Oak Ridge National Laboratory
+────────────────────────────────────────────────────────────
+Fermilab is partner in Quantum Science Center based at Oak Ridge National Laboratory
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab is partner in Quantum Science Center based at Oak Ridge National Laboratory
+November 9, 2020
+| By:
+Leah Hesla
+Tags:
+detector technology
+engineering
+Oak Ridge National Laboratory
+quantum computing
+quantum information science
+quantum science
+Quantum Science Center
+quantum sensing
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab plays a key role in the Quantum Science Center, led by Oak Ridge National Laboratory. The center unites Oak Ridge’s powerhouse capabilities in supercomputing and materials science with Fermilab’s world-class high-energy physics instrumentation and measurement expertise and facilities. Drawing on their experience building and operating experiments in cosmology and particle physics and in quantum information science, the Fermilab team is engaging in QSC efforts to develop novel, advanced quantum technologies.
+Scientist Aaron Chou, the Fermilab lead for the Quantum Science Center at Oak Ridge, will draw on his experience in dark matter detection to help test and operate topological qubits, which are expected to revolutionize the field of quantum computing. Photo: Reidar Hahn, Fermilab
+In August, the U.S. Department of Energy announced the establishment of five National Quantum Information Science Research Centers. Fermilab is the lead laboratory for one of them, the
+Superconducting Quantum Materials and Systems Center
+, which joins together 20 institutions to bring about revolutionary advances in quantum computing and sensing with the goal of building and deploying a beyond-state-of-the-art quantum computer.
+In a separate effort, Fermilab also plays a key role in another center — Oak Ridge National Laboratory’s
+Quantum Science Center
+, or QSC.
+QSC unites Oak Ridge’s powerhouse capabilities in supercomputing and materials science with Fermilab’s world-class high-energy physics instrumentation and measurement expertise and facilities.
+Drawing on their experience building and operating experiments in cosmology and particle physics and in quantum information science, the Fermilab team is engaging in QSC efforts to develop novel, advanced quantum technologies.
+“One of our forward-looking goals is to develop a fundamentally new kind of qubit that, if successful, could lead to next-generation quantum computers with vastly improved capabilities,” said Aaron Chou, the Fermilab lead scientist for QSC.
+Those “topological” qubits would store information as imperturbable knots, making them practically immune to error. QSC combines supercomputing facilities, topological-materials science, and particle detector expertise and facilities to develop this “knotty” qubit.
+Fermilab’s role in QSC advances research in three key areas.
+Bringing down the noise
+The first is in the design of qubits, devices that hold one quantum bit of information. Using Fermilab’s facilities built for dark matter experiments, Quantum Science Center researchers will test and operate topological qubits and novel quantum materials developed by QSC partners.
+Like dark matter detectors, qubits must be able to pick up and manipulate low-level signals, which is best accomplished in an isolated location shielded from outside radioactivity and cosmic rays. Fermilab’s underground facilities for dark matter detection, 100 meters beneath Earth’s surface, provide a convenient heavily shielded spot for carrying out qubit research.
+Fermilab scientist and QSC collaborator Lauren Hsu works on a dilution refrigerator to be used for a dark matter experiment. Fermilab draws on over 30 years of experience designing and operating dark matter detectors to test qubits. Photo: Reidar Hahn, Fermilab
+“High-energy physicists bring to the table our decades of experience in developing extremely low-threshold detectors, operated in ultralow-background environments, for dark matter searches. It turns out these are the exact same capabilities that quantum sensors are now exploring,” said Fermilab scientist Lauren Hsu, one of the QSC collaborators. “It’s a good example of how technologies developed for one specialty can advance another.”
+Working to realize the vision of a future topological quantum computer is just one part of the QSC program. Just as dark matter detector research will aid in qubit advances, advances in qubits could also be a boon to dark matter research. Advanced qubit-based sensors could help look for dark matter particles in mass ranges that are currently unexplored because of the limitations of today’s detector technology.
+“Bringing together experts in particle physics, materials science and computing, the center will exploit synergies between fields to potentially enable a breakthrough in dark matter searches and simultaneously make much better qubits,” Hsu said.
+QSC scientists will leverage Fermilab’s underground areas — originally developed as part of the lab’s neutrino research program — to test topological qubits’ responses to faint signals and explore various exotic quantum materials for making the qubits.
+“High-energy physicists bring to the table our decades of experience in developing extremely low-threshold detectors for dark matter searches. It turns out these are the exact same capabilities that quantum sensors are now exploring.” — Lauren Hsu
+Examining exotic materials
+Quantum-computer architects ask a great deal of their qubits. Whereas classical semiconductor computers store information using large numbers of electrons, future quantum computers must be able to control and read out information stored in single quantum excitations.
+Scientists expect that such ultraprecise control can be achieved with a topological qubit. One of the first steps in its development is identifying the quantum materials that can be used to make it.
+To that end, QSC collaborators are exploring a number of exotic materials, synthesizing different combinations to come up with the best formula for fabricating this next-generation device. It’s a high-volume enterprise requiring rapid cycling through large numbers of materials prototypes, each engineered a little differently from the next.
+“We’re working on something that is worthy of the DOE national labs, taking on problems that are sufficiently challenging and that could not be done easily without the infrastructure and expertise of the national lab system.” — Aaron Chou
+High-volume sensor work is a familiar activity at Fermilab. Over the last 10 years, Fermilab scientists have developed a strong capability for operating and reading out large amounts of data from camera sensors, such as those for the South Pole Telescope, whose camera requires the readout of 16,000-pixel sensors. As part of QSC, they are extending the capability to read out large arrays of qubits and qubit-based sensors, helping quickly ascertain which designer materials work and which don’t.
+“It’s like making up a recipe for bread as you go along. You can try to change it a little bit every week. And eventually you’ll get to the point that you like what you have,” Chou said. “With 100 ovens, you can bake 100 loaves at the same time and check it all on the same day.”
+The expeditious development of new quantum materials will not only bring scientists to a next-generation quantum computer that much sooner, it will also provide new quantum sensing capabilities for high-energy physics detector applications.
+Extreme electronics
+To simulate the performance of these exotic materials, QSC scientists will use a quantum simulator based on a technology called an “ion trap.” Unlike a quantum computer, which controls information, a quantum simulator lets information encoded in a physical system evolve naturally to better understand what happens in the real world.
+Farah Fahim works on cryogenic electronics quantum computing. Designing cryogenic electronics — processors and sensors that can work at temperatures near absolute zero — is a fundamental challenge in the field of quantum computing. Photo: Reidar Hahn, Fermilab
+“You need a quantum computer to simulate the quantum materials needed for a quantum computer, but of course we don’t have a quantum computer. So we’re breaking this chicken-egg problem with a quantum simulator,” said Fermilab engineer Farah Fahim, QSC collaborator and deputy head of the Fermilab Quantum Science Program.
+For precision operation, the ion trap must operate at the same extraordinary temperatures called for by a quantum computer — 4 kelvins and below. That means its control electronics must also be ultracold-proof.
+One group of Fermilab engineers is dedicating to designing electronics that run under extreme conditions, such as those in the high-radiation environment of a particle detector. As part of QSC, they are now developing integrated circuits that can operate in near-absolute-zero temperatures. With robust electronics that can endure the biting cold, researchers will be able to scale up the computing power of an iron trap to the level needed for simulating futuristic, quantum-age materials.
+“Our goal is for these electronics to be ultrafast while maintaining ultralow noise to enable excellent performance for a scalable future quantum computer,” Fahim said.
+Benefits from the simulation program will redound to particle physics, too, enabling better simulations of the dynamics of quarks and nuclei.
+“We’re working on something that is worthy of the DOE national labs, taking on problems that are sufficiently challenging that they probably could not be done, or at least could not be done easily, without the infrastructure and expertise of the national lab system,” Chou said.
+Other partners in the Quantum Science Center are Caltech, Harvard University, Los Alamos National Laboratory, Pacific Northwest National Laboratory, Princeton University, Purdue University, University of California, Berkeley, University of California, Santa Barbara, University of Maryland, University of Tennessee, University of Washington and industrial partners Microsoft, IBM and ColdQuanta.
+“Our goal is for these electronics to be ultrafast while maintaining ultralow noise to enable excellent performance for a scalable future quantum computer.” — Farah Fahim
+Learn more about quantum science at Fermilab
+.
+Fermilab research in detector and sensor technology and in electronics engineering is supported by the Department of Energy Office of Science.
+The DOE Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab celebrates 2026 quantum science program graduates
+April 28, 2026
+quantum science
+Saturday Morning Quantum
+students
+Press release
+This past weekend, a new group of high school students graduated from the Saturday Morning Quantum program. Hosted by Fermilab, the course allows students to engage directly with lab quantum scientists and engineers while exploring core topics in quantum science.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+Largest neutrino experiment in the US wins Project of the Year Award
+April 13, 2026
+construction
+engineering
+LBNF/DUNE
+Press release
+The largest neutrino experiment in the United States was named the Project of the Year by the Underground Construction Association for completing a significant and challenging underground construction project with little or no issues.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

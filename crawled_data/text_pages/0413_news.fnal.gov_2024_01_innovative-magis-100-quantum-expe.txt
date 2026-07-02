@@ -1,0 +1,184 @@
+URL: https://news.fnal.gov/2024/01/innovative-magis-100-quantum-experiment-at-fermilab-bolstered-by-support-from-u-k/
+Title: Innovative MAGIS-100 quantum experiment at Fermilab bolstered by support from U.K.
+────────────────────────────────────────────────────────────
+Innovative MAGIS-100 quantum experiment at Fermilab bolstered by support from U.K.
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Innovative MAGIS-100 quantum experiment at Fermilab bolstered by support from U.K.
+January 24, 2024
+| By:
+Marcia Teckenbrock
+Tags:
+emerging technologies
+MAGIS-100
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab signs international agreement with U.K. institutions to collaborate on building a 100-meter-long atom interferometry experiment. It will enable scientists to demonstrate the superposition of atoms and advance the search for ultralight dark-matter particles.
+Four institutions from the United Kingdom formalized their participation in the
+Matter-wave Atomic Gradiometer Interferometric Sensor
+experiment known as MAGIS-100, under construction at U.S. Department of Energy’s Fermi National Accelerator Laboratory. University of Liverpool, Imperial College London, University of Cambridge and University of Oxford signed a cooperative research and development agreement with Fermilab in November.
+MAGIS-100 is an innovative, 100-meter-long interferometer experiment. Scientists aim to use cold-atom interferometry to demonstrate quantum superposition of atoms over a distance of a few meters and duration of several seconds. The measurement also will allow scientists to search for signs of ultralight dark matter interacting with ordinary matter. The research will lay the foundation for future gravitational wave detectors. It pioneers technology that could lead to interferometry experiments with baselines of more than 1 kilometer, and thus, greater sensitivity.
+“It is exciting to see us expand our long and celebrated partnerships with UK institutions to new scientific domains, with the highly innovative MAGIS-100 experiment,” said Fermilab Director Lia Merminga. “Our UK partners participate in the design, construction and delivery of the detection system for the interferometer, and will also participate in the commissioning and data analysis of the experiment.”
+Fermilab Director Lia Merminga and Mark Thomson, executive chair of the Science and Technology Facilities Council, UK Research and Innovation, sign a certificate to commemorate the international cooperative research and development agreement that fortifies R&D and experimental activities among Fermilab and U.K. institutions for the MAGIS-100 experiment. Also attending the ceremony were DOE Office of High Energy Physics Associate Director, Gina Rameika; Kyle Dolan, attaché from the British Embassy; representatives from the signing universities, Fermilab and the MAGIS-100 collaboration; and additional representatives from DOE. Photo: Ryan Postel, Fermilab
+Mark Thomson, Executive Chair of Science and Technology Facilities Council (STFC), part of UK Research and Innovation (UKRI), which is the primary UK funder of MAGIS-100, said, “This initiative is an exciting opportunity, both for the U.K. and the U.S., to collaborate in new technologies for fundamental science. There is huge potential in applying quantum technologies to our scientific mission to uncover the secrets of the universe.”
+MAGIS-100 will be vertically mounted in a 100-meter-deep access shaft built for a neutrino experiment at Fermilab many years ago. Scientists will cool strontium atoms to close to absolute zero temperature and drop them down a vacuum tube. Laser beam pulses traveling between mirrors at the opposing ends of the vacuum tube will hit the strontium atoms. This will cause the atoms, acting like tiny atomic clocks, to simultaneously move at two different velocities and exist at two different states. Scientists will measure and compare signals to look for the superposition of two quantum states, pushing the boundaries of how far an atom can be driven apart from itself. They’ll also look for deviations that could be caused by ultralight dark-matter particles interacting with the atoms.
+MAGIS-100 is part of Fermilab’s quantum science initiative. Universities working on the Atom Interferometer Observatory and Network, also known as AION, a flagship U.K. project that aims to use cold-atom interferometry for fundamental science, have been involved in MAGIS-100 from the beginning. AION collaborators are working with Stanford and Northwestern universities to develop several optics components for the experiment. They are providing the cameras that will record interference patterns of fluorescent light emitted by strontium atom clouds hit by laser light. They are also fabricating critical optical components, needed for the experiment’s mirror systems, and working on the data acquisition system.
+Individuals from eight organizations participated in-person or remotely in a ceremony at Fermilab for the signing of the international cooperative research and development agreement between Fermilab and U.K. institutions: British Consulate, UK Research and Innovation, Fermilab, Imperial College London, Stanford University, U.S. Department of Energy, University of Cambridge and University of Oxford. Photo: Ryan Postel, Fermilab
+Fermilab’s MAGIS-100 collaborators, with their know-how and experience in planning, constructing and running large-scale experiments, are working with AION collaborators to scale up cold-atom interferometry, which started as small, university-based experiments.
+“What is special about this collaboration is how we are working together. We are expanding Fermilab’s expertise in working with cold atoms while bringing cold-atom interferometry into a large-scale experiment,” said Robert Plunkett, Fermilab’s project scientist for MAGIS-100.
+In addition to the UKRI funding, the MAGIS-100 project is also supported by a $9.8 million grant from the Gordon and Betty Moore Foundation and funds from the DOE Office of Science’s Office of High Energy Physics through the
+QuantISED program
+,
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

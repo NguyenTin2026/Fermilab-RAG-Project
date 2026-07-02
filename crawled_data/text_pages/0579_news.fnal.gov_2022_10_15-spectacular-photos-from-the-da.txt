@@ -1,0 +1,249 @@
+URL: https://news.fnal.gov/2022/10/15-spectacular-photos-from-the-dark-energy-camera/
+Title: 15 spectacular photos from the Dark Energy Camera
+────────────────────────────────────────────────────────────
+15 spectacular photos from the Dark Energy Camera
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+15 spectacular photos from the Dark Energy Camera
+October 4, 2022
+| By:
+Lauren Biron
+Tags:
+astrophysics
+Dark Energy Camera
+Dark Energy Survey
+DES
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The powerful camera built for the Dark Energy Survey has taken more than 1 million photos from its perch in Chile. Here are some of the best.
+From high atop a mountain in the Chilean Andes, the Dark Energy Camera has snapped more than
+one million exposures
+of the southern sky. The images have captured around 2.5 billion astronomical objects, including galaxies and galaxy clusters, stars, comets, asteroids, dwarf planets and supernovae.
+Now 10 years since the Dark Energy Camera first saw stars, the impressive 570-megapixel camera was originally built at the U.S. Department of Energy’s Fermi National Accelerator Laboratory for the
+Dark Energy Survey
+. The international DES collaboration uses the deep-space data to investigate
+dark energy
+, a phenomenon that is accelerating the expansion of space.
+The Dark Energy Survey, whose scientists are now analyzing the data collected from 2013-2019, isn’t the only experiment to benefit from the powerful piece of equipment. Other research groups have also used the camera to conduct additional astronomical observations and surveys. Here are some of the many stellar photos created using the Dark Energy Camera.
+The Southern Pinwheel Galaxy (also known as Messier 83 or NGC 5236) is about 15 million lightyears from Earth. It took DECam more than
+11 hours of exposure
+time to capture this image. The camera is mounted on the
+Víctor M. Blanco 4-meter Telescope
+at Cerro Tololo Inter-American Observatory, a program of NSF’s NOIRLab.
+Photo: CTIO/NOIRLab/DOE/NSF/AURA; Acknowledgment: M. Soraisam (University of Illinois); Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani and Davide de Martin
+The Dark Energy Survey imaged one-eighth of the sky, capturing light from galaxies up to 8 billion lightyears away. The survey repeatedly imaged 10 “
+deep fields
+” like the one shown
+here
+. By returning to certain sections of the sky, scientists are able to build up and collect different wavelengths of light to image incredibly distant galaxies and faint objects. These deep fields can be used to calibrate the rest of the DES data and to hunt for supernovae.
+Photo: Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Acknowledgments: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) and D. de Martin (NSF’s NOIRLab)
+While the Dark Energy Survey typically looks at objects millions or billions of lightyears away, sometimes closer objects come into view. In 2014, the Dark Energy Survey spotted
+Comet Lovejoy
+traveling about 51 million miles from Earth. Each rectangle in the image represents one of the 62 CCDs that DECam uses, each one a sophisticated sensor designed to capture light from distant galaxies.
+Photo: Marty Murphy, Nikolay Kuropatkin, Huan Lin and Brian Yanny; Dark Energy Survey
+The spiral galaxy NGC 1566, sometimes called the Spanish Dancer, is about 69 million lightyears from Earth. Each photo from DECam is the result of choices made during image processing. The camera uses five filters that each record a different wavelength of light (between 400 and 1,080 nanometers) and can be combined to make color images.
+Photo: Dark Energy Survey
+This DECam photo, taken looking toward the center of our
+Milky Way galaxy
+, covers an area roughly twice as wide as the full moon and contains more than 180,000 stars. You can also see a wider version encompassing more of the
+Milky Way’s bulge
+. While beautiful, the stars and dust of the Milky Way block out distant galaxies needed to study dark energy — so the Dark Energy Survey typically aims the telescope in the opposite direction, away from the plane of our galaxy.
+Photo: CTIO/NOIRLab/DOE/NSF/AURA/STScI, W. Clarkson (UM-Dearborn), C. Johnson (STScI), and M. Rich (UCLA)
+From our position on Earth, we see the spiral galaxy NGC 681 from the side (or edge-on). The galaxy, also known as the Little Sombrero Galaxy, is about 66.5 million lightyears away. To keep images of distant objects as sharp as possible, DECam uses a mechanism called a Hexapod, which uses six pneumatically driven pistons to align the camera’s many optical elements between exposures. In addition to the five light filters, DECam also has five optical lenses, the biggest of which is more than 3 feet wide and weighs 388 pounds.
+Photo: Erin Sheldon, Dark Energy Survey
+This image shows a wide-angle view of the Small Magellanic Cloud. The Large and Small Magellanic Clouds are dwarf satellite galaxies to the Milky Way, and their proximity makes them a valuable place to study star formation. The Dark Energy Camera captured deep looks at our galactic neighbors for the Survey of the Magellanic Stellar History, or
+SMASH
+.
+Photo: CTIO/NOIRLab/NSF/AURA/SMASH/D. Nidever (Montana State University); Acknowledgment: Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani and Davide de Martin
+The large galaxy at the center of this image is
+NGC 1515
+, a spiral galaxy with several neighboring galaxies in the Dorado Group. When looking at the large-scale structure of the universe, astronomers find galaxies are not distributed randomly but instead cluster together, forming a sort of cosmic web. The Dark Energy Survey has made some of the
+most-precise maps
+of the universe’s structure and its evolution over time.
+Photo: Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Image processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), J. Miller (Gemini Observatory/NSF’s NOIRLab), M. Zamani and D. de Martin (NSF’s NOIRLab)
+NGC 288 is a globular cluster of stars located about 28,700 lightyears from Earth. These stars are bound together by gravity and are concentrated toward the center of the sphere. Globular clusters are an interesting way to study how stars and our own Milky Way evolved, though the Dark Energy Survey looks at distant galaxies and galaxy clusters to better understand dark energy.
+Photo: Robert Gruendl, Dark Energy Survey
+This Dark Energy Camera image shows light from
+Centaurus A
+, a galaxy more than 12 million lightyears away. It is partially obscured by dark bands of dust caused by the collision of two galaxies.
+Photo: CTIO/NOIRLab/DOE/NSF/AURA; Acknowledgments: PI: M. Soraisam (University of Illinois at Urbana-Champaign/NSF’s NOIRLab); Image processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) and D. de Martin (NSF’s NOIRLab)
+The Dark Energy Survey has found several new dwarf galaxies and used the data to limit how big potential
+dark matter particles
+could be. This irregular dwarf galaxy,
+IC 1613
+, is about 2.4 million lightyears away and contains around 100 million stars. Dwarf galaxies are considered small and faint by astronomical standards; for comparison, our Milky Way galaxy is estimated to contain between 100 and 400 billion stars.
+Photo: DES/DOE/Fermilab/NCSA and CTIO/NOIRLab/NSF/AURA; Acknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF’s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani and Davide de Martin
+The Helix Nebula (NGC 7293) is a planetary nebula about 650 lightyears from Earth. It is shown here extending over several of the Dark Energy Camera’s CCDs. Planetary nebulae, so named because they appeared round and sharp-edged like planets, are actually the remains of stars. Here, a dying star has ejected its outer layers, leaving a small white dwarf surrounded by gas. In billions of years, our own sun will experience a similar fate.
+Photo: Rob Morgan, Dark Energy Survey
+The spiral Sculptor Galaxy is about 11 million lightyears away. It’s one of more than
+500 million
+galaxies imaged by the Dark Energy Survey across 5000 square degrees of sky. To optimize observations, DES used automated software to point the camera and capture exposures. The software could factor in what part of the sky was overhead, weather conditions, moonlight and which areas had been recently imaged.
+Photo: Dark Energy Survey
+The wispy shells around elliptical galaxy
+NGC 474
+(center) are actually hundreds of millions of stars. To the left is a spiral galaxy, and in the background, there are thousands of other, more distant galaxies — visible in this
+zoomable
+version. DECam images contain vast amounts of information; each one is about a gigabyte in size. The Dark Energy Survey would take a few hundred images per session, producing up to 2.5 terabytes of data in a single night.
+Photo: DES/DOE/Fermilab/NCSA & CTIO/NOIRLab/NSF/AURA; Acknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF’s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani and Davide de Martin
+The Dark Energy Camera captured the barred spiral galaxy NGC 1365 in its very
+first photographs
+in 2012. The galaxy sits in the Fornax cluster, about 60 million lightyears from Earth. This close-up comes from the camera’s much wider field of view, which you can explore in the
+interactive DECam viewer
+.
+Photo: Dark Energy Survey
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+Dark Energy Survey scientists release new analysis of how the universe expands
+January 22, 2026
+Dark Energy Survey
+DECam
+galaxies
+Press release
+The latest results combined weak lensing and galaxy clustering and incorporated four dark energy probes from a single experiment for the first time.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

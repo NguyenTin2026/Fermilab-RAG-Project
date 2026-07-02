@@ -1,0 +1,224 @@
+URL: https://news.fnal.gov/tag/machine-learning/page/2/
+Title: machine learning Archives - Page 2 of 3 - News
+────────────────────────────────────────────────────────────
+machine learning Archives - Page 2 of 3 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+machine learning
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+11 - 20 of 27 results
+Fermilab receives DOE funding to develop machine learning for particle accelerators
+January 8, 2021
+accelerator
+accelerator complex
+accelerator operation
+Deep Underground Neutrino Experiment
+DUNE
+machine learning
+Main Control Room
+Main Injector
+Mu2e
+PIP-II
+Fermilab feature
+Fermilab scientists and engineers are developing a machine learning platform to help run Fermilab’s accelerator complex alongside a fast-response machine learning application for accelerating particle beams. The programs will work in tandem to boost efficiency and energy conservation in Fermilab accelerators.
+Can a computer devise a theory of everything?
+November 23, 2020
+AI
+artificial intelligence
+machine learning
+From The New York Times, Nov. 23, 2020: It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result. Fermilab Deputy Director of Research Joe Lykken is quoted in this piece on using artificial intelligence to discover laws of physics.
+Department of Energy announces $37 million for artificial intelligence and machine learning at DOE scientific user facilities
+August 18, 2020
+AI
+artificial intelligence
+Department of Energy
+DOE
+machine learning
+ML
+particle accelerator
+From the Department of Energy, Aug. 17, 2020: Seven DOE national laboratories, including Fermilab, will lead a total of 14 projects aimed at both automating facility operations and managing data modeling, acquisition, mining, and analysis for the interpretation of experimental results. The projects involve large X-ray light sources, neutron scattering sources, particle accelerators and nanoscale science research centers.
+New AI + Science grants fund projects and workshops in chemistry, physics and CS education
+May 13, 2020
+artificial intelligence
+computing
+cosmology
+machine learning
+outreach
+STEM
+From the University of Chicago, May 12, 2020: A round of AI + Science grants awarded by the University of Chicago’s Office of Research and National Laboratories Joint Task Force Initiative supports new AI applications to boost scientific discovery and education. Awardees include Fermilab scientists Brian Nord, Charles Thangaraj and Nhan Tran.
+How self-driving telescopes could transform astronomy
+May 7, 2020
+artificial intelligence
+astronomy
+astrophysics
+dark energy
+dark matter
+machine learning
+From Gizmodo, May 5, 2020: Fermilab scientist Brian Nord weighs in on the question of how automated devices, such as an autonomously operating telescope, free from human biases and complications, could find the solutions to questions about dark matter and dark energy.
+Deep learning at scale for the construction of galaxy catalogs
+September 19, 2019
+astrophysics
+computing
+Dark Energy Survey
+DES
+machine learning
+From
+Inside HPC
+, Sept. 15, 2019: Argonne and the National Center for Supercomputing Applications use deep learning to analyze Dark Energy Survey data.
+Boosting computing power for the future of particle physics
+August 19, 2019
+big data
+CMS
+computing
+Large Hadron Collider
+LHC
+machine learning
+MIT
+From MIT News, Aug. 19, 2019: A new prototype machine-learning technology co-developed by Fermilab and MIT scientists speeds Large Hadron Collider data processing by up to 175 times over traditional methods.
+A glimpse into the future: accelerated computing for accelerated particles
+August 15, 2019
+big data
+CMS
+computing
+machine learning
+Fermilab feature
+A new machine learning technology tested by Fermilab scientists and collaborators can spot specific particle signatures among an ocean of LHC data in the blink of an eye, much faster than standard methods. Sophisticated and swift, its performance gives a glimpse into the game-changing role machine learning will play in making future discoveries in particle physics as data sets get bigger and more complex.
+Fermilab scientist Nhan Tran receives prestigious DOE award to expand particle collider research capabilities using artificial intelligence
+August 8, 2019
+artificial intelligence
+CMS
+computing
+machine learning
+Fermilab feature
+Tran’s $2.5 million award will fund the development of new ways to handle the massive amounts of data that particle physics produces and to expand investigations of Higgs boson physics.
+FPGAs and the road to reprogrammable HPC
+July 9, 2019
+computing
+machine learning
+From
+Inside HPC
+, July 3, 2019: Particle physics researchers are using custom integrated circuits called FPGAs in combination with other computing resources to process massive quantities of data at extremely fast rates to find clues to the origins of the universe. This requires filtering sensor data in real time to identify novel particle substructures that could contain evidence of the existence of dark matter and other physical phenomena. A growing team of physicists and engineers from Fermilab, CERN and other institutions, co-led by Fermilab scientist Nhan Tran, wanted to have a flexible way to optimize custom-event filters in the CMS detector they are working on at CERN.
+«
+1
+2
+3
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

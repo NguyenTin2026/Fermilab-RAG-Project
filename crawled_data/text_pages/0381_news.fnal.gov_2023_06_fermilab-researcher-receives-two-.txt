@@ -1,0 +1,186 @@
+URL: https://news.fnal.gov/2023/06/fermilab-researcher-receives-two-prestigious-awards-in-ai-and-ml-research/
+Title: Fermilab researcher receives two prestigious awards in AI and ML research
+────────────────────────────────────────────────────────────
+Fermilab researcher receives two prestigious awards in AI and ML research
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab researcher receives two prestigious awards in AI and ML research
+June 7, 2023
+Tags:
+AI
+award
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Associate scientist Jennifer Ngadiuba received two top awards last fall to advance artificial intelligence and machine-learning research in high-energy physics.
+Associate scientist Jennifer Ngadiuba received two top awards last fall to advance artificial intelligence and machine-learning research in high-energy physics. Photo: Jennifer Ngadiuba
+Jennifer Ngadiuba, an associate scientist at Fermilab on the
+Compact Muon Solenoid
+experiment, was always curious — she felt like the world was a puzzle to be solved. When she was young, she knew she wanted to study science to help solve this puzzle. Later, she realized her curiosity and research could help advance human knowledge and well-being in general.
+The need to understand the truth behind mysteries of the physical world has guided her career. Her curiosity has led to Ngadiuba’s receiving two prestigious awards: The U.S. Department of Energy’s
+AI4HEP award
+and the Schmidt Futures
+AI2050
+Early Career Fellows award. Both will enable her to expand development of new methods for more reliable and robust machine learning, using physics-informed models where humans are not needed in the decision-making loop.
+Ngadiuba’s research focuses on designing efficient edge artificial intelligence for the real-time processing system of the CMS experiment. In the last year, her research has focused on understanding the feasibility of a novel data-acquisition approach for CMS, based on unsupervised learning. This approach, also called anomaly detection, has the potential to lead the field to uncover unknown and beyond the Standard Model physics.
+She will now expand her research to improve the efficiency and robustness of edge AI models with physics information for different high-energy physics applications, including CMS, the Deep Underground Neutrino Experiment and accelerator technology.
+Award for advancing artificial intelligence
+The AI4HEP DOE Award supports the DOE Office of Science initiative in artificial intelligence research that focuses on using AI techniques to deliver scientific discoveries and to broaden participation in high-energy physics research. It represents new partnerships between researchers at DOE national labs and collaborating universities that will enable the next discoveries in high-energy physics.
+Ngadiuba’s research was one of three national lab-led team projects to receive funding to continue artificial intelligence research for high-energy physics. Also, Fermilab is the only national lab with a scientist who will receive $2.96M over three years for her research.
+This award will allow Ngadiuba and her team to expand capabilities by adding one AI associate, two postdoctoral research associates — one to work on a neutrino experiment and another on CMS — and at least one doctoral student from each collaborating institute.
+Solving hard problems in AI
+The Schmidt Futures is a philanthropic program that supports researchers from around the globe at various stages of their career who are solving hard problems in science and society.
+In late 2022, Ngadiuba was one of 15 Schmidt Futures Early Career Fellows selected to solve hard problems in artificial intelligence through interdisciplinary research.
+Nominees from 10 universities — and Ngadiuba, the only researcher from a national lab — each were selected to receive up to $300,000 over two years in AI research support. Ngadiuba holds an affiliate position at California Institute of Technology, which will set up and manage the grant to allow AI researchers to work with her group at Fermilab.
+“I would like to help advance this field, and I am thankful to DOE and the Schmidt Futures Foundation for recognizing the importance of AI and ML in high-energy physics,” said Ngadiuba. “I am very thankful to the mentors who initially led me down the AI path and those who continue to mentor and inspire me in my current endeavors at Fermilab. I realize the potential of AI to help the field of high-energy physics, as well as the advantages and applications it brings to society.”
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

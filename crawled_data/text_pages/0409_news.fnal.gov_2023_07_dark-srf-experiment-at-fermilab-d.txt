@@ -1,0 +1,180 @@
+URL: https://news.fnal.gov/2023/07/dark-srf-experiment-at-fermilab-demonstrates-ultra-sensitivity-for-dark-photon-searches/
+Title: Dark SRF experiment at Fermilab demonstrates ultra-sensitivity for dark photon searches
+────────────────────────────────────────────────────────────
+Dark SRF experiment at Fermilab demonstrates ultra-sensitivity for dark photon searches
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Dark SRF experiment at Fermilab demonstrates ultra-sensitivity for dark photon searches
+July 21, 2023
+| By:
+Maxwell Bernstein
+Tags:
+dark photon
+SQMS Center
+SRF
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Using superconducting radio frequency cavities, the project set stringent constraints on a theorized particle called the dark photon.
+Scientists working on the Dark SRF experiment at the U.S. Department of Energy’s Fermi National Accelerator Laboratory have demonstrated unprecedented sensitivity in an experimental setup used to search for theorized particles called dark photons.
+Researchers trapped ordinary, massless photons in devices called superconducting radio frequency cavities to look for the transition of those photons into their hypothesized dark sector counterparts. The experiment has put the world’s best constraint on the dark photon existence in a specific mass range, as recently published in
+Physical Review Letters
+.
+“The dark photon is a copy similar to the photon we know and love, but with a few variations,” said Roni Harnik, a researcher at the Fermilab-hosted Superconducting Quantum Materials and Systems Center and co-author of this study.
+The Dark SRF experiment demonstrated unprecedented sensitivity by using two SRF cavities as the key components for experiment. Photo: Reidar Hahn, Fermilab
+Light that allows us to see the ordinary matter in our world is made of particles called photons. But ordinary matter only accounts for a small fraction of all matter. Our universe is filled with an unknown substance called dark matter, which comprises 85% of all matter. The Standard Model that describes the known particles and forces is incomplete.
+In theorists’ simplest version, one undiscovered type of dark matter particle could account for all the dark matter in the universe. But many scientists suspect that the dark sector in the universe has many different particles and forces; some of them might have hidden interactions with ordinary matter particles and forces.
+Just as the electron has copies that differ in some ways, including the muon and tau, the dark photon would be different from the regular photon and would have mass. Theoretically, once produced, photons and dark photons could transform into each other at a specific rate set by the dark photon’s properties.
+Innovative use of SRF cavities
+To look for dark photons, researchers perform a type of experiment called a light-shining-through-wall experiment. This approach uses two hollow, metallic cavities to detect the transformation of an ordinary photon into a dark matter photon. Scientists store ordinary photons in one cavity while leaving the other cavity empty. They then look for the emergence of photons in the empty cavity.
+Fermilab researchers in the SQMS Center have years of expertise working with SRF cavities, which are used primarily in particle accelerators. SQMS Center researchers have now employed SRF cavities for other purposes, such as quantum computing and dark matter searches, due to their ability to store and harness electromagnetic energy with high efficiency.
+“We were looking for other applications with superconducting radio frequency cavities, and I learned about these experiments where they use two copper cavities side-by-side to test for light shining through the wall,” said Alexander Romanenko, SQMS Center quantum technology thrust leader. “It was immediately clear to me that we could demonstrate greater sensitivity with SRF cavities than cavities used in previous experiments.”
+This experiment marks the first demonstration of using SRF cavities to perform a light-shining-through-wall experiment.
+Standing around the Dark SRF experiment from left to right are SQMS Center Director Anna Grassellino, SQMS Science Thrust Leader Roni Harnik and SQMS Technology Thrust Leader Alexander Romanenko. Photo: Reidar Hahn, Fermilab
+The SRF cavities used by Romanenko and his collaborators are hollow chunks of niobium. When cooled to ultralow temperature, these cavities store photons, or packets of electromagnetic energy, very well. For the Dark SRF experiment, scientists cooled the SRF cavities in a bath of liquid helium to around 2 K, close to absolute zero.
+At this temperature, electromagnetic energy flows effortlessly through niobium, which makes these cavities efficient at storing photons.
+“We have been developing various schemes trying to handle the new opportunities and challenges brought in by this ultra-high-quality superconducting cavities for this light-shining-through-wall experiment,” said study co-author Zhen Liu, an SQMS Center physics and sensing team member from the University of Minnesota.
+Researchers now can use SRF cavities with different resonance frequencies to cover various parts of the potential mass range for dark photons. This is because the peak sensitivity on the mass of the dark photon is directly related to the frequency of the regular photons stored in one of the SRF cavities.
+“The team has done many follow-ups and cross-checks of the experiment,” said Liu, who worked on the data analysis and the verification design. “SRF cavities open many new search possibilities. The fact we covered new parameter regions for the dark photon’s mass shows their successfulness, competitiveness and great promise for the future.”
+“The Dark SRF experiment has paved the way for a new class of experiments under exploration at the SQMS Center, where these very high Q cavities are employed as extremely sensitive detectors.” said Anna Grassellino, director of the SQMS Center and co-PI of the experiment. “From dark matter to gravitational waves searches, to fundamental tests of quantum mechanics, these world’s-highest-efficiency cavities will help us uncover hints of new physics.”
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov.
+Recommended reading
+View all news
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Fermilab’s SQMS Center funded with $125 million to shape the future of quantum information science
+November 4, 2025
+DOE
+SQMS Center
+Press release
+The SQMS Center enters a new era focused on scaling quantum systems from discovery to deployment — driving innovation in computation, communication and sensing.
+A minute with Mackenzie Ring
+July 24, 2025
+quantum
+SQMS Center
+Fermilab feature
+Mackenzie Ring helps bring quantum research to life as a mechanical technician for the Superconducting Quantum Materials and Systems Center at Fermilab, assembling and maintaining the complex systems inside the SQMS dilution refrigerators. Mackenzie’s role combines hands-on work, problem-solving and collaboration to support cutting-edge experiments at the forefront of science.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

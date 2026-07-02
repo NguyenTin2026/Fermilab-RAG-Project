@@ -1,0 +1,210 @@
+URL: https://news.fnal.gov/2019/08/a-million-pulses-per-second-how-particle-accelerators-are-powering-x-ray-lasers/
+Title: A million pulses per second: How particle accelerators are powering X-ray lasers
+────────────────────────────────────────────────────────────
+A million pulses per second: How particle accelerators are powering X-ray lasers
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A million pulses per second: How particle accelerators are powering X-ray lasers
+August 12, 2019
+| By:
+Caitlyn Buongiorno
+Tags:
+accelerator technology
+California
+Jefferson Lab
+LCLS-II
+SLAC
+Virginia
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Three United States DOE national laboratories – SLAC, Fermilab and Jefferson Lab – have partnered to build an advanced particle accelerator that will power the LCLS-II X-ray laser. Thanks to technology developed for nuclear and high-energy physics, the new X-ray laser will produce a nearly continuous wave of electrons and allow scientists to peer more deeply than ever before into the building blocks of life and matter.
+About 10 years ago, the world’s most powerful X-ray laser — the Linac Coherent Light Source — made its debut at SLAC National Accelerator Laboratory. Now the next revolutionary X-ray laser in a class of its own,
+LCLS-II
+, is under construction at SLAC, with support from four other DOE national laboratories.
+Researchers in biology, chemistry and physics will use LCLS-II to probe fundamental pieces of matter, creating 3-D movies of complex molecules in action, making LCLS-II a powerful, versatile instrument at the forefront of discovery.
+The project is coming together thanks largely to a crucial advance in the fields of particle and nuclear physics: superconducting accelerator technology. DOE’s Fermilab and Thomas Jefferson National Accelerator Facility are building the superconducting modules necessary for the accelerator upgrade for LCLS-II.
+SLAC National Accelerator Laboratory is upgrading its Linac Coherent Light Source, an X-ray laser, to be a more powerful tool for science. Both Fermilab and Thomas Jefferson National Accelerator Facility are contributing to the machine’s superconducting accelerator, seen here in the left part of the diagram. Image: SLAC
+A powerful tool for discovery
+Inside SLAC’s linear particle accelerator today, bursts of electrons are accelerated to energies that allow LCLS to fire off 120 X-ray pulses per second. These pulses last for quadrillionths of a second – a time scale known as a femtosecond – providing scientists with a flipbook-like look at molecular processes.
+“Over time, you can build up a molecular movie of how different systems evolve,” said SLAC scientist Mike Dunne, director of LCLS. “That’s proven to be quite remarkable, but it also has a number of limitations. That’s where LCLS-II comes in.”
+Using state-of-the-art particle accelerator technology, LCLS-II will provide a staggering million pulses per second. The advance will provide a more detailed look into how chemical, material and biological systems evolve on a time scale in which chemical bonds are made and broken.
+To really understand the difference, imagine you’re an alien visiting Earth. If you take one image a day of a city, you would notice roads and the cars that drive on them, but you couldn’t tell the speed of the cars or where the cars go. But taking a snapshot every few seconds would give you a highly detailed picture of how cars flow through the roads and would reveal phenomena like traffic jams. LCLS-II will provide this type of step-change information applied to chemical, biological and material processes.
+To reach this level of detail, SLAC needs to implement technology developed for particle physics – superconducting acceleration cavities – to power the LCLS-II free-electron laser, or XFEL.
+This is an illustration of the electron accelerator of SLAC’s LCLS-II X-ray laser. The first third of the copper accelerator will be replaced with a superconducting one. The red tubes represent cryomodules, which are provided by Fermilab and Jefferson Lab. Image: SLAC
+Accelerating science
+Cavities are structures that impart energy to particle beams, accelerating the particles within them. LCLS-II, like modern particle accelerators, will take advantage of superconducting radio-frequency cavity technology, also called SRF technology. When cooled to 2 Kelvin, superconducting cavities allow electricity to flow freely, without any resistance. Like reducing the friction between a heavy object and the ground, less electrical resistance saves energy, allowing accelerators to reach higher power for less cost.
+“The SRF technology is the enabling step for LCLS-II’s million pulses per second,” Dunne said. “Jefferson Lab and Fermilab have been developing this technology for years. The core expertise to make LCLS-II possible lives at these labs.”
+Fermilab modified a cryomodule design from DESY, in Germany, and specially prepared the cavities to draw the
+record-setting performance
+from the cavities and cryomodules that will be used for LCLS-II.
+The cylinder-shaped cryomodules, about a meter in diameter, act as specialized containers for housing the cavities. Inside, ultracold liquid helium continuously flows around the cavities to ensure they maintain the unwavering 2 Kelvin essential for superconductivity. Lined up end to end, 37 cryomodules will power the LCLS-II XFEL.
+Thirty-seven cryomodules lined end to end — half from Fermilab and half from Jefferson Lab — will make up the bulk of the LCLS-II accelerator. Photo: Reidar Hahn
+Fermilab and Jefferson Lab share the responsibility for fabricating, testing and delivering the cryomodules to SLAC. Together, the two labs will build all the cryomodules that will house the cavities. Fermilab will provide 19 cryomodules, and Jefferson Lab will provide the other 18. The largest of these cylinders reach 12 meters (40 feet) in length, about the length of a school bus. Each lab will also send a few spares to SLAC as well.
+The cavities and their cryomodules represent breakthroughs in SRF technology, providing high-energy beams far more efficiently than previously possible. Researchers have improved SRF cavities to achieve record gradients, a measure of how quickly a beam can achieve a certain energy. The cavities also recently achieved an unprecedented result in their energy efficiency, doubling the previous state-of-the-art design while reducing cost.
+The scientists and engineers were meticulous in developing LCLS-II’s accelerator components. For example, to create the cryomodules and cavities, Fermilab used earthquake detecting equipment to identify whether vibrations affecting the cavities’ effectiveness were internal or external. Once they determined the cause, they changed the configuration of the liquid-helium pipes to reduce those vibrations.
+Each cryomodule houses a string of acceleration cavities like this one. Cavities propel the particles as the particles move through them. At LCLS-II, electrons will charge through one cavity after another, picking up energy as they go. Pictured here is a 1.3-gigahertz cavity. Photo: Reidar Hahn
+Fermilab and Jefferson Lab will also send scientists and engineers to assist SLAC when LCLS-II first powers up the cryomodules.
+Jefferson Lab is also providing the design and procurement of the cryogenic refrigeration plants that supply the liquid helium to cool the SRF cavities to 2 Kelvin, while Fermilab is providing the design and procurement of components for the cryogenic distribution systems which moves the liquid helium from these plants to the cryomodules. Berkeley Lab and Argonne National Laboratory are also contributing components for LCLS-II, including the
+source that provides the electron beam
+and the magnets that force the beam into the wave-like motion that creates the X-ray light. Cornell University supported the R&D for LCLS-II cavity prototypes and helped process the cavities.
+“We’re all in this together,” said Rich Stanek, LCLS-II Fermilab senior team lead. “This close collaboration of national laboratories bodes well for future projects. It has benefits over and above the project itself.”
+Those benefits have made LCLS-II one of the top priority projects for DOE’s Office of Science and expand beyond the interests of the partner laboratories. LCLS-II is expected to build on its progenitor, diving even deeper into fields ranging from biology and chemistry to material science and astrophysics.
+A string of 3.9-gigahertz cavities at Fermilab are prepared for LCLS-II at SLAC. Photo: Reidar Hahn
+Opening up, diving deep
+Eric Isaacs, the president of the Carnegie Institution for Science and chair of the SLAC Scientific Policy Committee, has already reviewed a number of proposals for LCLS-II.
+“There are any number of processes that occur on very short time scales,” Isaacs said, a condensed matter physicist by training. “And LCLS-II opens up whole new areas of the sciences to study.”
+One such question will use the X-ray laser to probe material under conditions similar to the very center of our planet and gain insight into how Earth formed. Astrophysicists would then be able to adapt that information for their search for life on exoplanets.
+With LCLS-II, scientists will be able to study photosynthesis at a deeper level than ever before. The hope is that humans will one day be able to reverse engineer photosynthesis and harness a new biological tool for generating energy.
+One of the ways LCLS-II will advance research in biology is by mapping proteins and enzymes in conditions resembling their normal environments. This deeper understanding will pave the way for scientists to create better drugs.
+Scientists also intend to use LCLS-II to research superconductors, bringing the machine’s use of accelerator technology full circle. Current superconductors are limited by their need for specific, low temperatures. By understanding the atomic phenomenon of superconductivity, researchers might be able to create a room-temperature superconductor.
+“Particle and nuclear physics have developed the superconducting technologies and capabilities that LCLS-II will use,” Isaacs said. “These advancements will enable LCLS-II to look at some of the most important questions across many branches of science.”
+As with any major advancement, the true transformative power of LCLS-II will be revealed once its X-rays illuminate a sample for the first time. LCLS-II is planned to start up in 2021.
+This work is supported by the DOE Office of Science program for Basic Energy Sciences.
+It’s cryomodules all the way down. LCLS-II is planned to start up in 2021. Photo: SLAC
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+Fermilab expecting 95-ton coldbox delivery
+December 16, 2024
+accelerator technology
+cryogenics
+PIP-II
+technology
+Press release
+The coldbox, a vital piece of Fermilab’s new linear accelerator, is on a two-month voyage from France to its new home in Batavia, Illinois. It will be at the heart of the cryogenic system for the lab’s upgraded accelerator complex.
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+September 18, 2023
+cryomodule
+LCLS-II
+x-ray
+Fermilab feature
+Press release
+With up to a million X-ray flashes per second, 8,000 times more than its predecessor, it transforms the ability of scientists to explore atomic-scale, ultrafast phenomena that are key to a broad range of applications, from quantum materials to clean-energy technologies and medicine.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,220 @@
+URL: https://news.fnal.gov/2017/06/chicago-quantum-exchange-create-technologically-transformative-ecosystem/
+Title: Chicago Quantum Exchange to create technologically transformative ecosystem
+────────────────────────────────────────────────────────────
+Chicago Quantum Exchange to create technologically transformative ecosystem
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Chicago Quantum Exchange to create technologically transformative ecosystem
+June 20, 2017
+Tags:
+Argonne
+California
+Caltech
+collaboration
+computing
+Illinois
+quantum sensor
+University of Chicago
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+University of Chicago, Argonne National Laboratory and Fermilab prepare for quantum information revolution.
+Media contact
+Andre Salles, Fermilab Office of Communication
+asalles@fnal.gov
+, 630-840-6733
+Fermilab, Argonne Lab and the University of Chicago are to collaborate on advancing the science and engineering of quantum information. Image courtesy of Nicholas Brawand
+The University of Chicago is collaborating with the U.S. Department of Energy’s Argonne National Laboratory and Fermi National Accelerator Laboratory to launch an intellectual hub for advancing academic, industrial and governmental efforts in the science and engineering of quantum information.
+This hub within the Institute for Molecular Engineering (IME), called the Chicago Quantum Exchange, will facilitate the exploration of quantum information and the development of new applications with the potential to dramatically improve technology for communication, computing and sensing. The collaboration will include scientists and engineers from the two national labs and IME, as well as scholars from UChicago’s departments of physics, chemistry, computer science and astronomy and astrophysics.
+Quantum mechanics governs the behavior of matter at the atomic and subatomic levels in exotic and unfamiliar ways compared to the classical physics used to understand the movements of everyday objects. The engineering of quantum phenomena could lead to new classes of devices and computing capabilities, permitting novel approaches to solving problems that cannot be addressed using existing technology.
+“The combination of the University of Chicago, Argonne National Laboratory and Fermi National Accelerator Laboratory, working together as the Chicago Quantum Exchange, is unique in the domain of quantum information science,” said Matthew Tirrell, dean and Founding Pritzker Director of the Institute for Molecular Engineering and Argonne’s deputy laboratory director for science. “The CQE’s capabilities will span the range of quantum information, from basic solid state experimental and theoretical physics, to device design and fabrication, to algorithm and software development. CQE aims to integrate and exploit these capabilities to create a quantum information technology ecosystem.”
+Serving as director of the Chicago Quantum Exchange will be David Awschalom, UChicago’s Liew Family Professor in Molecular Engineering and an Argonne senior scientist. Discussions about establishing a trailblazing quantum engineering initiative began soon after Awschalom joined the UChicago faculty in 2013 when he proposed this concept, subsequently developed through the recruitment of faculty and the creation of state-of-the-art measurement laboratories.
+Fermilab physicist Aaron Chou is one of the lead scientists in a Fermilab-UChicago project to look for dark matter particles using quantum sensors. Photo: Reidar Hahn
+“We are at a remarkable moment in science and engineering, where a stream of scientific discoveries are yielding new ways to create, control, and communicate between quantum states of matter,” Awschalom said. “Efforts in Chicago and around the world are leading to the development of fundamentally new technologies, where information is manipulated at the atomic scale and governed by the laws of quantum mechanics. Transformative technologies are likely to emerge with far-reaching applications, ranging from ultra-sensitive sensors for biomedical imaging to secure communication networks to new paradigms for computation. In addition, they are making us re-think the meaning of information itself.”
+The collaboration will benefit from UChicago’s Polsky Center for Entrepreneurship and Innovation, which supports the creation of innovative businesses connected to UChicago and Chicago’s South Side. The CQE will have a strong connection with a major Hyde Park innovation project that was
+announced recently
+as the second phase of the Harper Court development on the north side of 53
+rd
+Street, and will include an expansion of Polsky Center activities. This project will enable the transition from laboratory discoveries to societal applications through industrial collaborations and startup initiatives.
+Companies large and small are positioning themselves to make a far-reaching impact with this new quantum technology. Alumni of IME’s quantum engineering Ph.D. program have been recruited to work for many of these companies. The creation of CQE will allow for new linkages and collaborations with industry, governmental agencies and other academic institutions, as well as support from the Polsky Center for new start-up ventures.
+This new quantum ecosystem will provide a collaborative environment for researchers to invent technologies in which all the components of information processing — sensing, computation, storage, and communication – are kept in the quantum world, Awschalom said. This contrasts with today’s mainstream computer systems, which frequently transform electronic signals from laptop computers into light for internet transmission via fiber optics, transforming them back into electronic signals when they arrive at their target computers, finally to become stored as magnetic data on hard drives.
+IME’s quantum engineering program is already training a new workforce of “quantum engineers” to meet the need of industry, government laboratories, and universities. The program now consists of eight faculty members and more than 100 postdoctoral scientists and doctoral students. Approximately 20 faculty members from UChicago’s Physical Sciences Division also pursue quantum research. These include David Schuster, assistant professor in physics, who collaborates with Argonne and Fermilab researchers.
+Combining strengths in quantum information
+Alex Romanenko leads Fermilab’s quantum computing architecture effort based on superconducting radio-frequency cavities, like those seen here. Photo: Reidar Hahn
+The collaboration will rely on the distinctive strengths of the University and the two national laboratories, both of which are located in the Chicago suburbs and have longstanding affiliations with the University of Chicago.
+Fermilab’s interest in quantum computing stems from the enhanced capabilities that the technology could offer within 15 years, said Joseph Lykken, Fermilab deputy director and senior scientist.
+“The Large Hadron Collider Experiments, ATLAS and CMS, will still be running 15 years from now,” Lykken said. “Our neutrino experiment, DUNE, will still be running 15 years from now. Computing is integral to particle physics discoveries, so advances that are 15 years away in high-energy physics are developments that we have to start thinking about right now.”
+Lykken noted that almost any quantum computing technology is by definition a device with atomic-level sensitivity that potentially could be applied to sensitive particle physics experiments. An ongoing Fermilab-UChicago collaboration is exploring the use of quantum computing for axion detection. Axions are candidate particles for dark matter, an invisible mass of unknown composition that accounts for 85 percent of the mass of the universe.
+Another collaboration with UChicago involves developing quantum computer technology that uses photons in superconducting radio frequency (SRF) cavities for data storage and error correction. These photons are light particles emitted as microwaves. Scientists expect the control and measurement of microwave photons to become important components of quantum computers.
+“We build the best superconducting microwave cavities in the world, but we build them for accelerators,” Lykken said. Fermilab is collaborating with UChicago to adapt the technology for quantum applications.
+Fermilab also has partnered with the California Institute of Technology and AT&T to develop a prototype quantum information network at the lab. Fermilab, Caltech and AT&T have long collaborated to efficiently transmit the Large Hadron Collider’s massive data sets. The project, a quantum Internet demonstration of sorts, is called INQNET (INtelligent Quantum NEtworks and Technologies).
+The Fermilab-UChicago collaboration to look for fundamental particles called axions uses a quantum sensor, shown here next to a penny for scale. Photo: Reidar Hahn
+Fermilab also is working to increase the scale of today’s quantum computers. Fermilab can contribute to this effort because quantum computers are complicated, sensitive, cryogenic devices. The laboratory has decades of experience in scaling up such devices for high-energy physics applications.
+“It’s one of the main things that we do,” Lykken said.
+At Argonne, approximately 20 researchers either conduct quantum-related research or express interest in joining the field. Many of them have joint appointments at the laboratory and UChicago. Fermilab has about 25 scientists and technicians working on quantum research initiatives related to the development of particle sensors, quantum computing, and quantum algorithms.
+“This is a great time to invest in quantum materials and quantum information systems,” said Supratik Guha, director of Argonne’s Nanoscience and Technology Division and a professor of molecular engineering at UChicago. “We have extensive state-of-the-art capabilities in this area.”
+Argonne proposed the first recognizable theoretical framework for a quantum computer, work conducted in the early 1980s by Paul Benioff. Today, including joint appointees, Argonne’s expertise spans the spectrum of quantum sensing, quantum computing, classical computing and materials science.
+Argonne and UChicago already have invested approximately $6 million to build comprehensive materials synthesis facilities — called “The Quantum Factory” — at both locations. Guha, for example, has installed state-of-the-art deposition systems that he uses to layer atoms of materials needed for building quantum structures.
+“Together we will have comprehensive capabilities to be able to grow and synthesize one-, two- and three-dimensional quantum structures for the future,” Guha said. These structures, called quantum bits — qubits — serve as the building blocks for quantum computing and quantum sensing.
+Argonne also has theorists who can help identify problems in physics and chemistry that could be solved via quantum computing. Argonne’s experts in algorithms, operating systems, and systems software, led by Rick Stevens, associate laboratory director and UChicago professor in computer science, will play a critical role as well, because no quantum computer will be able to operate without connecting to a classical computer.
+Fermilab is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance, LLC. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on Twitter at
+@Fermilab
+.
+Argonne National Laboratory
+seeks solutions to pressing national problems in science and technology. The nation’s first national laboratory, Argonne conducts leading-edge basic and applied scientific research in virtually every scientific discipline. Argonne researchers work closely with researchers from hundreds of companies, universities, and federal, state and municipal agencies to help them solve their specific problems, advance America’s scientific leadership and prepare the nation for a better future. With employees from more than 60 nations, Argonne is managed by
+UChicago Argonne, LLC
+for the
+U.S. Department of Energy’s Office of Science
+.
+The DOE Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Dave Newbold elected co-spokesperson of DUNE collaboration
+March 17, 2026
+collaboration
+DUNE
+leadership
+Press release
+The Deep Underground Neutrino Experiment collaboration announced that a new spokesperson was elected to co-lead the largest neutrino experiment in the U.S. DUNE is at a pivotal time in the development of the massive far detectors and the build-out of the underground space in South Dakota.
+HiLumi LHC: full-scale tests start
+February 24, 2026
+accelerator magnets
+collaboration
+HL-LHC Accelerator Upgrade Project
+Press release
+Scientists at CERN have triggered the complex cooldown of a 95-meter-long test stand that reproduces the underground configuration of innovative technologies for the Large Hadron Collider’s high-luminosity upgrade.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,201 @@
+URL: https://news.fnal.gov/2025/05/fermilab-researchers-advance-quantum-sensing-for-future-detectors/
+Title: Fermilab researchers advance quantum sensing for future detectors
+────────────────────────────────────────────────────────────
+Fermilab researchers advance quantum sensing for future detectors
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab researchers advance quantum sensing for future detectors
+May 7, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+detector technology
+emerging technologies
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+A collaboration of scientists tested next-generation superconducting microwire single photon detectors (SMSPDs) at Fermilab to further particle physics research.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+A team of researchers from the U.S. Department of Energy’s Fermi National Accelerator Laboratory, Caltech, NASA’s Jet Propulsion Laboratory, University of Geneva and Federico Santa María Technical University in Chile recently tested a new technology to determine whether superconducting microwire single photon detectors, or SMSPDs, are feasible for use in future particle physics experiments. The results found that the SMSPDs were able to detect a variety of particles with impressive detection efficiency, making them a promising technology to advance particle physics research and dark matter detection. This achievement represents a significant step toward developing advanced detectors for next-generation particle physics experiments.
+The groundbreaking
+study
+was conducted at Fermilab, where an array of SMSPDs was used to measure particle efficiency and time resolution while detecting high-energy particles such as protons, electrons and pions. Efficient and accurate detection these particles is essential to enhancing scientists’ understanding of fundamental physics.
+“We are very excited to work on cutting-edge detector R&D like SMSPDs because they may play a vital role in capstone projects in the field such as the planned
+Future Circular Collider
+or an
+International Muon Collider,
+” said Fermilab scientist Cristián Peña, who led the research. “And we are thrilled to have assembled a world-class team across several institutions to push this emerging research to the next level.”
+Fermilab and other members of the multi-institutional research team that conducted a study to test the use of superconducting microwire single photon detectors, or SMSPDs, to efficiently detect high-energy particles. This research represents a significant step forward in determining SMSPD suitability for use in advanced detectors. Pictured, front row (left to right): Cristián Peña, Artur Apresyan, Si Xie; middle row: Carlos Perez, Christina Wang, Adi Bornheim; back row: Aram, Matias Barria, Valentina Vega, Claudio San Martin. Credit: Cristián Peña, Fermilab
+Traditional particle detectors, while effective, often face limitations in sensitivity, spatial resolution and time resolution — critical requirements for accurately detecting particles. The need for ever more precise particle detectors has driven researchers to explore new sensing materials and technologies.
+The SMPSD arrays, which were designed and fabricated at Jet Propulsion Laboratory, or JPL, are a variation of high-performing superconducting nanowire single photon detectors, or SNSPDs. Both devices work similarly. A thin film of superconducting material — in this case, 3-nanometer-thick tungsten silicide — is patterned into 1.5-micron-wide wires covering an active area that detects charged particles as they deposit energy into the sensor. Researchers apply a bias current just below the maximum current the superconducting wire can sustain. Once the charged particles deposit enough energy to break the superconductivity, the bias current diverts from the wire to produce a detectable electrical pulse.
+Left: The superconducting microwire single-photon detector, or SMSPD, is enclosed in a dark box to reduce background photons not from the beam. The detector is attached to the cold stage of the cryocooler, which keeps the temperature very low, around 0.8 kelvin. The beam enters through the hole in the center. Right: The SMSPD under study, represented by the small dark purple region. Credit: Christina Wang, Fermilab
+SNSPDs have been instrumental in fields like quantum information science and space exploration due to their ultra-low energy thresholds and exceptional time resolution. For example, JPL develops them for space-based optical communications, while Fermilab uses them in its quantum networks, dark matter research and astrophysics applications. However, for particle physics, their use has been limited because of their small active detection area and little to no particle beam studies
+.
+In contrast, SMSPDs have a much larger active detection area than their nanowire cousins, marking a significant step forward for the large particle detectors needed for particle physics experiments.
+The researchers reported a consistent detection efficiency using the SMSPDs across different detection areas and bias currents. A silicon tracking telescope installed at Fermilab’s Test Beam Facility provided the precise and crucial spatial resolution needed to accurately measure detection efficiency. In addition, the timing resolution, which is essential to accurately track particles in next-generation accelerator-based experiments, was measured for the first time for such charged particles.
+A schematic diagram (top) and a photo (bottom) of the experimental setup of the superconducting microwire single-photon detector under study at the Fermilab Test Beam Facility with references to the instruments along the particle beamline.  A silicon tracking telescope tracks the position of each particle incident. The SMSPD is placed between the telescope’s six strip modules on one side and four pixels plus an additional six strip modules on the other, where the modules are placed as close to the cryostat as possible. Credit: Christina Wang, Fermilab
+“This is significant step toward developing advanced detectors for future particle physics experiments,” said coauthor Si Xie, a scientist at Fermilab with a joint appointment at Caltech as a research scientist. “This is just the beginning. We have the potential to detect particles lower in mass than we could before, as well as exotic particles like those that may constitute dark matter.”
+The research team is already working to further improve SMSPD arrays and other similar technologies.
+“We are in the process of optimizing SMSPD arrays for high-energy particle detection in terms of time resolution and detection efficiency so this technology can be used in next-generation accelerator-based experiments,” said Christina Wang, a Lederman Fellow at Fermilab who is also a co-author on this study. “We will continue to test these optimized arrays with greater precision.”
+“In future experiments, the team plans to explore using SMSPD arrays in accelerator-based experiments by characterizing their ability to operate effectively in high-radiation environments with high-particle occupancy,” added Wang.
+These are crucial steps toward integrating this promising technology into tomorrow’s particle detectors to help discover new physics phenomena.
+The study in the
+Journal of Instrumentation
+is titled “
+High energy particle detection with large area superconducting microwire array
+” and was funded by the U.S Department of Energy, Fermi National Accelerator Laboratory, the National Agency for Research and Development (ANID) in Chile and the Federico Santa María Technical University.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

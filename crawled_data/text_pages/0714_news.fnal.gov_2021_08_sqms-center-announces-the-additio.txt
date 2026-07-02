@@ -1,0 +1,180 @@
+URL: https://news.fnal.gov/2021/08/sqms-center-announces-the-addition-of-rutgers-university-new-brunswick-to-its-growing-collaboration/
+Title: SQMS Center announces the addition of Rutgers University-New Brunswick to its growing collaboration
+────────────────────────────────────────────────────────────
+SQMS Center announces the addition of Rutgers University-New Brunswick to its growing collaboration
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+SQMS Center announces the addition of Rutgers University-New Brunswick to its growing collaboration
+August 30, 2021
+| By:
+Hannah Adams
+Tags:
+collaboration
+partnership
+quantum information science
+Rutgers University
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Rutgers joins 19 other contributing partners, representing national labs, academia and industry, to conduct SQMS research activities.
+Srivatsan Chakram
+The Superconducting Quantum Materials and Systems Center hosted by Fermilab is proud to announce the addition of a new contributing partner: Rutgers University-New Brunswick.
+The SQMS Center was
+established
+in September 2020 as a National Quantum Information Science Research Center. It comprises a diverse group of collaborators from a variety of disciplines and backgrounds.
+Following its inception, SQMS established a rigorous process to onboard new partner institutions into the collaboration. Rutgers-New Brunswick joins 19 other collaborating institutions, representing federal labs, academia and industry. To date, more than 275 members — both national and international — conduct center research activities.
+“Rutgers is extremely excited by this opportunity to collaborate with the efforts of SQMS. Quantum information science is a high-priority area for the university,” said Robert Bartynski, chair of the department of physics and astronomy at Rutgers-New Brunswick.
+Srivatsan Chakram, an assistant professor in the department of physics and astronomy at Rutgers-New Brunswick, will serve as one of the principal investigators in the SQMS technology thrust, specifically in the devices and materials focus areas. “Having Professor Chakram as a principal investigator forms a natural bridge between the complementary expertise present at both organizations,” said Bartynski.
+“Rutgers brings world-class expertise in the 3D superconducting quantum systems,” said Alexander Romanenko, Fermilab chief technology officer and SQMS technology thrust leader. “Professor Chakram is one of the world experts on the 3D superconducting qubit architecture and specifically on cavity-based quantum processors, where he performed some recent pioneering work.”
+A primary focus of the SQMS Center is the extension of the lifetime of qubits, the foundational element of quantum computing. Extending the lifetime, or coherence time, of qubits increases the amount of time that they can exist in a quantum state and hold quantum information.
+“It’s great to be part of this collaboration, which I think will be very fruitful,” said Chakram. “Fermilab makes the best cavities in the world. The best cavities I have made can store single microwave photons for a few milliseconds. The cavities made at Fermilab have lifetimes approaching a second. Leveraging the extraordinary coherence of the Fermilab cavities should allow us to build better quantum processors. I have some expertise with designing and building these kinds of systems, so I think this collaboration will be mutually beneficial.”
+The addition of new collaborators requires review from the center’s leadership and must be approved by the Office of Science of the U.S. Department of Energy. New partners can be added to increase technical capabilities and strengthen the SQMS Center. The addition of a new partner often meets a specific need.
+“The strength of SQMS is that it brings world experts in quantum information science together as one collaboration,” said SQMS Director Anna Grassellino of Fermilab. “Professor Chakram is one such expert, and we are thrilled to welcome him to the SQMS Center.”
+The
+Superconducting Quantum Materials and Systems Center
+at Fermilab is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Dave Newbold elected co-spokesperson of DUNE collaboration
+March 17, 2026
+collaboration
+DUNE
+leadership
+Press release
+The Deep Underground Neutrino Experiment collaboration announced that a new spokesperson was elected to co-lead the largest neutrino experiment in the U.S. DUNE is at a pivotal time in the development of the massive far detectors and the build-out of the underground space in South Dakota.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

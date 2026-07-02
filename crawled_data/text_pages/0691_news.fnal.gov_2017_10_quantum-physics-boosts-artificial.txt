@@ -1,0 +1,199 @@
+URL: https://news.fnal.gov/2017/10/quantum-physics-boosts-artificial-intelligence-methods/
+Title: Quantum physics boosts artificial intelligence methods
+────────────────────────────────────────────────────────────
+Quantum physics boosts artificial intelligence methods
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Quantum physics boosts artificial intelligence methods
+October 18, 2017
+Tags:
+California
+Caltech
+Higgs boson
+quantum
+University of Southern California
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Researchers from Caltech and the University of Southern California report the first application of quantum computing to a physics problem. By employing quantum-compatible machine learning techniques, they developed a method of extracting a rare Higgs boson signal from copious noise data.
+Media contact
+Whitney Clavin, CalTech
+wclavin@caltech.edu
+, 626-395-1856
+Both the CMS (pictured here) and ATLAS experiments at the Large Hadron Collider discovered the Higgs boson. Image: CERN
+Editor’s note: The following press release was
+issued by Caltech
+. Fermilab is part of a continuing collaboration on this work, pursuing quantum technology for new scientific applications and discoveries. Daniel Lidar, one of the co-authors on the paper referenced in the release, will give a Colloquium talk at Fermilab on Dec. 6 as part of the
+Near-Term Applications of Quantum Computing conference
+, which Fermilab will host Dec. 6 and 7. Read more about this application at the
+INQNET website
+.
+Researchers from Caltech and the University of Southern California (USC) report the first application of quantum computing to a physics problem. By employing quantum-compatible machine learning techniques, they developed a method of extracting a rare Higgs boson signal from copious noise data. Higgs is the particle that was predicted to imbue elementary particles with mass and was discovered at the Large Hadron Collider in 2012. The new quantum machine learning method is found to perform well even with small data sets, unlike the standard counterparts.
+Despite the central role of physics in quantum computing, until now, no problem of interest for physics researchers has been resolved by quantum computing techniques. In this new work, the researchers successfully extracted meaningful information about Higgs particles by programming a quantum annealer — a type of quantum computer capable of running only optimization tasks — to sort through particle measurement data littered with errors. Caltech’s Maria Spiropulu, the Shang-Yi Ch’en professor of physics, conceived the project and collaborated with Daniel Lidar, pioneer of the quantum machine learning methodology and Viterbi professor of engineering at USC who is also a distinguished Moore scholar in Caltech’s Division of Physics, Mathematics and Astronomy.
+The quantum program seeks patterns within a data set to tell meaningful data from junk. It is expected to be useful for problems beyond high-energy physics. The details of the program as well as comparisons to existing techniques are detailed in a paper published on Oct. 19 in the journal
+Nature
+.
+A popular computing technique for classifying data is the neural network method, known for its efficiency in extracting obscure patterns within a data set. The patterns identified by neural networks are difficult to interpret, as the classification process does not reveal how they were discovered. Techniques that lead to better interpretability are often more error-prone and less efficient.
+“Some people in high-energy physics are getting ahead of themselves about neural nets, but neural nets aren’t easily interpretable to a physicist,” said USC’s physics graduate student Joshua Job, co-author of the paper and guest student at Caltech. The new quantum program is “a simple machine learning model that achieves a result comparable to more complicated models without losing robustness or interpretability,” Job said.
+With prior techniques, the accuracy of classification depends strongly on the size and quality of a training set, which is a manually sorted portion of the data set. This is problematic for high-energy physics research, which revolves around rare events buried in large amount of noise data.
+“The Large Hadron Collider generates a huge number of events, and the particle physicists have to look at small packets of data to figure out which are interesting,” Job said.
+The new quantum program “is simpler, takes very little training data, and could even be faster. We obtained that by including the excited states,” Spiropulu said.
+Excited states of a quantum system have excess energy that contributes to errors in the output.
+“Surprisingly, it was actually advantageous to use the excited states, the suboptimal solutions,” Lidar said. “Why exactly that’s the case, we can only speculate. But one reason might be that the real problem we have to solve is not precisely representable on the quantum annealer. Because of that, suboptimal solutions might be closer to the truth.”
+Modeling the problem in a way that a quantum annealer can understand proved to be a substantial challenge that was successfully tackled by Spiropulu’s former graduate student at Caltech, Alex Mott, who is now at DeepMind.
+“Programming quantum computers is fundamentally different from programming classical computers. It’s like coding bits directly. The entire problem has to be encoded at once, and then it runs just once as programmed,” Mott said.
+Despite the improvements, the researchers do not assert that quantum annealers are superior. The ones currently available are simply “not big enough to even encode physics problems difficult enough to demonstrate any advantage,” Spiropulu said.
+“It’s because we’re comparing a thousand qubits — quantum bits of information — to a billion transistors,” said Jean-Roch Vlimant, a postdoctoral scholar in high-energy physics at Caltech. “The complexity of simulated annealing will explode at some point, and we hope that quantum annealing will also offer speedup.”
+The researchers are actively seeking further applications of the new quantum-annealing classification technique.
+“We were able to demonstrate a very similar result in a completely different application domain by applying the same methodology to a problem in computational biology,” Lidar said.
+“There is another project on particle-tracking improvements using such methods, and we’re looking for new ways to examine charged particles,” Vlimant said.
+“The result of this work is a physics-based approach to machine learning that could benefit a broad spectrum of science and other applications,” Spiropulu said. “There is a lot of exciting work and discoveries to be made in this emergent cross-disciplinary arena of science and technology.”
+This project was supported by the United States Department of Energy, Office of High Energy Physics, Research Technology, Computational HEP, and Fermi National Accelerator Laboratory as well as the National Science Foundation. The work was also supported by the AT&T Foundry Innovation Centers through INQNET (INtelligent Quantum NEtworks and Technologies), a program for accelerating quantum technologies.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

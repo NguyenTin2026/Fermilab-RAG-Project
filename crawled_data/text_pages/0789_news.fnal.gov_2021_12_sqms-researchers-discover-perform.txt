@@ -1,0 +1,211 @@
+URL: https://news.fnal.gov/2021/12/sqms-researchers-discover-performance-limiting-nanohydrides-in-superconducting-qubits/
+Title: SQMS researchers discover performance-limiting nanohydrides in superconducting qubits
+────────────────────────────────────────────────────────────
+SQMS researchers discover performance-limiting nanohydrides in superconducting qubits
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+SQMS researchers discover performance-limiting nanohydrides in superconducting qubits
+December 15, 2021
+| By:
+Steve Koppes
+Tags:
+high-energy physics
+quantum information
+qubits
+SQMS Center
+superconducting radio-frequency technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists at the Fermilab-led Superconducting Quantum Materials and Systems Center have discovered that nanohydrides, variants of an imperfection found in advanced superconducting materials for particle accelerators, also affect industrially produced superconducting qubits.
+Researchers at the U.S. Department of Energy’s Fermi National Accelerator Laboratory and their collaborators have identified a new type of nanostructural imperfection that impacts superconducting qubits, the building blocks of quantum computers.
+Fermilab’s Alexander Romanenko and his colleagues describe the origin of the performance-limiting materials, known as nanohydrides, in
+a paper posted Aug. 23, 2021
+, on the arXiv.org e-Print archive.
+Identifying the new precipitant and understanding what causes it provides an important step toward finding a solution and improving the qubits’ performance. One of the main opportunities to improve superconducting qubits is through extended coherence times—how long they can store quantum information.
+Research conducted in the Superconducting Quantum Materials and Systems Center will lead to increased coherence in superconducting transmon qubits and development of a beyond-state-of-the-art quantum computer. Future applications of quantum computers may include modeling climate change and extreme weather events, developing pharmaceuticals, improving traffic patterns and creating financial models.
+Currently, superconducting transmon qubits can maintain coherence from between a few microseconds up to hundreds of microseconds. Nanohydride formation has now been identified as one of the factors that contribute to short coherence times.
+The focused ion beam instrument is a tool used to look at the surface of superconducting qubit devices and prepare thin lamellas of specific regions of the device for transmission electron microscopy analysis. Photo: Ryan Postel, Fermilab
+“Now we can start to understand how these defects occur,” said Matt Reagor, director of engineering at Rigetti Computing and a co-author of the paper. “We can start to engineer them out of our systems.”
+The Fermilab SQMS group discovered the evidence of this nanoscale imperfection during microscopic examinations of quantum materials conducted at ultracold temperatures. The test samples involved were qubits produced by Rigetti Computing, a leading startup building quantum computers with superconductors.
+“We want these devices to act as a perfect mirror for single photons to bounce indefinitely—but foreign precipitants can act as traps where the photon can disappear,” said Anna Grassellino, director of the Fermilab-hosted SQMS Center. “Our primary goal with the SQMS Center is to identify these traps and eliminate them from the start.”
+The new technological discovery is a variant of Q-disease—a strong degradation of cavity performance, which SRF scientists discovered several decades ago in niobium superconducting radio-frequency cavities built for particle accelerators. In those cavities, bulk inclusion of hydrogen in the niobium gave rise to large hydride precipitants upon cooldown to cryogenic temperatures. High-temperature heat treatments of niobium SRF cavities, also known as degassing, has become a standard way to control this hydride formation.
+A few years ago, the Fermilab SRF team discovered a much smaller version of precipitant, called nanohydrides, forming in niobium SRF cavities even after applying high-temperature treatments. These precipitants are non-superconducting and cause performance degradation in the niobium resonators.
+“It’s one of the first times that the formidable materials science expertise that’s been developed at the Department of Energy national labs and in particular high-energy physics for niobium is starting to be brought to bear on real quantum processors,” said Reagor.
+“The presence of hydrogen affects niobium in qubits the way it does in niobium SRF cavities,” said Romanenko, Fermilab’s chief technology officer. “This is why we decided to apply for the first time, cryogenic microscopy techniques to study superconducting qubits. We need to investigate the quantum devices’ nanostructure at the temperature at which they operate.”
+When exposed to hydrogen or hydrogen-containing compounds, niobium absorbs them like a sponge. The niobium has an oxide coating that provides only limited protection from hydrogen absorption. “Often with the treatments employed in the fabrication of these devices, we remove this oxide,” explained Grassellino. “The naked surface niobium likes to absorb hydrogen.”
+Now physicists know that even tiny quantities of hydrogen can also afflict qubits with hydrides, but of nanoscopic size. Eliminating the hydrogen gas from qubit treatment processes can help. Nevertheless, traces of the element remain within the niobium, like sugar dissolved in a cup of coffee.
+Microscopic measurements taken of a superconducting qubit show that, when cooled to cryogenic temperatures, nano-sized particulates of a niobium hydride compound appear within the niobium grains. These hydrides have poor superconducting properties compared to niobium so they possibly can contribute to the decoherence of qubits. Image A shows a diffraction pattern taken from the niobium hydride precipitate, which confirms their existence in niobium grains, and the distribution of these precipitates is detailed in B and C. Photo: SQMS Center
+It may be possible to identify what steps in the treatment processes expose niobium to hydrogen and then try to eliminate them. Even so, Romanenko cautioned, “Full elimination of hydrogen may not even be possible.” Romanenko, who specializes in niobium SRF cavities, more recently has worked to adapt accelerator cavities as 3D devices to store quantum information when combined with 2D qubits like Rigetti’s.
+The Fermilab researchers used advanced analytical techniques in rare combination at ultracold temperatures to reveal the new phenomenon. Atomic force microscopy, scanning electron microscopy and secondary ion mass spectroscopy all came into play during the nanohydride experiments.
+At room temperature, hydrogen exists as a gas moving fluidly throughout the niobium metal and creates no problems. But when cooled to 160 K (negative 171.7 degrees Fahrenheit), hydrogen bonds with the niobium and so niobium hydrides begin to grow. The more hydrogen the niobium absorbs, the larger the hydrides and vice versa.
+Repeated tests have shown that hydrides form within minutes of cooling to temperatures of between about 80 K to 200 K (negative 316 to negative 100 degrees Fahrenheit).
+“Then as the temperature drops below 77 K, hydrogen becomes almost frozen in place, and hydride formation stops,” said Romanenko.
+Jaeyel Lee (left) and Zuhawn Sung (right) analyze nanohydride images in the Materials Science Lab of the Applied Physics and Superconducting Technology Division at Fermilab. Photo: Ryan Postel, Fermilab
+The normal heat-up, cool-down cycle common to quantum computer operations further affects nanohydride formation, but in different ways. “It’s changing the precipitation of these hydrides,” explained Romanenko. “You form these objects once when you cool down. You warm up and they disappear, but they leave behind some sort of disrupted surface. You cool down again, they form in a slightly different way.”
+Fermilab and the SQMS collaboration already wield some of the most advanced tools for conducting microscopy at ultracold temperatures. SQMS also is working to establish new nanofabrication tools and facilities that will exceed today’s state-of-the-art capabilities. These tools will be specifically equipped to study and solve challenging problems, like the new nanoscale variant of Q-disease.
+The nanohydride discovery, meanwhile, heralds a new era for U.S. quantum information science. The SQMS Center, a structured collaboration, demonstrates commitment to working hand-in-hand with industry partners, which will ensure smooth transition from scientific discovery to eventual commercialization.
+“It’s one of the first times that the formidable materials science expertise that’s been developed at the Department of Energy national labs and in particular high-energy physics for niobium is starting to be brought to bear on real quantum processors,” said Reagor.
+“From the industry perspective, that’s exciting because U.S. manufacturing, particularly in a startup in this emerging technology, requires constant innovation. This is evidence that we can tap into a broader scientific infrastructure that the U.S. has pioneered.”
+The Materials Science Lab features advanced surface and superconducting characterization equipment to study materials and devices employed in accelerators, detectors and qubits. Photo: Ryan Postel, Fermilab
+Jayel Lee (left) and Zuhawn Sung (right) open the focused ion beam chamber to analyze a sample. Photo: Ryan Postel, Fermilab
+A cryogenic atomic force microscopy image of a superconducting qubit at room temperature (left) and at cryogenic temperature (right). Precipitants forming during cooldown on the niobium pads can be seen in the image on the right. Photo: SQMS Center
+A Rigetti Q32 Processor holds a superconducting qubit at the center. Photo: Rigetti Computing
+Paper authors from left to right: Fermilab CTO and SQMS Technology Thrust Leader Alexander Romanenko; SQMS Center Director Anna Grassellino, associate scientist Akshay Murthy, engineering physicist Zuhawn Sung and engineering physicist Jaeyel Lee.
+Rigetti Director of Engineering and SQMS Chief Technology Officer Matt Reagor. Photo: Rigetti Computing
+The
+Superconducting Quantum Materials and Systems Center at Fermilab is supported by the DOE Office of Science.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of 20 partner institutions—national labs, academia and industry—working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. Working hand in hand with embedded industry partners, SQMS will build a quantum computer and new quantum sensors at Fermilab, which will open unprecedented computational opportunities. For more information, please visit
+sqms.fnal.gov.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+February 26, 2026
+emerging technologies
+ions
+microelectronics
+quantum
+quantum electronics
+qubits
+Press release
+A partnership between the Quantum Science Center and the Quantum Systems Accelerator, two U.S. Department of Energy national quantum information science research centers, has enabled a breakthrough by Fermilab and MIT Lincoln Laboratory. Researchers used cryoelectronics to control ion traps, a key step toward realizing scalable quantum computers.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,187 @@
+URL: https://news.fnal.gov/2024/09/william-pellico-of-fermilab-receives-2024-ura-honorary-engineering-award/
+Title: William Pellico receives 2024 URA Honorary Engineering Award
+────────────────────────────────────────────────────────────
+William Pellico receives 2024 URA Honorary Engineering Award
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+William Pellico receives 2024 URA Honorary Engineering Award
+September 12, 2024
+| By:
+Emily Driehaus
+Tags:
+emerging technologies
+engineering
+URA
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+William Pellico received this year’s URA Honorary Engineering Award highlighting his innovative application of power-over-fiber technology for use in DUNE’s cryogenic environments.
+William Pellico’s philosophy on life has always been “be comfortable with being uncomfortable.” He’s lived by this principle to the fullest extent during his 30-plus-year engineering career at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, having worked on everything from accelerator technology to cryogenic systems.
+William Pellico
+Pellico’s recent venture into detector electronics led him to the Deep Underground Neutrino Experiment, where he and an international team developed a new system using power over fiber for delivering power to the photon detectors. This work may be vital for DUNE’s success, and Pellico’s contributions to the experiment and to Fermilab over the years have been recognized with the Universities Research Association’s Honorary Engineering Award.
+The DUNE far detector, located at the Sanford Underground Research Facility in Lead, South Dakota, will detect neutrinos sent approximately 800 miles from Fermilab in Batavia, Illinois. The experiment aims to provide researchers with information on how the neutrinos may have changed during the journey.
+As a liquid-argon time projection chamber, the detector images the interactions of neutrinos as the particles leaving the collision bump into argon atoms and knock loose electrons. The Argon atoms can also be excited and emit brief flashes of light called scintillation light. To get the best measurements, researchers will need to detect the photons of scintillation light. Because of the geometry of the detector, photon detection systems will need to sit on the cathode plane whose electric field directs the ionization electrons to the readout plane.
+However, there’s a problem to solve. The cathode is set at an extremely high voltage, about 300,000 volts, to cause the electrons to drift toward the readout devices. But the photon detectors also need power to operate and send data, and the traditional copper wires typically used for these electronics won’t work because maintaining the high voltage means having no conductive path to ground.
+Pellico’s solution to this issue is power over fiber. PoF systems use fiber optic cables to provide power to electrical devices, while being electrically non-conductive and so maintaining the high voltage. The technology has traditionally been applied in the solar power and cell tower industries. Pellico’s novel approach allows laser light to be transmitted over cables in a cryogenic environment and converted to power using an optical photovoltaic converter to power the detectors and transmit data back from the detectors.
+“Pellico’s work exemplifies Fermilab’s ability to disseminate new knowledge and enable technology validation and integration efforts to strengthen the experiment’s foundation for future advancements, scientific discoveries and international cooperation,” said John Mester, URA president and CEO.
+“Using fibers to send and receive data is not new, but Bill’s design was to use the fibers for data transfer and power,” said Jamieson Olsen, the award committee chair. “It’s the power-over-fiber part that’s innovative here.”
+Because commercial PoF systems are not rated for use in cryogenic environments, Pellico’s research and development process involved lots of testing and optimizing existing technology for use in high-energy physics experiments. Initially, the process involved simple trial and error.
+“What I ended up doing is buying components from vendors and just dunking them in liquid nitrogen to see what worked and what didn’t work,” Pellico said.
+Once he had an idea of how to modify the system parts to fit the experiment parameters, Pellico found industrial partners to work with. These firms sent the components that Pellico modified to be suitable for cryogenic temperatures. Eventually, he and his team were able to fine-tune the system to be highly efficient and operational in a way that the companies could replicate in their manufacturing facilities, ensuring the components will be available for DUNE.
+“We were able to get it done in fairly short order, about a year and a half of pure R&D, and then some tweaking around the corners,” Pellico said. “So, after several years, we actually have something that’s ready to be purchased in bulk for DUNE.”
+The PoF system is still getting a few small upgrades to further improve efficiency, but Pellico’s work on this technology has solved the issue of working around the detector’s shape and size to power the photon detectors. This work helps bring DUNE closer to fruition. For Pellico, the most rewarding parts of the experience have been the connections he’s made and knowledge he has gained from others.
+“It introduced me to a whole new area of the lab that I wasn’t exposed to,” he said. “I’ve always been on the beam delivery side, so I got to meet a lot of people and expand my horizons.”
+Pellico added, “I rely on a lot of people when I work on technology. I can’t recall any idea that I’ve come up with that I didn’t have help from somebody else — a technician, or another engineer or scientist. So, I certainly don’t work in isolation. Power over fiber may have been my brainchild, but I had a lot of help from colleagues.”
+Pellico has been expanding his horizons since he started at Fermilab in 1986. He initially began as an engineer working on the particle beam booster and optimizing systems to improve the beam. He then helped lead the first Proton Improvement Plan, which involved upgrades to the linear accelerator and booster from 2011 to 2017. When the PIP-II project started, Pellico helped align the goals of the original Proton Improvement Plan effort with new goals and provided guidance as a project leader. Pellico has always loved a challenge and has fed his appetite for new technology by trying out new divisions and new roles at the laboratory throughout his career.
+“I put myself out there in areas where I didn’t have experience and wanted to learn,” Pellico said. “This has given me a really well-rounded knowledge of and perspective on Fermilab.
+The lab’s environment encourages us to be creative and provides support for scientists and engineers like me to go outside our regular tasks to help where we can.”
+His latest challenge is finding solutions to real-world issues using Fermilab technology as the head of the Illinois Accelerator Research Center. After working in accelerators and detectors, he said the opportunity to help develop new uses for technology originally designed for high-energy physics is very rewarding.
+“You see all the challenges we’re having in the world, especially with renewable energy and power and decarbonization,” Pellico said. “So, I really believe all need to think about taking our technologies and seeing how they can be used for the benefit of the world.”
+Pellico acknowledges that working for the greater benefit of all can sometimes come at the cost of lost time with his family.
+“These technological developments demand a significant amount of time and effort. I couldn’t have accomplished this work without the understanding and support of my wife and children, who recognize that a 40-hour workweek isn’t always feasible.”
+Regardless of what he’s working on, Pellico has continued to live out his tenet of being comfortable with being uncomfortable. He said he enjoys passing his appetite for learning new things onto the students he’s worked with and has always enjoyed his time collaborating with others to help develop new technologies for Fermilab. “It’s in human nature to be comfortable, but if you’re a curious person, you should never be comfortable,” he said.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+Largest neutrino experiment in the US wins Project of the Year Award
+April 13, 2026
+construction
+engineering
+LBNF/DUNE
+Press release
+The largest neutrino experiment in the United States was named the Project of the Year by the Underground Construction Association for completing a significant and challenging underground construction project with little or no issues.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

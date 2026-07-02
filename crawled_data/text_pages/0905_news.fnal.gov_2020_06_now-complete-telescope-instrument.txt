@@ -1,0 +1,241 @@
+URL: https://news.fnal.gov/2020/06/now-complete-telescope-instrument-is-poised-to-begin-its-search-for-answers-about-dark-energy/
+Title: Now complete, telescope instrument is poised to begin its search for answers about dark energy
+────────────────────────────────────────────────────────────
+Now complete, telescope instrument is poised to begin its search for answers about dark energy
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Now complete, telescope instrument is poised to begin its search for answers about dark energy
+June 1, 2020
+Tags:
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Dark Energy Spectroscopic Instrument, which will map millions of galaxies in 3-D, reaches final milestone toward its startup.
+Media contact
+Leah Hesla, Fermilab
+media@fnal.gov
+, 630-840-3351
+Editor’s note: The
+Dark Energy Spectroscopic Instrument
+seeks to further our cosmic understanding by creating the largest 3-D map of galaxies to date. Below is a
+press release issued by the DESI collaboration
+announcing that DESI project completion is now formally approved. The U.S. Department of Energy’s Fermi National Accelerator Laboratory is a key player in the construction of this instrument, drawing on more than 25 years of experience with the
+Sloan Digital Sky Survey
+and the
+Dark Energy Survey
+.
+Fermilab contributed key elements to DESI, including the online databases used for data acquisition and the software that will ensure that each of the 5,000 robotic positioners are precisely pointing to their celestial targets, to within a tenth of the width of a human hair. Fermilab also contributed the corrector barrel, hexapod and cage. The corrector barrel – designed, built and initially tested at Fermilab – aligns DESI’s six large lenses. The hexapod, designed and built with partners in Italy, moves and focuses the lenses. Both the barrel and hexapod are housed in the cage, which was also designed and built by Fermilab. Additionally, Fermilab carried out the testing and packaging of DESI’s charge-coupled devices, or CCDs. The CCDs convert the light passing through the lenses from distant galaxies into digital information that can then be analyzed by the collaboration.
+The Dark Energy Spectroscopic Instrument, which will map millions of galaxies in 3-D, reaches final milestone toward its startup.
+Even as the
+Dark Energy Spectroscopic Instrument, or DESI
+, lies dormant within a telescope dome on a mountaintop in Arizona, due to the COVID-19 pandemic, the DESI project has moved forward in reaching the final formal approval milestone prior to startup.
+DESI is designed to gather the light of tens of millions of galaxies, and several million ultrabright deep-sky objects called quasars, using fiber-optic cables that are automatically positioned to point at 5,000 galaxies at a time by an orchestrated set of swiveling robots. The gathered light is measured by a group of 10 devices called spectrographs, which split the light into its spectrum, or separate colors.
+The measurements will help scientists map the universe in 3-D and learn more about mysterious dark energy — which drives the universe’s accelerating expansion — and could also provide new insight about the life cycle of galaxies and about the cosmic web that connects matter in the universe.
+DESI Begins
+from
+Berkeley Lab
+on
+Vimeo
+.
+After DESI passed a federal review in March, members of a federal advisory board formally approved the completion of the project on Monday, May 11. DESI was designed and built through the efforts of a large international collaboration that now numbers about 500 researchers at 75 institutions in 13 nations.
+“Congratulations to the DESI team of U.S. and international labs and universities in developing this amazing, state-of-the-art spectroscopic instrument,” said Kathleen Turner, DESI program manager at the Department of Energy’s Office of High Energy Physics. “We are all looking forward to using DESI’s exquisite precision to map the expansion of the universe over time.”
+Michael Levi, DESI project director and a scientist at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab), which is the lead institution in the project, said, “This is the culmination of 10 years of hard work by an incredibly dedicated and talented team and a major accomplish for all involved.”
+He added, “We understand and appreciate the extraordinary privilege we have been given to work with this instrument – and even more so during this challenging time, as we continue as scientists to explore what lies beyond our world.”
+The completion of the DESI Project was formally approved on May 11. DESI is designed to gather the light of tens of millions of galaxies, and several million ultrabright deep-sky objects called quasars, using fiber-optic cables that are automatically positioned to point at 5,000 galaxies at a time by an orchestrated set of swiveling robots. Photo: Marilyn Chung/Lawrence Berkeley National Laboratory
+Preparing for a restart in DESI testing
+In mid-March it became clear that a final testing phase of the instrument would be abruptly suspended due to the temporary shutdown of most activities at Kitt Peak National Observatory, or KPNO, where DESI is located, to reduce the risk of spreading COVID-19.
+Project participants moved quickly to capture a large, last batch of sky data during the March 14-15 weekend before the instrument was temporarily shuttered the following week, and that data proved useful in the project’s review for the construction completion milestone, known as Critical Decision 4, or CD-4.
+In the months leading up to the temporary reduction in operations at KPNO, which is a program of the
+National Science Foundation’s NOIRLab
+, researchers had engaged in DESI observing runs to troubleshoot technical snags and ensure its components are functioning properly.
+Now, project participants say they are looking forward to a return to DESI testing in preparation for its startup and five-year mission.
+“The early returns from the instrument were very gratifying after years of development,” said Daniel Eisenstein, a DESI spokesperson and Harvard University astronomy professor. “Now the whole team is eager to learn what DESI data will teach us about the universe.”
+###
+DESI is supported by the U.S. Department of Energy’s Office of Science; the U.S. National Science Foundation, Division of Astronomical Sciences under contract to the NSF’s National Optical-Infrared Astronomy Research Laboratory; the Science and Technologies Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission; the National Council of Science and Technology of Mexico; the Ministry of Science, Innovation, and Universities of Spain; and DESI member institutions. The DESI scientists are honored to be permitted to conduct astronomical research on Iolkam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation. View the full list of DESI
+collaborating institutions
+, and learn more about DESI at
+www.desi.lbl.gov
+.
+Founded in 1931 on the belief that the biggest scientific challenges are best addressed by teams,
+Lawrence Berkeley National Laboratory
+and its scientists have been recognized with 13 Nobel prizes. Today, Berkeley Lab researchers develop sustainable energy and environmental solutions, create useful new materials, advance the frontiers of computing, and probe the mysteries of life, matter, and the universe. Scientists from around the world rely on the lab’s facilities for their own discovery science. Berkeley Lab is a multiprogram national laboratory, managed by the University of California for the U.S. Department of Energy’s Office of Science.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+The National Science Foundation’s
+NOIRLab
+, the U.S. center for ground-based optical-infrared astronomy, operates multiple research facilities including Kitt Peak National Observatory, a program of NSF’s NOIRLab. The laboratory is operated by the Association of Universities for Research in Astronomy under a cooperative agreement with NSF’s Division of Astronomical Sciences. The
+National Science Foundation
+is an independent federal agency created by Congress in 1950 to promote the progress of science. NSF supports basic research and people to create knowledge that transforms the future.
+The
+Heising-Simons Foundation
+is a family foundation based in Los Altos, California. The foundation works with its many partners to advance sustainable solutions in climate and clean energy, enable groundbreaking research in science, enhance the education of our youngest learners, and support human rights for all people.
+The
+Gordon and Betty Moore Foundation
+, established in 2000, seeks to advance environmental conservation, patient care and scientific research. The foundation’s science program aims to make a significant impact on the development of provocative, transformative scientific research and increase knowledge in emerging fields.
+The
+Science and Technology Facilities Council
+is part of UK Research and Innovation – the United Kingdom body that works in partnership with universities, research organizations, businesses, charities and government to create the best possible environment for research and innovation to flourish. STFC funds and supports research in particle and nuclear physics, astronomy, gravitational research and astrophysics, and space science and also operates a network of five national laboratories as well as supporting UK research at a number of international research facilities including CERN, Fermilab and the ESO telescopes in Chile. STFC is keeping the UK at the forefront of international science and has a broad science portfolio and works with the academic and industrial communities to share its expertise.
+Established in 1958 and aiming at the forefront of astronomical science, the National Astronomical Observatories of the Chinese Academy of Sciences conducts cutting-edge astronomical studies, operates major national facilities and develops state-of the-art technological innovations.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+DESI opens access to the largest 3D map of the universe yet
+March 19, 2025
+cosmology
+DESI
+Skipper CCD
+Press release
+A new data release from the Dark Energy Spectroscopic Instrument is now available for researchers to explore. The collection contains information on 18.7 million galaxies, quasars, and stars — the largest dataset of its kind ever shared.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

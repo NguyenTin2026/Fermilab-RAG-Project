@@ -1,0 +1,196 @@
+URL: https://news.fnal.gov/2026/04/new-electronically-tunable-quantum-detector-speeds-up-search-for-dark-matter/
+Title: New electronically tunable quantum detector speeds up search for dark matter
+────────────────────────────────────────────────────────────
+New electronically tunable quantum detector speeds up search for dark matter
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+| By:
+Marcia Teckenbrock
+Tags:
+dark matter
+emerging technologies
+QICK
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+For nearly a century, scientists have been searching for evidence of dark matter, an invisible substance they believe makes up most of the mass of the universe. Such a discovery could lead to a greater understanding of our universe and how it works.
+But finding this elusive material is easier said than done. For one thing, nobody knows exactly what dark matter is made of, so the range of particle masses and their signal frequencies is incredibly broad. Also, dark matter interacts infrequently with ordinary matter and light. To observe it, scientists rely on extremely sensitive detectors to capture very weak signals produced by dark matter particles.
+In a
+study published in
+Physical Review Letters
+, scientists at Fermi National Accelerator Laboratory, University of Chicago, Stanford University and New York University used a state-of-the-art detector to speed up the search for one theorized dark matter particle — the dark photon — with
+unprecedented precision
+. If it exists, the dark photon would be distantly related to the photon, a visible particle of light.
+Their research is enabled by the U.S. Department of Energy’s
+Quantum Information Science Enabled Discovery
+program, which partners Fermilab and university scientists to advance quantum sensor development for future high-energy physics experiments.
+“Fermilab’s longstanding expertise in designing and building ultrasensitive, low-noise electronics makes it the ideal place to further this technology for next-generation quantum science research like dark matter searches,” said Aaron Chou, a scientist at Fermilab who worked on the study.
+This image shows an experiment at Fermilab to test an ultrasensitive detector designed to search for dark photons. Housed within a dilution refrigerator kept at cryogenic temperatures, the copper-wrapped container, right, shields the detector from low-frequency magnetic fields. Credit: Fang Zhao, Fermilab
+The dark photon resides in a narrow frequency band, which means to see its signal a radio-like detector must be carefully tuned to its exact frequency. Scientists developed this detector to be capable of capturing weak signals from dark photons by placing an electrically-tunable instrument called a superconducting quantum interference device — or SQUID — inside a three-dimensional microwave cavity. The device’s superconductance means it has no resistance to energy and can therefore pick up even the faintest signals, such as those from a dark photon.
+Key to the detector’s ability to speed up the search for a tiny signal in a broad range of frequencies is flux tuning, which uses electricity to tune the device instead of manually.
+“Rather than physically turning a dial to a specific frequency like with a radio, we apply electromagnetic flux to the SQUID, precisely controlling its ability to oppose changes in electricity flowing through it,” said Fang Zhao, a former Fermilab postdoctoral researcher who led the study.
+Somewhat like an electronic pendulum, this flux essentially changes how quickly or slowly the device moves. The microwave cavity is coupled to the SQUID, so changes in the SQUID correspondingly changes the speed of the cavity, allowing it to “listen to” different frequencies.
+“Without the ability to electrically tune its frequency, you would have to build billions of detectors to capture the signal,” said Ziqian Li, a former University of Chicago graduate student who also worked on the study. “In contrast, we can build a few flux-tunable detectors and place them at various frequencies, enabling capture of possible signals much faster than before.”
+Conventional tunable detectors require mechanically changing the shape of a cavity by physically exerting force or adding mechanical parts inside connected circuits. This poses a challenge because qubit-based detectors require ultracold temperatures to function properly, and extreme cold can cause these parts to seize and break. In addition, mechanical parts emit a lot of heat, which creates noise in the cavity, obscuring signals and decreasing the ability to read and understand the quantum information stored inside the detector.
+But use of flux tuning not only enables rapid frequency scanning, it also generates very little heat. This overcomes a major challenge for dark matter searches — preserving coherence. Quantum coherence, says Zhao, is what makes these sensors so precise.
+“It’s a fundamental requirement for quantum devices to be protected from anything like heat or noise that might obscure such fragile signals and preserve them long enough for us to detect them.”
+The scientists scanned a relatively large frequency range of 22-megahertz over three days. During this time, they were able to speed up the scanning rate by at least a factor of 20 over mechanical tuning methods. While their search did not turn up any dark photons, they were able to build on previous studies at multiple institutions and narrow the frequency range where dark matter can exist.
+This illustration shows a state-of-the-art qubit detector designed to search for very weak signals from dark photons. A storage component traps microwave particles and scans for any signals that may indicate a dark photon’s presence. A superconducting quantum interference device, or SQUID coupler, acts as a tuner that electronically adjusts the frequencies the connected microwave cavity can scan. The signals are encoded on the readout of a supercomputing qubit, which shows scientists what is happening inside the device. Credit: Fang Zhao, Fermilab
+“What we’re really trying to do is to build a detector that is more sensitive than anybody else has ever made before; we did that,” said Chou. “We also showed that the detector was compatible with the qubit-based signal readout that we use for dark matter searches and that everything was integrated and everything just worked. It laid the foundation for larger dark matter searches.”
+The current detector is very simple, with one cavity and one tunable device — the SQUID. However, work is underway to scale up this technology. Researchers could combine 10, 50 or even more cavities, each covering a different frequency range, with a single tunable element and simultaneously scan a 50 times wider range.
+“While there is more work to do to improve scaling, we know now we can use the same detection technique to allow us to detect a large range of the dark photon within a few days, and then the full coverage search of the dark photon is within our reach,” said Li.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

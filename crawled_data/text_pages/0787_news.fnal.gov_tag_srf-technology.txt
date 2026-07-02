@@ -1,0 +1,235 @@
+URL: https://news.fnal.gov/tag/srf-technology/
+Title: SRF technology Archives - News
+────────────────────────────────────────────────────────────
+SRF technology Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+SRF technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 10 results
+Designing a green accelerator
+December 8, 2020
+accelerator
+accelerator technology
+SRF technology
+superconducting radio-frequency technology
+From APS Physics, Dec. 4, 2020: Scientists are finding ways to increase particle accelerator efficiency. One way to reduce cooling costs relies on a technique developed at Fermilab and Jefferson Lab.
+TESLA’s high-gradient march
+November 11, 2020
+accelerator
+accelerator technology
+SRF technology
+superconducting radio-frequency technology
+From CERN Courier, Nov. 10, 2020: Established 30 years ago with a linear electron-positron collider in mind, the TESLA Technology Collaboration has played a major role in the development of superconducting radio-frequency cavities and related technologies for a wide variety of applications. The first decade of the 21st century saw the TTC broaden its reach, for example, gradually opening to the community working on proton superconducting cavities, such as the half-wave resonator string collaboratively developed at Argonne National Lab and now destined for use in PIP-II at Fermilab.
+Particle accelerator technology could solve one of the most vexing problems in building quantum computers
+February 26, 2020
+Argonne National Laboratory
+computing
+quantum computing
+quantum information science
+quantum science
+qubits
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+One of the most difficult problems to overcome in developing a quantum computer is finding a way to maintain the lifespan of information held in quantum bits, called qubits. Researchers at Fermilab and Argonne National Laboratory are working to determine whether devices used in particle accelerators can help solve the problem. The team will run simulations on high-performance computers that will enable them to predict the lifespan of information held within these qubits using smaller versions of these devices, taking us one step closer to the age of quantum computing.
+Searching for dark matter with quantum computers, one blip of light at a time
+February 19, 2020
+ADMX
+axion
+dark matter
+QISMET
+quantum science
+SRF technology
+From Gizmodo, Feb. 19, 2020: Sensor limits have driven one dark matter-hunting team to build a dark matter detector from the same guts as a quantum computer. Their device under construction at Fermilab solidifies extreme sensing as one of present-day quantum technology’s best real-world applications.
+‘Dirty’ superconductors make better particle accelerators
+November 12, 2019
+Northwestern University
+SRF
+SRF technology
+superconducting radio-frequency technology
+From Northwestern University, Nov. 8, 2019: Northwestern and Fermilab researchers, including Fermilab scientists Anna Grassellino and Alexander Romanenko, show how impurities can increase the maximum accelerating field of superconducting radio-frequency cavities, a finding with huge potential cost advantages.
+Fermilab, international partners break ground on new state-of-the-art particle accelerator
+March 15, 2019
+accelerator
+accelerator technology
+Deep Underground Neutrino Experiment
+DUNE
+neutrino
+PIP-II
+SRF
+SRF technology
+superconducting radio-frequency technology
+Press release
+The March 15 ceremony marks the start of work on PIP-II, a major new accelerator project at Fermilab. The PIP-II accelerator will power the long-term future of the laboratory’s research program, including the international Deep Underground Neutrino Experiment.
+DOE Under Secretary for Science Paul Dabbar visits Fermilab to discuss quantum program
+January 23, 2019
+computing
+dark matter
+Department of Energy
+detector technology
+DOE
+machine learning
+quantum communication
+quantum computing
+quantum information science
+quantum science
+quantum sensor
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+Fermilab’s quantum program includes a number of leading-edge research initiatives that build on the lab’s unique capabilities as the U.S. center for high-energy physics and a leader in quantum physics research. On the tour, researchers discussed quantum technologies for communication, high-energy physics experiments, algorithms and theory, and superconducting qubits hosted in superconducting radio-frequency cavities.
+From turkeys to turn-keys
+November 27, 2018
+accelerator technology
+result
+SRF
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+Researchers demonstrate the cryogen-free operation of a superconducting radio-frequency cavity that might ease barriers to its use in societal applications.
+Silicon Valley welcomes a superconducting X-ray laser
+February 1, 2018
+accelerator technology
+California
+collaboration
+Jefferson Lab
+LCLS-II
+SLAC
+SRF technology
+Virginia
+From
+Forbes
+, Jan. 24, 2018: Fermilab will provide half of SLAC’s LCLS-II cryomodules, and Jefferson Lab in Newport News, Virginia, will provide the other half. Fermilab is located in Illinois, so the very first cryomodule that arrived at SLAC by truck last week made a hefty trip from Illinois to California – essentially making a trip across the whole of the U.S.
+Fermilab delivers first cryomodule for ultrapowerful X-ray laser at SLAC
+January 19, 2018
+accelerator technology
+California
+collaboration
+Jefferson Lab
+LCLS-II
+SLAC
+SRF
+SRF technology
+Virginia
+Press release
+A Fermilab team built and tested the first new superconducting accelerator cryomodule for the LCLS-II project, which will be the nation’s only X-ray free-electron laser facility.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

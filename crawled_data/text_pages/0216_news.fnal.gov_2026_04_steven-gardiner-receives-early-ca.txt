@@ -1,0 +1,174 @@
+URL: https://news.fnal.gov/2026/04/steven-gardiner-receives-early-career-award-to-advance-low-energy-neutrino-research-at-dune/
+Title: Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+────────────────────────────────────────────────────────────
+Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+April 9, 2026
+| By:
+Zachary Burton
+Tags:
+DUNE
+neutrino
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Physicist Steven Gardiner recently received a Department of Energy Early Career Award to explore the low-energy research potential of the Deep Underground Neutrino Experiment. By applying his unique background in neutron simulations, he aims to leverage the massive detector modules of DUNE to study elusive particles from outer space.
+When Steven Gardiner first embarked on his scientific career, his research centered on the practical applications of nuclear physics, such as prototyping neutron detectors for counterterrorism and improving simulations used by nuclear engineers to design reactors. Fundamental research on neutrino physics was far from his mind until he considered PhD programs and heard about the Deep Underground Neutrino Experiment, hosted by the U.S. Department of Energy’s Fermi National Accelerator Laboratory.
+After speaking to his adviser, Bob Svoboda at University of California, Davis, about the exciting science potential of DUNE, Gardiner recalled, “I became a neutrino person and never looked back.” He joined Fermilab in 2018, bringing a unique background in neutron simulations to the study of some of the most elusive particles in the universe.
+This career track recently earned Gardiner a Department of Energy Early Career Award, which provides funding to explore the low-energy research potential of DUNE. While the experiment is primarily designed for high-energy beam physics, Gardiner is advocating for its use as an unusual kind of telescope. Rather than collecting rays of light to study the universe, DUNE will be sensitive to ghostly low-energy neutrinos coming from outer space, including those from the Sun, supernovae, black holes and possibly dark matter.
+“Even though DUNE is designed for beam physics, you can go way lower in energy, and it still performs,” Gardiner said. He believes his specific background allows him to make a “unique contribution due to my career trajectory,” taking him from neutrons to neutrinos.
+Physicist Steven Gardiner is a recipient of a 2025 DOE Early Career Award. Credit: JJ Starr, Fermilab
+The technical heart of this research involves upgrading
+a computer simulation code called MARLEY
+, or Model of Argon Reaction Low Energy Yields. Because neutrinos interact so weakly with ordinary matter, they are not directly visible in detectors. Instead, physicists must look for extremely rare collisions between neutrinos and atomic nuclei. Like a subatomic version of a car crash investigation, the tracks left by particles coming out of each collision provide clues about what originally happened. To put these puzzle pieces back together, scientists rely on detailed simulations of the collision physics, which is where MARLEY becomes essential.  Results from these simulations will help researchers tell the difference between uninteresting noise, low-energy cosmic neutrinos and potential signals from undiscovered new particles. The ultimate goal of this work is to push the boundaries of physics. “My hope is that as a result of this project, we are thinking about new physics beyond the Standard Model,” Gardiner said.
+He also emphasized science opportunities going far beyond the microscopic world. “Neutrinos reveal the inner workings of stars to us, whether it’s the core of our own Sun or the first moments of a supernova explosion,” Gardiner said. By refining the models used to interpret neutrino interactions, he is helping to open a wider view of the distant universe. “DUNE is a new window to the cosmos,” he said. “It gives us a new way of seeing into a hidden world where all kinds of crazy stuff might be going on.”
+The DOE funding ensures that low-energy neutrino research may expand our understanding of the fundamental building blocks of the universe through the unparalleled sensitivity of the DUNE detectors.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

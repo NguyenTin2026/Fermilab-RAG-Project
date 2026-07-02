@@ -1,0 +1,194 @@
+URL: https://news.fnal.gov/2020/07/robert-ainsworth-awarded-2-5-million-to-improve-particle-beams-for-high-intensity-experiments/
+Title: Robert Ainsworth awarded $2.5 million to improve particle beams for high-intensity experiments
+────────────────────────────────────────────────────────────
+Robert Ainsworth awarded $2.5 million to improve particle beams for high-intensity experiments
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Robert Ainsworth awarded $2.5 million to improve particle beams for high-intensity experiments
+July 29, 2020
+| By:
+Leah Hesla
+Tags:
+accelerator
+accelerator science
+beam
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab scientist Robert Ainsworth has won a $2.5 million Department of Energy Early Career Research Award to study different ways of ensuring stability in high-intensity proton beams. By studying how certain types of beam instabilities emerge and evolve under different conditions, his team can help sharpen scientists’ methods for correcting them or avoiding them to begin with.
+Robert Ainsworth
+Inside a perfectly tuned particle accelerator ring, a proton beam will lap the circle smoothly, like a racecar cruising confidently down the track’s center lane. But the dynamics of a particle beam are complex, and small disturbances can grow and propagate through the beam, causing it to veer off course.
+Fermilab scientist Robert Ainsworth has won a Department of Energy
+Early Career Research Award
+to study particular ways that a proton beam can lose its way and become unstable.
+The $2.5 million award, distributed over five years, funds an in-depth experimental program to examine instabilities that arise as more protons are packed into a beam. By provoking these instabilities in a dedicated accelerator system and then studying how they emerge and evolve under different conditions, his team can help sharpen scientists’ methods for correcting them or avoiding them to begin with.
+“The award is exciting because it means accelerator-beam physics is getting recognition,” Ainsworth said.
+In a particle’s wake
+Ainsworth’s work is timely, as the particle physics community is working to ramp up the intensity of the particle beams that feed their experiments. Intensity refers to the number of particles that are squeezed into a beam. The more intense the beam, the more opportunities to study subatomic phenomena, especially hard-to-detect gems that may show up only once or twice in a mountain of data.
+But the cost of beam intensity is a greater chance of instability. Ainsworth aims to help keep it in check.
+The particle beam that speeds through an accelerator ring is not, as one might think, a steady stream of particles. Rather, it is made of packets of particles called bunches, one racing after the next. Numbers vary across accelerator systems; in the Fermilab accelerator chain, each bunch contains between hundreds of millions and a hundred billion protons.
+Like a swarm of bees, a bunch’s individual members keep together as they travel; well-behaved bunches move as a tight, solid mass. But should a particle at the front of bunch stray from its path, its electromagnetic radiation could turn pell-mell, causing the rear particles to lose control, swerve from their paths and sometimes even crash into the beam pipe wall.
+To study these kinds of situations in a controlled setting, Ainsworth will build a kind of beam-instability lab, deliberately setting off haywire scenarios to see how the bunch responds to the size of the renegade particle’s wake. And, key for high-intensity particle physics experiments, he’ll also study what happens as more protons are crowded into a bunch.
+As particles are added to the bunch and as it grows in size, so does a kind of instability called transverse mode coupling instability, or TMCI, throwing the initially solid bunch off kilter.
+Past theoretical research indicated that, so long as the shape of the bunch was held fixed, stability should increase with the number of particles in a bunch — seemingly good news for high-intensity experiments. But beam measurements have not borne this out, and more recent research suggests that previously unconsidered TMCI effects come into play when crowding more particles into a fixed-size bunch. Contrary to past predictions, these effects may lead to an altogether different kind of instability, called
+convective instability
+.
+Ainsworth’s team will be the first to excite these instability modes in individual bunches for study, investigating how both TMCI and convective instabilities come into play as bunches become more packed with protons.
+“As we go to higher intensities, we need to make sure that our machines are ready for instabilities in the future and that we don’t run into one we weren’t expecting to see,” Ainsworth said.
+“We’re good at making powerful particle beams, but the beams have to be well-directed to be useful. Particles that stray from their bunches don’t contribute to science, so we want them to be not just intense, but stable and focused,” said Fermilab scientist Mike Lindgren, head of the lab’s Accelerator Division. “Rob’s work is crucial here. Few if any are looking at these complicated bunch dynamics the way he is. His research will help us deliver the megawatt-scale beams experimenters are asking for.”
+The research is beneficial also for lower-energy accelerators, where particle bunches are susceptible to the same instabilities as high-intensity machines.
+Ainsworth will install two systems for testing beam instabilities in the Fermilab Recycler, a three-kilometer-circumference storage ring, seen here. Later, he will install them in a separate facility, the Integrable Optics Test Accelerator. Photo: Reidar Hahn, Fermilab
+Kickstarting instability for better beams
+Ainsworth’s Early Career Research Award will fund the development and implementation of two new systems to be installed in a Fermilab particle accelerator.
+The first system, a “waker,” will deliberately provoke instabilities, giving a proton bunch a precisely aimed kick. Ainsworth’s team will vary the position and severity of the kick, nudging the bunch at different points along its length. The second system is a monitor that, like a microscope, will allow the team to zoom in on and measure the resulting bunch motion, including how it is amplified over time.
+“We provoke instabilities now to understand them better,” Ainsworth said. “And then if we need to, we can create a system to protect ourselves in the future.”
+The pair of systems will be installed initially in the Fermilab Recycler, a 3-kilometer-circumference proton storage ring. Later they will be moved to Fermilab’s 40-meter-circumference Integrable Optics Test Accelerator, or IOTA, designed for precision beam physics studies.
+The studies are meant to benefit the field of particle physics broadly, so Ainsworth will design the waker and monitoring systems to be versatile, imitating a variety of accelerator environments.
+“Each machine is specific,” he said. “So rather than going to loads of different machines and trying to find the parameters we want, we want to try to mimic this wake field effect by creating this hardware system.”
+The award will also fund a postdoctoral research position to join Ainsworth’s team.
+“Particle beams are the tools of discovery for particle physics,” Lindgren said. “Rob is helping us see how we can design new, improved tools for understanding how our universe works at its most fundamental level.”
+Research on particle accelerator science is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+March 9, 2026
+accelerator science
+AI
+Fermilab feature
+Fermilab’s FAST/IOTA accelerator test facility has successfully accelerated and stored its first proton beams, marking a major milestone in the lab’s R&D program for next-generation particle accelerator technology. This achievement paves the way for breakthroughs in high-intensity beam physics, artificial intelligence applications and innovations that will power future experiments like the Deep Underground Neutrino Experiment.
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+accelerator
+energy
+particle physics
+quantum
+Fermilab feature
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+Designing resilient targets for high-energy particle accelerators
+November 5, 2024
+accelerator
+neutrinos
+targetry
+Fermilab feature
+Particle accelerator beams can create significant damage to the targets used to generate particles for experiments. Researchers are designing targets to withstand material degradation from radiation damage, shock from thermal expansion and material fatigue — all caused by accelerated protons.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

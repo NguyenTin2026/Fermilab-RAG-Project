@@ -1,0 +1,182 @@
+URL: https://news.fnal.gov/2025/08/a-minute-with-troy-england/
+Title: A minute with Troy England
+────────────────────────────────────────────────────────────
+A minute with Troy England
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Troy England
+August 20, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+detectors
+emerging technologies
+microelectronics
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Troy England is an engineer at Fermilab who designs microelectronics that can function in the ultracold spaces required by quantum systems. His work is helping scientists get better data to explore particle interactions and understand qubit behavior.
+Troy England is designing microelectronics that function in extreme environments. Photo: Ryan Postel, Fermilab
+What do you do at Fermilab?
+I’m a senior engineer, and I design application-specific integrated circuits, what we call ASICs, for quantum and high-energy physics applications, specializing on the analog side. Typically, these are intended for extreme environments. For my projects, that means exceptionally cold, but it can also mean extreme radiation.
+I work on taking an analog signal from a detector that’s looking for a particle or measuring some quantum property and designing the piece that converts the signal to the digital domain. Once the information is digitized, you can do a lot more calculations, processing, and many other things more efficiently in terms of power and space.
+How long have you been at Fermilab, and how has your career led you to this position?
+I’ve worked at Fermilab in the Microelectronics Division for five years.
+Before that, I worked at Sandia National Laboratories in New Mexico, where I also got to work on some quantum projects. Fermilab was beginning to ramp up in the quantum space, so it was a natural fit. I really appreciate the collaborative atmosphere at Fermilab. Working with others in unique situations and delivering products as a team are my favorite aspects of projects here.
+Before Sandia, I earned my master’s and Ph.D. in electrical and computer engineering at Georgia Tech.
+What is the main project you are working on now?
+My main project is one of the few things I’m working on that’s not cryogenic. It’s a fast-timing design, where we’re trying to measure events with very precise time resolution — below 10 picoseconds — for four-dimensional tracking of particles. This buys a lot of information because it provides, not only a position, but also a time. These ASICs tend to accompany low-gain avalanche diodes, so it’s a cross-disciplinary project that provides another way to get better data for scientists to discover more.
+What do you find most challenging about your job?
+The unique kind of requirements for our work, although I also enjoy the unusual specifications and the challenges that are outside the norm. In quantum, the deep cryogenic environment means that there’s not a lot of design infrastructure in place. Usually, when you design a chip, there are established pieces inside a process design kit, what we call a PDK. Those don’t exist yet for cryogenic temperatures.
+You typically have all sorts of checks, like simulations and mask layout rules, to make sure your chip will do what you want it to do. But when you cool something close to absolute zero, much of that is compromised. You can make some educated guesses about how a transistor may act, but in the end, you are dealing with a level of unknown that is not normal for what we do in chip development.
+What do you see coming up for quantum?
+The future of quantum is scaling. When you scale up, the number of resources you have to accomplish a goal all start falling. You have one thing that took this much power and this much space to accomplish, but now somebody says, “I want to do this for a hundred things, all at once.” That’s the era that we want to be in for quantum right now.
+I have previously designed amplifiers that were microwatts of power, and that was great. Soon it will be, “I need 10 amplifiers for that much power.” A unique characteristic of dilution refrigerators is that you only get so much power. Even if you scale up, it’s not a given that you will get more cooling capacity. We constantly need to think of new ways to approach our goals with that in mind.
+What do you like to do when you’re not at work?
+I enjoy spending time with my family, camping, watching TV shows and movies, and the occasional do-it-yourself project around the house. Back in May, we had a lot of fun camping with the Cub Scouts right outside the stadium after a game for the Kane County Cougars, the local minor league baseball team. We enjoyed the fireworks and a movie after the game. My wife and I like to watch sci-fi, so we’re excited for the last two seasons of Silo coming out.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

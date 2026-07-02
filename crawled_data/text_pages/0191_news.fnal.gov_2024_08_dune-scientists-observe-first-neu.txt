@@ -1,0 +1,205 @@
+URL: https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/
+Title: DUNE scientists observe first neutrinos with prototype detector at Fermilab
+────────────────────────────────────────────────────────────
+DUNE scientists observe first neutrinos with prototype detector at Fermilab
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+DUNE scientists observe first neutrinos with prototype detector at Fermilab
+August 12, 2024
+Tags:
+detector technology
+DUNE
+neutrino physics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The prototype of a novel particle detection system for the international Deep Underground Neutrino Experiment successfully recorded its first accelerator neutrinos, providing a first look at the ability of this innovative technology to handle large numbers of the mysterious particles’ interactions.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+In a major step for the international
+Deep Underground Neutrino Experiment
+, scientists have detected the first
+neutrinos
+using a DUNE prototype particle detector at the U.S. Department of Energy’s Fermi National Accelerator Laboratory.
+Display of a candidate neutrino interaction recorded by the 2×2 detector highlighting the four internal detector modules and native 3D imaging capability. The bottom image additionally shows the detectors surrounding the 2×2 for further tracking of incoming and exiting particles. The DUNE Near Detector will similarly consist of a modular liquid argon detector along with a muon tracker. Credit: DUNE Collaboration
+DUNE, currently under construction, will be the most comprehensive neutrino experiment in the world. It will bring scientists closer to solving some of the biggest physics mysteries in the universe, including searching for the origin of matter and learning more about supernovae and black hole formation.
+Since DUNE will feature new designs and technology, scientists are testing prototype equipment and components in preparation for the final detector installation. In February, the DUNE team finished the installation of their latest prototype detector in the path of an existing neutrino beamline at Fermilab. On July 10, the team announced that they successfully recorded their first accelerator-produced neutrinos in the prototype detector, a step toward validating the design.
+“This is a truly momentous milestone demonstrating the potential of this technology,” said Louise Suter, a Fermilab scientist who coordinated the module installation. “It is fantastic to see this validation of the hard work put into designing, building and installing the detector.”
+The new neutrino detection system is part of the plan for DUNE’s near detector complex that will be built on the Fermilab site. Its prototype — known as the
+2×2 prototype
+because it has four modules arranged in a square — records particle tracks with liquid argon time projection chambers. The final version of the DUNE near detector will feature 35 liquid argon modules, each larger than those in the prototype. The modules will help navigate the enormous flux of neutrinos expected at the near site.
+The 2×2 prototype implements
+novel technologies
+that enable a new regime of detailed, cutting-edge neutrino imaging to handle the unique conditions in DUNE. It has a millimeter-sized pixel readout system, developed by a team at DOE’s Lawrence Berkeley National Laboratory, that allows for high-precision 3D imaging on a large scale. This, coupled with its modular design, sets the prototype apart from previous neutrino detectors like
+ICARUS
+and
+MicroBooNE
+.
+The 2×2 prototype detector for the DUNE near detector was placed in its cryostat in October 2023. Pictured are Kevin Wood, a Chamberlain Postdoctoral Fellow at Berkeley Lab and run coordinator for the 2×2 prototype; and Brooke Russell, now the Neil and Jane Pappalardo Special Fellow in Physics at MIT and the 2×2 prototype’s charge readout expert. Photo Credit: Dan Svoboda, Fermilab
+Now, the 2×2 prototype provides the first accelerator-neutrino data to be analyzed by the DUNE collaboration.
+DUNE is split between two locations hundreds of miles apart: a beam of neutrinos originating at Fermilab, close to Chicago, will pass through a particle detector located on the Fermilab site, then travel 800 miles through the ground to huge detectors at the
+Sanford Underground Research Facility
+in South Dakota.
+The DUNE detector at Fermilab will analyze the neutrino beam close to its origin, where the beam is extremely intense. Collaborators expect this near detector to record about 50 interactions per pulse, which will come every second, amounting to hundreds of millions of neutrino detections over DUNE’s many expected years of operation. Scientists will also use DUNE to study neutrinos’ antimatter counterpart, antineutrinos.
+DUNE scientists will send a beam of neutrinos from Fermilab to huge detectors in South Dakota — a journey of about 800 miles. Image: Fermilab
+This unprecedented flux of accelerator-made neutrinos and antineutrinos will enable DUNE’s ambitious
+science goals
+: Physicists will study the particles with DUNE’s near and far detectors to learn more about how they change type as they travel, a phenomenon known as neutrino oscillation. By looking for differences between neutrino oscillations and antineutrino oscillations, physicists will seek evidence for a broken symmetry known as CP violation to determine whether neutrinos might be responsible for the prevalence of matter — and hence everything — in our universe.
+A team of 2×2 scientists at the Fermilab detector operations center monitoring the start-up of the detector. Credit: Dan Svoboda
+The DUNE collaboration is made up of more than 1,400 scientists and engineers from over 200 research institutions. Nearly 40 of these institutions work on the near detector. Specifically, hardware development of the 2×2 prototype was led by the University of Bern in Switzerland, DOE’s Fermilab, Berkeley Lab and SLAC National Accelerator Laboratory, with significant contributions from many universities.
+“It is wonderful to see the success of the technology we developed to measure neutrinos in such a high-intensity beam,” said Michele Weber, a professor at the University of Bern — where the concept of the modular design was born and where the four modules were assembled and tested — who leads the effort behind the new particle detection system. “A successful demonstration of this technology’s ability to record multiple neutrino interactions simultaneously will pave the way for the construction of the DUNE liquid argon near detector.”
+Next steps
+Testing the 2×2 prototype is necessary to demonstrate that the innovative design and technology are effective on a large scale to meet the near detector’s requirements. A modular liquid-argon detector capable of detecting high rates of neutrinos and antineutrinos has never been built or tested before.
+The existing Fermilab beamline is an ideal place for testing and presents an exciting opportunity for the researchers to measure these mysterious particles. It is currently running in “antineutrino mode,” so DUNE scientists will use the 2×2 prototype to study the interactions between antineutrinos and argon.
+Michele Weber, a professor at the University of Bern in Switzerland, spearheaded the 2×2 prototype efforts. Image: Dan Svoboda, Fermilab
+When antineutrinos hit argon atoms, as they will in the argon-filled near detector, they interact and produce other particles. The prototype will observe what kinds of particles are produced and how often. Studying these antineutrino interactions will prepare scientists to compare neutrino and antineutrino oscillations with DUNE.“Analyzing this data is a great opportunity for our early-career scientists to gain experience,” said Kevin Wood, the first run coordinator for the 2×2 prototype and a postdoctoral researcher at Berkeley Lab, where the prototype’s novel readout system was developed. “The neutrino interactions imaged by the 2×2 prototype will provide a highly anticipated dataset for our graduate students, postdocs and other young collaborators to analyze as we continue to prepare to bring DUNE online.”The DUNE collaboration plans to bombard the 2×2 prototype with antineutrinos from the Fermilab beam for several months.
+Sergio Bertolucci, professor of physics at the University of Bologna in Italy and co-spokesperson of DUNE with Mary Bishai of Brookhaven National Laboratory, said, “This is an exciting milestone for the 2×2 team and the entire DUNE collaboration. Let this be the first of many neutrino interactions for DUNE!”
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

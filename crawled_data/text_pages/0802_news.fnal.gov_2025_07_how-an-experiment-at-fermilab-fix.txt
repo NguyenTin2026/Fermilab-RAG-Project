@@ -1,0 +1,237 @@
+URL: https://news.fnal.gov/2025/07/how-an-experiment-at-fermilab-fixed-a-hole-in-the-standard-model/
+Title: How an experiment at Fermilab fixed a hole in the Standard Model
+────────────────────────────────────────────────────────────
+How an experiment at Fermilab fixed a hole in the Standard Model
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+How an experiment at Fermilab fixed a hole in the Standard Model
+July 16, 2025
+| By:
+Madeleine O’Keefe
+Tags:
+neutrino
+Standard Model
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+On July 21, 2000, the DONUT collaboration at Fermilab announced the first direct evidence for tau neutrinos. The particles remain elusive to this day, but physicists continue to seek new ways of studying them.
+Twenty-five years ago, there was a hole in the Standard Model. And on July 21, 2000, an experiment called DONUT filled it.
+That’s when a team of 54 physicists from the United States, Japan, South Korea and Greece
+announced the first-ever detection of the tau neutrino
+, one of the last unseen particles in the
+Standard Model
+of particle physics. They were part of the Direct Observation of the Nu Tau, or DONUT, collaboration based at the U.S. Department of Energy’s Fermi National Accelerator Laboratory.
+“We knew there was a tau neutrino — there had to be,” said Regina Rameika, a member of DONUT at the time and now associate director for high-energy physics at the Department of Energy. “But the fact is, we never had observed the signature of the interaction.”
+Byron Lundberg and Regina Rameika with the DONUT detector in 2000, the year the discovery of the tau neutrino was announced. Credit Reidar Hahn, Fermilab
+Neutrinos
+are incredibly lightweight subatomic particles that were first postulated by Wolfgang Pauli in 1930. In 1956, physicists saw the first neutrino at the Savannah River Plant in South Carolina. They didn’t know about the neutrino’s different types, or
+flavors
+, at the time, but this first neutrino turned out to be an electron neutrino. In 1962, physicists at Brookhaven National Laboratory detected the second type, the muon neutrino.
+The idea of a third flavor of neutrino materialized after an experiment led by physicist Martin Perl at SLAC National Laboratory found a particle called the tau in 1975. The tau is the third generation of particles known as leptons. Since the other two leptons — electrons and muons — had corresponding neutrinos, it made sense that there must also be neutrinos corresponding to the tau. Sure enough, experiments found indirect evidence for the tau neutrino’s existence.
+But direct observational evidence remained scarce. Until DONUT.
+Making DONUT
+In the early 1990s, Fermilab physicists were gearing up for the Neutrinos at the Main Injector project, or NuMI, to search for neutrino mass. As the
+story
+goes, Fermilab scientists Rameika and Byron Lundberg were discussing how excited they were for NuMI and realized it would be very useful to directly observe the tau neutrino first. The idea for the DONUT experiment was born.
+Lundberg and Rameika reunited a group of scientists who had worked on Fermilab’s Experiment 653 in the mid-1980s. E653 incorporated emulsion plates developed by physicists at Nagoya University in Japan to look for charm particles. DONUT would use similar technology to search for evidence of tau neutrinos.
+The DONUT collaboration submitted their
+proposal
+in 1994 and were taking data by 1997.
+“By today’s standards, it was actually relatively simple,” said Rameika. “Combined, it was difficult.”
+One challenge for DONUT was shoehorning it into the existing Fermilab program. The lab was uniquely equipped for this experiment because the Tevatron’s 800-GeV proton beam was essential for achieving the flux and energies they required to have even a chance of detecting tau neutrinos. But other experiments needed the beam, too. To make the effort as easy as possible for the lab, the collaboration repurposed existing equipment.
+The experiment consisted of a 3-foot-long structure made of iron plates sandwiched with plates of emulsion. When Fermilab’s Tevatron accelerator shot a beam of particles at this target, the neutrinos interacted with the iron nuclei. The resulting particles shot through the emulsion plates, leaving tracks behind like animal footprints in the snow.
+Smashing protons into a tungsten block, DONUT physicists produced many particles, including tau neutrinos. To minimize background and to avoid overexposure of the target emulsion, physicists installed magnets and shielding to remove all particles except neutrinos from the beam, leading to a pure neutrino beam hitting the DONUT target. Credit: Fermilab
+But if the experimenters weren’t careful, the emulsion plates could get polluted. The Tevatron beam produced an enormous amount of
+muons
+in addition to neutrinos, and these muons would overexpose the emulsion plates. Fortunately, since muons are charged particles, they can be steered with magnets, which don’t affect neutrinos.
+Vittorio Paolone, who was co-spokesperson for DONUT with Lundberg at the time, compared the muon challenge to being between the jaws of a lion. “You have the jaws open, and then you have to stick the emulsion in between and hope it doesn’t clamp down at some point,” he said.
+If the metaphorical jaws
+did
+clamp down, muons would flood the emulsion plates and DONUT would lose all their data. It would be akin to exposing a roll of film to the light before developing the photos. There were safeguards in place to protect the data: if the sweeping magnets failed, the beamline would automatically shut off. Fortunately for DONUT — and for every other Fermilab experiment using the beam at the same time — the magnet held steady.
+With Fermilab’s high-energy proton beam, the nuclear emulsion technology pioneered by Nagoya University and the sweeping magnet system that shielded the detector, DONUT was the product of scientific serendipity. “The detection of tau-neutrino interactions using particle accelerators was only possible because three unique capabilities could be employed in a synergistic manner at the time DONUT was proposed,” said Lundberg.
+After collecting data from 1997 to 1998, collaborators in Nagoya worked on digitizing and analyzing the emulsion plates. They then sent the data back to Fermilab for further analysis, which included early forms of
+machine learning
+and artificial intelligence. “We were one of the first experiments using neural networks,” said Rameika.
+In 1986, Vittorio Paolone posed inside the magnet used to eliminate charged particles from the neutrino beam. Credit: Reidar Hahn, Fermilab
+In total, DONUT collected 6.6 million particle interactions, which they narrowed down to about 1,000 candidate events.
+If tau neutrinos acted as predicted, physicists expected to see their tell-tale signature in the emulsion plates: a short track with a kink in it, indicating a tau neutrino had hit an iron nucleus and produced a tau lepton, which traveled for about a millimeter before decaying.
+“The signature is pretty obvious,” said Paolone, now a professor at the University of Pittsburgh. “Even though it looks exactly the way you expect it to look, when you start seeing three or four that look like a tau neutrino interaction … you start to get pretty excited.”
+On July 21, 2000, Lundberg
+announced
+the detections of four tau neutrino interactions to a packed lecture hall at Fermilab. They had finally seen the penultimate piece of the Standard Model. (The observation of the final piece, the Higgs boson, would be announced 12 years later.) Ultimately, DONUT found a total of nine tau neutrino interactions.
+“Personally, commissioning and running DONUT was challenging and exhausting,” said Lundberg. “I never worked as intensely after the experiment — I doubt that I even could have.”
+The long legacy of a short interaction
+The hard work of a small, international group of physicists had a profound impact on the field. In 2022, the American Physical Society recognized the achievements of DONUT by awarding the
+W.K.H. Panofsky Prize in Experimental Particle Physics
+to Lundberg, Rameika, Paolone and their Nagoya University collaborator Kimio Niwa “for the first direct observation of the tau neutrino through its charged-current interactions in an emulsion detector.”
+The emulsion detection technology originated at DONUT has since been used in many more experiments, including
+ScanPyramids
+, an international project using noninvasive techniques to look for hidden chambers inside the pyramids in Egypt. CERN neutrino experiments like
+DsTau
+,
+FASERν
+and
+SND@LHC
+also utilize this tech. “The origin of the current nuclear emulsion technology is in the DONUT experiment,” said Mitsuhiro Nakamura, a DONUT collaborator from Nagoya University who recently retired from physics to become a rice farmer.
+Nuclear emulsion plates were also used in the
+OPERA experiment
+at the Gran Sasso Laboratory of the Italian National Institute for Nuclear Physics. Between 2010 and 2015, OPERA saw 10 beam-produced muon neutrinos oscillate into tau neutrinos, making it one of two experiments that has detected tau neutrinos since their first observation. The other is the
+IceCube Neutrino Observatory
+, which announced seven tau neutrino candidates from cosmic sources in 2024 and a few more in following analyses. Collectively, physicists have seen, on average, one tau neutrino per year in the last quarter century.
+“It’s impressive that we don’t have larger samples,” said Paolone. “It’s an amazingly difficult particle to detect.”
+Many current and future experiments are focused on detecting — or have a chance of seeing — tau neutrinos. In addition to the CERN emulsion-based detectors that will look at energies similar to and higher than to DONUT, there are large-scale water- and ice-based detectors like KM3NeT, P-ONE and an expansion to IceCube that will probe high-energy neutrinos, and proposed
+tau-neutrino telescopes
+will explore ultra-high-energy ranges.
+Fermilab physicists packed a lecture hall at the laboratory to hear DONUT co-spokesperson Byron Lundberg announce the first direct evidence for the tau neutrino on July 21, 2000. Credit: Fermilab
+Physicists are also continuously brainstorming new ways to study tau neutrinos. “Ever since DONUT, we’ve had to learn how to find the tau neutrino signature without actually seeing the track,” said Rameika.
+Some new-generation neutrino experiments, such as the
+Deep Underground Neutrino Experiment
+hosted by Fermilab, are focusing on the other two neutrino flavors that are relatively easier to detect.
+Still, DONUT’s direct detection of the tau neutrino was a vital step in understanding the nature of the elusive particle.
+“In order to understand neutrinos, you want to look at every channel that you possibly can,” said Rameika. “Knowing how to detect tau neutrinos, as we did with DONUT, is an important piece of information that we keep in the back of our heads for going forward and figuring out how to adapt it. In my mind, it was a critical historical experiment”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab experiment receives prestigious Breakthrough Prize in Fundamental Physics
+April 18, 2026
+muon
+Muon g-2
+Standard Model
+Press release
+The Muon g-2 experiment at Fermilab received the prestigious Breakthrough Prize in fundamental physics for its precision measurement of the muon.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

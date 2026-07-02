@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2026/04/yao-lu-receives-early-career-award-to-harness-quantum-entanglement-for-dark-matter-search/
+Title: Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+────────────────────────────────────────────────────────────
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+April 23, 2026
+| By:
+Hannah Brumbaugh
+Tags:
+dark matter
+quantum
+SQMS
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Supported by a DOE Early Career Award, a Fermilab scientist is building a scalable superconducting cavity array to detect faint signals from mysterious dark photons with unprecedented speed and sensitivity.
+Much of the universe remains invisible to us, and scientists at the U.S. Department of Energy’s Fermi National Accelerator Laboratory are developing new quantum technologies to search for it.
+While ordinary matter makes up stars, planets and people, it accounts for only a small fraction of the universe’s mass. The rest is dark matter, a mysterious substance that does not reflect, emit or absorb light. Now, Fermilab associate scientist Yao Lu is leading a project to advance quantum technology that will enable searches for subtle, indirect signals from dark matter interactions.
+Yao has received a 2025 DOE Early Career Award to
+fund his research
+. Yao’s work focuses on developing a scalable superconducting cavity array, which will enable quantum-enhanced searches for a dark matter candidate known as the dark photon.
+Lu’s research will take place in the
+Superconducting Quantum Materials and Systems Center
+, hosted at Fermilab. SQMS is one of five DOE National Quantum Information Science Research Centers — part of a national initiative to develop the world’s most powerful quantum computers and sensors.
+Yao Lu is a recipient of a 2025 DOE Early Career Award Credit: Ryan Postel, Fermilab
+Dark photons are hypothetical particles that behave like an extremely weak, invisible version of an electromagnetic field. If they exist, they might occasionally deposit a tiny microwave signal into a detector.
+The challenge for physicists is that they do not know the signal’s frequency in advance. It’s like scanning an endless radio dial of white noise, hoping to stumble upon a lone, faint broadcast from an unknown station. In a standard search, scientists use a microwave cavity, essentially a carefully engineered metal resonator, as a sensitive antenna. If a dark photon exists at the right frequency, it could deposit a faint signal into the cavity. But because the frequency is unknown, searches must tune and listen, one setting at a time.
+To break through this scanning bottleneck, Lu is combining ultra-coherent cavity hardware with entangling operations, quantum-state preparation, and low-loss interconnects — specialized links that allow the cavities to share signals efficiently — so multiple cavities can function as a coordinated sensor array.
+By linking the cavities via remote quantum entanglement, the sensors can operate as a single cohesive unit. This quantum-enhanced array allows the system to scan through the “radio dial” of frequencies much faster and with far greater sensitivity than a single sensor ever could.
+“The key is not just building better cavities.” Lu said. “It is learning how to make many ultra-coherent sensors work together so entanglement becomes a real advantage in the experiment.”
+A four-cavity prototype, designed as a foundation for larger arrays, is the project’s first milestone. While the initial system is modest in size, the architecture is built to scale.
+“If we can demonstrate the right architecture and control at that scale, we can extend the same framework to much larger arrays,” Lu said.
+The project leverages techniques from superconducting quantum computing, which are now proving especially powerful for sensing. These methods make it possible to prepare, entangle, and nondestructively measure highly excited nonclassical cavity states, which are key resources for turning quantum coherence into a practical sensing advantage.
+Lu’s research aims to demonstrate a measurable quantum advantage in dark matter detection while also guiding the design of broader classes of quantum sensors, including future searches for particles such as axions. Beyond sensing, the same hardware and interconnect architecture is also key to the development of SQMS’s modular quantum computing and distributed quantum communication. These advances could ultimately benefit our society by enabling faster, more efficient computing systems and communication networks that are much more secure.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of more than 40 partner institutions — national labs, academia and industry — working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. For more information, please visit
+sqmscenter.fnal.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

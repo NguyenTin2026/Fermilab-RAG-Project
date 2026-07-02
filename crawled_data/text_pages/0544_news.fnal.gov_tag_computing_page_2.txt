@@ -1,0 +1,220 @@
+URL: https://news.fnal.gov/tag/computing/page/2/
+Title: computing Archives - Page 2 of 8 - News
+────────────────────────────────────────────────────────────
+computing Archives - Page 2 of 8 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+computing
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+11 - 20 of 76 results
+Jump into Computer Science Education Week
+December 9, 2020
+computing
+Department of Energy
+DOE
+education
+From DOE, Dec. 9, 2020: Computer Science Education Week is aimed at inspiring students to discover computer science activities and careers. The national laboratories, including Fermilab, are scheduled to host a number of activities to highlight The Department of Energy’s efforts, including increasing access to computer science education, building computational literacy, and growing the cyber workforce of the future.
+Solid-state technology for big data in particle physics
+October 26, 2020
+CMS
+computing
+Fermilab feature
+Scientists working on experiments at the LHC are continually refining our understanding of the fundamental constituents of our universe. Every measurement, every new, uncovered facet of a subatomic particle comes only after a thorough and rigorous analysis of the data. The way they access that data may soon get an upgrade at Fermilab, where CMS collaborators recently installed a new solid-state technology at its computing facility. The technology will complement the standard spinning-disk hard drives that have been the dominant computer storage devices for the last several decades.
+What may come from exascale? Improved medicines, longer-range batteries, better control of 3-D parts, for starters
+October 15, 2020
+computing
+lattice QCD
+theory
+From Inside HPC, Oct. 14, 2020: With the arrival of exascale computing in 2021, researchers expect to have the power to describe the underlying properties of matter and optimize and control the design of new materials and energy technologies at levels that otherwise would have been impossible. Fermilab scientist Andreas Kronfeld talks about how participation in DOE’s Exascale Computing Project can help solve complicated calculations in particle physics.
+The next big thing: the use of graph neural networks to discover particles
+September 24, 2020
+CMS
+collider physics
+computing
+Large Hadron Collider
+LHC
+neural network
+Fermilab feature
+Fermilab scientists have implemented a cloud-based machine learning framework to handle data from the CMS experiment at the Large Hadron Collider. Now they can begin to use graph neural networks to boost their pattern recognition abilities in the search for new particles.
+ALCC program awards ALCF computing time to 24 projects
+August 10, 2020
+Argonne
+Argonne National Laboratory
+computing
+high-performance computing
+From Argonne National Laboratory, Aug. 5, 2020: The U.S. Department of Energy’s Advanced Scientific Computing Research Leadership Computing Challenge has awarded 24 projects a total of 5.74 million node hours at the Argonne Leadership Computing Facility to pursue challenging, high-risk, high-payoff simulations. Fermilab scientists Andreas Kronfeld and Igor Rakhno are among those who have been awarded time on the facility’s Theta supercomputer.
+New AI + Science grants fund projects and workshops in chemistry, physics and CS education
+May 13, 2020
+artificial intelligence
+computing
+cosmology
+machine learning
+outreach
+STEM
+From the University of Chicago, May 12, 2020: A round of AI + Science grants awarded by the University of Chicago’s Office of Research and National Laboratories Joint Task Force Initiative supports new AI applications to boost scientific discovery and education. Awardees include Fermilab scientists Brian Nord, Charles Thangaraj and Nhan Tran.
+Fighting COVID with computing: Fermilab, Brookhaven, Open Science Grid dedicate computational power to COVID-19 research
+April 27, 2020
+Brookhaven
+computing
+COVID-19
+high-performance computing
+Open Science Grid
+Fermilab feature
+Scientists and engineers at Fermilab and Brookhaven are uniting with other organizations in the Open Science Grid to help fight COVID-19 by dedicating considerable computational power to researchers studying how they can help combat the virus-borne disease.
+Quantum computing meets particle physics for LHC data analysis
+April 6, 2020
+CERN
+computing
+Higgs boson
+Large Hadron Collider
+LHC
+quantum computing
+quantum science
+From Physics World, April 3, 2020: A collaboration that includes Fermilab scientists is exploring how quantum computing could be used to analyze the vast amount of data produced by experiments on the Large Hadron Collider at CERN. The researchers have shown that a “quantum support vector machine” can help physicists make sense out of the huge amounts of information generated at CERN.
+Particle accelerator technology could solve one of the most vexing problems in building quantum computers
+February 26, 2020
+Argonne National Laboratory
+computing
+quantum computing
+quantum information science
+quantum science
+qubits
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+One of the most difficult problems to overcome in developing a quantum computer is finding a way to maintain the lifespan of information held in quantum bits, called qubits. Researchers at Fermilab and Argonne National Laboratory are working to determine whether devices used in particle accelerators can help solve the problem. The team will run simulations on high-performance computers that will enable them to predict the lifespan of information held within these qubits using smaller versions of these devices, taking us one step closer to the age of quantum computing.
+Fermilab contributes to award-winning Spack software tool
+December 18, 2019
+California
+computing
+Lawrence Livermore National Laboratory
+software
+Fermilab feature
+Spack, a software package management tool, was recognized with an R&D 100 Award in November. Developed for high-performance computing applications, Spack is used as an end-to-end development tool within the high-energy physics community. Fermilab is a contributor to Spack, whose initial development was led by Lawrence Livermore National Laboratory.
+«
+1
+2
+3
+4
+…
+8
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

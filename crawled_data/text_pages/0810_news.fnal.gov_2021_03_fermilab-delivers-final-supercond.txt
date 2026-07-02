@@ -1,0 +1,205 @@
+URL: https://news.fnal.gov/2021/03/fermilab-delivers-final-superconducting-particle-accelerator-component-for-worlds-most-powerful-laser/
+Title: Fermilab delivers final superconducting particle accelerator component for world’s most powerful X-ray laser
+────────────────────────────────────────────────────────────
+Fermilab delivers final superconducting particle accelerator component for world’s most powerful X-ray laser
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab delivers final superconducting particle accelerator component for world’s most powerful X-ray laser
+March 19, 2021
+Tags:
+Argonne National Laboratory
+Berkeley Lab
+Cornell University
+cryomodule
+DESY
+Jefferson Lab
+LCLS-II
+people
+SLAC National Accelerator Laboratory
+superconducting technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab gives a sendoff to the final superconducting component for the LCLS-II particle accelerator at SLAC National Accelerator Laboratory in California. LCLS-II will be the world’s brightest and fastest X-ray laser. A partnership of particle accelerator technology, materials science, cryogenics and energy science, LCLS-II exemplifies cross-disciplinary collaboration across DOE national laboratories.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Today, the Department of Energy’s Fermilab shipped its final superconducting component for the new particle accelerator for the Linac Coherent Light Source II, or LCLS-II, at DOE’s SLAC National Accelerator Laboratory.
+The cryomodule — the major component of the linear accelerator — is the final one required for the LCLS-II project, which will be the world’s brightest X-ray laser when complete.
+“This is what we’ve been working toward for six years. Since 2014, our team has been designing, building, testing and delivering the high-performance superconducting cryomodules that will make up this forefront discovery machine,” said Rich Stanek, LCLS-II Fermilab senior team lead. “Sending it off today is the tying of the bow on our contribution effort. We are honored to be a part of LCLS-II, leveraging our expertise in superconducting acceleration technology to power the particle beam for a world-class X-ray laser. Everyone connected to the LCLS-II project should be very proud of their accomplishments.”
+An upgrade of SLAC’s LCLS, which was the world’s first hard X-ray free-electron laser, LCLS-II will provide a giant leap in capability. It will fire a staggering 1 million X-ray pulses per second, up from LCLS’s 120 pulses per second. Armed with these rapid-fire rays of light, scientists using LCLS-II will be able to examine microscopic biological and chemical processes in real time and extreme detail.
+The particle accelerator that provides the high-energy electrons for the LCLS-II laser will be made of 37 cryomodules, the longest of which is 12 meters (40 feet) in length. Lined up end to end like cars in a train, they form a kind of runway for the electron beam as it ramps up in energy. Eighteen of the cryomodules come from Fermilab, and 19 come from the Department of Energy’s Jefferson Lab. Both labs provided additional spares.
+The cryomodule from Fermilab is 12 meters (39 feet) long and will start the transport to SLAC on March 19, 2021. Photo: Ryan Postel, Fermilab
+Once the electron beam exits the cryomodules, it is made to move rapidly from side to side through a series of undulators, emitting X-rays as it zigzags. The
+new undulators were designed
+and built by DOE’s Lawrence Berkeley National Laboratory and Argonne National Laboratory. Cornell University is also contributing components for LCLS-II.
+The LCLS-II cryomodule installation is expected to be complete this spring, and LCLS-II will begin commissioning in 2022 as soon as the LCLS-II cryoplant is commissioned. LCLS-II is supported by the Department of Energy Office of Science.
+“The design and construction of the LCLS-II cryomodules has been an example of true cross-institutional collaboration, bringing together three national laboratories’ expertise and capabilities in particle acceleration, superconductivity science and photon science,” said SLAC Deputy Director and LCLS-II Project Director Norbert Holtkamp. “We look forward to welcoming the final cryomodule to SLAC.”
+Each cryomodule contains eight superconducting accelerator cavities, hollow structures that look like giant metallic strands of pearls. As the particle beam shoots through one cavity after the other, it picks up energy. The cryomodules, about a meter in diameter, house the cavities and allow them to be cooled to about 2 kelvins, maintaining the necessary temperatures that enable the cavities’ superconductivity.
+For the last two decades, Fermilab has developed its superconducting radio-frequency, or SRF, program, which has allowed Fermilab to participate in the design, construction and testing of LCLS-II’s cutting-edge accelerator components.
+“We are proud to be a key partner in the construction of this groundbreaking new light source,” said Fermilab Chief Technology Officer Alex Romanenko. “For the last two decades, DOE investment in high-energy physics has allowed Fermilab to dramatically advance R&D and develop its SRF program, leading to important breakthroughs in SRF cavities’ efficiency, thanks to discoveries such as nitrogen doping and fast cooling methods for reducing trapped magnetic fields. These improvements contributed to LCLS-II’s world-leading cryomodules.”
+The LCLS-II SRF cryomodule design is a modification of a type developed at the DESY laboratory in Germany. Fermilab’s further R&D in the area of the preparation of superconducting surfaces drew
+record-setting performance
+from the accelerator cavities, making them highly energy-efficient while accelerating beam. Work is already underway on the next generation of cryomodules for a future high-energy upgrade to LCLS-II.
+Fermilab technicians prepare the cryomodule for transport by performing final checks on instrumentation. Photo: Ryan Postel, Fermilab
+“Fermilab and Jefferson Lab’s leadership in SRF made them the perfect partners to engage in the design and construction of the LCLS-II accelerator,” said the DOE Bay Area Site Office Deputy Manager Hanley Lee, the Federal Project Director for the effort. “SLAC’s new X-ray laser would not be the advanced machine we expect it to be without these cutting-edge cryomodules. LCLS-II will be an unprecedented tool for discovery, shining a bright light on hidden processes in nature that could hold keys for improving our health, environment and security. We could not build it without the diverse expertise of researchers from the broad range of fields that came together as part of this extraordinary project.”
+Fermilab Director Nigel Lockyer agrees that, in the success of LCLS-II cryomodules, collaboration was key.
+“The LCLS-II project is a wonderful partnership of the DOE labs’ strengths,” Lockyer said. “Capitalizing on the accelerator science and technology developed at Fermilab for investigating the basic building blocks of matter, we now apply it to LCLS-II so we can explore new scientific territory. LCLS-II is a testament to the cooperative scientific endeavor.”
+Learn more about the LCLS-II cryomodules and project
+.
+Fermilab is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC, a joint partnership between the University of Chicago and the Universities Research Association, Inc. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on Twitter at
+@Fermilab
+.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab opens new QUIET underground quantum information science laboratory
+June 12, 2024
+emerging technologies
+quantum information science
+qubits
+superconducting technology
+Press release
+The new state-of-the-art QUIET laboratory will study the performance of qubits isolated from cosmic radiation. Its above ground counterpart is LOUD and together they will enable  controlled experiments of quantum sensors.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

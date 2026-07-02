@@ -1,0 +1,184 @@
+URL: https://news.fnal.gov/2025/02/fermilabs-anna-grassellino-receives-one-of-italys-highest-honors/
+Title: Fermilab’s Anna Grassellino receives one of Italy’s highest honors
+────────────────────────────────────────────────────────────
+Fermilab’s Anna Grassellino receives one of Italy’s highest honors
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab’s Anna Grassellino receives one of Italy’s highest honors
+February 19, 2025
+| By:
+Hannah Brumbaugh
+Tags:
+award
+quantum
+SQMS
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Anna Grassellino, a senior scientist and the director of the Superconducting Quantum Materials and Systems Center at Fermilab, was honored with the Knight of the Order of Merit of the Italian Republic for her pioneering contributions to superconducting quantum technologies. Known for her groundbreaking work on superconducting radiofrequency cavities, Grassellino has helped to revolutionize and lead advancements in particle accelerators and quantum information science.
+Anna Grassellino, senior scientist at the Department of Energy’s
+Fermi National Accelerator Laboratory
+and the director of the
+Superconducting Quantum Materials and Systems Center
+, received the Knight of the Order of Merit of the Italian Republic during a ceremony on Thursday, Feb. 13 in Washington, D.C. Knight is one of the five ranks of the Order of Merit of the Italian Republic, the highest honor in Italy.
+Anna Grassellino, originally from Marsala, Italy, is a pioneering physicist and leader in the field of superconducting quantum technologies. She has revolutionized particle accelerator science through her groundbreaking work on superconducting radiofrequency cavities. Her discovery of nitrogen doping — a transformative technique that dramatically enhances the efficiency of SRF cavities — has set a global standard for accelerator technology. By introducing nitrogen into the surface of niobium cavities, Grassellino and her team achieved unprecedented quality factors, significantly reducing cryogenic costs and enabling next-generation advancements in high-energy physics. This innovation has been implemented in accelerator facilities worldwide, including the cutting-edge Linac Coherent Light Source II High Energy upgrades at SLAC National Accelerator Laboratory.
+Anna Grassellino, left, is honored on Feb. 13 in Washington, D.C. by the Ambassador of Italy to the United States, H.E. Mariangela Zappia, right, who presented to Grassellino the Knight of the Order of Merit of the Italian Republic. Credit: Antonella Ciancio, Embassy of Italy
+As the Director of the Superconducting Quantum Materials and Systems Center at Fermilab, Grassellino leads a multidisciplinary effort to harness SRF technology for quantum information science, technology and fundamental physics. Her work bridges the worlds of applied physics and groundbreaking quantum research, positioning her as a global leader in pursuing transformative scientific solutions. Grassellino’s career exemplifies a commitment to pushing the boundaries of discovery, inspiring the next generation of scientists and advancing the frontiers of knowledge.
+“It is a profound privilege to receive this distinction from Italy. This honor is an important milestone and a celebration of the power of research, innovation and collaboration to drive humanity forward,” said Grassellino. “Science thrives on curiosity, perseverance, and the collective efforts of brilliant minds working together to push the boundaries of what is possible. I hope this recognition inspires young scientists to pursue their ambitions fearlessly, knowing that their contributions can shape the future.”
+The honor recognizes individuals for outstanding merit in fields such as literature, culture, science, medicine, economics, athletics, journalism and humanitarian work. The Order was first established on March 3, 1951 by the President of Italy. The honor is given by decree of the President of the Republic.
+Grassellino received the honor at the Embassy of Italy in Washington, D.C., with the Ambassador of Italy to the United States, H.E. Mariangela Zappia, presented the distinction.
+“As an institution, we are incredibly proud of Anna Grassellino’s exceptional contributions to science and her groundbreaking work in superconducting quantum technologies,” said Young-Kee Kim, interim director of Fermilab. “This well-deserved recognition reflects the global impact of her accomplishments, and we value Anna’s leadership at the Superconducting Quantum Materials and Systems Center as she directs research in this frontier of scientific discovery.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of more than 30 partner institutions — national labs, academia and industry — working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. Working hand in hand with embedded industry partners, SQMS will build a quantum computer and new quantum sensors at Fermilab, which will open unprecedented computational opportunities. For more information, please visit
+sqmscenter.fnal.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

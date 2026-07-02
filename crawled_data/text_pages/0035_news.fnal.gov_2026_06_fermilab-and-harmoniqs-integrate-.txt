@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2026/06/fermilab-and-harmoniqs-integrate-open-source-tools-to-advance-qubit-control-optimization/
+Title: Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+────────────────────────────────────────────────────────────
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+| By:
+Marcia Teckenbrock
+Tags:
+partnership
+QICK
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+The race to build functional, large quantum computers is not just about faster processing, it’s about solving complex problems to drive innovation and benefit society. To reach this bright future, researchers must develop the ability to precisely control many interconnected qubits, the basic units of information in quantum computing, to maximize their performance.
+“We are excited to team up with Harmoniqs. As we scale QICK to control greater numbers of qubits, we’ll use Piccolo.jl to optimize our control pulses in a way that accounts for both qubit dynamics and the QICK hardware.”
+Sho Uemura, Fermilab
+Drawing on decades of experience creating microelectronics and software to run particle physics experiments, engineers at the U.S. Department of Energy’s Fermi National Accelerator Laboratory began developing a quantum research tool called QICK in 2020. Comprised of open-source software, radio-frequency electronics and commercial hardware, QICK is a customizable system that controls qubits and measures and reads out their quantum states. As such, it plays an important role in optimizing qubit performance. Its proven ability to precisely synchronize short bursts of energy called pulses to control qubits makes it a game changer for scaling up quantum computers.
+The Quantum Instrumentation Control Kit, or QICK. Credit: Ryan Postel, Fermilab
+More than 500 scientists worldwide are now using QICK, and its developers continue to enhance and extend its capabilities through collaborations with DOE national labs, academia and industry.
+Through one such collaboration, Fermilab is working with industry partner Harmoniqs to bring together the company’s open-source quantum optimization software, called
+Piccolo.jl
+, and QICK to enable precise qubit control at larger scales.
+Integrating the two enables users of the Piccolo.jl software to test pulse optimizations — quantum computing techniques that precisely control the shape, frequency, amplitude and phase of the electromagnetic or microwave signals that control qubits and define their basic operations. This integration gives QICK users access to Piccolo’s algorithms without the manual setup otherwise required.
+Piccolo.jl optimizes pulse shapes with finer granularity than standard optimization software, borrowing proven algorithms from robotics and aerospace to bring stability and rigor to quantum hardware control. It makes minute adjustments to determine the best pulse shape for a particular use case.
+Integrating Piccolo.jl with QICK will make it easier for researchers to precisely control quantum systems such as this superconducting microwave cavity. Credit: Olivier Bonin, SLAC National Accelerator Laboratory
+“We are excited to team up with Harmoniqs. As we scale QICK to control greater numbers of qubits, we’ll use Piccolo.jl to optimize our control pulses in a way that accounts for both qubit dynamics and the QICK hardware,” said Sho Uemura, lead software developer and a core member of the QICK development team at Fermilab. “Pairing the two can help you get to a better end result much faster, with fewer trial measurements, less effort testing different sets of parameters and a shorter time to results.”
+This simulation shows Harmoniqs’ Piccolo.jl software being used to orchestrate creation of a quantum superposition state used for advanced quantum computing in a superconducting microwave cavity. It is shown is the quantum state’s evolution over 1.36 microseconds, from a simple starting point into a complex superposition. Credit: Sébastien Léger, Schuster Lab, Stanford University
+Importantly, both systems are open-source, reflecting a collaboration ethos common in particle physics. They are available to the public, cost-effective and built to be customized and expanded by their users.
+“Piccolo.jl gives researchers an open path into advanced pulse optimization. When integrated with QICK, it demonstrates what’s possible when open-source foundations meet purpose-built commercial software,” said Jack Champagne, chief technology officer at Harmoniqs. “QICK gives its users the hardware to deliver pulses. Piccolo.jl gives them the tools to design those pulses with hardware-aware precision. We’re looking forward to bringing that full capability to every platform that relies on QICK.”
+“Piccolo.jl gives researchers an open path into advanced pulse optimization. When integrated with QICK, it demonstrates what’s possible when open-source foundations meet purpose-built commercial software.”
+Jack Champagne, Harmoniqs
+With tools like QICK and Piccolo.jl working in concert, researchers are simplifying how precise quantum control strategies are developed and deployed. The partnership lowers barriers to experimentation and accelerates progress toward larger, more reliable quantum systems, bringing the promise of practical quantum computing closer to reality.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+The development of QICK at Fermilab was originally supported primarily through the lab’s key partnership in the Quantum Science Center, a DOE National Quantum Initiative Science Research Center headquartered at Oak Ridge National Laboratory.
+Recommended reading
+View all news
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

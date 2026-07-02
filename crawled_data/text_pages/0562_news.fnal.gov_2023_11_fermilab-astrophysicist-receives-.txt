@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2023/11/fermilab-astrophysicist-receives-2023-doe-early-career-research-award-to-build-more-sensitive-detectors-to-observe-distant-galaxies/
+Title: Fermilab astrophysicist receives 2023 DOE Early Career Research award to build more sensitive detectors to observe distant galaxies
+────────────────────────────────────────────────────────────
+Fermilab astrophysicist receives 2023 DOE Early Career Research award to build more sensitive detectors to observe distant galaxies
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab astrophysicist receives 2023 DOE Early Career Research award to build more sensitive detectors to observe distant galaxies
+November 10, 2023
+| By:
+Julianne Hodges
+Tags:
+astrophysics
+award
+DOE
+Early Career Award
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The U.S. Department of Energy awarded Guillermo Fernandez Moroni $2.5 million over 5 years to fund his project developing sensors to study the early universe. His work could enable surveying tens of thousands of distant galaxies at a time.
+To learn more about the early moments of our universe, astronomers must glean as much information as they can from faint, far-away galaxies. A scientist at the U.S. Department of Energy’s Fermi National Accelerator Laboratory has proposed a project to develop sensors that can pick up these faint signals, a concept for which DOE has recognized him with a 2023 Early Career Research Award.
+Astrophysicist Guillermo Fernandez Moroni received a 2023 DOE Early Career Research Award for developing next-generation sensors to study the distribution of far-away galaxies. Photo: Dan Svoboda, Fermilab
+In August, DOE announced the recipients of its annual Early Career Research Program awards. This program supports the projects of researchers in the early stages of their careers who work at U.S. academic institutions and national laboratories.
+Two of the 93 award recipients this year are scientists at Fermilab
+, one of whom is astrophysicist Guillermo Fernandez Moroni. He will receive $2.5 million over five years to fund the development of next-generation sensors for studying the distribution of far-away galaxies.
+Fernandez Moroni first began working with sensors at Fermilab as an undergraduate student in 2010. During his doctoral studies at Universidad Nacional del Sur in Argentina, he spent considerable time at the lab and subsequently joined Fermilab after completing his degree.
+He has been working on silicon detectors that produce digital images for physics research. In the past, Fernandez Moroni has investigated using them for detecting neutrinos produced in nuclear reactors and for searching for dark matter. In recent years, Fernandez Moroni and his colleagues have been looking into the use of even more sensitive sensors in the field of particle astrophysics.
+“Then, we started developing new sensors with new features, like more sensitivity,” he said. “Now they can detect fainter images; they can see things with a very low level of light.”
+The aim of Fernandez Moroni’s upcoming project is to build new sensor technology for telescopes that use many, many optical fibers. Each optical fiber will point to an individual galaxy and detect the light coming from that galaxy. With tens of thousands of fibers, a telescope using this technology can survey tens of thousands of galaxies at the same time.
+“The idea for this particular instrument is to speed up the galaxy survey compared with existing instruments,” said Fernandez Moroni. “That means that every time you point to the sky, you need to have many fibers pointing to many objects.”
+The light from the fibers leads to a spectrograph that separates the light into different wavelengths. Different elements and molecules each absorb and emit light at particular wavelengths, so identifying how these absorption and emission lines  from a galaxy are shifted in the spectrum when the light is collected from the earth reveal its motion and position in the universe.
+Fernandez Moroni’s new sensors would be extraordinarily sensitive to faint light. When looking at a galaxy very far away, only a fraction of its light will reach a telescope on Earth. To gather enough light from the galaxy to effectively discern the features in its spectrum of light, these detectors must be highly sensitive.
+“That’s where the work that we have done in the lab comes into play,” Fernandez Moroni said. “We have developed very sensitive sensors, and now they can increase the science reach to these very faint objects that are far, far away.”
+These optical fibers have to be precisely pointed at their respective galaxies, though. The Early Career Research award also will fund the development of robotic positioners that can move the fibers into position. Each fiber will need its own piece of robotics to aim it at a galaxy.
+“In order to see those 50,000 galaxies at the same time, you need to have 50,000 robotic arms pointing the fibers,” Fernandez Moroni said. “That is challenging: That means you have to increase the density of robots per area unit compared to existing technology.”
+In the first two years of the project that will be funded by the award, Fernandez Moroni will lead a team that will test the sensors and fiber positioners. They will then construct and test the full instrument in the following two years. In the final year of the award period, they will install the instrument in a telescope so that they can collect and analyze data.
+These improved sensors will aid the effort to map the structure of matter in the universe by recording the positions of all of the galaxies. The increased sensitivity will detect fainter light sources, while the individual optical fiber design will detect more galaxies at a time.
+“If you want to map the universe’s structure much farther away compared to existing technology, you need to see much fainter objects, and that means you need very sensitive detectors,” Fernandez Moroni said. “If you want to map a larger volume of the universe, that means you have more targets. You cannot map the same number of galaxies with the technology being used now, and that’s why the speed should be increased.”
+By surveying the galaxies from a larger volume of the universe, cosmologists can gather more knowledge about the expansion of the universe shortly after its birth.
+“By looking at that larger volume, we can essentially go back in time to see how the expansion of the universe was working at the very beginning,” Fernandez Moroni said.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+April 2, 2026
+AI
+award
+particle physics
+Fermilab feature
+Aleksandra Ćiprijanović will use artificial intelligence to solve the domain shift problem in high-energy physics research. Fermilab’s computing capabilities make it uniquely positioned to support this project.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,211 @@
+URL: https://news.fnal.gov/2020/07/u-s-department-of-energy-unveils-blueprint-for-the-quantum-internet-at-launch-to-the-future-quantum-internet-event/
+Title: U.S. Department of Energy unveils blueprint for the quantum internet at ‘Launch to the Future: Quantum Internet’ event
+────────────────────────────────────────────────────────────
+U.S. Department of Energy unveils blueprint for the quantum internet at ‘Launch to the Future: Quantum Internet’ event
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+U.S. Department of Energy unveils blueprint for the quantum internet at ‘Launch to the Future: Quantum Internet’ event
+July 23, 2020
+Tags:
+Argonne
+Argonne National Laboratory
+Department of Energy
+DOE
+Illinois
+quantum communication
+quantum information science
+quantum internet
+quantum science
+University of Chicago
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The U.S. Department of Energy unveils a report that lays out a blueprint strategy for the development of a national quantum internet, bringing the United States to the forefront of the global quantum race and ushering in a new era of communications. This report provides a pathway to ensure the development of the National Quantum Initiative Act.
+Media contact
+Leah Hesla, Fermilab
+media@fnal.gov
+, 630-840-3351
+Editor’s note: The following
+press release
+was issued today by the U.S. Department of Energy. It announces the unveiling of a report that lays out the blueprint strategy for the development of a national quantum internet.
+Fermilab planted the seeds for a future quantum internet on its Batavia, Illinois, site in 2017 with the installation of the Caltech-led Fermilab Quantum Network, or FQNET. FQNET is a system developed through a long-term partnership with AT&T, Caltech and Fermilab. In 2018, FQNET successfully demonstrated quantum teleportation at the lab. FQNET also acts as a test bed for state-of-the-art systems developed by Caltech. This year, Caltech achieved a record rate of high-fidelity quantum teleportation.
+Using advanced quantum technology and joining with world-leading institutions in quantum information science, Fermilab and its partners are expanding the laboratory’s point-to-point network to a multinode system that will crisscross Chicagoland: the Illinois Express Quantum Network. IEQNET will connect Fermilab, Argonne National Laboratory and Northwestern University’s Evanston and Chicago campuses in a flexible quantum-network architecture. IEQNET leverages the research and technological advances of the FQNET program. This year, IEQNET demonstrated routing of entangled photons generated at FQNET between on-site nodes several kilometers apart.
+IEQNET is part of a research program on quantum network technologies funded by the Department of Energy’s Advanced Scientific Computing Research program, which also supports the Inter-campus Network Enabled by Atomic Quantum Repeater Nodes project, led by Brookhaven National Laboratory and Stony Brook University. The Inter-campus Network focuses on key quantum network technologies. The quantum internet blueprint provides a framework for researchers on both efforts work together to build a national quantum internet.
+Nationwide effort to build quantum networks and usher in new era of communications
+In a
+press conference today
+at the University of Chicago, the U.S. Department of Energy unveiled a
+report
+that lays out a blueprint strategy for the development of a national quantum internet, bringing the United States to the forefront of the global quantum race and ushering in a new era of communications. This report provides a pathway to ensure the development of the
+National Quantum Initiative Act
+, which was signed into law by President Trump in December of 2018.
+Around the world, consensus is building that a system to communicate using quantum mechanics represents one of the most important technological frontiers of the 21st century. Scientists now believe that the construction of a prototype will be within reach over the next decade.
+In February of this year, DOE National Laboratories, universities and industry met in New York City to develop the blueprint strategy of a national quantum internet, laying out the essential research to be accomplished, describing the engineering and design barriers, and setting near-term goals.
+“The Department of Energy is proud to play an instrumental role in the development of the national quantum internet,” said U.S. Secretary of Energy Dan Brouillette. “By constructing this new and emerging technology, the United States continues with its commitment to maintain and expand our quantum capabilities.”
+DOE’s 17 National Laboratories will serve as the backbone of the coming quantum internet, which will rely on the laws of quantum mechanics to control and transmit information more securely than ever before. Currently in its initial stages of development, the quantum internet could become a secure communications network and have a profound impact on areas critical to science, industry and national security.
+Crucial steps toward building such an internet are already underway in the Chicago region, which has become one of the leading global hubs for quantum research. In February of this year, scientists from DOE’s Argonne National Laboratory in Lemont, Illinois, and the University of Chicago
+entangled photons across a 52-mile “quantum loop”
+in the Chicago suburbs, successfully establishing one of the longest land-based quantum networks in the nation. That network will soon be connected to DOE’s Fermilab in Batavia, Illinois, establishing a three-node, 80-mile test bed.
+“The combined intellectual and technological leadership of the University of Chicago, Argonne and Fermilab has given Chicago a central role in the global competition to develop quantum information technologies,” said Robert J. Zimmer, president of the University of Chicago. “This work entails defining and building entirely new fields of study, and with them, new frontiers for technological applications that can improve the quality of life for many around the world and support the long-term competitiveness of our city, state and nation.”
+“Argonne, Fermilab and the University of Chicago have a long history of working together to accelerate technology that drives U.S. prosperity and security,” said Argonne Director Paul Kearns. “We continue that tradition by tackling the challenges of establishing a national quantum internet, expanding our collaboration to tap into the vast power of American scientists and engineers around the country.”
+“Decades from now, when we look back to the beginnings of the quantum internet, we’ll be able to say that the original nexus points were here in Chicago — at Fermilab, Argonne and the University of Chicago,” said Nigel Lockyer, director of Fermilab. “As part of an existing scientific ecosystem, the DOE National Laboratories are in the best position to facilitate this integration.”
+A range of unique abilities
+The quantum internet will rely on the laws of quantum mechanics to control and transmit information. Image: Pakpoom Makpan/iStock/Getty Images
+One of the hallmarks of quantum transmissions is that they are exceedingly difficult to eavesdrop on as information passes between locations. Scientists plan to use that trait to make virtually unhackable networks. Early adopters could include industries such as banking and health services, with applications for national security and aircraft communications. Eventually, the use of quantum networking technology in mobile phones could have broad impacts on the lives of individuals around the world.
+Scientists are also exploring how the quantum internet could expedite the exchange of vast amounts of data. If the components can be combined and scaled, society may be at the cusp of a breakthrough in data communication, according to the report.
+Finally, creating networks of ultrasensitive quantum sensors could allow engineers to better monitor and predict earthquakes — a longtime and elusive goal — or to search for underground deposits of oil, gas or minerals. Such sensors could also have applications in health care and imaging.
+A multilab, multi-institution effort
+One of the nodes of Fermilab’s on-site quantum network will be installed at Fermilab’s Feynman Computing Center. Photo: Fermilab
+Creating a full-fledged prototype of a quantum internet will require intense coordination among U.S. federal agencies — including DOE, the National Science Foundation, the Department of Defense, the National Institute for Standards and Technology, the National Security Agency and NASA — along with National Laboratories, academic institutions and industry.
+The report lays out crucial research objectives, including building and then integrating quantum networking devices, perpetuating and routing quantum information, and correcting errors. Then, to put the nationwide network into place, there are four key milestones: verify secure quantum protocols over existing fiber networks, send entangled information across campuses or cities, expand the networks between cities, and finally expand between states, using quantum “repeaters” to amplify signals.
+“The foundation of quantum networks rests on our ability to precisely synthesize and manipulate matter at the atomic scale, including the control of single photons,” said David Awschalom, Liew Family Professor in Molecular Engineering at the University of Chicago’s Pritzker School of Molecular Engineering, senior scientist at Argonne National Laboratory, and director of the Chicago Quantum Exchange. “Our National Laboratories house world-class facilities to image materials with subatomic resolution and state-of-the-art supercomputers to model their behavior. These powerful resources are critical to accelerating progress in quantum information science and engineering and to leading this rapidly evolving field in collaboration with academic and corporate partners.”
+“In addition to our collaboration with the University of Chicago, Fermilab is working with Argonne, Caltech, Northwestern University and tech startups to develop the architecture and gradually deploy and connect quantum communication nodes across the city of Chicago. Before long, with this second group of collaborators, we’ll be teleporting data across a metropolitan network,” said Panagiotis Spentzouris, head of quantum programs at Fermilab. “This blueprint is important for telling us how we build this out nationwide.”
+Other National Laboratories are also driving advances in quantum networking and related technologies. For example, Stony Brook University and Brookhaven National Laboratory, working with the DOE’s Energy Sciences Network headquartered at Lawrence Berkeley National Laboratory, have established an 80-mile quantum network test bed and are actively expanding it in New York State and at Oak Ridge and Los Alamos National Laboratories. Other research groups are focused on developing a quantum cryptography system with highly secured information.
+Editor’s note: This article has been revised to correct the year FQNET successfully demonstrated quantum teleportation at the lab. It has been corrected from 2019 to 2018.
+###
+Fermilab quantum science research is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab celebrates 2026 quantum science program graduates
+April 28, 2026
+quantum science
+Saturday Morning Quantum
+students
+Press release
+This past weekend, a new group of high school students graduated from the Saturday Morning Quantum program. Hosted by Fermilab, the course allows students to engage directly with lab quantum scientists and engineers while exploring core topics in quantum science.
+US Department of Energy launches ‘Genesis Mission’ to transform American science and innovation through the AI computing revolution
+November 25, 2025
+AI
+artificial intelligence
+DOE
+Press release
+President Trump issued an Executive Order on November 24 to launch the Genesis Mission, a historic national effort led by the US Department of Energy.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

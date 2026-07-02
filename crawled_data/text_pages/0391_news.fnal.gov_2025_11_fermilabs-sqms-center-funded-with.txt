@@ -1,0 +1,205 @@
+URL: https://news.fnal.gov/2025/11/fermilabs-sqms-center-funded-with-125-million-to-shape-the-future-of-quantum-information-science/
+Title: Fermilab’s SQMS Center funded with $125 million to shape the future of quantum information science
+────────────────────────────────────────────────────────────
+Fermilab’s SQMS Center funded with $125 million to shape the future of quantum information science
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab’s SQMS Center funded with $125 million to shape the future of quantum information science
+November 4, 2025
+Tags:
+DOE
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The SQMS Center enters a new era focused on scaling quantum systems from discovery to deployment — driving innovation in computation, communication and sensing.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+The U.S. Department of Energy Office of Science has renewed the Superconducting Quantum Materials and Systems Center (
+SQMS
+), hosted by Fermi National Accelerator Laboratory, with $125 million over the next five years to accelerate breakthroughs in quantum information science. The total planned funding is $125 million over five years, with $25 million in the first year and future funding contingent on congressional appropriations.
+SQMS, founded in 2020, is one of five DOE National Quantum Information Science Research Centers created under the
+National Quantum Initiative Act
+. The center is rooted in Fermilab’s expertise in superconducting radio-frequency (SRF) cavities, materials and cryogenics — technologies originally developed for particle accelerators — and in the lab’s mission to explore the universe at its most fundamental level.
+Researchers collaborate on the development of quantum technologies at the SQMS Quantum Garage, one of the world-class quantum research facilities developed by the center. Credit: Ryan Postel, Fermilab
+The investment from DOE Office of Science continues to unite more than 300 experts from 43 partner institutions across national laboratories, universities and industry to advance the next generation of quantum computing, communication and sensing technologies.
+“In just five years, SQMS has transformed fundamental understanding into tangible progress — from record-setting coherence times to new materials and devices that redefine what’s possible in quantum technology,” said Anna Grassellino, director of the SQMS Center. “This renewal allows us to build on that foundation and take the next leap: moving from discovery to deployment. Together with our partners across national labs, universities and industry, we’re poised to scale quantum systems to a level that will unlock powerful new tools for science, technology and society.”
+SQMS will build on major achievements from its first five years to develop world-leading computational capabilities, scalable and resilient quantum systems and technologies that strengthen U.S. scientific and energy leadership.
+Pushing the limits of quantum performance
+The center strategically complements these strengths through a multidisciplinary collaboration spanning quantum information science, superconductivity, materials science, cryogenics, microwave engineering, computational science and high-energy physics. Together, the team has tackled one of the field’s greatest challenges — extending quantum coherence, the time a qubit can reliably hold information.
+Through innovations in materials, fabrication and cavity-based architectures, SQMS has achieved world-leading coherence times and developed the building blocks for its 3D-cavity, qudit-based platforms. The center has also driven progress in quantum sensing, producing record sensitivities and novel methods for dark-matter searches and precision measurements.
+Entering a new era
+In the next phase, SQMS will use ultra-high-coherence SRF cavities and scalable cryogenics to address some of quantum technology’s most significant hurdles. The program’s goals focus on three major efforts:
+Chip-based materials and device breakthroughs
+SQMS will pursue new materials and fabrication methods to deliver progressively higher-coherence superconducting devices for cavity-based computing, communication and sensing systems. The center aims to achieve the ambitious goal of 10-millisecond coherence in chip-based transmon qubits — a milestone that will also benefit commercial platforms such as those of SQMS partner Rigetti Computing.
+A prototype nine-cell superconducting radio-frequency (SRF) cavity-qubit system installed in a dilution refrigerator at Fermilab SQMS labs. Credit: Ryan Postel, Fermilab
+“The SQMS collaboration is driving major progress in understanding the microscopic origins of decoherence in superconducting circuits and detectors,” said Jim Sauls, professor and Hearne Chair of Theoretical Physics at Louisiana State University. “That knowledge not only advances quantum information science, it also deepens our understanding of superconductivity, one of the most fascinating and fundamental states of matter.”
+Development of a 100-plus-qudit SRF quantum processor at Fermilab
+While most efforts rely on 2D superconducting qubits, SQMS is advancing a 3D cavity-based qudit approach, in which each cavity encodes multiple quantum states. This architecture offers higher connectivity, reduced control complexity and more efficient algorithm implementation. SQMS will build and deploy, in collaboration with partners such as Quantum Machines, a 100-qudit prototype — equivalent in computational space to roughly 500 qubits — within a single dilution refrigerator. The platform will serve as a unique facility for computing and sensing experiments.
+A rendering of the SQMS Center’s planned 100-plus-qudit SRF quantum processor, designed to demonstrate scalable, high-coherence quantum computation, communication and sensing within a single dilution refrigerator. Credit: SQMS Center
+Demonstration of the first scalable quantum data-center unit
+To enable future quantum data centers with thousands of qubits, SQMS will prototype the cryogenic and microwave infrastructure required for large-scale interconnection. This includes high-fidelity, cavity-based links between multiple IBM quantum networking units and a liquid-helium cryoplant-based, energy-efficient solution for future quantum data centers developed with Maybell Quantum Industries.
+A rendering of the SQMS Center’s prototype quantum data-center unit, which integrates superconducting cavities, novel cryogenic and quantum networking technologies to demonstrate scalable, energy-efficient interconnection of quantum processors. Credit: SQMS Center
+“Fermilab and the SQMS Center are pushing the frontiers of cavity science and technology in ways that directly complement IBM’s efforts to scale quantum computing,” said Jay Gambetta, Director of IBM Research and IBM Fellow. “Their work on high-coherence superconducting cavities will ultimately help lay the foundation for the quantum computing internet, where multiple quantum computers operate together as one system, and interface with a network of other quantum computers, communication and sensors. Our initial ambition is to show we can entangle two cryogenic separated quantum computers within the next five years. This kind of collaboration is essential to move the entire field forward — from individual computers to large-scale, interconnected quantum systems that can transform discovery and industry alike.”
+Advancing discovery with quantum information science
+SQMS breakthroughs will open new frontiers in both technology and science. Planned experiments using SQMS-developed hardware include quantum-sensing searches for dark matter and gravitational waves, precision magnetometry and fundamental tests of quantum mechanics, along with simulations relevant to high-energy and condensed-matter physics.
+“INFN is proud to be part of the SQMS collaboration, which unites scientists across continents in the pursuit of the development of quantum technologies which are fundamental for the future of research and of our society,” said Antonio Zoccoli, president of Italian National Institute of Nuclear Physics (INFN). “By combining the strengths of the Italian community in superconducting materials, cryogenics and fundamental physics, we are accelerating progress toward a deeper understanding of nature and new technologies that will benefit society.”
+Through this renewed partnership, Fermilab and its collaborators will continue pushing the limits of quantum coherence, scaling and control — shaping the foundation for the next generation of quantum information science and technology.
+“The SQMS Center exemplifies how DOE’s national labs bring together multidisciplinary teams to tackle grand scientific challenges,” said Young-Kee Kim, interim director of Fermilab. “Its advances will help secure U.S. leadership in the global race to develop practical quantum technologies.”
+SQMS collaborators and partners
+SQMS new era collaborators include: Aalto University, Ames National Laboratory, Applied Materials, Bluefors, DESY – Deutsches Elektronen-Synchrotron, Fermi National Accelerator Laboratory, IBM, Illinois Institute of Technology, Illinois Mathematics and Science Academy, Infleqtion, INFN – Istituto Nazionale di Fisica Nucleare, Johns Hopkins University, Kyocera, Lawrence Livermore National Laboratory, Lockheed Martin, Louisiana State University, Maybell Quantum Industries, NASA Ames Research Center, NIST, National Physical Laboratory, New York University, Northern Illinois University, Northwestern University, NVIDIA, Quantum Machines, Rigetti Computing, Royal Holloway University London, Rutgers University, Stanford University, Temple University, Unitary Foundation, University of Arizona, University of Colorado Boulder, University of Glasgow, University of Illinois Chicago, University of Maryland, University of Minnesota, University of Oregon, University of Pisa, University of Southern California, University of Toronto, University of Waterloo and the Universities Space Research Association. The other National QIS Research Centers funded by the DOE Office of Science are the
+Co-design Center for Quantum Advantage
+,
+Quantum Science Center
+,
+Quantum Systems Accelerator
+and
+Q-NEXT
+.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+US Department of Energy launches ‘Genesis Mission’ to transform American science and innovation through the AI computing revolution
+November 25, 2025
+AI
+artificial intelligence
+DOE
+Press release
+President Trump issued an Executive Order on November 24 to launch the Genesis Mission, a historic national effort led by the US Department of Energy.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

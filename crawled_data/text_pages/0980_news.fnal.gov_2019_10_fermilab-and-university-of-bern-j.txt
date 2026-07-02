@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2019/10/fermilab-and-university-of-bern-join-forces-for-neutrino-physics/
+Title: Fermilab and University of Bern join forces for neutrino physics
+────────────────────────────────────────────────────────────
+Fermilab and University of Bern join forces for neutrino physics
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab and University of Bern join forces for neutrino physics
+October 4, 2019
+| By:
+Leah Hesla
+Tags:
+ArgonCube
+Deep Underground Neutrino Experiment
+detector technology
+DUNE
+dune-international
+international engagement
+MicroBooNE
+neutrino
+SBN
+SBND
+Short-Baseline Near Detector
+Short-Baseline Neutrino program
+Switzerland
+University of Bern
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab and the University of Bern in Switzerland have signed an agreement to develop detector components for the laboratory’s neutrino experiments. The agreement is the first of its kind between Fermilab and a Swiss university.
+Neutrinos are ubiquitous yet elusive particles that could shed light on the early evolution of the universe. As one of the world’s major laboratories for neutrino physics, Fermilab partners with leading organizations around the globe to get a firmer grasp on these subtle particles.
+On Sept. 19, the University of Bern in Switzerland and the Department of Energy’s Fermilab signed an agreement to collaborate on neutrino experiments to be carried out at the laboratory. The agreement is the first such between Fermilab and a Swiss university. It covers the joint research and development of advanced neutrino detectors for three different experiments: MicroBooNE, SBND and the international Deep Underground Neutrino Experiment.
+“I am proud of this agreement that witnesses the high quality of our basic research and our competitiveness to take part in collaborations at the highest international level,” said University of Bern Rector Christian Leumann.
+On Sept. 19, the University of Bern in Switzerland and Fermilab signed an agreement to collaborate on neutrino experiments to be carried out at the laboratory. Seated, from left: Fermilab Director Nigel Lockyer, University of Bern Rector Christian Leumann, University of Bern scientist and group leader Antonio Ereditato. Standing, from left: Fermilab Chief of Staff Hema Ramamoorthi, Fermilab Office of Partnerships and Technology Transfer Manager Cherri Schmidt, Fermilab Neutrino Division Head Steve Brice, University of Bern Laboratory for High Energy Physics Deputy Director Michele Weber, Fermilab Deputy Director of Administration Tim Meyer, Department of Energy Federal LBNF/DUNE Project Director Pepin Carolan, Department of Energy Associate Director of Science for High Energy Physics Director Jim Siegrist. Photo: Reidar Hahn, Fermilab
+DUNE
+will study neutrinos that are produced at Fermilab, outside Chicago, using its Long-Baseline Neutrino Facility and sent to Lead, South Dakota, 800 miles away. Neutrinos will be measured by a near detector hosted at Fermilab and by a far apparatus at Lead in an underground laboratory at the Sanford Underground Research Facility. This will allow scientists to study neutrino oscillations along the way. DUNE will also be able to detect neutrinos from astrophysical sources and will search for matter instability.
+“This agreement brings to Fermilab a novel-design liquid-argon detector,” said Fermilab Director Nigel Lockyer. “What we learn will inform the final design of the DUNE near detector.”
+Researchers at the University of Bern conceived, developed and prototyped a detector design, called
+ArgonCube
+, for the DUNE near-detector complex. The ArgonCube technology enables the fully spatial reconstruction of neutrino interactions with a novel configuration.
+University of Bern researchers are also active in the
+Short-Baseline Neutrino program
+at Fermilab, which comprises three neutrino detectors to explore oscillations and search for a hypothesized but never observed particle called sterile neutrino. Bern scientists provided, for the two Short-Baseline Neutrino detectors MicroBooNE and SBND, the UV-laser calibration system and the cosmic-ray tagger detector. The latter in particular allows the identification of particles of cosmic origin. These constitute a serious source of background for neutrino experiments but can be efficiently detected and removed by the cosmic-ray tagger.
+“This international agreement is a paradigmatic example representative of the global approach required to meet the challenges of modern neutrino physics projects,” said Bern group leader Antonio Ereditato.
+Fermilab’s research is supported by the
+DOE Office of Science
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

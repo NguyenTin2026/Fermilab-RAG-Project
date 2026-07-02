@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2022/12/first-dune-science-components-arrive-at-surf/
+Title: First DUNE science components arrive at SURF
+────────────────────────────────────────────────────────────
+First DUNE science components arrive at SURF
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+First DUNE science components arrive at SURF
+December 6, 2022
+| By:
+Erin Lorraine Woodward
+Tags:
+APA
+DUNE
+LBNF
+ProtoDUNE
+SURF
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Traveling by rail, sea, interstates and shafts, the first components of the international Deep Underground Neutrino Experiment have arrived at the Sanford Underground Research Facility in Lead, South Dakota.
+Editor’s note:
+This article originally was published
+by Sanford Underground Research Facility.
+Traveling by rail, sea, interstates and shafts, the first components of the international Deep Underground Neutrino Experiment have arrived at the Sanford Underground Research Facility in Lead, South Dakota. The anode plane assemblies, or APAs, will one day capture data left in the wake of neutrino collisions in DUNE’s Far Detector.
+“This APA arrival and test lift marks the start of DUNE onsite activities at SURF,” said Mike Headley, executive director of SURF. “I’d like to congratulate the CERN, Fermilab, University of Manchester and SURF joint team for making this first experiment lift a major success.”
+DUNE will paint a clearer picture of the
+origin of matter
+and how the universe came to be by studying neutrinos, strange subatomic particles that rarely interact with matter. A beam of neutrinos will travel 800 miles through the earth, from the U.S. Department of Energy’s Fermi National Accelerator Laboratory near Chicago to DUNE’s massive underground detectors at SURF.
+More than 1,400 scientists and engineers in
+over 30 countries
+contribute to the experiment, which is hosted by Fermilab.
+“This was a test of the entire logistics chain — from the UK, to Switzerland, to Illinois, and finally to South Dakota,” said Joe Pygott, deputy head of the Fermilab South Dakota Services Division. “After a year of planning, it was satisfying to see the global effort come together.”
+Making things awkward
+Standing a staggering 19.7 feet tall and 7.5 feet wide (6.0 meters tall; 2.3 meters wide), the APAs are the largest and one of the most fragile components of DUNE. Researchers outfit the APAs’ large steel frames with hundreds of electronic read-out boards. Then, 15-miles of hair-thin copper-beryllium wire is wrapped around the frame, creating a fine, mesh-like appearance.
+Standing a staggering 19.7 feet tall and 7.5 feet wide, the APAs are the largest and one of the most fragile components of DUNE. Photo: CERN
+In total, 150 APAs will be built for DUNE: 136 from the UK and 14 from the US.
+“Because of their size, fragility and cost, the APAs are classified as a ‘critical transport,’” said Olga Beltramello, a mechanical engineer at CERN.
+To tackle the logistics and transport of unusual components like the APAs, the project formed the appropriately named Awkward Material Transport Team.
+Beltramello, a member of the AMTT, led the creation of the frames that would cradle the APAs during transport. Throughout the design phase, she anticipated the dynamics of the journey ahead — the jostle of the rail car, the lurch of ocean waves, the sway of an overhead crane.
+“We run analysis to understand how the APA would withstand the dynamics of the transport,” Beltramello said. “The calculations are complex, as vibrations from track transport in Europe are different from the tire transport in the U.S., which are different from sea transport.”
+With mass production of APAs underway, the team used the delivery of two prototype APAs to SURF to stress-test their transportation plan. Accelerometers and vibration detectors monitored every wobble along the way, telling researchers just how much stress the components actually experienced during the journey.
+By land and sea
+The APAs were constructed at the UK’s Science and Technology Facilities Council’s Daresbury Laboratory, then shipped to CERN, the European laboratory for particle physics. There, the APAs were installed and tested in ProtoDUNE. A massive detector in its own right, ProtoDUNE is a prototype of the DUNE detectors to be built at SURF. Researchers wanted to ensure that the APAs could withstand the extreme cold of liquid argon (minus 200 degrees Celsius) and to see if they would yield clear data signals, unobscured by background noise.
+“In ProtoDUNE, we saw lovely, clean images,” said Justin Evans, professor of physics at the University of Manchester and academic lead of the UK project for APA production.
+The APAs then journeyed by rail to the seaside; by cargo ship across the Atlantic; and 1,600-miles by semitruck across the U.S. The final leg of the journey was down the mile-deep Ross Shaft, to the level where crews are excavating the
+large caverns
+that will house the DUNE Far Detector. Due to their size, the APAs will not fit on the elevator-like conveyance used to transport people and materials through the shaft. Instead, the APAs were suspended beneath the cage to lower them underground.
+Jeff Barthel, SURF’s rigging supervisor who led the maneuver, said the test lift of the nearly 6,400-pound load “couldn’t have gone smoother.”
+Due to their size, the APAs will not fit on the elevator-like conveyance used to transport people and materials through the shaft. Instead, the APAs were suspended beneath the cage to lower them underground. Photo: Matthew Kapust, Sanford Underground Research Facility
+Assured by the APA performance in ProtoDUNE and the successful test transport, researchers have started mass producing APAs for DUNE.
+“For me, even more important than reaching this technical goal, is the excellent collaboration between groups,” Beltramello said. “This was our first collaboration across these groups, and it was extremely successful. It’s good for the future.”
+A neutrino trap
+When excavation is complete, the caverns will provide space for detector modules filled with a combined 70,000 tons of liquid argon. The APAs will be submerged side-by-side in the frigid liquid argon, forming a series of net-like walls across the width of the detector.
+When neutrinos collide with an argon nucleus, the collisions create a cascade of charged particles. These particles, in turn, knock loose electrons from the shells of argon atoms. An electric field will push the free-floating electrons toward a wall of APAs. Like a spider’s web, the APA wires will ensnare the drifting electrons, sending shivers of data up the wires to the electrical read-out boards. Researchers see this data in the form of particle tracks.
+“The electrons are hitting these miles and miles of wires, and we get information from that little pulse of electrical current on the wire,” Evans explained. “The pattern of particles that went through the detector is mirrored in the pattern of electrons colliding with the APAs.”
+ProtoDUNE particle tracks. Image: DUNE collaboration
+From these particle tracks, researchers derive information about neutrinos and their antimatter counterparts. The results will shed light on the role neutrinos played in the evolution of the universe.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

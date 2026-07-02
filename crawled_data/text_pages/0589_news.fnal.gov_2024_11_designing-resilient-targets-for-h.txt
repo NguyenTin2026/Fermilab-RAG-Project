@@ -1,0 +1,200 @@
+URL: https://news.fnal.gov/2024/11/designing-resilient-targets-for-high-energy-particle-accelerators/
+Title: Designing resilient targets for high-energy particle accelerators
+────────────────────────────────────────────────────────────
+Designing resilient targets for high-energy particle accelerators
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Designing resilient targets for high-energy particle accelerators
+November 5, 2024
+| By:
+Maxwell Bernstein
+Tags:
+accelerator
+neutrinos
+targetry
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Particle accelerator beams can create significant damage to the targets used to generate particles for experiments. Researchers are designing targets to withstand material degradation from radiation damage, shock from thermal expansion and material fatigue — all caused by accelerated protons.
+What happens after a highly energetic beam of protons from a particle accelerator slams into a target designed to generate particles for advanced physics experiments?
+Within microseconds, the area of impact in the target heats up by hundreds of degrees, inducing rapid expansion of its inner material. This expansion is constrained by the still cold surrounding material of the target, resulting in a pressure wave akin to a hammer blow from within. As atoms are displaced, defects are created, thereby altering the physical properties of the target. Concurrently, nuclear reactions occur as atoms break down, producing helium and hydrogen gases within the target material. These gases can accumulate into bubbles that, in turn, inflict damage.
+Researchers are designing targets to withstand the onslaught of protons at the U.S. Department of Energy’s Fermi National Accelerator Laboratory for various high-energy physics experiments, such as the Deep Underground Neutrino Experiment.
+“If the target can’t survive the violent interaction with the beam, then the experiment is off and the experiment cannot take data,” said Patrick Hurh, who has been working as an engineer at Fermilab for 35 years. “As target engineers, we like to feel that we are the gears that connect the accelerators to the experiments, harnessing the power of the proton beam to create the science.”
+An example of a graphite target for producing neutrinos. Photo: Reidar Hahn, Fermilab
+One type of particle that researchers at Fermilab are studying is the elusive neutrino. These subatomic phantoms are neutrally charged and small enough to easily pass through most objects. As neutrinos travel, they can shape-shift among several types. Their unique characteristics may carry the key to revealing foundational secrets such as why there is more matter than antimatter in the universe.
+“In the case of generating a beam of neutrinos, we use a graphite target, which is carbon,” said Hurh. “The protons basically collide with the carbon atoms and produce a variety of secondary particles coming out of the target.”
+Some of these secondary particles generated from the collisions are electrically charged pions. Because these pions are charged, researchers can steer their trajectories with magnetic fields.
+To produce these magnetic fields, current is pumped into a powerful electromagnet that surrounds the target and focuses the pions. The pions then travel down a several-hundred-meter-long pipe, where they decay and produce neutrinos.
+A view of the magnet that focuses pions. Photo: Reidar Hahn, Fermilab
+The target and magnet are part of a larger facility called a target station, which sprays neutrinos like shining light from a flashlight. The target station and the decay pipe enable several neutrino experiments.
+“At the exit of the decay pipe are detectors called hadron and muon monitors that can tell us about the health of the target equipment,” said Hurh. “If the target breaks and falls apart, then more protons will make it through and less muons will be generated. We can see that in these monitors and then investigate.”
+The three challenges
+Researchers need to overcome three challenges to make a lasting target: radiation damage, high temperatures and stress from thermal expansion.
+Frederique Pellemoine is a scientist and engineer at Fermilab who leads Fermilab’s High-Power Targetry R&D group and coordinates the Radiation Damage in Accelerator Target Environments collaboration. The RaDIATE collaboration was established in 2012 by Patrick Hurh with researchers from four other institutions. This collaboration grew to 20 national and international institutions, bringing experts together to study the damage caused by accelerator beams and find ways to build better targets.
+“At Fermilab, we study the effects of radiation damage and thermal shock resistance on graphite, beryllium, titanium alloys and novel materials,” said Pellemoine.
+A
+nanofiber
+developed by Fermilab engineer Sujit Bidhar is being researched as a potential target material due to its ability to mitigate thermal shock and be more resistant to radiation damage. High-entropy alloys are also being investigated by Fermilab engineer Kavin Ammigan for a critical part of the target system that separates the target from the accelerator. Ammigan’s research earned him a
+Department of Energy Early Career Award
+in 2022.
+“Through all this research, we support the design of future targets,” added Pellemoine. “The design considerations include production of particles, operational safety, storage and disposal.”
+Researchers examine samples of targets that have been used in Fermilab’s accelerator complex. They also bombard samples under controlled beam parameters in facilities such as the Brookhaven Linac Isotope Producer that can replicate damage to materials from long exposure to Fermilab’s accelerator beam.
+After recreating the long-term damage, researchers will send these samples to other laboratories for post-irradiation examinations of the material to assess physical or structural property changes.
+“With each pulse from Fermilab’s accelerator, you have a rapid increase in temperature that creates a thermal shock,” said Pellemoine. “The expansion of the heated material within a cold core causes compressive or tensile stress. One year of operation can include millions of pulses.”
+The samples will be sent to an accelerator facility at CERN in Geneva, Switzerland, where researchers will create thermal shocks in the material with very high intensity single pulses. RaDIATE researchers compare the shocks between pristine samples and damaged samples.
+“Radiation damage defects in materials can be annealed, or self-healed, at higher temperatures. It is important to study the temperature effect in our radiation damage studies,” said Pellemoine. “We need to find the sweet spot to anneal those defects but avoid creating other damages at high temperature.”
+Next-generation experiment
+A next-generation neutrino experiment is under construction at Fermilab in Batavia, Illinois and Sanford Underground Research Facility in Lead, South Dakota.
+The Long Baseline Neutrino Facility and Deep Underground Neutrino Experiment will involve propelling a beam of neutrinos from Fermilab’s campus in Illinois to massive detectors a mile underground in South Dakota. Since the neutrinos are so small and rarely interact with other forms of matter, they will travel through the earth and arrive at the detectors.
+“About every second, a high-intensity pulse of protons will hit the target for the LBNF/DUNE experiment, and billions of neutrinos will be produced,” said Chris Densham, the high-power targets group leader at Rutherford Appleton Laboratory in Oxfordshire, England. “You create a very short pulse so that your detectors can know when the particles came from Fermilab.”
+For LBNF, Densham is leading Rutherford Appleton’s contribution to create the target. The graphite target for LBNF/DUNE will be 1 1/2 meters long and will operate at a high temperature, allowing the material to partially repair itself as it is being irradiated.
+“Graphite is a strange material; it’s quite happy being hot,” said Densham. “When it gets hot, it causes the structure to jumble around. If there’s an atom that gets knocked out of place, there is another one that’s able to fill it in.”
+Due to the thermal shock that will be produced by quick pulses, Densham and his team developed a unique temperature control system to help equalize the temperatures within the target and the target surface which can help increase the lifespan of the target.
+“We are going to use gaseous helium flowing over at high velocity around 440 meters per second,” said Densham. (Essentially, the helium could travel around a school’s running track in a second). “The end of the target looks like the front of a jet engine. Helium is a gentle coolant that doesn’t take too much heat out, so the target runs hot.”
+“There’s a surprising amount of engineering details in making these targets and integrating them together,” added Densham.
+A computer simulation of helium coolant flowing through the LBNF target at up to 440m/s, keeping the temperature of the graphite core to below 932 degrees Fahrenheit  (500 degrees Celsius). Provided by Dan Wilcox, Rutherford Appleton Laboratory
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+MicroBooNE celebrates tenth anniversary at Fermilab
+December 12, 2025
+liquid argon
+MicroBooNE
+neutrinos
+particle physics
+Fermilab feature
+The experiment demonstrated the power of liquid-argon time projection chamber technology for neutrino research, and to date, the collaboration has published more than 80 scientific papers, helping lay the foundation for Fermilab’s neutrino research program.
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+accelerator
+energy
+particle physics
+quantum
+Fermilab feature
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+First neutrinos detected at Fermilab short-baseline detector
+September 10, 2024
+neutrinos
+SBND
+Press release
+After years of preparation, the first neutrinos have been observed by the Short-Baseline Near Detector collaboration. The data SBND collects will expand our knowledge of how neutrinos interact with matter and will be used to search for evidence of new physics.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2026/03/scientists-head-underground-to-measure-effects-of-gamma-rays-on-superconducting-qubits/
+Title: Scientists head underground to measure effects of gamma rays on superconducting qubits
+────────────────────────────────────────────────────────────
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+March 10, 2026
+| By:
+Marcia Teckenbrock
+Tags:
+emerging technologies
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+In a pioneering study at an underground laboratory at Fermilab, scientists measured bursts of charge across multiple superconducting qubits. Their work advances understanding of how background noise impacts qubits while contributing to the development of more precise sensors to discover new physics phenomena and more fault-tolerant quantum computers.
+Beneath Earth’s surface, shielded from the effects of most cosmic rays, is the Northwestern Experimental Underground Site, or NEXUS. Located about 350 feet underground at Fermi National Accelerator Laboratory, the research facility enables scientists to study the behavior of quantum devices in their quest to find evidence of dark matter.
+It’s here that a multi-institutional team of scientists took measurements of correlated charge noise in a chip comprised of multiple superconducting qubits for the first time.
+As
+reported in
+Nature Communications
+,
+their work will help inform the design of future quantum-based particle physics detectors, as well as develop noise reduction strategies to reduce qubit errors and decoherence.
+“Understanding whether a charge burst could affect multiple qubits as the charge moves through the chip … is crucial to scientists who use quantum sensors …”
+Daniel Bowring, Fermilab scientist
+Superconducting qubits are a leading option for building quantum computers. However, they are sensitive to disturbances from their environment and can make errors. By understanding how electrical fluctuations called charge noise affect superconducting qubits, scientists can find ways to reduce these errors and improve quantum computers.
+When an ionizing particle, like a cosmic ray or gamma ray passes through such a chip, it can create bursts of charge that can impact information stored in qubits. Scientists can directly measure these events because the qubits used in the study are incredibly sensitive to fluctuations in charge.
+“Understanding whether a charge burst could affect multiple qubits as the charge moves through the chip — what researchers call correlated charge noise — is crucial to scientists who use quantum sensors to detect very faint signals that are possibly from dark matter, and to computer scientists, who are interested in correcting errors,” said Daniel Bowring, a scientist at Fermilab and organizer of this study.
+Scientists use the Northwestern Experimental Underground Site, called NEXUS, to study the behavior of quantum devices for use in dark matter searches and quantum information science. Credit: Ryan Postel, Fermilab
+This research is an extension of that
+conducted in 2019
+by collaborators at the University of Wisconsin-Madison. In that study, scientists measured correlated charge noise on the Earth’s surface using the same chip comprised of four superconducting qubits. Among their findings were signals detected from both cosmic rays and gamma rays.
+In the more recent study at Fermilab, scientists used the very same four-qubit chip and placed it in the underground NEXUS lab to block most cosmic rays. With a lead shield surrounding the dilution refrigerator that houses the qubit chip, they took measurements with the shield both open and closed to isolate and compare the effects of gamma radiation.
+“Qubits are sensitive to different types of faint signals. If we want to use them as particle detectors, we need to be sure we can tell these signals apart from each other.”
+Daniel Bowring, Fermilab scientist
+“Qubits are sensitive to different types of faint signals. If we want to use them as particle detectors, we need to be sure we can tell these signals apart from each other,” said Bowring.
+More specifically, they wanted to see what effect making things as quiet as possible would have on the rate of charge bursts on qubits and whether these effects were correlated in multiple qubits.
+When comparing measurements, scientists expected to find a marked decrease in charge bursts with the shield closed. They did find a reduction, though overall less than expected. Interestingly, they found that, even with the shield closed, some correlated charge noise was present, indicating the presence of some other source of background interference.
+“That leads us to believe something else besides the known gamma radiation is causing charge bursts inside the shield,” said Grace Bratrud, a graduate researcher at Northwestern University and lead author of the study. “What that may be is still up for debate. That’s the big question.”
+Several studies are planned to investigate the source of excess charge bursts.
+“Maybe there’s some source close to the qubit that produces some gamma rays we don’t know about,” said Bratrud. “We want to look more closely at those materials to see if they could be producing some radioactivity.”
+From the quantum computing side, they want to increase observation time to see whether any trapped charge in the substrate releases over a longer timeframe.
+In parallel, scientists want to repeat the study at NEXUS using a highly optimized qubit-based sensor developed by SLAC National Accelerator Laboratory called a superconducting quasiparticle amplifying transmon, or SQUAT, to compare how each detection method handles different energy levels.
+A dilution refrigerator installed in the underground NEXUS laboratory at Fermilab. To isolate the effects of gamma radiation on the quantum bits stored inside the refrigerator, scientists enclosed it in a lead shield. Credit: Ryan Postel, Fermilab
+“These comparisons will lead to new designs where we purposely engineer the amount of response to the environment,” said study coauthor Enectali Figueroa-Feliciano, a professor of physics and astronomy at Northwestern University. “Having that control will lead to quantum devices optimized to minimize their environmental response for use in quantum computing applications. It will also allow us to maximize it for quantum sensing applications.”
+The study was conducted with support from the
+Quantum Science Center
+.
+Collaborating institutions include: Fermilab, Illinois Institute of Technology, Northwestern University, SLAC National Accelerator Laboratory, Stanford University, Tufts University, University of Wisconsin-Madison, University of Florida in Gainesville, Université Grenoble, University of Toronto, Université Paris-Saclay, and Wellesley College.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Headquartered at Oak Ridge National Laboratory, the
+Quantum Science Center (QSC)
+is one of five multidisciplinary National Quantum Information Science Research Centers supported by the U.S. Department of Energy’s Office of Science. Initially created in 2020 and renewed in 2025 in response to the National Quantum Initiative Act of 2018, the QSC is focused on advancing quantum science and technology in the interests of national security and global scientific leadership.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

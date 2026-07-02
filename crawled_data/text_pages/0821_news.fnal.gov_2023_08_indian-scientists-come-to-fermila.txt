@@ -1,0 +1,200 @@
+URL: https://news.fnal.gov/2023/08/indian-scientists-come-to-fermilab-to-assist-with-pip-ii-particle-accelerator-technology/
+Title: Indian scientists come to Fermilab to assist with PIP-II particle accelerator technology
+────────────────────────────────────────────────────────────
+Indian scientists come to Fermilab to assist with PIP-II particle accelerator technology
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Indian scientists come to Fermilab to assist with PIP-II particle accelerator technology
+August 3, 2023
+| By:
+Madeleine O’Keefe
+Tags:
+cryomodule
+India
+PIP-II
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab and India’s Department of Atomic Energy institutions enjoy a strong partnership, further strengthened by Indian scientists assisting with work on the new particle accelerator.
+In 2021, amid the COVID-19 pandemic, two instruments, each approximately the size of two refrigerators, arrived at the U.S. Department of Energy’s Fermi National Accelerator Laboratory in Batavia, Illinois. The first landed in March, the second in December.
+They were amplifiers — the first prototype units of what will become the power source for Fermilab’s new linear particle accelerator. A team of scientists and engineers at India’s Raja Rammana Centre for Advanced Technology, or RRCAT, designed, developed and built both of them for the Proton Improvement Plan II, or PIP-II, project at Fermilab.
+But with the pandemic restrictions on international travel, Indian scientists could not accompany their work to the United States. Instead, engineers at Fermilab had to install the amplifiers with guidance “over the phone,” said Jim Steimel, PIP-II sub-project manager for high-power radiofrequency at Fermilab. The tight cooperation between the teams ensured the successful installation, despite the challenges of remote coordination.
+Scientists at RRCAT in India developed and built this prototype 40-kilowatt solid-state radiofrequency amplifier for PIP-II before shipping it to Fermilab for testing. Photo: Madeleine O’Keefe, Fermilab
+It’s one example of the strong collaboration between the U.S. and India in high-energy physics and accelerator research. Now, with travel restrictions loosened, a few representatives from the Indian PIP-II team have made their way to Fermilab to — finally — see their work in action.
+An important partnership
+India is an important scientific partner for the United States. Recently, in mid-June, Prime Minister Narendra Modi of India and United States President Joe Biden met at the White House to deepen bilateral cooperation between the two countries on cutting-edge scientific infrastructure. As part of the agreement, India will supply components worth $140 million to the PIP-II project. This contribution was even highlighted in this
+White House statement (see number 10)
+.
+The Indian Department of Atomic Energy institutions have a strong partnership with Fermilab. In February 2023, DOE’s Asmeret Berhe took her maiden visit to India as the director of the Office of Science. Invited by the chairman and the secretary of DAE, Berhe participated in meetings with officials at the U.S. Embassy, as well as India’s Ministry of External Affairs, the Bhabha Atomic Research Centre and Tata Institute of Fundamental Research. The tour included a visit to the University of Chicago Delhi Center. She also met with institutional leaders ​who work on high-energy physics programs, with a specific emphasis on accelerator programs.
+Accompanying Berhe on the visit was a cohort that included Gina Rameika, associate director for the DOE Office of High Energy Physics; Lia Merminga, Fermilab director; Josh Inaba, special assistant, Office of Science; Daniel Schwab, science and technology policy advisor, Office of International Science and Tech Cooperation and Trusted Research, Office of Science; and Hema Ramamoorthi, Fermilab director for international engagements.
+PIP-II is the first particle accelerator to be built in the U.S. with significant contributions from international partners. In addition to India, the PIP-II project will receive in-kind contributions from institutions in France, Italy, Poland and the United Kingdom. India’s deliverables include superconducting acceleration structures, electromagnets and radio-frequency power sources that will be fabricated in India and then transported to the U.S. for installation.
+Pioneering new technology with PIP-II
+PIP-II’s new accelerator will power the world’s most intense beam of neutrinos. It will provide the beam for the Deep Underground Neutrino Experiment, hosted by Fermilab. Over the course of its 215-meter length, the accelerator will
+drive particles to nearly 85% the speed of light
+through five different types of accelerating cryomodules.
+The linear accelerator uses superconducting radio-frequency technologies to power the particle beam. SRF technologies enable much more efficient particle acceleration than conventional technologies; however, they also require ultracold temperatures to operate. So, the cryomodules house strings of cavities — ranging from three to eight — in liquid helium baths and layers of insulation that isolate the cavities from the “warm” room temperature. PIP-II has 116 cavities distributed among 23 cryomodules.
+“I think it is important that they are able to visit the laboratory and see their product in action.” –  Jim Steimel, PIP-II sub-project manager for high-power radiofrequency at Fermilab
+PIP-II uses five different types of SRF cavities, with each type designed to efficiently accelerate particles of a particular velocity. “Every cavity requires a radiofrequency source to accelerate the beam,” said Steimel. The power to maintain the beam varies based on the cavity.
+PIP-II uses three different radio frequencies to power the beam. As the beam gets narrower farther down the accelerator, they use shorter-wavelength frequencies to compress the beam further.
+“We need to generate the RF necessary to keep the field in those cavities,” said Steimel.
+So the accelerator uses amplifiers that magnify the radiofrequency signal and send it into the cavities. Different amplifiers operate at 7 kilowatts for the first stage of acceleration, 20 kilowatts for the second, 40 kilowatts for the third and up to 70 kilowatts for the final stage. Engineers designed these amplifiers based on solid-state RF amplifier technology, or SSAs.
+Making valuable contributions
+Institutions in India will supply all the hardware for the SRF cavity amplifiers. The Bhabha Atomic Research Centre in Mumbai will provide amplifiers for the lower-energy single-spoke resonator cryomodules. So far, they have sent nine 325-megahertz 7-kilowatt amplifiers, which Fermilab tested in beam operations.
+Meanwhile, RRCAT will provide amplifiers for the 650-megahertz cryomodules: 36 of the 40-kilowatt and 24 of the 70-kilowatt types. The amplifiers sent during the pandemic were prototypes of a 32-kilowatt and 40-kilowatt amplifier to be used for testing. (PIP-II will not use a 32-kilowatt amplifier in the accelerator, but it was sent as a prototype for proof of concept.)
+From left to right: Deepak Sharma and Alok Gupta (both from RRCAT), David Peterson, James Steimel, Victor Grzelak and Patrick Sheahan (from Fermilab) stand in front of the prototype 40-kilowatt amplifier for Fermilab’s PIP-II particle accelerator. Photo: Niral Patel, Fermilab
+Each amplifier is made up of dozens to hundreds of 500-watt amplifier modules, called power amplifiers, or PAs. The large magnitude of modules required for assembly—ranging from 96 to 232 PAs per amplifier—make the amplifiers extremely complex.
+“RF amplifiers are really delicate and complex equipment. After commissioning in PIP-II, they will be operated for 20 years,” said Deepak Sharma, a scientific officer at RRCAT. “So, this is a highly important task for both institutions.”
+Sharma is one of the two Indian scientists visiting Fermilab to work on the amplifiers. He arrived in early May, overlapping with fellow RRCAT scientific officer Alok Gupta who arrived in February and departed mid-May. Sharma’s stay will last approximately three months. It is the first visit to the United States for the scientists, both of whom were on the RRCAT team that developed the amplifiers in India.
+“I think it is important that they are able to visit the laboratory and see their product in action,” says Steimel. “They’re seeing how this is actually working in operation: They’re watching the operators using it, trying to keep the field up in the cavities. They’re getting feedback from the people that are operating it in terms of possible issues with control and stability.”
+The prototype 32-kilowatt amplifier initially encountered some issues during testing. So, Gupta set up a test stand to measure, qualify and repair the PAs for 650-megahertz SSAs. After two months of work with Fermilab engineers, Gupta reported the amplifier now functions reliably.
+Sharma has continued working on improving the amplifier design while on site. He and Gupta will take those improvements and bring them back to RRCAT to be considered for the next set of designs based on updated requirement specifications. “These improvements will be incorporated in final sets of the amplifiers as prototype amplifiers were based upon earlier requirements,” said Gupta. “So, we will be working on the newer designs at our lab at RRCAT.”
+The RRCAT team is currently prototyping improved amplifier subsystems for PIP-II. The final design review for the 40-kilowatt amplifier is tentatively scheduled for September; in the meantime, RRCAT will conduct their own internal reviews.
+In a few years, when the PIP-II team is ready to assemble the entire accelerator, Gupta and Sharma hope to return to Fermilab with their team to install their amplifiers — in person, this time.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+Fermilab’s PIP-II accelerator project recognized at UK-US research showcase
+March 16, 2026
+DUNE
+LBNF/DUNE
+neutrino
+PIP-II
+Fermilab feature
+During an event at the British Embassy in Washington, D.C., officials honored the successful collaboration between the United States and United Kingdom for building the PIP-II particle accelerator at Fermilab. The powerful new accelerator will be used to send a beam of neutrinos through the Earth for the Deep Underground Neutrino Experiment.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

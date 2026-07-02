@@ -1,0 +1,241 @@
+URL: https://news.fnal.gov/2021/07/successful-tests-pave-the-way-for-fermilabs-next-generation-particle-accelerator/
+Title: Successful tests pave the way for Fermilab’s next-generation particle accelerator
+────────────────────────────────────────────────────────────
+Successful tests pave the way for Fermilab’s next-generation particle accelerator
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Successful tests pave the way for Fermilab’s next-generation particle accelerator
+July 22, 2021
+| By:
+Diana Kwon
+Tags:
+accelerator
+cryomodule
+international engagement
+milestone
+PIP-II
+superconducting radio-frequency technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+This spring testing wrapped up at the PIP-II Injector Test Facility, or PIP2IT. The successful outcome paves the way for the construction of PIP-II, a new particle accelerator that will power record-breaking neutrino beams and drive a broad physics research program at Fermilab for the next 50 years.
+A highly anticipated particle accelerator project at the U.S. Department of Energy’s Fermilab is one step closer to becoming a reality. This spring, amidst the pandemic, testing wrapped up at the PIP-II Injector Test Facility, or PIP2IT. The successful outcome paves the way for the construction of a new particle accelerator that will power record-breaking neutrino beams and drive a broad physics research program at Fermilab over the next 50 years.
+The feat was a culmination of over eight years of work on the
+Proton Improvement Plan-II
+, or PIP-II, by a dedicated group of scientists, technicians and engineers.
+“I’m very proud, first and foremost, of how the entire team came together in the middle of the pandemic and achieved so much under such adverse circumstances,” said Fermilab PIP-II Project Director Lia Merminga.
+In February 2020, PIP-II engineer Lidija Kokoska (left) and project director Lia Merminga stand in the PIP-II Test Injector Facility. In spring 2021, the PIP-II team successfully completed testing of the front end of the new particle accelerator. Photo: Al Johnson, Fermilab
+Prototyping a next-generation accelerator
+Once complete, PIP-II will be one of the highest-energy and highest-power linear particle accelerators in the world. It is the first accelerator project in the U.S. with significant
+international contributions
+, with partner institutions in France, India, Italy, Poland and the United Kingdom.
+PIP-II will provide the international particle physics community with a world-class scientific facility that will enable
+discovery-focused research using neutrinos, muons and protons
+. It will power the international
+Deep Underground Neutrino Experiment
+, as well as many other particle physics experiments at Fermilab that aim to transform our understanding of the universe. Along the way, it strengthens the connection between advances in fundamental science and technological innovation.
+The PIP-II accelerator will be 215 meters long and propel particles to 84% the speed of light. It will have the unique ability to deliver particle beams in either a steady stream or a pulsed mode. The machine will comprise 23 cryomodules — large vessels that house and cool structures known as superconducting cavities. These cavities will provide the bulk of the particle acceleration in PIP-II.
+PIP-II’s ambitious specifications come with many technical challenges. For example, PIP-II will feature five different types of superconducting cavities. Each type needs to be separately prototyped and tested.
+“Some of the capabilities that are embedded in the design of PIP-II are encountered by the international community for the first time, therefore intense development and technology validation is required,” Merminga said.
+“
+Since PIP-II is built with components from around the world, ensuring that all these systems integrate seamlessly is of paramount importance.”
+PIP2IT was conceived, constructed and operated to serve as a proof-of-concept for the front end of PIP-II. It comprises the particle source and the first section, which is approximately 30 meters long.
+“We wanted to build this because it is one of the most complicated parts of PIP-II,” said Eduard Pozdeyev, PIP-II project scientist and commissioning manager. “The main idea behind PIP2IT was to prototype the critical systems of the main accelerator.”
+Two stages to success
+The construction and testing of PIP2IT took place in two stages. The first phase, which began in 2013, focused on building the room-temperature portion of the machine. This included three parts: an ion source that generates the hydrogen ions; a radio-frequency quadrupole module, or RFQ, designed and built by DOE’s Berkeley Lab, which focuses and accelerates the particle beam; and a transport line for carrying the beam to the superconducting section of the accelerator.
+The team then carried out stage-one tests from 2016 to 2018. Testing ended with the generation of a beam that reached the goal of 2.1 million electronvolts of energy. The successful testing of all room-temperature components was a key step necessary to progress to the project’s next stage.
+“The ion source puts out these H-minus ions at 30,000 electronvolts, which is comparable to the energy that old-fashioned cathode-ray tube televisions used to produce,” said Fermilab engineer Curtis Baffes, the linac installation manager for PIP-II. “Then the RFQ takes that up to 2.1 million electronvolts — that’s a very significant energy increase.”
+During the second stage, which began in 2019, the PIP2IT team installed and tested the first parts of the cold section of the machine, which uses
+superconducting
+radiofrequency technology. They installed two cryomodules known as HWR, contributed by DOE’s Argonne National Laboratory, and SSR1, designed and constructed at Fermilab.
+SSR1 also integrated a new feature called the
+strongback technology
+. Typically, technicians link the cavities within a cryomodule to one another. The strongback technique connects the cavities to a common frame instead. This reduces vibration and enables easier alignment and assembly.
+Meeting all goals
+Cooling down these two cryomodules with liquid helium, then demonstrating that they could accelerate beams was “a big accomplishment,” Baffes said. “When the two cryomodules were cooled down, powered up and validated, they were individually big milestones. Then the final milestone was putting everything together and operating it with a particle beam.”
+The PIP-II team cooled down and successfully operated two cryomodules, including this SSR1 cryomodule, to accelerate particles to a beam energy of 16.5 million electronvolts. Photo: Tom Nicol, Fermilab
+Despite the global pandemic, the PIP2IT team managed several novel feats for Fermilab. That included the
+first acceleration of a proton beam using superconducting technology
+; the
+completion of SSR1, the first cryomodule entirely developed and built in-house
+; and the
+employment of the novel strongback technology
+. The Bhabha Atomic Research Center in India, an international partner of PIP-II, supplied one of the SSR1 cavities, meeting the stringent specifications for the component. BARC also provided the
+radio frequency power amplifiers
+that powered the SSR1 cryomodule and successfully enabled beam acceleration in PIP2IT.
+The test accelerator met the team’s goals. The machine reached the beam parameters needed for the
+Long-Baseline Neutrino Facility
+, which will
+generate the neutrinos
+for the Deep Underground Neutrino Experiment. PIP2IT achieved a beam energy of 16.5 million electronvolts, a current of 2 milliamps with 550-microsecond-long pulses and a 20-Hertz repetition rate. It also demonstrated the seamless integration of national and international partner deliverables.
+Bringing the many pieces of PIP2IT together and making sure that they met all the operational requirements was no easy feat. It was one that took years of painstaking effort by a dedicated team, Pozdeyev said. “Once we demonstrated this whole complex system operated, we breathed a big sigh of relief.”
+On top of the technical challenges posed by the project, working during a pandemic brought additional obstacles. The PIP2IT team had to temporarily shut down activities and introduce all the necessary precautions — such as setting up plexiglass barriers and establishing strict social distancing rules — before restarting.
+“We achieved all the main goals and milestones, even with all those difficulties,” said Lionel Prost, the manager for the warm front end of PIP-II. “It is gratifying that we were able to do it during those times.”
+Testing novel features: beam chopping and artificial intelligence
+The PIP2IT team also tested a novel technique for PIP-II: bunch-by-bunch chopping.
+Accelerators typically propel and deliver particles in bunches — parcels that hold trillions of particles each — that are mere nanoseconds apart. A so-called
+chopper system
+within PIP2IT enables operators to eject bunches of particles at controlled intervals. This enables the machine to deliver unique beam patterns catered to the needs of a given experiment.
+“One particularity of this chopping system is that it should be able to take any of the bunches that come out of the RFQ and be capable of kicking them to the absorber or letting them pass,” Prost said. “That has been a tricky and difficult technical achievement, because this technology doesn’t exist anywhere else.”
+The team also demonstrated the implementation of artificial intelligence in PIP2IT. They used machine learning algorithms to align the beam trajectory within the cryomodules. The eventual goal is to use
+such AI/ML technology more broadly
+in PIP-II and beyond.
+“The ultimate vision is an autonomous accelerator,” Merminga said. “A scientist comes in, dials in the beam parameters that they want for an experiment and then the software tunes the machine to deliver them. Minimal to no human intervention.”
+A new beginning
+PIP2IT completed its final run in April. Now, the team is working on disassembling the machine. They will store the cryomodules and other components until the
+construction of the PIP-II building
+is complete.
+This rendering shows the buildings that will house the new PIP-II particle accelerator at Fermilab. Construction of the cryoplant building, shown at the top of this image, is underway. The 16-story Wilson Hall is partially visible in the bottom right corner. Illustration: Fermilab
+Meanwhile, the project team will convert the cave that currently houses PIP2IT into a PIP-II cryomodule test facility. Before installation, each of PIP-II’s 23 cryomodules needs to be cooled down to cryogenic temperatures and tested.
+PIP2IT was an important learning experience. The project taught the team important lessons about the operation of the machine’s complex components such as its cryomodules. It also demonstrated the coordination that is necessary to integrate the numerous systems that come together.
+“All these lessons learned are going to be used to improve, update, modify and test designs for PIP-II,” Pozdeyev said. “When you start commissioning a new machine, sometimes you don’t know what’s going to happen. The test results obtained from PIP2IT significantly reduce the risk of future operations.”
+While PIP2IT is now complete, PIP-II’s journey continues.
+“Demonstrating that the front of PIP-II can meet its requirements is certainly a great milestone for the project,” Baffes said. “But it’s definitely not the end of the story.”
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

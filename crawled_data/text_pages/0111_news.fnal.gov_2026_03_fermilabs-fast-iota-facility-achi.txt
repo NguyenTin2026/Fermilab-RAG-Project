@@ -1,0 +1,199 @@
+URL: https://news.fnal.gov/2026/03/fermilabs-fast-iota-facility-achieves-major-milestone-in-accelerator-research/
+Title: Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+────────────────────────────────────────────────────────────
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+March 9, 2026
+| By:
+Maxwell Bernstein
+Tags:
+accelerator science
+AI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab’s FAST/IOTA accelerator test facility has successfully accelerated and stored its first proton beams, marking a major milestone in the lab’s R&D program for next-generation particle accelerator technology. This achievement paves the way for breakthroughs in high-intensity beam physics, artificial intelligence applications and innovations that will power future experiments like the Deep Underground Neutrino Experiment.
+An accelerator technology test facility with a catchy name has achieved a major milestone at the U.S. Department of Energy’s Fermi National Accelerator Laboratory by successfully accelerating its first proton beams. The achievement marks an important step forward that will support research aimed at pushing the boundaries of stable, high-intensity beams in future particle accelerator programs.
+“This marks a major advancement for our R&D program.”
+Jonathan Jarvis, director of Fermilab’s Accelerator Research Division
+“This marks a major advancement for our R&D program,” said Jonathan Jarvis, director of Fermilab’s Accelerator Research Division. “This new proton-beam capability lets us address the challenges we’ll face as we increase the beam power in Fermilab’s accelerators.”
+The dedicated research and development accelerator complex is called FAST/IOTA — shorthand for Fermilab’s Accelerator Science and Technology facility and its Integrable Optics Test Accelerator ring. Particle accelerators empower scientists to study the universe at its smallest scales, and FAST/IOTA helps ensure the United States will continue to hold a preeminent position in high-energy particle physics.
+The new IOTA proton injector integrates a low-voltage proton source with a radio-frequency-quadrupole accelerator to deliver high-intensity beam to the IOTA ring. Credit: Ryan Postel, Fermilab
+FAST has two linear accelerators that are connected to the IOTA storage ring, one for electrons and now one for protons. The IOTA ring is equipped with unique magnets and other advanced technologies that enable researchers to study new concepts for cutting-edge accelerator systems and high-intensity beam physics.
+Compared to Fermilab’s main accelerator complex, a large, well-established workhorse delivering high-energy protons for physics experiments, FAST/IOTA is designed to evaluate technologies that could improve the efficiency, reliability and performance of future particle accelerators.
+“FAST/IOTA is a dedicated R&D accelerator complex that provides us the freedom to explore high-risk, high-reward ideas,” explained Jarvis. “These ideas could dramatically improve the way we design, build and operate particle accelerators.”
+In accelerator physics, intensity refers to the number of particles packed into a beam and accelerated through the machine. With protons now circling the ring at around 7% of the speed of light, researchers can further investigate methods for mitigating beam instabilities, develop advanced control systems and discover ways to apply artificial intelligence to accelerator operations.
+Fermilab is in the process of upgrading its high-power, proton-accelerator complex
+through the PIP-II project
+. This upgrade will enable higher-intensity beams for the lab’s neutrino science program, beginning with the Deep Underground Neutrino Experiment. FAST/IOTA will enhance this effort by providing advanced tools and understanding for navigating the challenges of such high-intensity operations.
+By figuring out how to increase the number of particles in an accelerator beam and reduce beam losses, researchers can steer more particles toward a target. When more
+particles hit the target
+, they generate more secondary particles such as neutrinos. FAST/IOTA’s flexible, modular design makes it especially suited for developing new methods to increase and maintain beam intensity.
+“Researchers can conduct tests and experiments without tying up the operations of a larger production facility,” said Trey Thompson, an engineering physicist on the FAST/IOTA team. “We can shut down, swap out part of the ring and install new experiments without the usual constraints.”
+Trey Thompson is an engineering physicist on the FAST/IOTA team. Credit: JJ Starr, Fermilab
+Before this upgrade, FAST/IOTA primarily worked with electron beams. For example, in 2022, Fermilab researchers published a
+landmark paper in
+Nature
+, reporting the first experimental demonstration of optical stochastic cooling — a breakthrough technique that cools a particle beam using its own emitted light. The team also conducted studies on single electrons, using the facility’s unique capabilities to track individual particles for hours at a time.
+“Electrons were a perfect starting point and complement to our proton work,” said Jarvis. “They’re easy to work with, and they help us explore the advanced concepts and technologies that we are developing for our core proton program.”
+With this upgrade, FAST/IOTA is also helping to pioneer the use of artificial intelligence in accelerator design and operations.
+“About half of our program now focuses on enhancing accelerators with AI,” Jarvis said. “We’re building high-fidelity simulation environments that capture the complexity of the real machine and are fully integrated with its control systems. These virtual accelerators allow us to train AI systems to optimize performance and discover new configurations. The key is that we can then test those simulations in a real machine, at scale.”
+AI is not only a research focus but also a practical tool in deploying the new proton systems.
+“We used AI tools to help optimize the output of the proton source,” said Fermilab engineering physicist Chip Edstrom. “We’ve applied algorithms that treat the system as a black box — meaning we don’t need to understand every internal detail — and instead optimize parameters based on performance.”
+A Danilov-Nagaitsev magnet in the FAST/IOTA test facility. Credit: Ryan Postel, Fermilab
+This approach reflects Fermilab’s broader core value of ingenuity, which also makes FAST/IOTA an ideal environment for accelerator workforce development. Students and postdoctoral researchers gain “full-stack” experience, from design and construction to operation and data analysis for particle accelerators. At any given time, the program hosts multiple graduate students and postdoctoral researchers, exposing them to cutting-edge R&D spanning physics, engineering and AI.
+“There aren’t many places where you can get hands-on experience with a facility of this scale,” Jarvis said. “It’s an incredible opportunity to train the next generation of accelerator scientists and technologists.”
+And the impact of FAST/IOTA will extend well beyond Fermilab. “This is the realization of a vision that began over a decade ago,” Jarvis added. “We’ve built a uniquely capable facility that will help guide the operation and design of next-generation accelerators — from Fermilab’s own PIP-II project to machines around the world.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

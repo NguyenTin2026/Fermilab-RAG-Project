@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2023/05/stefano-miscetti-elected-as-mu2e-co-spokesperson/
+Title: Stefano Miscetti elected as Mu2e co-spokesperson
+────────────────────────────────────────────────────────────
+Stefano Miscetti elected as Mu2e co-spokesperson
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Stefano Miscetti elected as Mu2e co-spokesperson
+May 19, 2023
+| By:
+Maxwell Bernstein
+Tags:
+accelerator
+Mu2e
+spokesperson
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Stefano Miscetti will help lead the Mu2e experiment into its commissioning phase.
+Stefano Miscetti, a scientist from the Italian National Institute for Nuclear Physics, or INFN, has been elected as co-spokesperson for the upcoming Mu2e experiment (pronounced mew-to-e), which will be situated at the U.S. Department of Energy’s Fermi National Accelerator Laboratory. Miscetti and co-spokesperson Robert Bernstein from Fermilab will advance this experiment into the commissioning phase.
+Stefano Miscetti from INFN will help advance the Mu2e experiment toward the commissioning phase as its newly elected co-spokesperson. Photo: INFN LNF Education and Public Outreach Service
+The Mu2e collaboration brings together more than 200 people from 38 institutions across six countries to build a particle accelerator-based experiment to observe an ultra-rare subatomic process. In this process, a muon, a fundamental particle in the same family as the electron but with more mass, would directly convert into an electron without energy being carried away by fundamental particles called neutrinos. Less than one-in-1,000-billion muons produced by Mu2e will directly convert into an electron if this muon-to-electron process actually occurs in nature.
+A big journey for tiny particles
+Fermilab’s particle accelerator complex will produce a beam of protons that will collide with a tungsten target and create a cascade of particles, many of which researchers expect will decay into muons.
+An “S”-shaped, 82-foot-long system of superconducting solenoids — rings of superconducting wire that create a strong magnetic field when electric current flows effortlessly through their wires — will sort negatively charged muons from positive ones.
+This system will also transport and focus the muons toward an aluminum target. The muons will get trapped in the aluminum. They then will decay into electrons and neutrinos, or hopefully, some will decay directly into electrons.
+The electrons will emerge from the aluminum trap and leap toward an advanced three-part detector that will measure the electrons’ momentum and energy. The detector will provide a clear signal of a muon-to-electron conversion, while vetoing cosmic rays that interfere with the signal.
+The commissioning phase and beyond
+“After over 10 years of work and seven years since the start of construction, the experiment is now in an advanced realization stage,” said Miscetti. “The solenoidal system is now very close to completion, the detectors have most of the components built, the experiment’s mechanics are assembled and electronics are being produced.”
+These systems were constructed worldwide, with significant contributions from Italy. About 15% of the collaboration is affiliated with INFN, which has played a major role in designing and constructing the transport solenoid’s superconducting coils. INFN has also played a significant role in designing and constructing a part of the detector called the calorimeter.
+“I’m delighted that Stefano has taken on this responsibility,” said Bernstein. “He is the leader of our calorimeter team, a central member of the experiment and a terrific person to work with. Italy and INFN are essential to the success of Mu2e, and they deserve a formal role in the leadership. I am excited to work with him to get Mu2e our first physics data.”
+During commissioning, the team will first place all the components for the experiment in the Mu2e hall where they will be assembled into the full experiment. Researchers will then create vacuum conditions inside the experiment and turn on all the components without the beam. It will first detect cosmic rays, or particles from space. When everything is ready, the team will activate the beam of muons and check that everything works as expected.
+“The next two years will be important to see the solenoids and detectors fill the Mu2e hall on Fermilab’s campus to start data taking for real. I am excited to participate in this fundamental step in my new role,” said Miscetti.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit science.energy.gov.
+Recommended reading
+View all news
+Mu2e reaches major milestone with tracker move
+February 5, 2026
+Mu2e
+muon
+particle detector technology
+Fermilab feature
+Researchers at Fermilab moved the final subdetector for Mu2e into the experiment hall, marking a major step forward for the collaboration. Once completed, Mu2e will search for a rare muon conversion that may unlock evidence of physics beyond the Standard Model.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+accelerator
+energy
+particle physics
+quantum
+Fermilab feature
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

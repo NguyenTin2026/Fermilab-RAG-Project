@@ -1,0 +1,173 @@
+URL: https://news.fnal.gov/2026/03/a-minute-with-maria-barba/
+Title: A minute with Maria Barba
+────────────────────────────────────────────────────────────
+A minute with Maria Barba
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Maria Barba
+March 4, 2026
+| By:
+Maxwell Bernstein
+Tags:
+cryogenics
+particle accelerator
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Meet Maria Barba, a cryogenic engineer at Fermi National Accelerator Laboratory whose work helps keep systems that support the testing of critical particle accelerator components running smoothly.
+Fermilab is a highly technical environment to work in. Can you explain the work you do at the lab?
+I’m an engineer with the Cryogenics Division, and I help lead a small team that keeps our cryogenic facility running in Industrial Building 1. Our division is split between engineering and operations, and we maintain and operate systems that support testing superconducting magnets and cavities, which are essential for particle accelerators. As a cryogenic engineer, I supervise and participate in cryogenic operations, coordinating with a dedicated team of four full-time operators who work in two shifts to ensure 16-hour daily coverage. I review the operating procedures, prepare any engineering upgrades and update our documentation related to the facility. Our team is dedicated to keeping the system stable, monitoring alarms and maintaining a steady supply of liquid helium (chilled to below minus 450 degrees Fahrenheit) to the system.
+Maria Barba is a cryogenic engineer at Fermilab. Credit: JJ Starr, Fermilab
+Sounds like a very specialized focus! How did your career bring you to Fermilab?
+I have been at Fermilab for three years. My background is in cryogenics across various applications — from small cryocooler systems for space-based superconducting magnets to working at CERN on liquid argon detectors. I came to Fermilab to focus on large-scale cryogenic systems, particularly industrial liquid helium systems.
+These cryogenic systems seem very complex. What’s the most challenging part of your work?
+At IB1, we operate two large cryogenic liquefiers that produce liquid helium 24 hours a day for testing superconducting magnets and cavities. IB1 is unique because we operate both an old, manual liquefier and a newer, automated one. Making these two systems work together is a constant challenge. We consume all the liquid helium we produce, so efficiency and leak prevention are critical. The helium cycle is complex: we compress gaseous helium, liquefy it, store it in dewars, distribute it for tests, and then recover the boiled-off gas to start the cycle again.
+What do you find to be the most rewarding aspect of working at Fermilab?
+There are very few places in the world like Fermilab. Being surrounded by experts from so many different fields is incredibly enriching. It’s a privilege to work in such a collaborative and technically advanced environment.
+Besides working with large cryogenic systems, what else do you enjoy doing?
+I love kayaking! Illinois is a great place for it, with access to beautiful rivers and Lake Michigan. It’s a seasonal activity, so I try to squeeze in time to kayak two times a week.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+Fermilab researchers develop AI tools to advance the future of particle accelerators
+April 16, 2026
+AI
+particle accelerator
+Fermilab feature
+In coordination with six other national labs, Fermilab is developing AI tools to increase the efficiency and innovation in particle accelerators as part of the Department of Energy’s Genesis Mission.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

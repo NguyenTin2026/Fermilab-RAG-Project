@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2025/05/new-ceramic-material-for-high-power-particle-accelerators-enhances-reliability/
+Title: New ceramic material for high-power particle accelerators enhances reliability
+────────────────────────────────────────────────────────────
+New ceramic material for high-power particle accelerators enhances reliability
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+New ceramic material for high-power particle accelerators enhances reliability
+May 6, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+ceramics
+emerging technologies
+IARC
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+In a multi-year project at Fermilab’s Illinois Accelerator Research Center, or IARC, engineers and scientists collaborated with Euclid Techlabs to test a new, slightly conductive ceramic for use in a critical accelerator component known as a radio frequency window.
+Powerful particle accelerators can enable important scientific discoveries. They can also safely sterilize medical equipment, remove dangerous chemicals from water and soil and eradicate harmful organisms from fruits and vegetables. However, even the mightiest machines can be felled by a single weak link. As higher-powered and more expensive accelerators are being increasingly sought after for use in science and industry, researchers are seeking ways to make them more reliable and optimize the return on investment.
+Engineers at the U.S. Department of Energy’s Fermi National Accelerator Laboratory are drawing on decades of experience designing, building and operating superconducting radio-frequency accelerators to deliver higher powered machines with greater reliability for broader scientific and industrial use.
+In a multi-year project led by engineers and scientists at Fermilab’s
+Illinois Accelerator Research Center
+, or IARC, the team worked with Euclid Techlabs, an industry research lab that specializes in superconducting radio-frequency technologies and materials. One of IARC’s missions is to engage in commercialization of technology.
+The research team tested a new slightly conductive ceramic for use in a key accelerator component called the radio frequency window. The RF window is part of the power coupler that delivers radio-frequency energy to the accelerator from an external power supply. Within the accelerator cavity, the radio-frequency energy speeds up the particles.
+RF couplers have two sides: one connected to the vacuum-sealed accelerator cavity and the other exposed to atmospheric pressure. The ceramic RF window acts as a barrier between these environments.
+“It’s similar to a window in your home where you can see through, but it doesn’t allow cold air from outside to get in,” said Chris Edwards, a Fermilab IARC engineer who is involved in industrial SRF development. “In an accelerator, the RF window allows the power to pass through but prevents the atmospheric air from leaking into the vacuum side. Even negligible leaks would cause the accelerator to become damaged or inoperable.”
+A cross section of an SRF accelerator shows the new RF window (at right) is part of the coupler that receives RF power from a power supply. The RF window acts as a barrier between normal air pressure and vacuum air pressure to prevent power leakage and increase the accelerator’s reliability. Credit: Josh Helsper, Fermilab
+Because RF energy cannot pass through metal, the RF window must be constructed of ceramic, which is attached to metal conductors both inside and outside by brazing. The ceramic allows high energy RF power — typically around 50 kilowatts at Fermilab — to pass through, with future accelerators requiring even higher power levels.
+However, ceramic is an insulator, meaning it does not conduct electric currents. This can cause the buildup of charged particles such as electrons on its surface, leading to electrical breakdowns that can destroy the window.
+“As we move to higher and higher-powered accelerators, there’s a greater risk of the ceramic being damaged, so it’s very beneficial to us to have more reliable ceramic windows for our RF couplers,” said Sergey Kazakov, an engineering physicist at Fermilab who worked on this project.
+To this end, Euclid Techlabs used its expertise in ceramic materials and manufacturing processes to develop technology that makes the ceramic slightly conductive — just enough to remove the accumulated electrical charge from the ceramic surface and volume while keeping the ceramic RF energy losses small enough for this application. Euclid Techlabs provided the Fermilab team with a power coupler built using the new type of ceramics.
+“This new, conductive ceramic is as good or better than traditional alumina ceramic windows, and prevents the problems associated with charging,” said Ben Freemire, a scientist at Euclid Techlabs.
+Fermilab tested the prototype in its facility with promising findings.
+“The results were very good,” said Kazakov. “The coupler testing reached 80 kilowatts full reflection. The power was limited by the test facility, not the coupler. By focusing on one of the riskier components of SRF accelerators, a more reliable ceramic was produced and tested that can help the accelerator remain operational and reduce the risk of parts being damaged.”
+The next step, according to Fermilab IARC engineer and project leader Josh Helsper, is to further improve the RF window so it can eventually be used in an actual SRF accelerator. This requires the ability to securely attach the ceramic to a copper sleeve. While the original prototype was soldered, the final product will use brazing — a process that involves heating metal joint surfaces and a filler metal to higher temperatures to create stronger connections.
+“Soldering is useful for testing proofs of concept, but brazing is needed for use in real-world accelerators,” explained Helsper.  “Brazing is the preferred connection method because it can connect dissimilar metals, and the higher temperatures used in brazing enable the copper to fuse to stronger materials typically used in accelerators like the gold-copper or silver-copper mixtures.”
+Brazing these components requires special facilities and equipment that can achieve temperatures around 1,832 degrees Fahrenheit (1,000 degrees Celsius), and the process is performed in a vacuum to prevent oxidation. Euclid has tested the electrical conductivity and the power leak rate of a newer version of brazed conductive ceramic and found that they are satisfactory for an SRF accelerator.
+The prototype RF window is composed of conductive ceramic attached to a copper sleeve. Photo: Josh Helsper
+Now that they have successfully tested the new ceramic material and brazing process, the Fermilab team will be seeking a power coupler manufacturer to standardize the production of brazed ceramic RF windows.
+“This work was essential to advance industrial SRF technology and part of the leading-edge work that Fermilab does. This positions us well for our future accelerators,” said Edwards.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+March 10, 2026
+emerging technologies
+quantum
+Fermilab feature
+In a pioneering study at an underground laboratory at Fermilab, scientists measured bursts of charge across multiple superconducting qubits. Their work advances understanding of how background noise impacts qubits while contributing to the development of more precise sensors to discover new physics phenomena and more fault-tolerant quantum computers.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

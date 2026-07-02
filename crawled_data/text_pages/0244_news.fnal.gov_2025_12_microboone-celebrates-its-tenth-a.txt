@@ -1,0 +1,185 @@
+URL: https://news.fnal.gov/2025/12/microboone-celebrates-its-tenth-anniversary-at-fermilab/
+Title: MicroBooNE celebrates tenth anniversary at Fermilab
+────────────────────────────────────────────────────────────
+MicroBooNE celebrates tenth anniversary at Fermilab
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+MicroBooNE celebrates tenth anniversary at Fermilab
+December 12, 2025
+| By:
+Justin Evans
+Tags:
+liquid argon
+MicroBooNE
+neutrinos
+particle physics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The experiment demonstrated the power of liquid-argon time projection chamber technology for neutrino research, and to date, the collaboration has published more than 80 scientific papers, helping lay the foundation for Fermilab’s neutrino research program.
+Ten years ago, the first neutrinos interacted in the liquid argon of the MicroBooNE particle detector at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, marking a turning point for the lab’s neutrino research program. MicroBooNE is celebrating its tenth anniversary as part of a vibrant program of liquid-argon-based neutrino experiments, including the Deep Underground Neutrino Experiment — an international collaboration hosted by Fermilab that is on track to becoming the biggest liquid-argon detector ever built and a focal point of particle physics research.
+“Liquid argon offered the promise to solve the dual challenges of imaging neutrino interactions with millimeter precision and doing that at the kiloton scale needed to answer big science questions.”
+Matthew Toups, Fermilab senior scientist and co-spokesperson of MicroBooNE
+In October of 2015, the scientists of the MicroBooNE collaboration were excited about the potential of liquid argon to transform neutrino physics.
+“Liquid argon offered the promise to solve the dual challenges of imaging neutrino interactions with millimeter precision and doing that at the kiloton scale needed to answer big science questions,” said Matthew Toups, Fermilab senior scientist and co-spokesperson of MicroBooNE.
+Those big questions, the origin of matter in our universe and the unification of forces into a Grand Unified Theory, now lie at the heart of DUNE’s science program. But in 2015, it was not yet clear whether liquid-argon technology was advanced enough to support the future of U.S. neutrino physics research.
+“The liquid-argon time projection chamber had been proposed in the 1970s,” said Toups. Projects like ICARUS at Gran Sasso and ArgoNeuT at Fermilab had shown how powerful it could be, but what we wanted to do with MicroBooNE was to show that a large-scale liquid-argon detector could operate for multiple years and deliver a broad physics program.”
+The MicroBooNE collaboration achieved this ambitious goal. The detector operated for six years, and the collaboration, to date, has released over 80 scientific publications. More than 70 PhD students have completed their degrees through their work on MicroBooNE, and MicroBooNE’s science output is showing no signs of slowing.
+Argon, an inert element, becomes liquid at around minus 303 degrees Fahrenheit. The third most common element in the atmosphere, it is relatively inexpensive to liquify in large amounts, making it ideal for experiments designed to detect neutrino interactions. Inside a liquid-argon-based detector, charged particles from neutrino interactions strip electrons from argon atoms as they pass by, and an electric field draws those electrons to sensing wire planes where the interaction can be recorded and reconstructed in exquisite detail.
+The MicroBooNE detector was carefully transported by truck across Fermilab to the experiment hall in 2014. Credit: Cindy Arnold, Fermilab
+The capability that liquid argon brings to particle identification has enabled MicroBooNE to deliver an impressive program of searches for physics beyond the Standard Model. Foremost is the search for the sterile neutrino — a new type of neutrino that, while completely invisible to detectors, could cause the appearance of electron neutrinos in Fermilab’s Booster Neutrino Beam. MicroBooNE has been able to identify much purer samples of electron neutrinos than previous experiments,
+placing strong limits on the simplest sterile-neutrino models
+and guiding neutrino researchers to explore a more expansive, sophisticated range of models to explain the neutrino’s many puzzles. But MicroBooNE’s program of new-physics searches has gone far beyond that, probing phenomena that could reveal new particles or forces in “dark sectors,” which might help explain the dark matter in our universe thought to provide the mass necessary to hold galaxies together.
+MicroBooNE has also produced a wealth of new measurements describing how neutrinos interact with nuclei.
+“Precision neutrino physics starts with understanding how neutrinos interact with the nuclear target,” said MicroBooNE collaborator Elena Gramellini of the University of Manchester. “Building on the lessons learned from ArgoNeuT, MicroBooNE pioneered techniques to unravel how neutrinos interact with argon’s complex nucleus, producing a remarkable set of measurements that capture the subtle nuclear physics at play. MicroBooNE’s rich set of results is now a treasure trove of data shaping the models that DUNE will rely on to deliver its physics goals.”
+Another of MicroBooNE’s contributions to neutrino research is the people who comprise the collaboration.
+“The community of pioneering researchers that MicroBooNE has fostered is the foundation of the Fermilab neutrino program.”
+Bonnie Fleming, founding MicroBooNE spokesperson and Fermilab chief research officer
+“The talent and dedication of the early-career researchers who have made seminal contributions to MicroBooNE’s physics is amazing,” said Bonnie Fleming, founding spokesperson of MicroBooNE and chief research officer at Fermilab. “Many of the current leaders of our field developed their skills as part of MicroBooNE. The community of pioneering researchers that MicroBooNE has fostered is the foundation of the Fermilab neutrino program. We wouldn’t be where we are today had MicroBooNE not demonstrated the power of liquid argon and provided a training ground for so many students and postdocs.”
+MicroBooNE is now joined by the Short-Baseline Neutrino Detector and ICARUS experiments that comprise the Fermilab Short-Baseline Neutrino Program. Together, they will open new windows onto the intriguing physics behind nature’s most elusive particle. And the DUNE experiment, poised to take data in only a few years’ time, will use liquid argon to shine light on science’s biggest questions. From those first few interactions recorded in 2015 has grown an international science program, bringing more than 1,000 scientists together to expand the boundaries of human knowledge.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+April 2, 2026
+AI
+award
+particle physics
+Fermilab feature
+Aleksandra Ćiprijanović will use artificial intelligence to solve the domain shift problem in high-energy physics research. Fermilab’s computing capabilities make it uniquely positioned to support this project.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

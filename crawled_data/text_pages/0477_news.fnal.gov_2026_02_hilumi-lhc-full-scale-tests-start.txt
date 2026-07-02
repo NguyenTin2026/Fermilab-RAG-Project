@@ -1,0 +1,183 @@
+URL: https://news.fnal.gov/2026/02/hilumi-lhc-full-scale-tests-start/
+Title: HiLumi LHC: full-scale tests start
+────────────────────────────────────────────────────────────
+HiLumi LHC: full-scale tests start
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+HiLumi LHC: full-scale tests start
+February 24, 2026
+Tags:
+accelerator magnets
+collaboration
+HL-LHC Accelerator Upgrade Project
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists at CERN have triggered the complex cooldown of a 95-meter-long test stand that reproduces the underground configuration of innovative technologies for the Large Hadron Collider’s high-luminosity upgrade.
+Editor’s note: The following
+press release
+was posted by CERN on February 23, 2026
+.
+F
+ermi National Accelerator Laboratory developed and shipped five cryoassemblies containing
+niobium-tin
+magnets for use in the High-Luminosity Large Hadron Collider upgrade at CERN. The newly developed and tested magnets will focus the beam at the CMS and ATLAS interaction points, increasing the number of collisions for the experiments tenfold in the HiLumi era.
+Fermilab will deliver five additional cryoassemblies by mid-2027
+.
+The innovative magnet system is an important element in the major upgrade that will transform the Large Hadron Collider into the HiLumi LHC.
+Fermilab’s leadership and participation in the upgrade demonstrate the lab’s commitment to its ongoing collaboration with CERN and other Department of Energy national laboratories.
+View of the IT String magnet line. Credit: CERN
+CERN has reached a crucial milestone in the advancement of the High-Luminosity Large Hadron Collider (HiLumi LHC) project with the start of the cryogenic cooldown to 1.9 K (-271.3 °C) of its 95-metre-long test stand – a full-scale replica of the innovative equipment that will transform the LHC in the coming years. The test stand is designed to validate the novel magnet system (the inner triplet beam-focusing magnets) and its complex infrastructure, which is a key element in a major upgrade of the LHC that is set to enter operation in 2030.
+This summer will mark the start of a four-year-long intensive work period (Long Shutdown 3 – LS3) to transform the LHC into the HiLumi LHC—a groundbreaking accelerator that will usher in a new era for high-energy physics. The HiLumi LHC will increase by a factor of ten the number of particle collisions (called “luminosity”), vastly increasing the volume of physics data available for researchers. This leap forward will allow physicists to explore the behaviour of the Higgs boson and other elementary particles with unprecedented precision and to uncover rare new phenomena that might reveal themselves.
+“I don’t think it is possible to overstate the importance and excitement of the High-Luminosity LHC, which is the largest project undertaken by CERN for the past 20 years,” explains Mark Thomson, CERN Director-General. “Coupled with advanced new data tools and upgraded detectors, it will allow us to understand for the first time how the Higgs boson interacts with itself – a key measurement that will shed light on the first instants and possible fate of the Universe. The HiLumi LHC will also explore uncharted territory and could reveal something completely new and unexpected. That’s the whole point of exploring the unknown: you don’t know what’s out there.”
+Many of the technologies developed for the HiLumi LHC – such as superconducting crab cavities that tilt the particle beams before they collide, crystal collimators designed to remove errant particles, and high-temperature superconducting electrical transfer lines to power the HiLumi magnets as efficiently as possible – have never been used in a proton accelerator before. Among these new key technologies, the inner triplet beam-focusing magnets are made of a superconducting compound based on niobium and tin (Nb3Sn), enabling magnetic fields higher than those achieved with the current LHC niobium–titanium (NbTi) magnets. These new magnets will be deployed on both sides of the ATLAS and CMS experiments, alongside new cryogenic, powering, protection and alignment systems, and will operate at a temperature of 1.9 K (-271.3 °C), just like the LHC magnets.
+To ensure seamless integration, CERN has built, in an above-ground test hall, a full-scale test stand called the Inner Triplet String (IT String), which mirrors the underground configuration.
+“All the systems have already been tested individually. The goal of the IT String is to validate their integration and their collective performance under operational conditions,” explains Oliver Brüning, CERN Director for Accelerators and Technology. “The connection and operation of all the equipment in the IT String give us a chance to optimise our procedures before the actual installation in the tunnel, so that we will be prepared and ready for an efficient and smooth installation.”
+The large LHC experiments ATLAS and CMS will also undergo a major upgrade to enable them to harness the full scientific potential of the HiLumi LHC collisions – work that is being carried out in close coordination with hundreds of institutes worldwide. Additionally, the entire accelerator complex and associated experiments will benefit from improvements, solidifying CERN’s leadership in high-energy physics.
+The HiLumi LHC project is led by CERN with the support of an international collaboration of almost 50 institutes in more than 20 countries – the vast majority located in Europe. In addition to the funding provided by CERN Member States and Associate Member States, the project received special contributions from Italy, Spain, Sweden, the United Kingdom, Serbia and Pakistan, and from several non-Member States such as the United States, Japan, Canada and China.
+The cooldown of the HiLumi LHC test string, which is achieved using a sophisticated liquid- helium refrigeration and distribution system, is expected to take several weeks to complete.
+Recommended reading
+View all news
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+Dave Newbold elected co-spokesperson of DUNE collaboration
+March 17, 2026
+collaboration
+DUNE
+leadership
+Press release
+The Deep Underground Neutrino Experiment collaboration announced that a new spokesperson was elected to co-lead the largest neutrino experiment in the U.S. DUNE is at a pivotal time in the development of the massive far detectors and the build-out of the underground space in South Dakota.
+Fermilab technology debuts in supercollider dress rehearsal at CERN
+August 14, 2025
+HL-LHC Accelerator Upgrade Project
+Fermilab feature
+Several components developed, assembled and tested by the HL-LHC Accelerator Upgrade Project, a consortium of U.S. national laboratories and institutions, including Lawrence Berkeley National Laboratory, Brookhaven National Laboratory and Fermi National Accelerator Laboratory, take center stage as engineers at CERN build and test a section of the High-Luminosity Large Hadron Collider, a major upgrade to the world’s most powerful supercollider.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

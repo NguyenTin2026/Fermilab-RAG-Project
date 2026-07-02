@@ -1,0 +1,198 @@
+URL: https://news.fnal.gov/2018/08/mapping-the-universe-in-3-d-fermilab-contributes-to-the-dark-energy-spectroscopic-instrument/
+Title: Mapping the universe in 3-D: Fermilab contributes to the Dark Energy Spectroscopic Instrument
+────────────────────────────────────────────────────────────
+Mapping the universe in 3-D: Fermilab contributes to the Dark Energy Spectroscopic Instrument
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Mapping the universe in 3-D: Fermilab contributes to the Dark Energy Spectroscopic Instrument
+August 13, 2018
+| By:
+Jordan Rice
+Tags:
+astrophysics
+Berkeley Lab
+California
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+DESI, an instrument to help scientists get to the bottom of the dark energy mystery, is getting a little help from Fermilab.
+In 1998, scientists discovered that the universe’s expansion is accelerating. Physicists don’t know how or why the universe is accelerating outward, but they gave the mysterious force behind this phenomenon a name: dark energy.
+Scientists know a great deal about the effects of dark energy, but they don’t know what it is. Cosmologists approximate that 68 percent of the universe’s total energy must be made of the stuff. One way to get a better handle on dark energy and its effects is to create detailed maps of the universe, plotting its expansion. Scientists, engineers and technicians are currently building the Dark Energy Spectroscopic Instrument, or DESI, to do just that.
+DESI will help create the largest 3-D map of galaxies to date, one that will span a third of the entire sky, stretch back 11 billion light-years, and record approximately 35 million galaxies and quasars.
+It will measure the spectra of light emanating from galaxies to determine their distances from Earth. Other surveys have created maps that locate galaxies’ lateral positions in the sky, but scientists using DESI will be able to take more precise measurements of their distance from us, creating high-resolution, 3-D maps.
+DESI is currently being installed at the Mayall 4-Meter Telescope at Kitt Peak National Observatory in Tucson, Arizona. Once installation is complete, it will run for five years.
+The DESI project is managed at the U.S. Department of Energy’s Lawrence Berkley National Laboratory (Berkeley Lab) in California, and the U.S. DOE’s Fermilab is contributing to the ambitious effort with specialty systems for collecting and analyzing the galactic light.
+The Dark Energy Spectroscopic Instrument will attach to the Mayall Telescope at Kitt Peak National Observatory, shown here. Photo: Marilyn Chung/Lawrence Berkeley National Laboratory
+“The collaborative effort to build DESI is an example of how science draws on expertise from multiple institutions toward a common goal, one that humanity is always moving toward: understanding the fundamentals of our universe,” said Berkeley Lab’s Michael Levi, DESI project director.
+One of the largest pieces Fermilab is contributing is the DESI corrector barrel. Fermilab collaborators designed, built and tested the barrel, which is roughly the size of a telephone booth. It plays a critical role: holding DESI’s six giant lenses in perfect alignment. To ensure spot-on precision, the barrel is designed so that the lenses are accurately positioned to within the width of a human hair. Collaborators at University College London recently finished installing the lenses in the barrel, and the whole ensemble will soon be lifted onto the telescope.
+“The barrel needs to be extremely precise,” said Gaston Gutierrez, Fermilab scientist managing the corrector barrel construction. “If there is any misalignment of the lenses, the error will be highly magnified, and the images will be blurred.”
+Fermilab also designed and built large structures that will support a cage surrounding the barrel. These were delivered to the Mayall in April, and their installation has begun.
+The DESI corrector barrel’s cage, ring and support vanes are delivered to the Mayall Telescope at Kitt Peak in Arizona. Fermilab designed and built the corrector barrel, which holds DESI’s six lenses in perfect alignment. Photo: David Sprayberry, National Optical Astronomy Observatory
+To convert the light from galaxies into digital information for analysis, DESI will use high-tech versions of the familiar components in typical hand-held cameras — charge coupled devices, or CCDs. Fermilab packaged and tested these sensitive devices before delivering them to Tucson.
+The job of collecting the galactic light belongs to DESI’s 5,000 fiber-optic cables, which will help record the spectra of each galaxy. For roughly 20 minutes, each one of the fibers will aim at a single galaxy and record its spectrum. Then the telescope will move to a new position in the sky, and all 5,000 fibers will be moved to point at new galaxies. Fermilab is developing the software that tells the instrument where in the sky to point those fibers. Without this automation, DESI would not be able to measure the millions of objects it plans to study.
+To fully understand the spectra that DESI will collect, scientists need to keep detailed information about the instrument and telescope status. In addition to the DESI barrel, Fermilab is creating an electronic logbook and a database to store the instrument control systems operational data. These will be used to keep track of the information on the systems required to operate DESI, such as how to read the CCDs, direct the telescope and ensure the apparatus for recording the spectra is working properly.
+Fermilab is developing the software that tells DESI where in the sky to point its 5,000 fiber-optic cables, a fraction of which are shown here. Photo: Lawrence Berkeley National Laboratory
+DESI’s predecessor, called the Dark Energy Camera (DECam), is currently mounted on Chile’s Victor Blanco telescope, the sister telescope of the Mayall. In 2012, researchers and technicians completed DECam’s construction for use in the five-year Dark Energy Survey, hosted by Fermilab. The same scientists who designed DECam are bringing their expertise and knowledge to DESI.
+The Dark Energy Survey and DECam serve as stepping stones to DESI. The DESI project will improve our understanding of the nature of dark energy by using the Dark Energy Survey’s results as a baseline. DECam’s data will also help DESI find the galaxies so the latter can take more precise spectra measurements to determine the galaxy’s redshift: The farther away a galaxy is from us, the more its light is stretched and shifted in the direction of redder (longer) wavelengths, by the expansion of the universe.
+“For the Dark Energy Survey, we are just taking images, but for DESI we are pointing fibers at galaxies and measuring spectra,” said Fermilab’s Brenna Flaugher, project manager of DES and one of the leading scientists for DESI. “So, it is sort of the next level of resolution in redshift.”
+DESI’s final pieces are planned to be installed by April 2019, with first light planned for May of that year.
+“DESI will help us understand the nature of dark energy,” Flaugher said. “And that will lead to a better understanding of the evolution of our universe.”
+Work on DESI is supported by DOE’s Office of Science along with several international partners.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

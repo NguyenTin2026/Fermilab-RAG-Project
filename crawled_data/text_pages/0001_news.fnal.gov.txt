@@ -1,0 +1,245 @@
+URL: https://news.fnal.gov/
+Title: Newsroom
+────────────────────────────────────────────────────────────
+Newsroom
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Newsroom
+Fermilab is America’s particle physics and accelerator laboratory. Our mission is to serve as world-leader in neutrino and particle physics, pushing the frontiers of foundational discovery, opening new avenues of science and transforming results into technologies that benefit society.
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Featured
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Recent news
+View all news articles
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Fermilab celebrates 2026 quantum science program graduates
+April 28, 2026
+Press release
+This past weekend, a new group of high school students graduated from the Saturday Morning Quantum program. Hosted by Fermilab, the course allows students to engage directly with lab quantum scientists and engineers while exploring core topics in quantum science.
+Trending topics
+AI
+DUNE
+quantum
+dark matter
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+View all news related to AI
+Largest neutrino experiment in the US wins Project of the Year Award
+April 13, 2026
+Press release
+The largest neutrino experiment in the United States was named the Project of the Year by the Underground Construction Association for completing a significant and challenging underground construction project with little or no issues.
+View all news related to DUNE
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+View all news related to quantum
+A chilling new search for dark matter will soon be underway
+March 17, 2026
+Fermilab feature
+Fermilab has contributed vital components to the SuperCDMS experiment, located deep underground in a nickel mine outside of Sudbury, Canada.
+View all news related to dark matter
+Featured video
+Find Fermilab on YouTube
+What is a dilution fridge?
+DUNE: Seeing the invisible
+Is dark matter hiding in the neutrino fog?
+The most neutrinos ever?
+ICARUS: The search for new physics
+Final Muon g-2 measurement at Fermilab
+Fermilab news: New accelerator's cryogenic device on the move
+What is time?
+2025 Fermilab Highlights
+Why does Fermilab need accelerators?
+Neutrinos vs. birthdays
+Why is the quantum world uncertain
+How does magnetism work?
+In the news
+View all
+500+ scientists worldwide now utilize Fermilab’s QICK Toolkit
+Quantum Zeitgeist, June 4, 2026
+Fermilab is collaborating with Harmoniqs to integrate its Piccolo.jl software, a quantum control and calibration package, with QICK, to enable more precise and repeatable qubit manipulation.
+Talk at South Dakota Mines explains how neutrinos are like ice cream
+KOTA-TV, May 20 2026
+University of Sussex professor and DUNE collaborator Kate Shaw presented a public talk in Rapid City about the science behind DUNE and why we study neutrinos.
+Scientists from around the world gather in Black Hills to plan next phase of neutrino experiment
+KOTA-TV-, MAy 20, 2026
+More than 250 physicists and researchers attended the international DUNE conference hosted by South Dakota Mines May 18-22, bringing together members of the DUNE collaboration that includes more than 1,500 scientists from over 220 institutions across 38 countries.
+First steel beams for DUNE start to be lowered underground
+CERN News, May 11, 2026
+CERN Director-General Mark Thomson met with dignitaries and officials at SURF on  May 7 to mark a milestone for the international DUNE experiment.
+Social media
+View all social media
+Get the latest updates from around the lab.
+Follow Fermilab on LinkedIn
+More from particle physics
+DUNE experiment prepares for supernova watch
+Explore Symmetry Magazine
+A communication resource from the world’s particle physics laboratories.
+View interactions.org
+Media resources
+Contact us
+Dune at LBNF Newsroom
+Photo, video and graphics galleries
+Additional resources
+Social media
+Fact sheets and brochures
+Subscribe to email newsletters
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

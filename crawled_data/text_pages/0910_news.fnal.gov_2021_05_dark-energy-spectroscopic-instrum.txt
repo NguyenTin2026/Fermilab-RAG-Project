@@ -1,0 +1,227 @@
+URL: https://news.fnal.gov/2021/05/dark-energy-spectroscopic-instrument-starts-5-year-survey/
+Title: Dark Energy Spectroscopic Instrument starts 5-year survey
+────────────────────────────────────────────────────────────
+Dark Energy Spectroscopic Instrument starts 5-year survey
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Dark Energy Spectroscopic Instrument starts 5-year survey
+May 17, 2021
+Tags:
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Kitt Peak National Observatory
+robotics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+DESI will capture and study the light from tens of millions of galaxies and other distant objects to better understand our universe and the properties of dark energy. The formal start of DESI’s five-year survey follows a four-month trial run of its custom instrumentation that captured 4-million spectra of galaxies — more than the combined output of all previous spectroscopic surveys. Fermilab has contributed multiple components to the international collaboration led by Berkeley Lab.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Editor’s note:
+The
+Dark Energy Spectroscopic Instrument
+seeks to further our cosmic understanding by creating the largest 3D map of galaxies to date. Below is a
+press release
+issued by the Department of Energy’s Lawrence Berkeley National Laboratory
+announcing the official start of DESI’s five-year survey.
+DOE’s Fermi National Accelerator Laboratory is a key player in the construction of this instrument, drawing on more than 25 years of experience with the
+Sloan Digital Sky Survey
+and the
+Dark Energy Survey
+.
+Fermilab contributed key elements to DESI, including the online databases used for data acquisition and the software that will ensure that each of the
+5,000 robotic positioners
+are precisely pointing to their celestial targets to within a tenth of the width of a human hair. Fermilab also contributed the corrector barrel, hexapod and cage. The corrector barrel holds DESI’s six large lenses in precise alignment. The hexapod, designed and built with partners in Italy, focuses the DESI images by moving the barrel-lens system. Both the barrel and hexapod are housed in the cage, which provides the attachment to the telescope structure. In addition, Fermilab carried out the testing and packaging of DESI’s charge-coupled devices, or CCDs. The CCDs convert the light passing through the lenses from distant galaxies into digital information that can then be analyzed by the collaboration.
+“It is very exciting to have reached this point in the project,” said Liz Buckley-Geer, Fermilab scientist and one of the DESI lead observers. “I am looking forward to participating in the exciting science results that will be produced in the coming years.”
+A five-year quest to map the universe and unravel the mysteries of “dark energy” is beginning officially today, May 17, at Kitt Peak National Observatory near Tucson, Arizona. To complete its quest, the
+Dark Energy Spectroscopic Instrument (DESI)
+will capture and study the light from tens of millions of galaxies and other distant objects in the universe.
+DESI is an international science collaboration managed by the Department of Energy’s Lawrence Berkeley National Laboratory, or Berkeley Lab, with primary funding from DOE’s Office of Science.
+By gathering light from some 30-million galaxies, project scientists say DESI will help them construct a 3D map of the universe with unprecedented detail. The data will help them better understand the repulsive force associated with “dark energy” that drives the acceleration of the expansion of the universe across vast cosmic distances.
+Jim Siegrist, associate director for High Energy Physics at DOE, says “We are excited to see the start of DESI, the first next-generation dark energy project to begin its science survey. Along with its primary mission of dark energy studies, the data set will be of use by the wider scientific community for a multitude of astrophysics studies.”
+A small section of the DESI focal plane, showing the one-of-a-kind robotic positioners. The optical fibers, which are installed in the robotic positioners, are backlit with blue light in this image. Photo: DESI collaboration
+What sets DESI apart from previous sky surveys? The project director, Berkeley Lab’s Michael Levi, said, “We will measure 10 times more galaxy spectra than ever obtained. These spectra get us a third dimension.” Instead of two-dimensional images of galaxies, quasars and other distant objects, he explained, the instrument collects light, or spectra, from the cosmos such that it “becomes a time machine where we place those objects on a timeline that reaches as far back as 11-billion years ago.”
+“DESI is the most ambitious of a new generation of instruments aimed at better understanding the cosmos — in particular, its dark energy component,” said project co-spokesperson Nathalie Palanque-Delabrouille, a cosmologist at France’s Alternative Energies and Atomic Energy Commission, or CEA. She said the scientific program —  including her own interest in quasars — will allow researchers to address with precision two primary questions: what is dark energy; and the degree to which gravity follows the laws of general relativity, which form the basis of our understanding of the cosmos.
+The disk of the Andromeda Galaxy, M31, which spans more than 3 degrees, is targeted by a single DESI pointing, represented by the large, pale green, circular overlay. The smaller circles within this overlay represent the regions accessible to each of the 5,000 DESI robotic fiber positioners. In this sample, the 5,000 spectra that were simultaneously collected by DESI include not only stars within the Andromeda Galaxy, but also distant galaxies and quasars. The example DESI spectrum that overlays this image is of a distant quasar, QSO, 11-billion years old. Image: DESI collaboration and DESI Legacy Imaging Surveys
+“It’s been a long journey from the first steps that we took almost a decade ago to design the survey, then to decide which targets to observe, and now to have the instruments so that we can achieve those science goals,” Palanque-Delabrouille, said. “It’s very exciting to see where we stand today.”
+The formal start of DESI’s five-year survey follows a four-month trial run of its custom instrumentation that captured 4-million spectra of galaxies — more than the combined output of all previous spectroscopic surveys.
+The DESI instrument resides at the retrofitted Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory, a program of the National Science Foundation’s NOIRLab. The instrument includes new optics that increase the field of view of the telescope and includes 5,000 robotically controlled optical fibers to gather spectroscopic data from an equal number of objects in the telescope’s field of view.
+“We’re not using the biggest telescopes,” said Berkeley Lab’s David Schlegel, who is DESI project scientist. “It’s that the instruments are better and very highly multiplexed, meaning that we can capture the light from many different objects at once.”
+In fact, the telescope “is literally pointing at 5,000 different galaxies simultaneously,” Schlegel said. On any given night, he explains, as the telescope is moved into a target position, the optical fibers align to collect light from galaxies as it is reflected off the telescope mirror. From there, the light is fed into a bank of spectrographs and CCD cameras for further processing and study.
+“It’s really a factory that we have — a spectra factory,” said survey validation lead, Christophe Yeche, also a cosmologist at CEA. “We can collect 5,000 spectra every 20 minutes. In a good night, we collect spectra from some 150,000 objects.”
+“But it’s not just the instrument hardware that got us to this point — it’s also the instrument software, DESI’s central nervous system,” said Klaus Honscheid, a professor of physics at Ohio State University who directed the design of the DESI instrument control and monitoring systems. He credits scores of people in his group and around the world who have built and tested thousands of DESI’s component parts, most of which are unique to the instrument.
+Spectra collected by DESI are the components of light corresponding to the colors of the rainbow. Their characteristics, including wavelength, reveal information such as the chemical composition of objects being observed as well as information about their relative distance and velocity.
+As the universe expands, galaxies move away from each other, and their light is shifted to longer, redder wavelengths. The more distant the galaxy, the greater its “redshift.” By measuring galaxy redshifts, DESI researchers will create a 3D map of the universe. The detailed distribution of galaxies in the map is expected to yield new insights on the influence and nature of dark energy.
+“Dark energy is one of the key science drivers for DESI,” said project co-spokesperson Kyle Dawson, a professor of physics and astronomy at University of Utah. “The goal is not so much to find out how much there is – we know that about 70% of the energy in the universe today is dark energy — but to study its properties.”
+The universe is expanding at a rate determined by its total energy contents, Dawson explains. As the DESI instrument looks out in space and time, he says, “we can literally take snapshots today, yesterday, 1-billion years ago, 2-billion years ago — as far back in time as possible. We can then figure out the energy content in these snapshots and see how it is evolving.”
+DESI is supported by the DOE Office of Science and by the National Energy Research Scientific Computing Center, a DOE Office of Science user facility. Additional support for DESI is provided by the U.S. National Science Foundation; the Science and Technologies Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission, or the CEA; the National Council of Science and Technology of Mexico; the Ministry of Economy of Spain; and by the DESI member institutions.
+The DESI collaboration is honored to be permitted to conduct astronomical research on Iolkam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation.
+DESI is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+DESI opens access to the largest 3D map of the universe yet
+March 19, 2025
+cosmology
+DESI
+Skipper CCD
+Press release
+A new data release from the Dark Energy Spectroscopic Instrument is now available for researchers to explore. The collection contains information on 18.7 million galaxies, quasars, and stars — the largest dataset of its kind ever shared.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

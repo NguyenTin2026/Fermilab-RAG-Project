@@ -1,0 +1,219 @@
+URL: https://news.fnal.gov/tag/qubits/page/3/
+Title: qubits Archives - Page 3 of 4 - News
+────────────────────────────────────────────────────────────
+qubits Archives - Page 3 of 4 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+qubits
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+21 - 30 of 40 results
+Fermilab engineer scales quantum startup with support from UChicago
+July 26, 2022
+quantum computers
+qubits
+From the Polsky Center, July 26, 2022: Fermilab’s quantum ASIC group leader Shaorui Li founded Lismikro, a new start-up dedicated to developing innovative low-power microchip controllers to solve the hardware bottleneck and unleash the full potential of quantum computers. Lismikro was awarded a $200,000 co-investment from the Polsky Center’s George Shultz Innovation Fund and is capable of scaling the control electronics beyond today’s 100 qubits for superconducting, ion trap, and photonic quantum processors.
+Fermilab develops a new generation of quantum control electronics for improved size, performance, and cost
+May 2, 2022
+QICK
+quantum computing
+quantum electronics
+qubits
+From Quantum Computing Report, April 30, 2022: A Fermilab quantum engineering team has collaborated with the University of Chicago to create a new open-source design for control electronics for superconducting quantum processors called the Quantum Instrumentation Control Kit.
+New SQMS study uncovers impurities in a qubit
+February 16, 2022
+niobium
+quantum
+quantum computers
+quantum decoherence
+qubits
+SQMS Center
+Fermilab feature
+Scientists at the Fermilab-led SQMS Center investigate qubits at the atomic level to identify sources of various impurities. By having a deeper understanding of how impurities affect how long a qubit can store information, scientists will be able to figure out how to further improve the performance of quantum computers.
+What is a quantum network?
+January 26, 2022
+entanglement swapping
+quantum
+quantum entanglement
+quantum network
+qubits
+Symmetry feature
+As we step into the quantum age, here are four things to know about quantum networks.
+More than one way to make a qubit
+January 19, 2022
+quantum
+quantum computers
+quantum state
+qubits
+Scientists are exploring a variety of ways to make quantum bits. We may not need to settle on a single one.
+From bits to qubits
+January 13, 2022
+quantum
+quantum computers
+quantum entanglement
+quantum mechanics
+qubits
+Symmetry feature
+Quantum computers go beyond the binary.
+SQMS researchers discover performance-limiting nanohydrides in superconducting qubits
+December 15, 2021
+high-energy physics
+quantum information
+qubits
+SQMS Center
+superconducting radio-frequency technology
+Fermilab feature
+Scientists at the Fermilab-led Superconducting Quantum Materials and Systems Center have discovered that nanohydrides, variants of an imperfection found in advanced superconducting materials for particle accelerators, also affect industrially produced superconducting qubits.
+A Quantum Bit That Can Search for Dark Matter
+April 22, 2021
+dark matter
+quantum
+quantum technology
+qubits
+From Pioneering Minds, April 20, 2021: Qubits will help advance the search for dark matter, as co-authored in a paper by Fermilab’s Aaron Chou.
+Sensitive qubit-based technique to accelerate search for dark matter
+April 12, 2021
+axion
+cavity
+dark matter
+photons
+quantum
+qubits
+result
+superconducting technology
+University of Chicago
+Fermilab feature
+Quantum bits acting as particle detectors offer a fast and highly reliable means of solving one of the great mysteries in physics: the nature of dark matter. This new method promises a more efficient way to detect dark matter candidates by improving the experimental signal-to-noise ratio.
+New computing algorithms expand the boundaries of a quantum future
+April 5, 2021
+Fermilab Quantum Institute
+machine learning
+quantum computing
+qubits
+result
+Fermilab feature
+To fully realize the potential of quantum computing, scientists must start with the basics: developing step-by-step procedures, or algorithms, for quantum computers to perform simple tasks. A Fermilab scientist has done just that, announcing two new algorithms that build upon existing work in the field to further diversify the types of problems quantum computers can solve.
+«
+1
+2
+3
+4
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

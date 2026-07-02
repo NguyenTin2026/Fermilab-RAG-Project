@@ -1,0 +1,226 @@
+URL: https://news.fnal.gov/tag/computing/page/3/
+Title: computing Archives - Page 3 of 8 - News
+────────────────────────────────────────────────────────────
+computing Archives - Page 3 of 8 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+computing
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+21 - 30 of 76 results
+Deep learning at scale for the construction of galaxy catalogs
+September 19, 2019
+astrophysics
+computing
+Dark Energy Survey
+DES
+machine learning
+From
+Inside HPC
+, Sept. 15, 2019: Argonne and the National Center for Supercomputing Applications use deep learning to analyze Dark Energy Survey data.
+The technological heavyweight you’ve probably never heard of: ESnet
+September 17, 2019
+CERN
+computing
+Large Hadron Collider
+LHC
+networking
+From DOE, Sept. 10, 2019: Fermilab scientist Bo Jayatilaka is quoted in this article on ESnet, which has expanded to connect more than 40 major research institutions at speeds 15,000 times faster than a home network.
+Boosting computing power for the future of particle physics
+August 19, 2019
+big data
+CMS
+computing
+Large Hadron Collider
+LHC
+machine learning
+MIT
+From MIT News, Aug. 19, 2019: A new prototype machine-learning technology co-developed by Fermilab and MIT scientists speeds Large Hadron Collider data processing by up to 175 times over traditional methods.
+A glimpse into the future: accelerated computing for accelerated particles
+August 15, 2019
+big data
+CMS
+computing
+machine learning
+Fermilab feature
+A new machine learning technology tested by Fermilab scientists and collaborators can spot specific particle signatures among an ocean of LHC data in the blink of an eye, much faster than standard methods. Sophisticated and swift, its performance gives a glimpse into the game-changing role machine learning will play in making future discoveries in particle physics as data sets get bigger and more complex.
+Fermilab scientist Nhan Tran receives prestigious DOE award to expand particle collider research capabilities using artificial intelligence
+August 8, 2019
+artificial intelligence
+CMS
+computing
+machine learning
+Fermilab feature
+Tran’s $2.5 million award will fund the development of new ways to handle the massive amounts of data that particle physics produces and to expand investigations of Higgs boson physics.
+Fermilab’s HEPCloud goes live
+August 5, 2019
+CMS
+computing
+HEPCloud
+Large Hadron Collider
+LHC
+Fermilab feature
+A pioneer in particle physics and high-performance computing, Fermilab has launched HEPCloud, a cloud computing service that will enable the lab’s demanding experiments to make the best, most efficient use of computing resources. This flagship project lets experiments rent computing resources from external sources during peak demand, reducing the costs of providing for local resources while also providing failsafe redundancy.
+FPGAs and the road to reprogrammable HPC
+July 9, 2019
+computing
+machine learning
+From
+Inside HPC
+, July 3, 2019: Particle physics researchers are using custom integrated circuits called FPGAs in combination with other computing resources to process massive quantities of data at extremely fast rates to find clues to the origins of the universe. This requires filtering sensor data in real time to identify novel particle substructures that could contain evidence of the existence of dark matter and other physical phenomena. A growing team of physicists and engineers from Fermilab, CERN and other institutions, co-led by Fermilab scientist Nhan Tran, wanted to have a flexible way to optimize custom-event filters in the CMS detector they are working on at CERN.
+High precision for studying the building blocks of the universe
+June 6, 2019
+Brookhaven
+CERN
+computing
+Deep Underground Neutrino Experiment
+DUNE
+Jefferson Lab
+lattice QCD
+neutrino
+Oak Ridge National Laboratory
+protons
+quantum chromodynamics
+Standard Model
+theory
+From Exascale Computing Project, May 28, 2019: Fermilab scientist Andreas Kronfeld is featured in this piece on the Excascale Computing Project, quantum chromodynamics and lattice QCD. Kronfeld, the principal investigator of ECP’s LatticeQCD project, explains how exascale computing will be essential to extending the work of precision calculations in particle physics to nuclear physics. The calculations are central for interpreting all experiments in particle physics and nuclear physics.
+Ten great reasons to build the 1.5-exaflop Frontier
+May 9, 2019
+computing
+From
+HPCWire
+, May 7, 2019: Fermilab scientist Andreas Kronfeld is quoted in this article that follows up on Oak Ridge National Laboratory’s announcement of plans to build the $600 million, 1.5 exaflops Frontier supercomputer.
+How artificial intelligence is changing science
+March 13, 2019
+computing
+neural network
+From
+Quanta Magazine
+, March 11, 2019: The latest AI algorithms are probing the evolution of galaxies, calculating quantum wave functions, discovering new chemical compounds and more. Is there anything that scientists do that can’t be automated? Fermilab scientist Brian Nord comments on using artificial neural networks to study the cosmos.
+«
+1
+2
+3
+4
+5
+…
+8
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

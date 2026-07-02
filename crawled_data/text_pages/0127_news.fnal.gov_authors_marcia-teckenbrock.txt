@@ -1,0 +1,206 @@
+URL: https://news.fnal.gov/authors/marcia-teckenbrock/
+Title: Marcia Teckenbrock Archives - News
+────────────────────────────────────────────────────────────
+Marcia Teckenbrock Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Marcia Teckenbrock
+Marcia Teckenbrock is a senior writer for Fermilab emerging technologies and former writer for Fermilab computing.
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 26 results
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+March 10, 2026
+emerging technologies
+quantum
+Fermilab feature
+In a pioneering study at an underground laboratory at Fermilab, scientists measured bursts of charge across multiple superconducting qubits. Their work advances understanding of how background noise impacts qubits while contributing to the development of more precise sensors to discover new physics phenomena and more fault-tolerant quantum computers.
+Fermilab-led study advances development of sophisticated quantum sensors to track high-energy particles and detect dark matter
+March 2, 2026
+dark matter
+emerging technologies
+quantum
+Fermilab feature
+Scientists are continuing a groundbreaking study of superconducting microwire single photon detectors, or SMSPDs. These ultrasensitive devices show great promise for particle physics research of the future.
+Fermilab completes laser lab construction for world’s largest vertical atom interferometer
+January 7, 2026
+emerging technologies
+laser
+MAGIS-100
+quantum
+Fermilab feature
+Construction of a laser laboratory that will house state-of-the-art lasers necessary to run the experiment’s 100-meter atom interferometer is complete. This is an important step in building a quantum sensing device capable of seeing tiniest of signals emanating from the farthest reaches of the universe to discover new physics phenomena.
+‘Squeezed light’ technology could accelerate path to quantum networking
+September 30, 2025
+AQNET
+emerging technologies
+partnership
+quantum
+Fermilab feature
+Scientists at Fermilab and Caltech have demonstrated the feasibility of their method of using squeezed light to dramatically increase the rate at which quantum networks can generate entangled particle pairs over long distances. This advance addresses a critical bottleneck in building large-scale quantum networks.
+A minute with Troy England
+August 20, 2025
+detectors
+emerging technologies
+microelectronics
+quantum
+Fermilab feature
+Troy England is an engineer at Fermilab who designs microelectronics that can function in the ultracold spaces required by quantum systems. His work is helping scientists get better data to explore particle interactions and understand qubit behavior.
+Fermilab researchers advance quantum sensing for future detectors
+May 7, 2025
+detector technology
+emerging technologies
+quantum
+Press release
+A collaboration of scientists tested next-generation superconducting microwire single photon detectors (SMSPDs) at Fermilab to further particle physics research.
+New ceramic material for high-power particle accelerators enhances reliability
+May 6, 2025
+ceramics
+emerging technologies
+IARC
+Fermilab feature
+In a multi-year project at Fermilab’s Illinois Accelerator Research Center, or IARC, engineers and scientists collaborated with Euclid Techlabs to test a new, slightly conductive ceramic for use in a critical accelerator component known as a radio frequency window.
+1
+2
+3
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

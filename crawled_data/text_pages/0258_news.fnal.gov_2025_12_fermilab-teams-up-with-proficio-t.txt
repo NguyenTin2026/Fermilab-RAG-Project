@@ -1,0 +1,180 @@
+URL: https://news.fnal.gov/2025/12/fermilab-teams-up-with-proficio-to-develop-water-treatment-system-targeting-pfas/
+Title: Fermilab teams up with Proficio to develop water treatment system targeting PFAS
+────────────────────────────────────────────────────────────
+Fermilab teams up with Proficio to develop water treatment system targeting PFAS
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab teams up with Proficio to develop water treatment system targeting PFAS
+December 9, 2025
+Tags:
+accelerator applications
+emerging technologies
+IARC
+partnership
+PFAS
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab and a Chicagoland firm Proficio Consultancy are teaming up to develop a specialized water treatment system that uses beams of electrons to destroy harmful chemicals in water.
+The effort to clean up persistent contaminants in water is gaining momentum through a new partnership between Fermi National Accelerator Laboratory and Proficio Consultancy, an engineering and fabrication firm based in Lisle, Illinois. Together, they are developing a water treatment system tailored for use with electron beam accelerators.
+“This partnership highlights how we can combine cutting-edge national lab research with local small business ingenuity to tackle some of our most pressing problems,” said Chris Edwards, engineering project manager at Fermilab.
+Perfluoroalkyl and polyfluoroalkyl substances — commonly known as PFAS or forever chemicals — are used in a multitude of industrial and consumer products and often end up in the environment. These chemicals, which are difficult to destroy due to their strong carbon-fluorine bonds, may have harmful effects on human health, so it is critical to remove them from water supplies.
+Electron beam technology offers a promising solution.
+Experts at Fermilab’s
+Illinois Accelerator Research Center
+— also called IARC — are developing a compact superconducting accelerator that generates electrons capable of destroying PFAS.
+Prior research
+at IARC has proven that electron beams can effectively break the carbon-fluoride bonds and render the resulting chemicals harmless, unlike most conventional water treatment methods, which produce secondary waste streams.
+PFAS-contaminated water has been successfully treated using Fermilab’s Accelerator Applications Development and Demonstration accelerator, or A2D2, pictured above. Photo: Ryan Postel, Fermilab
+Maximizing PFAS breakdown in water requires carefully controlled treatment conditions. Proficio Consultancy will work closely with IARC to design and develop a specialized water treatment skid system that will ready PFAS-laden water for efficient electron beam irradiation, a process that safely uses radiation to break down unwanted chemicals. After treatment, the water treatment system will condition the water, ensuring it is safe to use or ready for further processing.
+“This pre-treatment and conditioning system is critical to unlocking the full potential of our electron beam accelerator for environmental cleanup applications,” said Edwards.
+The initial design will ensure the system integrates with Fermilab’s compact accelerator, allowing the continuous flow and irradiation of PFAS-laden water. In the future, the design can be scaled into a full-sized, field-deployable accelerator capable of treating large volumes of contaminated water.
+Illustration of a water treatment system skid being developed by Proficio Consultancy and Fermilab. The system will pretreat PFAS-laden water and condition it after electron beam irradiation, a treatment proven to destroy PFAS in water. Graphic: Proficio Consultancy
+The compact, modular skid will contain advanced instrumentation, including a control system that regulates water flow and monitors temperature, pH and oxygen levels, along with special pipes. Its flexibility to operate under a wide range of conditions — such as feed rate, batch size, pH level and nitrogen flow rate — will enable it to be optimized for a variety of water treatment applications and scaled up in the future.
+“With decades of multi-disciplinary engineering experience, Proficio Consultancy is uniquely positioned to complete cradle-to-grave projects such as this PFAS water treatment skid system,” said Eddie Jaramillo, president and chief executive officer at Proficio Consultancy. “We are excited to work with Fermilab on this project.”
+IARC’s mission to help industry adopt Fermilab-developed technologies is paving the way for scalable, cost-effective solutions to PFAS contamination. Partnerships between national laboratories and local small businesses strengthen regional innovation ecosystems and support the U.S. Department of Energy’s goals for technology transfer and commercialization.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

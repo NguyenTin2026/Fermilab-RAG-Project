@@ -1,0 +1,191 @@
+URL: https://news.fnal.gov/2022/04/new-accelerator-at-fermilab-approved-for-construction-start/
+Title: New accelerator at Fermilab approved for construction start
+────────────────────────────────────────────────────────────
+New accelerator at Fermilab approved for construction start
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+New accelerator at Fermilab approved for construction start
+April 20, 2022
+Tags:
+accelerator
+construction
+DUNE
+PIP-II
+PIP-II Injector Test
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Department of Energy has formally approved the start of full construction for the PIP-II project, an upgrade to the Fermilab accelerator complex that includes a new linear accelerator. PIP-II is an essential enhancement that will power the world’s most intense high-energy neutrino beam. It is the first particle accelerator built in the United States with significant contributions from international partners.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+The U.S. Department of Energy has formally approved the start of full construction for the PIP-II project, an essential upgrade to the accelerator complex at Fermi National Accelerator Laboratory. The heart of the project is a powerful new superconducting linear accelerator that will enable the world’s most intense high-energy neutrino beam.
+The milestone, known as Critical Decision 3, authorizes the project to begin full-scale procurement and construction. It builds on the March 2021 approval for a preliminary construction start, which enabled work on key elements needing longer preparation times. This included cutting-edge technologies such as superconducting and high-power radio frequency systems and instrumentation.
+The PIP-II project received CD-3 approval from the U.S. Department of Energy. When complete, it will provide more powerful beams of protons to Fermilab experiments. This rendering shows the site of the PIP-II complex on the Fermilab campus. Image: Fermilab
+“We are elated to have reached this crucial step for PIP-II,” said Lia Merminga, Fermilab director and former PIP-II project director. “Our team around the world has worked tirelessly to prepare for this moment. The planning has paid off, and we are excited to move into the construction phase, knowing it will make incredible new science possible.”
+Of critical importance to PIP-II’s success are its partners around the world; PIP-II is the first particle accelerator built on U.S. soil with significant contributions from international collaborators. Institutions in France, India, Italy, Poland, the United Kingdom and the United States will bring together their expertise and capabilities in superconducting radio frequency and associated technologies to construct the state-of-the-art particle accelerator at Fermilab.
+When PIP-II is complete, Fermilab will be able to generate proton beams greater than 1 megawatt—60 percent higher than current capabilities. The versatile accelerator is designed to support a variety of research and will be able to send customized proton beams to different experiments.
+One crucial use of the beam will be to create neutrinos for the international Deep Underground Neutrino Experiment (DUNE) hosted by Fermilab. More than 1,000 researchers working on DUNE will study these elusive particles, which could hold clues to the evolution of our universe and several long-standing mysteries in physics.
+“Fermilab’s accelerators powered experiments that made significant breakthroughs over the past 50 years,” said Nigel Lockyer, former Fermilab director. “The formal construction start for PIP-II means we are one step closer to enhancing our facilities and supporting the next 50 years of physics discoveries.”
+In addition to refurbishing some of the lab’s existing accelerators, PIP-II will install a powerful new superconducting accelerator at the start of the accelerator chain. The unique first section will allow scientists to customize the beam for multiple experiments operating simultaneously. The accelerator will also use new advances in artificial intelligence and
+machine learning
+to deliver beam quickly, reliably and with minimal human intervention.
+The PIP-II collaboration is an international team made up of scientists from France, India, Italy, Poland, the United Kingdom and the United States. Photo: Fermilab
+PIP-II is expected to be complete in the late 2020s, and the project has already reached several milestones. Construction on the
+building
+that will house the cryogenic plant — a major in-kind contribution from a PIP-II partner agency, India’s Department of Atomic Energy — and utilities for the superconducting accelerator are nearly complete at Fermilab, and
+successful tests
+at the PIP-II Injector Test Facility validated critical technologies and demonstrated the exceptional performance of two cryomodules, the building blocks of the accelerator.
+“The successful review shows yet again that Fermilab is poised to be a worldwide leader in accelerator-based discovery neutrino science, and PIP-II will be an essential contributor to the lab’s prestige. The Department of Energy looks forward to the decades of discoveries that will be made possible by this accelerator upgrade,” said DOE acting HEP director Harriet Kung.
+Learn more about PIP-II
+.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC, a joint partnership between the University of Chicago and the Universities Research Association, Inc. Visit
+Fermilab’s website
+and follow us on Twitter at
+@Fermilab
+.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

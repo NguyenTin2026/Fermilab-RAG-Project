@@ -1,0 +1,364 @@
+URL: https://news.fnal.gov/2024/12/ten-ways-fermilab-advanced-science-and-technology-in-2024/
+Title: Ten ways Fermilab advanced science and technology in 2024
+────────────────────────────────────────────────────────────
+Ten ways Fermilab advanced science and technology in 2024
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Ten ways Fermilab advanced science and technology in 2024
+December 17, 2024
+| By:
+Madeleine O’Keefe
+Tags:
+astrophysics
+emerging technologies
+LBNF/DUNE
+muons
+neutrino
+QICK
+quantum
+site access
+technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+In 2024, Fermilab made significant scientific progress, including advancing preparations for the Deep Underground Neutrino Experiment and conducting groundbreaking quantum research. The laboratory also continued its strong international collaborations — including involvement with the CMS experiment at CERN — and made strides in developing emerging technologies with wide applications beyond physics.
+Every day, scientists, engineers and technicians at Fermilab push the boundaries of knowledge in fields like particle physics, accelerator technology, quantum information science and astrophysics. Read about 10 ways the laboratory advanced science and technology in 2024. Additionally, a video highlighting the laboratory’s accomplishments may be viewed
+here
+.
+1. Achieved important progress with DUNE
+Fermilab is the host laboratory for the
+Deep Underground Neutrino Experiment
+. This international collaboration will explore the mysteries of elusive particles called neutrinos. More than 1,400 scientists from over 35 countries and CERN are part of the collaboration that is seeking to answer some of the biggest questions around our understanding of the universe. DUNE will be installed in the Long-Baseline Neutrino Facility, currently under construction in Lead, South Dakota at the Sanford Underground Research Facility, and at Fermilab in Batavia, Illinois. Crews
+completed excavation
+of DUNE’s caverns in February, removing close to 800,000 tons of rock from a former mine in South Dakota for the future subterranean home of the experiment’s far detector. A
+ribbon-cutting event
+was held in August with officials from around the globe commemorating this historic milestone. In September, a
+test for lowering steel beams
+was successfully completed in preparation for the next phase of the project.
+Meanwhile, in Illinois, the Fermilab accelerator complex achieved a critical milestone towards high intensity running for DUNE, reaching 1 MW beam intensity from its Main Injector. Additionally, workers
+prepared
+the eight acres at Fermilab where the future DUNE near site will be built. And a prototype for the near detector — the 2×2 demonstrator —
+saw its first accelerator-made neutrinos
+. Across the pond at CERN in Geneva, Switzerland, prototypes for the far detector — ProtoDUNE — were
+filled with liquid argon
+to ready them for operation.
+This year, Jim Kerby was
+appointed
+the new LBNF/DUNE-US project director. Kerby brings over 30 years of engineering and technical management experience to the table. He will be responsible for managing all aspects of the project in the U.S. as Fermilab leads the execution of the largest international DOE project ever hosted on U.S. soil.
+Two colossal caverns, each more than 500 feet long and seven-stories tall, were completed to contain the gigantic particle detector modules for the Long-Baseline Neutrino Facility/Deep Underground Neutrino Experiment, an international collaboration led by Fermilab. A third cavern will house utilities for the operation of the DUNE far detector. Credit: Ryan Postel, Fermilab
+2. Made major advancements with the Proton Improvement Plan-II project
+Proton Improvement Plan-II
+is providing a major upgrade to the Fermilab particle accelerator complex, including a state-of-the-art superconducting radio frequency linear accelerator. The PIP-II project started off the year by welcoming a new director,
+Pantaleo Raimondi
+, a world-renowned physicist with extensive experience in accelerator physics and project management at labs around the world.
+The PIP-II team also made progress with one of the five types of cryomodules that will make up the linear accelerator. Fermilab
+successfully shipped
+a prototype high-beta 650-megahertz cryomodule — the largest needed for the PIP-II linac — to the United Kingdom and back again. This was an important step in testing the cryomodule transportation system and a final test before shipping the first actual cryomodule built in the U.K. to the United States.
+PIP-II is the first particle accelerator in the U.S. to be built with
+significant contributions from international partners.
+Institutions in France, India, Italy, Poland and the U.K. are contributing technologies, instrumentation and expertise to build the accelerator. Early in 2024, India’s Department of Atomic Energy informed the U.S. Department of Energy that India is officially moving from the research and development phase to the
+construction phase
+for its contributions to the PIP-II project. Pieces of India’s largest in-kind contribution to PIP-II, the cryogenic plant, are scheduled to arrive at Fermilab in the next month after a
+two-month journey
+over sea and land. In addition, PIP-II partners at UK Research and Innovation received the first production HB650 cavity, which was tested and met specifications. And at INFN, the National Institute for Nuclear Physics in Italy, PIP-II partners are close to awarding the contract to produce all low-beta 650-megahertz cryomodule cavities.
+In November, the project completed the
+Early Conventional Facilities subproject
+, marking the subproject’s readiness for the final stage of approval, known as CD-4, planned for January 2025.
+The PIP-II construction site in December 2024. Credit: Ryan Postel, Fermilab
+3. Continued our involvement in the CMS experiment at CERN
+For decades, Fermilab has been the host institution for U.S. CMS. The CMS experiment at CERN records data from high-energy particle collisions produced by the Large Hadron Collider, the world’s biggest particle accelerator. Earlier this year, Fermilab scientists working on CMS helped
+create a tool
+that expands the search for new particles at the LHC. The search could either uncover physics beyond the Standard Model or set the most stringent limits in the search for a class of theoretical particles called long-lived particles. In September, the CMS collaboration
+announced a new mass measurement
+of the
+W boson
+, one of nature’s force-carrying particles, that is consistent with predictions. This new measurement, which followed the 2022 measurement by the
+Collider Detector at Fermilab experiment
+that differed from the Standard Model prediction, is the most elaborate investigation of the W boson’s mass to date and took nearly a decade of analysis.
+The Department of Energy also
+approved
+the start of full production for the $200 million DOE-funded contributions to the upgrade of the CMS experiment. With the high-luminosity upgrade to the Large Hadron Collider planned for 2029, CMS collaborators need to upgrade the detector to keep up with the forthcoming more-intense particle beams.
+Fermilab connections continue to be strong at the highest levels of the CMS collaboration.
+Patty McBride
+, a Fermilab distinguished scientist, completed her two-year term as the CMS spokesperson in September. She passed the torch to a
+new management team
+that includes Fermilab senior scientist Anadi Canepa, now a deputy spokesperson for CMS until 2026.
+For decades, Fermilab has been the host institution for the CMS experiment at CERN. In 2024, Fermilab distinguished scientist Patty McBride (right) completed her two-year term as the CMS spokesperson, and Fermilab senior scientist Anadi Canepa (left) became deputy spokesperson for CMS. Photo: CERN
+4. Detected first neutrinos at the Short-Baseline Neutrino Detector
+The international
+Short-Baseline Neutrino Program
+at Fermilab is devoted to examining the properties of neutrinos and the nature of neutrino oscillations in more detail than ever before. The Short-Baseline Near Detector is the near detector for the SBN Program while ICARUS, which started collecting data in 2021, is the far detector. A third detector called MicroBooNE finished recording particle interactions with the same neutrino beamline that same year.
+After nearly a decade of planning, prototyping and constructing the near detector, SBND made major progress in 2024. In February, SBND was
+filled with liquid argon
+, which it uses to see tracks left by charged particles. A few months later, the detector saw its
+first neutrino interactions
+. But it’s only the beginning for SBND: the collaboration will operate the detector, analyzing many millions of neutrino interactions, for the next several years. SBND will see more neutrinos than any other detector of its kind, and the large data sample will allow researchers to study neutrino interactions with unprecedented precision, helping to inform future experiments that will also use liquid argon to detect neutrinos, including DUNE.
+The Short-Baseline Neutrino Detector collaboration celebrated the moment the detector began running at 100% voltage in 2024. This year, the detector registered its first neutrino interactions. Credit: Dan Svoboda, Fermilab
+5. Moved massive magnets
+In February, crews very carefully
+moved a superconducting solenoid magnet
+1.5 miles across the Fermilab campus. The 65,700-pound magnet was built for the
+Mu2e experiment
+, which is looking for evidence that a muon can transform into an electron. If observed, this muon-to-electron conversion would point to new physics. The team moved the first Mu2e magnet
+in December 2023
+. Once assembled into the Mu2e detector, the magnets will create a low-energy muon beam that will be directed at an aluminum target. The magnets will also provide a constant magnetic field in the detector region that allows scientists to accurately determine the momentum of the resulting electrons.
+Over the summer, a different kind of magnet weighing over 100,000 pounds
+was moved
+from the University of Illinois Chicago to Fermilab. The repurposed superconducting magnet will be used in a future experiment.
+In February, crews moved the second Mu2e magnet to its home in the Mu2e experimental hall. The Mu2e experiment is looking for evidence that a muon can transform into an electron. Credit: Caitlyn Buongiorno, Fermilab
+In late fall, Fermilab shipped its second quadrupole magnet cryoassembly to CERN. This magnet is part of Fermilab’s contribution to the high luminosity upgrade of the Large Hadron Collider. It uses advanced niobium-tin (Nb3Sn) magnets to strongly focus the proton beams and increase the number of collisions. Fermilab innovations were crucial to making these high-field magnets possible.
+6. Strengthened our leadership in quantum information science
+Fermilab is the proud host of the
+Superconducting Quantum Materials and Systems Center
+, one of the five
+DOE National Quantum Information Science Research Center
+s
+. The SQMS Center brings together more than 30 partner institutions representing national labs, industry and academia, all dedicated to
+advancing critical quantum technologies
+with a focus on
+superconducting
+quantum systems.
+During 2024, SQMS scientists and engineers
+achieved reproducible improvements
+in superconducting transmon qubit lifetimes with record values in excess of 1 millisecond. The results were achieved through innovative materials and design techniques that eliminated major loss sources in the devices. SQMS has also
+advanced quantum computing platforms
+based on high-coherence superconducting cavities.
+Over the summer the Department of Energy
+approved IBM as a new partner
+in SQMS. This collaboration intends to leverage the strengths of these two organizations to address key hurdles in quantum computing, communication and large-scale deployment of superconducting quantum platforms.
+This year, SQMS led the
+NQISRC’s executive council
+, coordinating joint activities across the five centers, which have strengthened the national quantum information science ecosystem,
+achieving scientific and technological breakthroughs as well as training the next-generation quantum workforce
+.
+Quantum technology can also be used to probe the fundamental theory of quantum mechanics. Fermilab theorists and experimentalists
+used qubits to constrain alternatives
+to the standard laws of quantum mechanics in which systems evolve linearly in time.
+This timeline shows a roadmap for the SQMS Center’s development of 2D transmon qubits and 3D cavity-based platforms. Graphic: Samantha Koch, Fermilab
+7. Got very QUIET
+In June, a new quantum sensor and computing research center named the Quantum Underground Instrumentation Experimental Testbed
+became operational
+. QUIET sits one hundred meters underground at Fermilab in an area that previously housed a neutrino experiment. Its companion surface lab, LOUD, had been operating for over a year prior to QUIET’s opening. Together, QUIET and LOUD enable controlled experiments that use quantum sensors to directly compare an environment that is significantly shielded from cosmic rays and other energy effects with the environment on the earth’s surface.
+In October, superconducting qubits were successfully deployed at QUIET for the first time, marking the transition from infrastructure development to unique scientific studies at the lab. Scientists are using QUIET to understand how these superconducting qubits are impacted by cosmic rays and other high-energy particles. This knowledge could help researchers construct new types of qubits that could be shielded from interference or design ones that are insensitive to it. In addition, QUIET can contribute to a range of applications that require ultra-sensitivity to their environment, including
+dark matter
+detection. QUIET and LOUD are funded by the
+Quantum Science Center
+, of which Fermilab is a primary founding member.
+In June, Fermilab celebrated the opening of the newest laboratory, the QUIET lab, located a hundred meters underground. Credit: Dan Svoboda, Fermilab
+8. Learned more about dark energy and our universe
+We’re not just about particle physics! Astrophysics is an important piece of Fermilab’s portfolio. In 2024, Fermilab researchers continued to shed light on some of the greatest mysteries in the cosmos — such as
+dark energy
+, the enigmatic entity that makes up about 70% of our universe. Fermilab scientists lead the Dark Energy Survey, an international
+collaboration
+of over 400 astrophysicists, astronomers and cosmologists, which shared two results in 2024. In January, they announced the
+strongest constraints on the expansion of the universe
+ever obtained with the DES supernova survey. A month later, the collaboration
+released a new measurement of cosmic distances
+that supports the standard model of the accelerated expansion of the universe.
+This year, researchers released the first results from the
+Dark Energy Spectroscopic Instrument
+, which is
+gathering light
+from some 30 million galaxies at a telescope at Kitt Peak National Observatory. The DESI collaboration used the first year of data to
+make the most extensive 3D map of our universe
+and world-leading measurements of dark energy. They also
+charted how nearly 6 million galaxies cluster
+across 11 billion years of cosmic history, lining up with predictions of Einstein’s theory of general relativity. Fermilab contributed key elements to DESI, including the online databases for data acquisition, software to control the
+robotic positioners
+, the corrector barrel, hexapod and cage.
+In January, the Dark Energy Survey collaboration released the results of an unprecedented analysis using the same technique to further probe the mysteries of dark energy and the expansion of the universe. This image is an example of a supernova discovered by DES. Credit: DES collaboration
+9. Advanced emerging technologies to benefit physics and beyond
+Fermilab’s contributions to research and technology development reach well beyond physics. In collaboration with 3M, Fermilab scientists successfully demonstrated that
+an electron beam can destroy PFAS
+, a suite of useful chemicals that don’t easily break down and accumulate in the environment and human body. Fermilab researchers are also
+building a prototype electron beam accelerator
+to make X-rays for sterilizing medical equipment — a potentially game-changing development for the growing medical equipment sterilization industry, which is looking for alternatives to current technologies that use substances that can present safety issues.
+This year, Fermilab researchers also received funding from the Department of Energy as part of its
+Accelerate Innovations program
+to develop
+three different emerging technologies
+: superconducting nanowire single-photon detectors, 3D integrated sensing solutions, and compact superconducting radio frequency electron-beam accelerator technology. An additional federal grant
+enabled a collaborative project
+between Fermilab and California-based RadiaBeam Technologies. Fermilab engineers used their expertise in cryomodule design and conduction cooling to help RadiaBeam design and assemble a conduction-cooled cryomodule and break into the superconducting industrial accelerator market.
+In another quantum experiment, Fermilab scientists
+demonstrated
+the ability to use specialized quantum techniques to stimulate the creation of photons, increase sensitivity and minimize noise. This research can significantly enhance the ability to detect faint signals such as those emitted from dark matter.
+Lastly, this month, Fermilab engineers
+announced
+they are ready to bring to market a new companion to the Quantum Instrumentation Control Kit, an open-source control and readout system supported by the
+Quantum Science Center
+. The new product, QICK box, builds on QICK’s ability to enable researchers to improve quantum system performance by manipulating signals in ways that optimize their ability to read information stored in quantum bits. In September, the team also rolled out QICK version 2.0, which features updated software and firmware.
+Fermilab scientists Slavica Grdanovska, left, and Charles Thangaraj stand next to the conduction-cooled cryostat that houses superconducting accelerator technology for industrial electron beam applications. Credit: Tom Nicol, Fermilab
+10. Improved the campus and access to it
+The year 2024 was a standout for the Fermilab campus as the new Integrated Engineering Research Center, with its environmentally sustainable design,
+received multiple awards
+, including the Department of Energy’s 2024 Outstanding Net-Zero Building Program/Project Award and the High Performance Sustainable Building Award. The 80,000-square-foot multi-story laboratory and office building, located next to Wilson Hall, provides workspace for around 100 engineers and technicians and has been bustling with activity since its completion in 2023.
+Last year, the Fermilab campus reopened to the public after a hiatus due to the COVID-19 pandemic. In January 2024, Director Lia Merminga
+announced
+updates to Fermilab’s site access, including the exciting news that our iconic Wilson Hall had
+reopened to the public
+. Since then, thousands of visitors have attended
+public tours
+,
+Saturday Morning Physics
+lectures,
+teacher workshops
+,
+field trips
+and
+other events
+. Additionally,
+Lederman Science Center
+welcomed nearly 6,000 guests. Learn more about visiting the lab
+here
+.
+In 2024, crews continued improvements on many areas of the Fermilab site, including starting construction on Fermilab’s
+new welcome center
+, which is expected to open in fall 2025. Located near Fermilab’s main entrance on Pine Street, the Fermilab Welcome and Access Center will host both informational and administrative functions for smoother processing and access to the site. The construction project also includes a new guardhouse and the reconfiguration of traffic routes for cars, bicyclists and pedestrians to provide easy and secure access to the campus.
+Aerial view of the construction site for the future Fermilab Welcome and Access Center
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

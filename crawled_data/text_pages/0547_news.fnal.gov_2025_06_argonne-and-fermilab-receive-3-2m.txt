@@ -1,0 +1,202 @@
+URL: https://news.fnal.gov/2025/06/argonne-and-fermilab-receive-3-2m-in-federal-funding-for-nuclear-transmutation-technology/
+Title: Argonne and Fermilab receive $3.2M in federal funding for nuclear transmutation technology
+────────────────────────────────────────────────────────────
+Argonne and Fermilab receive $3.2M in federal funding for nuclear transmutation technology
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Argonne and Fermilab receive $3.2M in federal funding for nuclear transmutation technology
+June 2, 2025
+Tags:
+cryogenics
+emerging technologies
+nuclear energy
+SRF cavities
+technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The labs are developing a practical approach to reduce the size and cost of superconducting linear accelerators, which offer great potential for addressing used nuclear fuel, while also improving their reliability.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Fermilab editor’s note: This press release was originally published by the U.S. Department of Energy’s Argonne National Laboratory. Fermi National Accelerator Laboratory and Argonne are collaborating to develop a practical approach to reduce the size and cost of superconducting linear accelerators — technology with great potential for addressing the challenge of long-lived radioactive isotopes in used nuclear fuel. Fermilab is contributing its expertise in superconducting accelerator cavities and cryogenic systems, including the development of advanced niobium-three-tin coatings.
+The U.S. Department of Energy’s (DOE) Argonne National Laboratory and Fermi National Accelerator Laboratory (Fermilab) have been
+selected
+to receive $3.2 million in funding from the DOE Advanced Research Projects Agency-Energy (ARPA-E). The funding is part of
+ARPA-E’s Nuclear Energy Waste Transmutation Optimized Now (NEWTON) program
+, which aims to make the reprocessing of U.S. commercial used nuclear fuel economically viable within 30 years.
+Transmutation is a process in which an atomic nucleus is transformed into a different chemical element or isotope. In this case, the long-lived radioactive isotopes in used nuclear fuel are converted into shorter-lived isotopes.
+Technologies supported by the ARPA-E NEWTON program, such as transmutation, would speed up the processing cycle of the U.S. used nuclear fuel stockpile, improving safety and decreasing the capital expenditure needed for permanent long-term storage.
+Studies have found that particle accelerators offer the greatest potential of any existing technology to address the challenge posed by the 90,000 metric tons of waste at operating U.S. nuclear plants. Superconducting cavities—specialized components stacked together in linear particle accelerators—can efficiently propel charged particles, like protons, to high speeds with energies near 1 billion electron-volts (GeV).
+These proton beams can be used to create an intense flux of neutrons from a heavy-element target (typically made of lead or bismuth) through a process called spallation, according to Michael Kelly, Argonne physicist and team leader. When directed at radioactive waste inside a nuclear reactor, these neutrons multiply. Then, they essentially burn the used nuclear fuel, turning it into a material that decays more quickly.
+However, most of today’s accelerator cavities, made from pure niobium, are large and cost several hundred thousand dollars each. They must be cooled with costly central cryogenic plants that use a considerable amount of liquid helium at a temperature between 2 and 4 kelvins. When units of six to eight cavities—known as cryomodules—are strung together, they resemble railroad freight cars in size.
+Of the $3.2 million allocated for this project, Argonne and Fermilab are receiving about $2.2 million to develop a practical approach to reduce the size and cost of superconducting linear accelerators while simultaneously improving their reliability.
+Kelly and his team will leverage smaller, better-performing superconducting cavities based on an emerging technology known as thin-film Nb
+3
+Sn (colloquially called “niobium-three-tin”). This film is only about 2 to 3 micrometers thick—about the size of a spiderweb strand. The team will produce these cavities in a process called vapor diffusion.
+The new niobium-three-tin cavities would require less helium for cooling and also replace today’s large, water heater-sized cavities with much smaller cavities, perhaps the size of a coffee can. The physical size reduction of the accelerator cryomodules would be a factor of three to five.
+“We think it’s a big deal,” said Kelly. “We won’t know precisely what the size and cost reduction is until we do a lot more research and development. That’s a major part of what this R&D intends to address,” he added.
+Argonne physicist Michael Kelly loads a superconducting cavity into a large furnace. Photo: Argonne National Laboratory
+Critically, niobium-three-tin technology helps eliminate the single point of failure associated with the cryogenic plant. It does so by offering the possibility of replacing large liquid helium refrigerators with a new generation of smaller plug-in cryocoolers. Typically, if the liquid helium refrigerator malfunctions, the accelerator is forced to shut down entirely.
+The researchers hope to avoid such forced shutdowns by eliminating the large refrigerator and replacing it with a distributed set of fault-tolerant 10-watt cryocoolers.
+The accelerator must be extremely reliable, with an uptime—a period of time in which a machine is continuously functional and available—of 95% or higher to avoid interruptions in the transmutation process, according to Brahim Mustapha, another Argonne physicist working on the project.
+If the accelerator stops, the spallation target that produces neutrons inside the reactor cools off. If the process restarts, the spallation target heats up again. When this stop-start sequence happens frequently, the process causes thermal and mechanical stress that can damage the target.
+Kelly’s team has already been using the Argonne Tandem Linac Accelerator System (ATLAS), a DOE Office of Science user facility at Argonne, to improve reliability through cryocooler development. As part of that separate project, his team uses artificial intelligence, machine learning and other strategies to minimize accelerator downtime due to malfunctions.
+The ultimate goal for the researchers working on the ARPA-E NEWTON-funded project is to demonstrate two high-performance niobium-three-tin-coated cavities optimized for protons moving near 50% the speed of light—a crucial step toward the full high-power accelerator. They also aim to develop an end-to-end linac design and conceptual layout optimized for niobium-three-tin.
+The project is not without challenges. For example, relatively complex geometries are required for medium-velocity cavities because of their hard-to-reach surfaces. These irregular shapes may hinder the deposition of smooth, uniform niobium-three-tin films, potentially allowing impurities like dirt or dust to enter the film coating and contaminate it. Small contaminants, and even geometric irregularities, could lower the performance of the superconducting cavity.
+While the Argonne team is focused primarily on the niobium-three-tin linac and cavity design and demonstration, Fermilab is providing its expertise and infrastructure to perform the vapor diffusion process that underpins the niobium-three-tin technology. Grigory Eremeev and Sam Posen, both senior scientists and 2016 recipients of the DOE Early Career Award, are leading Fermilab’s efforts.
+“Support from DOE made it possible to develop highly capable niobium-three-tin coating facilities at Fermilab and to develop techniques to achieve high performance in cavities with complex geometries,” said Posen. “Now we are building on that foundation, advancing coating techniques and applying them to these exciting applications.”
+“Niobium-three-tin films are critical for this type of application. While complex geometries are challenging for deposition, we’ve already seen excellent results in our collaborative work with Argonne,” said Eremeev.
+Looking toward the future and the construction of the full accelerator, it is critical to industrialize the technology. To help with this, the project involves collaboration with two companies. RadiaBeam will industrialize most or all of the process of building niobium-tin cavities, and RadiaSoft will conduct reliability studies for the proposed linac design.
+This project is one of 11 selected in 2025 to receive $40 million in ARPA-E NEWTON program funding to develop cutting-edge technologies that enable the transmutation of used nuclear fuel.
+One of the other projects selected for funding will complement the joint Argonne-Fermilab effort. Led by Taek Kim, a principal nuclear engineer who manages the nuclear systems analysis group within Argonne’s Nuclear Science and Engineering division, a team of researchers is developing a novel transmutation system that uses an innovative separation method to remove waste by-products from the process. The method involves fission, which is the process of splitting an atomic nucleus of, for example, an actinide into two or more smaller nuclei, releasing a large amount of energy. As the actinide fissions, the smaller nuclei that are created can be separated from remaining actinides by centrifugal methods in the recycling system.
+Together, these projects will yield a complete accelerator-driven system for nuclear waste transmutation. By significantly reducing the mass, volume, activity and effective half-life of the existing stockpile of commercial used nuclear fuel, these and other ARPA-E NEWTON-funded projects will help shift used nuclear fuel disposal from an intergenerational issue to an intragenerational one.
+In addition to Kelly and Mustapha at Argonne and Eremeev and Posen at Fermilab, the project team includes Argonne engineers Troy Petersen and Thomas Reid; Fermilab technician Brad Tennis; RadiaBeam engineer Ronald Agustsson; and RadiaSoft President Jonathan Edelen.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

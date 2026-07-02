@@ -1,0 +1,216 @@
+URL: https://news.fnal.gov/2019/08/powered-by-pixels/
+Title: Powered by pixels
+────────────────────────────────────────────────────────────
+Powered by pixels
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Powered by pixels
+August 1, 2019
+| By:
+Lauren Biron
+Tags:
+ArgonCube
+Berkeley Lab
+California
+Deep Underground Neutrino Experiment
+detector technology
+DUNE
+dune-international
+international engagement
+neutrino
+Switzerland
+University of Bern
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists are working on a pixelated detector capable of clearly and quickly capturing neutrino interactions — a crucial component for the near detector of the Deep Underground Neutrino Experiment. Using technological solutions developed at University of Bern and Berkeley Lab, a prototype detector called ArgonCube is under construction in Bern and will arrive at Fermilab next year.
+It’s 2019. We want our cell phones fast, our computers faster and screens so crisp they rival a morning in the mountains. We’re a digital society, and blurry photos from potato-cameras won’t cut it for the masses. Physicists, it turns out, aren’t any different — and they want that same sharp snap from their neutrino detectors.
+Cue ArgonCube: a prototype detector under development that’s taking a still-burgeoning technology to new heights with a plan to capture particle tracks worthy of that 4K TV. The secret at its heart? It’s all about the pixels.
+But let’s take two steps back. Argon is an element that makes up about 1 percent of that sweet air you’re breathing. Over the past several decades, the liquid form of argon has grown into the medium of choice for neutrino detectors. Neutrinos are those
+pesky fundamental particles
+that rarely interact with anything but could be the key to understanding why there’s so much matter in the universe.
+Pixelated electronics are a key feature for the ArgonCube detector. Photo: Dan Dwyer and Sam Kohn
+Big detectors full of cold, dense argon provide lots of atomic nuclei for neutrinos to bump into and interact with — especially when accelerator operators are sending beams containing trillions of the little things. When the neutrinos interact, they create showers of other particles and lights that the electronics in the detector capture and transform into images.
+Each image is a snapshot that captures an interaction by one of the most mysterious, flighty, elusive particles out there; a particle that caused Wolfgang Pauli, upon proposing it in 1930,
+to lament
+that he thought experimenters would never be able to detect it.
+Scientists are testing the ArgonCube technology in a prototype constructed at the University of Bern in Switzerland. Photo: James Sinclair
+Current state-of-the-art liquid-argon neutrino detectors — big players like MicroBooNE, ICARUS and ProtoDUNE — use wires to capture the electrons knocked loose by neutrino interactions. Vast planes of thousands of wires crisscross the detectors, each set collecting coordinates that are combined by algorithms into 3-D reconstructions of a neutrino’s interaction.
+These setups are effective, well-understood and a great choice for big projects — and you don’t get much bigger than the international Deep Underground Neutrino Experiment hosted by Fermilab.
+DUNE
+will examine how the three known types of neutrinos change as they travel long distances, further exploring a phenomenon called neutrino oscillations. Scientists will send trillions of neutrinos from Fermilab every second on a
+1,300-kilometer journey
+through the earth — no tunnel needed — to South Dakota. DUNE will use wire chambers in some of the four enormous far detector modules, each one holding more than 17,000 tons of liquid argon.
+But scientists also need to measure the beam of neutrinos as it leaves Fermilab, where the DUNE near detector will be close to the neutrino source and see more interactions.
+“We expect the beam to be so intense that you will have a dozen neutrino interactions per beam pulse, and these will all overlap within your detector,” said Dan Dwyer, a scientist at Lawrence Berkeley National Laboratory who works on ArgonCube. Trying to disentangle a huge number of events using the 2-D wire imaging is a challenge. “The near detector will be a new range of complexity.”
+And new complexity, in this case, means developing a new kind of liquid-argon detector.
+A rough diagram of an ArgonCube detector module drawn by Knut Skarpaas. Photo: James Sinclair
+Pixel me this
+People had thought about making a pixelated detector before, but it never got off the ground.
+“This was a dream,” said Antonio Ereditato, father of the ArgonCube collaboration and a scientist at the University of Bern in Switzerland. “We developed this original idea in Bern, and it was clear that it could fly only with the proper electronics. Without it, this would have been just wishful thinking. Our colleagues from Berkeley had just what was required.”
+Pixels are small, and neutrino detectors aren’t. You can fit roughly 100,000 pixels per square meter. Each one is a unique channel that — once it is outfitted with electronics — can provide information about what’s happening in the detector. To be sensitive enough, the tiny electronics need to sit right next to the pixels inside the liquid argon. But that poses a challenge.
+“If they used even the power from your standard electronics, your detector would just boil,” Dwyer said. And a liquid-argon detector only works when the argon remains … well, liquid.
+Dan Dwyer points out features of the pixelated electronics. Photo: Roman Berner
+So Dwyer and ASIC engineer Carl Grace at Berkeley Lab proposed a new approach: What if they left each pixel dormant?
+“When the signal arrives at the pixel, it wakes up and says, ‘Hey, there’s a signal here,’” Dwyer explained. “Then it records the signal, sends it out and goes back to sleep. We were able to drastically reduce the amount of power.”
+At less than 100 microwatts per pixel, this solution seemed like a promising design that wouldn’t turn the detector into a tower of gas. They pulled together a custom prototype circuit and started testing. The new electronics design worked.
+The first test was a mere 128 pixels, but things scaled quickly. The team started working on the pixel challenge in December 2016. By January 2018 they had traveled with their chips to Switzerland, installed them in the liquid-argon test detector built by the Bern scientists and collected their first 3-D images of cosmic rays.
+“It was shock and joy,” Dwyer said.
+For the upcoming installation at Fermilab, collaborators will need even more electronics. The next step is to work with manufacturers in industry to commercially fabricate the chips and readout boards that will sustain around half a million pixels. And Dwyer has received a Department of Energy Early Career Award to continue his research on the pixel electronics, complementing the Swiss SNSF grant for the Bern group.
+“We’re trying to do this on a very aggressive schedule — it’s another mad dash,” Dwyer said. “We’ve put together a really great team on ArgonCube and done a great job of showing we can make this technology work for the DUNE near detector. And that’s important for the physics, at the end of the day.”
+Samuel Kohn, Gael Flores, and Dan Dwyer work on ArgonCube technology at Lawrence Berkeley National Laboratory. Photo: Marilyn Chung, Lawrence Berkeley National Laboratory
+More innovations ahead
+While the pixel-centered electronics of ArgonCube stand out, they aren’t the only technological innovations that scientists are planning to implement for the upcoming near detector of DUNE. There’s research and development on a new kind of light detection system and new technology to shape the electric field that draws the signal to the electronics. And, of course, there are the modules.
+Most liquid-argon detectors use a large container filled with the argon and not too much else. The signals drift long distances through the fluid to the long wires strung across one side of the detector. But ArgonCube is going for something much more modular, breaking the detector up into smaller units still contained within the surrounding cryostat. This has certain perks: The signal doesn’t have to travel as far, the argon doesn’t have to be as pure for the signal to reach its destination, and scientists could potentially retrieve and repair individual modules if required.
+“It’s a little more complicated than the typical, wire-based detector,” said Min Jeong Kim, who leads the team at Fermilab working on the cryogenics and will be involved with the mechanical integration of the ArgonCube prototype test stand. “We have to figure out how these modules will interface with the cryogenic system.”
+That means figuring out everything from filling the detector with liquid argon and maintaining the right pressure during operation to properly filtering impurities from the argon and circulating the fluid around (and through) the modules to maintain an even temperature distribution.
+Researchers assemble components in the test detector at the University of Bern. Photo: James Sinclair
+The ArgonCube prototype under assembly at the University of Bern will run until the end of the year before being shipped to Fermilab and installed 100 meters underground, making it the first large prototype for DUNE sent to Fermilab and tested with neutrinos. After working out its kinks, researchers can finalize the design and build the full ArgonCube detector.
+Additional instrumentation and components such as a gas-argon chamber and a beam spectrometer will round out the near detector.
+It’s an exciting time for the 100-some physicists from 23 institutions working on ArgonCube — and for the more than 1,000 neutrino physicists from over 30 countries working on DUNE. What started as wishful thinking has become a reality — and no one knows how far the pixel technology might go.
+Ereditato even dreams of replacing the design of one of the four massive DUNE far detector modules with a pixelated version. But one thing at a time, he says.
+“Right now we’re concentrating on building the best possible near detector for DUNE,” Ereditato said. “It’s been a long path, with many people involved, but the liquid-argon technology is still young. ArgonCube technology is the proof that the technique has the potential to perform even better in the future.”
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

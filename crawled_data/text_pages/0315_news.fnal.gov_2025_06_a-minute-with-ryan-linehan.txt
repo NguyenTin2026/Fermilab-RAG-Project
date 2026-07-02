@@ -1,0 +1,179 @@
+URL: https://news.fnal.gov/2025/06/a-minute-with-ryan-linehan/
+Title: A minute with Ryan Linehan
+────────────────────────────────────────────────────────────
+A minute with Ryan Linehan
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Ryan Linehan
+June 12, 2025
+| By:
+Maxwell Bernstein
+Tags:
+dark matter
+emerging technologies
+partnership
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+At Fermi National Accelerator Laboratory, postdoctoral researcher Ryan Linehan explores the intersection of quantum information science and particle physics by studying how particles impact superconducting quantum devices. Linehan’s work helps advance both quantum computing and dark matter detection.
+Ryan Linehan is a postdoctoral research associate with the Quantum Science Center at the U.S. Department of Energy’s Fermi National Accelerator Laboratory. Credit: Ryan Postel, Fermilab
+What do you do at Fermilab?
+I’m a postdoctoral research associate working at Fermilab with the Quantum Science Center, which is hosted by Oak Ridge National Laboratory. My work focuses on studying the impacts of particles on superconducting quantum devices to help researchers make better technologies for quantum computing while also repurposing that technology for dark matter searches.
+These technologies are incredibly sensitive to environmental disturbances and this sensitivity could help us detect low-energy interactions, like those that might come from dark matter particles. We build detectors to try and spot dark matter directly by observing small energy depositions. One of the lowest-energy signals we can detect in general are from phonons — tiny vibrations that ripple through the detector when a particle hits the materials within. Phonons are a nuisance for quantum computing, however they might be a useful signal for dark matter detection.
+It’s an exciting overlap between two fields — quantum information and particle physics.
+How long have you worked at Fermilab?
+I’ve been at Fermilab for two and a half years. In that time, I’ve shifted into a different field. Previously, I wasn’t working with superconductors or qubits. My background was in the LUX-ZEPLIN experiment, which uses an approximately 7-ton tank of liquid xenon to search for dark matter by observing light and ionization caused by particle collisions. I helped design and build parts of that experiment.
+What is the most challenging part of your work?
+One of the toughest parts of this work is that we’re not tied to a specific experiment. That gives us freedom, but it also makes planning harder. The development cycle — designing a device, building it, testing it, refining it — can take months. The devices are also very complex, requiring many different kinds of tests and studies.
+There’s a huge space of possibilities we’re exploring for sensing phonons. We’re constantly refining our direction based on what we learn. Being new to this field, we’re asking lots of questions, which is exciting, but it can also be overwhelming. Choosing the most impactful path isn’t always obvious.
+What is the most rewarding part of the work you do at Fermilab?
+It’s most rewarding to work in the collaborative space between quantum information science and particle physics. Researchers in both fields have realized they share challenges when it comes to understanding the microphysics of quantum devices. By studying the materials and how they respond on a very small scale, we can improve both dark matter detection and quantum computing.
+We’re building knowledge from the ground up — figuring out how materials behave, how detectors respond and what we can do better. It’s exciting to work so close to the hardware and to be in a position where we can share insights between these two fields.
+What do you do for fun outside of work?
+Before moving to the Chicago area, I lived in California and got really into surfing — it was like a religion for me during my last nine months there. Now, I do social dancing. I enjoy swing dancing, waltz and Latin styles, and I usually go to a swing dance event once a month. I like learning and trying new moves, and I enjoy the connection you get with your dance partner. It’s about having fun, feeling cool and making it look cool too.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

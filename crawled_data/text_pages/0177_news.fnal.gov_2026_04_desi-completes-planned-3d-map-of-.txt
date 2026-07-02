@@ -1,0 +1,235 @@
+URL: https://news.fnal.gov/2026/04/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/
+Title: DESI completes planned 3D map of the universe and continues exploring
+────────────────────────────────────────────────────────────
+DESI completes planned 3D map of the universe and continues exploring
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Tags:
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Editor’s note: The following
+press release
+was published by Lawrence Berkeley National Laboratory.
+Fermilab contributed key elements to the Dark Energy Spectroscopic Instrument, which include the online databases used for data acquisition and the software that ensures that each of the 5,000 robotic positioners is precisely pointing to their celestial targets to within a tenth of the width of a human hair.
+Other Fermilab contributions include the corrector barrel, hexapod and the testing and packaging of DESI’s charge-coupled devices, or CCDs. The CCDs convert the light passing through the lenses from distant galaxies into digital information that can then be analyzed by the collaboration. Fermilab scientists continue to participate in data-taking and anal
+ysis.
+Key takeaways
+The Dark Energy Spectroscopic Instrument, one of the most extensive surveys of the cosmos ever conducted, finished all observations for its originally planned 3D map of the universe.
+Scientists use DESI’s map to study dark energy, one of the biggest mysteries in physics.
+Researchers expected to gather data on 34 million galaxies and quasars during the five-year survey, but the instrument performed so efficiently that it captured more than 47 million galaxies and quasars, plus more than 20 million nearby stars used to study the Milky Way.
+DESI is continuing observations and will extend its map to cover more of the sky to better study dark energy as well as dark matter.
+Last night, the 5,000 fiber-optic eyes of the Dark Energy Spectroscopic Instrument (
+DESI
+) swiveled onto a patch of sky near the Little Dipper. Roughly every 20 minutes, they locked on to distant pinpricks of light, gathering photons that had traveled toward Earth for billions of years. When the sun rose, collaborators marked completion of a major milestone: successfully surveying all of the area in DESI’s originally planned map of the universe.
+The five-year survey, finished ahead of schedule and with vastly more data than expected, has produced the largest high-resolution 3D map of the universe ever made. Researchers use that map to explore dark energy, the fundamental ingredient that makes up about 70% of our universe and is driving its accelerating expansion.
+Star trails over the Mayall Telescope that houses DESI. Credit: Luke Tyas/Berkeley Lab and KPNO/NOIRLab/NSF/AURA
+By comparing how galaxies clustered in the past with their distribution today, researchers have traced dark energy’s influence over 11 billion years of cosmic history. Surprising results using DESI’s first three years of data hinted that dark energy, once thought to be a “cosmological constant,”
+might be evolving over time
+. With the full set of five years of data, researchers will have significantly more information to test whether that hint disappears or grows. If confirmed, it would mark a major shift in how we think about our universe and its potential fate, which hinges on the balance between matter and dark energy.
+DESI’s quest to understand dark energy is a global endeavor. The international experiment brings together the expertise of more than 900 researchers (including 300 PhD students) from over 70 institutions. The project is managed by the Department of Energy’s Lawrence Berkeley National Laboratory (
+Berkeley Lab
+), and the instrument was constructed and is operated with funding from the DOE Office of Science. DESI is mounted on the U.S. National Science Foundation’s Nicholas U. Mayall 4-meter Telescope at
+Kitt Peak National Observatory
+(a program of NSF NOIRLab) in Arizona.
+“DESI’s five-year survey has been spectacularly successful,” said Michael Levi, DESI director and a scientist at Berkeley Lab. “The instrument performed better than anticipated. The results have been incredibly exciting. And the size and scope of the map and how quickly we’ve been able to execute is phenomenal. We’re going to celebrate completion of the original survey and then get started on the work of churning through the data, because we’re all curious about what new surprises are waiting for us.”
+This visualization shows how DESI’s map of the universe accumulated over five years. It begins with DESI’s tiles on the night sky and transitions to the 3D map. Earth is at the center of the wedges, and every dot is a galaxy. Credit: DESI Collaboration and DESI Member Institutions KPNO/NOIRLab/NSF/AURA/R. Proctor
+DESI has now measured cosmological data for six times as many galaxies and quasars as all previous measurements combined. The collaboration will immediately begin processing the completed dataset, with the first dark energy results from DESI’s full five-year survey expected in 2027. In the meantime, DESI scientists continue to analyze the survey’s first three years of data, refining dark energy measurements and producing additional results on the structure and evolution of the universe, with several papers planned later this year.
+“The Dark Energy Spectroscopic Instrument has truly exceeded all expectations, delivering an unprecedented 3D map of the universe that will revolutionize our understanding of dark energy,” said Kathy Turner, Program Manager for the Cosmic Frontier in the Office of High Energy Physics at the Department of Energy. “From its inception, we envisioned a project that would push the boundaries of cosmology, and to see it come to such a spectacularly successful completion for its initial survey, ahead of schedule and with such rich data, is incredibly rewarding. The dedication and ingenuity of the entire DESI collaboration have made this world-leading science a reality, and I am immensely proud of the groundbreaking results we are already seeing and the discoveries yet to come as we continue to explore the mysteries of our cosmos.”
+An observing machine
+DESI
+began collecting data
+in May 2021. Since then, the instrument has far surpassed the collaboration’s original goals. The plan was to capture light from 34 million galaxies and quasars (extremely distant yet bright objects with black holes at their cores) over the five-year sky survey. DESI instead observed more than 47 million galaxies and quasars and 20 million stars.
+The project’s success is even more impressive in light of several challenges. DESI is a complicated machine with thousands of parts to maintain. In 2020, final tests of the instrument were interrupted by the COVID-19 pandemic. In 2022, the
+Contreras Fire swept over Kitt Peak
+but, through the efforts of firefighters and staff, did not damage the telescope. Recovery efforts were slowed by monsoons and mudslides.
+These accelerated time-lapses show how the machinery holding DESI moves the instrument into position. Credit: Marilyn Sargent/Berkeley Lab
+“DESI is a complicated but wonderfully robust system, and it’s been a huge amount of fun to see it come together and work so well for such a long time,” said Connie Rockosi, co-instrument scientist for DESI and a professor at UC Santa Cruz and UC Observatories. “We’ve learned about the instrument over five years, and we know its personality and behavior pretty well. That’s important because having the instrument be so efficient is why we’re here at the end of DESI’s original survey with such great data and so much science coming out.”
+To map objects, researchers use specially-designed software to optimize DESI observations and decide where to point the telescope. Robotic positioners precisely line up optical fibers that are accurate to within 10 microns, or less than the width of a hair. Ten spectrographs then measure and split the light into its separate colors to determine each object’s position, velocity, and chemical composition. Each night, roughly 80 gigabytes of data streams through ESnet, DOE’s high-speed science network, to supercomputers at Berkeley Lab’s National Energy Research Scientific Computing Center (NERSC). Initial processing lets researchers do quality assurance and make any adjustments needed for the next night of observations.
+This animation shows a 3D model of DESI’s focal plane. The movement of the 5,000 robotic positioners is coordinated so that they don’t bump into one another. Credit: David Kirkby/DESI collaboration
+Collaborators across the project found ways to make DESI more efficient. Efforts spanned telescope operations, tweaks to the instrument hardware, updates to software, observing protocols, methods to reduce the data, and more.
+“There’s been constant monitoring and intervention to make the whole thing tick,” said Adam Myers, co-manager for DESI’s survey operations and professor at the University of Wyoming. “And the DESI team is remarkable. This huge group of people have all been working on whether they could save one or two or three percent in their particular area, and when you add it all up, it results in these amazing gains in efficiency.”
+DESI is designed to make several overlapping passes of the sky to observe its full footprint (and sometimes make repeated observations of faint objects). The survey was so efficient, the team completed an entire additional pass over the sky for the “Bright-Time Survey,” which is carried out when reflected light from the moon hinders observations of faint and distant objects. All told, DESI made five passes during the Bright-Time Survey and seven during the Dark-Time Survey, covering about two-thirds of the northern night sky.
+This time-lapse shows DESI’s observations accumulating to fill out the survey’s map during the “Dark-Time Survey,” which focuses on the faintest and most distant objects. Each “tile” is one telescope pointing where DESI records spectra from thousands of objects at once. The tiles overlap to add density to the map, with most areas observed multiple times. Credit: DESI data: Anand Raichoor/DESI collaboration; Sky map: Axel Mellinger, A Color All-Sky Panorama Image of the Milky Way, Publ. Astron. Soc. Pacific 121, 1180-1187 (2009)
+The sky’s the limit
+DESI will continue observations through 2028 and grow its map by about 20%, from 14,000 square degrees to 17,000 square degrees. (For comparison, the moon covers approximately 0.2 square degrees, and the full sky has over 41,000 square degrees). The extended map will cover parts of the sky that are more challenging to observe: areas that are closer to the plane of the Milky Way, where bright nearby stars can make it harder to see more distant objects, or further to the south, where the telescope must account for peering through more of Earth’s atmosphere.
+The experiment will also revisit the existing area of the map to collect data from a new set of galaxies: more distant and faint “luminous red galaxies.” These will provide an even denser and more detailed map in the regions DESI has already covered, giving researchers a clearer picture of the universe’s history.
+This time-lapse shows the sky over Kitt Peak on February 12-13, 2024. On that night, DESI observed a record 41 tiles for the Dark-Time Survey. DESI’s planned five-year survey map is outlined in red, and the moving circle shows where the instrument pointed throughout the night. The Mayall Telescope that houses DESI is visible at the top of the image, just left of center. Credit: DESI data: Anand Raichoor/DESI collaboration; Spacewatch All-Sky Camera footage: SPACEWATCH®, Lunar and Planetary Laboratory, University of Arizona
+Researchers will also study nearby dwarf galaxies and stellar streams, bands of stars torn from smaller galaxies by the Milky Way’s gravity. The hope is to better understand dark matter, the invisible form of matter that accounts for most of the mass in the universe but has never been directly detected.
+The extended map is already underway. When it became clear that DESI would operate beyond its original survey plan, researchers began interleaving the new observations with the ongoing DESI survey to optimize the use of telescope time and keep the instrument from sitting idle.
+“We’ve built a remarkable piece of equipment that met all our expectations and then some,” Levi said. “Now we’re pushing beyond our original plan. We don’t know what we’ll find, but we think it’ll be pretty exciting.”
+A thin slice of the map produced by the DESI five-year survey shows galaxies and quasars above and below the plane of the Milky Way. The universe’s large-scale structure is visible in the magnified inset. Earth lies at the center of the wedges, and the black gap marks where our own galaxy obscures distant objects. Light from the furthest galaxies shown is 11 billion years old by the time it reaches Earth. Credit: Claire Lamman/DESI collaboration
+DESI is supported by the DOE Office of Science and by the National Energy Research Scientific Computing Center, a DOE Office of Science national user facility. Additional support for DESI is provided by the U.S. National Science Foundation; the Science and Technology Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission (CEA); the Secretariat of Science, Humanities, Technology and Innovation (SECIHTI) of Mexico; the Ministry of Science and Innovation of Spain; and the DESI member institutions.
+The DESI collaboration is honored to be permitted to conduct scientific research on I’oligam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation.
+Lawrence Berkeley National Laboratory
+(Berkeley Lab) is committed to groundbreaking research focused on discovery science and solutions for abundant and reliable energy supplies. The lab’s expertise spans materials, chemistry, physics, biology, earth and environmental science, mathematics, and computing. Researchers from around the world rely on the lab’s world-class scientific facilities for their own pioneering research. Founded in 1931 on the belief that the biggest problems are best addressed by teams, Berkeley Lab and its scientists have been recognized with 17 Nobel Prizes. Berkeley Lab is a multiprogram national laboratory managed by the University of California for the U.S. Department of Energy’s Office of Science.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States, and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+DESI opens access to the largest 3D map of the universe yet
+March 19, 2025
+cosmology
+DESI
+Skipper CCD
+Press release
+A new data release from the Dark Energy Spectroscopic Instrument is now available for researchers to explore. The collection contains information on 18.7 million galaxies, quasars, and stars — the largest dataset of its kind ever shared.
+New DESI results strengthen hints that dark energy may evolve
+March 19, 2025
+cosmology
+dark energy
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument used millions of galaxies and quasars to build the largest 3D map of our universe to date. Combining the DESI data with other experiments shows signs that the impact of dark energy may be weakening over time — and the standard model of how the universe works may need an update.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

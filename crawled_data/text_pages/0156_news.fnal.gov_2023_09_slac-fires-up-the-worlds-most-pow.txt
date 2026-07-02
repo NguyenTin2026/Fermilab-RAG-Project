@@ -1,0 +1,205 @@
+URL: https://news.fnal.gov/2023/09/slac-fires-up-the-worlds-most-powerful-x-ray-laser-lcls-ii-ushers-in-a-new-era-of-science/
+Title: SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+────────────────────────────────────────────────────────────
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+September 18, 2023
+Tags:
+cryomodule
+LCLS-II
+x-ray
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+With up to a million X-ray flashes per second, 8,000 times more than its predecessor, it transforms the ability of scientists to explore atomic-scale, ultrafast phenomena that are key to a broad range of applications, from quantum materials to clean-energy technologies and medicine.
+Media contact
+Manuel Gnida, SLAC National Accelerator Laboratory
+mgnida@slac.stanford.edu
+, (650) 926-2632
+This
+press release
+was originally posted by SLAC National Accelerator Laboratory on Sept. 18, 2023.
+Editor’s note: The U.S. Department of Energy’s Fermi National Accelerator Laboratory designed, built and tested 18 of the 37 cryogenic accelerator modules that are installed in the LCLS-II linac. In total for LCLS-II, 41 modules were delivered to SLAC of which Fermilab supplied 20 modules, including spares, and Jefferson Lab, a key partner in this project, supplied the remainder. The performance of these modules on the test stand dramatically exceeded the then state of the art and set the stage for an additional upgrade (LCLS-II HE) and for future CW FELs.
+Menlo Park, Calif. – The newly upgraded Linac Coherent Light Source (LCLS) X-ray free-electron laser (XFEL) at the U.S. Department of Energy’s SLAC National Accelerator Laboratory successfully produced its first X-rays, and researchers around the world are already lined up to kick off an ambitious science program.
+The upgrade, called LCLS-II, creates unparalleled capabilities that will usher in a new era in research with X-rays. Scientists will be able to examine the details of quantum materials with unprecedented resolution to drive new forms of computing and communications; reveal unpredictable and fleeting chemical events to teach us how to create more sustainable industries and clean energy technologies; study how biological molecules carry out life’s functions to develop new types of pharmaceuticals; and study the world on the fastest timescales to open up entirely new fields of scientific investigation.
+“This achievement marks the culmination of over a decade of work,” said Greg Hays, the LCLS-II project director. “It shows that all the different elements of LCLS-II are working in harmony to produce X-ray laser light in an entirely new mode of operation.”
+The newly upgraded Linac Coherent Light Source (LCLS) X-ray free-electron laser (XFEL) at the Department of Energy’s SLAC National Accelerator Laboratory successfully produced its first X-rays. The upgrade, called LCLS-II, creates unparalleled capabilities that will usher in a new era in research with X-rays. (Greg Stewart/SLAC National Accelerator Laboratory)
+Reaching “first light” is the result of a series of key milestones that started in 2010 with the vision of upgrading the original LCLS and blossomed into a multi-year ($1.1 billion) upgrade project involving thousands of scientists, engineers and technicians across DOE, as well as numerous institutional partners.
+“For more than 60 years, SLAC has built and operated powerful tools that help scientists answer fundamental questions about the world around us. This milestone ensures our leadership in the field of X-ray science and propels us forward to future innovations,” said Stephen Streiffer, SLAC’s interim laboratory director. “It’s all thanks to the amazing efforts of all parts of our laboratory in collaboration with the wider project team.”
+Taking X-ray science to a new level
+XFELs produce ultra-bright, ultra-short pulses of X-ray light that allow scientists to capture the behavior of molecules, atoms, and electrons with unprecedented detail on the natural timescales on which chemistry, biology and material changes occur. XFELs have been instrumental in many scientific achievements, including the creation of the first “molecular movie” to study complex chemical processes, watching in real time the way in which plants and algae absorb sunlight to produce all the oxygen we breathe, and studying the extreme conditions that drive the evolution of planets and phenomena such as diamond rain.
+LCLS, the world’s first hard XFEL, produced its first light in April 2009, generating X-ray pulses a billion times brighter than anything that had come before. It accelerates electrons through a copper pipe at room temperature, which limits its rate to 120 X-ray pulses per second.
+“The light from SLAC’s LCLS-II will illuminate the smallest and fastest phenomena in the universe and lead to big discoveries in disciplines ranging from human health to quantum materials science,” said U.S. Secretary of Energy Jennifer M. Granholm. “This upgrade to the most powerful X-ray laser in existence keeps the United States at the forefront of X-ray science, providing a window into how our world works at the atomic level. Congratulations to the incredibly talented engineers and researchers at SLAC who have poured so much into this project over the past several years, all in the pursuit of knowledge.”
+The LCLS-II upgrade takes X-ray science to a whole new level: It can produce up to a million X-ray pulses per second, 8,000 times more than LCLS, and produce an almost continuous X-ray beam that on average will be 10,000 times brighter than its predecessor — a world record for today’s most powerful X-ray light sources.
+“The LCLS’s history of world-leading science will continue to grow with these upgraded capabilities,” said Asmeret Asefaw Berhe, director of DOE’s Office of Science. “I really look forward to the impact of LCLS-II and the user community on national science priorities, ranging from fundamental science research in chemistry, materials, biology, and more; application of the science advances for clean energy; and ensuring national security through initiatives like quantum information science.”
+Partnerships for sophisticated technology
+This accomplishment is the culmination of an extensive collaborative effort, with vital contributions from researchers across the world. Multiple institutions, including five U.S. national laboratories and a university, have contributed to the realization of the project, a testimony to its national and international importance.
+Central to LCLS-II’s enhanced capabilities is its revolutionary superconducting accelerator. It comprises 37 cryogenic modules that are cooled to minus 456 degrees F — colder than outer space – a temperature at which it can boost electrons to high energies with nearly zero energy loss. Fermilab and the Thomas Jefferson National Accelerator Facility played pivotal roles in designing and building these cryomodules.
+The linac is equipped with two world-class helium cryoplants. One of these cryoplants, built specifically for LCLS-II, cools helium gas from room temperature all the way down to its liquid phase at just a few degrees above absolute zero, providing the coolant for the accelerator. (Greg Stewart/SLAC National Accelerator Laboratory)
+“At the heart of the LCLS-II Project is its pioneering superconducting accelerator,” said Fermilab Director Lia Merminga. “The collective engineering, technical and scientific expertise and talent of the collaboration deserve immense credit for its successful construction and for delivering world-class performance in a remarkably short period of time.”
+The superconducting accelerator works in parallel with the existing copper one, allowing researchers to make observations over a wider energy range, capture detailed snapshots of rapid processes, probe delicate samples that are beyond the reach of other light sources and gather more data in less time, greatly increasing the number of experiments that can be performed at the facility.
+“It is wonderful to see this tremendous achievement, which is powered by the state-of-the-art LCLS-II superconducting accelerator,” said Stuart Henderson, the laboratory director of Jefferson Lab. “Jefferson Lab is proud to have contributed to this achievement through our construction of half of the cryomodules, in collaboration with Fermilab and SLAC. This achievement builds upon more than a decade of development of this powerful particle accelerator technology.”
+In addition to a new accelerator, LCLS-II required many other cutting-edge components, including a new electron source, two powerful cryoplants that produce refrigerant for the niobium structures in the cryomodules, and two new undulators to generate X-rays from the electron beam, as well as major leaps in laser technology, ultrafast data processing, and advanced sensors and detectors.
+The undulators were developed in partnership with Lawrence Berkeley National Laboratory and Argonne National Laboratory. Numerous other institutions, including Cornell University have contributed to other key components, underscoring the widespread commitment to advancing scientific knowledge.
+“Congratulations to SLAC and to the impressive team of accelerator experts from the Department of Energy Labs across the country that built LCLS-II,” said Lawrence Berkeley National Laboratory Director Mike Witherell. “This unique new facility will provide many new opportunities for discovery science.”
+The “soft” and “hard” X-ray undulators produce X-rays with low and high energy, respectively — a versatility that allows researchers to tailor their experiments more precisely, probing deeper into the structures and behaviors of materials and biological systems.
+“We’re excited to see our collaborations with SLAC and Berkeley Lab help to empower this light source of the future,” said Argonne National Laboratory Director Paul Kearns. “The advanced technology behind LCLS-II will enable the DOE user facility community to significantly increase our understanding of the world around us. Congratulations to SLAC and to everyone who contributed to this remarkable scientific achievement.”
+Enabling breakthrough science
+Researchers have been preparing for years to use LCLS-II for a broad science program that will tackle challenges that were out of reach before.
+For example, scientists will be able to study interactions in quantum materials on their natural timescales, which is key to understanding their unusual and often counter-intuitive properties — to make use of them to build energy efficient devices, quantum computers, ultrafast data processing, and other future technologies.
+By capturing atomic-scale snapshots of chemical reactions at the attosecond timescale — the scale at which electrons move — LCLS-II will also provide unprecedented insights into chemical and biological reactions, leading to more efficient and effective processes in industries ranging from renewable energy to the production of fertilizer and the mitigation of greenhouse gases.
+The X-ray pulses generated by LCLS-II will allow scientists to track the flow of energy through complex systems in real time. This will provide an unprecedented level of detail to inform the development of fields such as ultrafast computing, sustainable manufacturing, and communications.
+At the intersection of physics, chemistry, and engineering, materials science also stands to benefit substantially from the new capabilities of LCLS-II. The enhanced X-ray laser’s potential to observe the internal structure and properties of materials at atomic and molecular scales is predicted to lead to breakthroughs in the design of new materials with unique properties, to impact a range of industries from electronics to energy storage to aerospace engineering.
+Life’s processes occur at scales and speeds that have often eluded detailed study. LCLS-II’s ability to create “molecular movies” can illuminate these phenomena, revolutionizing our understanding of life at the its most basic level. From the intricate dance of proteins to the machinery of photosynthesis, LCLS-II will shed light on biological systems in never-before-seen detail.
+“Experiments in each of these areas are set to begin in the coming weeks and months, attracting thousands of researchers from across the nation and around the world,” said LCLS Director Mike Dunne. “DOE user facilities such as LCLS are provided at no cost to the users — we select on the basis of the most important and impactful science. LCLS-II is going to drive a revolution across many academic and industrial sectors. I look forward to the onslaught of new ideas — this is the essence of why national labs exist.”
+SLAC is a vibrant multiprogram laboratory that explores how the universe works at the biggest, smallest and fastest scales and invents powerful tools used by scientists around the globe. With research spanning particle physics, astrophysics and cosmology, materials, chemistry, bio- and energy sciences and scientific computing, we help solve real-world problems and advance the interests of the nation.
+SLAC is operated by Stanford University for the U.S. Department of Energy’s
+Office of
+Science
+. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+New collaboration sheds bright light on advancing semiconductor production in the U.S.
+April 4, 2024
+collaboration
+cryomodule
+superconducting radio-frequency technology
+Press release
+A partnership between Fermilab and xLight Inc. will focus on producing advanced semiconductors in the United States using extreme ultraviolet light and accelerator technology.
+Indian scientists come to Fermilab to assist with PIP-II particle accelerator technology
+August 3, 2023
+cryomodule
+India
+PIP-II
+Fermilab feature
+Fermilab and India’s Department of Atomic Energy institutions enjoy a strong partnership, further strengthened by Indian scientists assisting with work on the new particle accelerator.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

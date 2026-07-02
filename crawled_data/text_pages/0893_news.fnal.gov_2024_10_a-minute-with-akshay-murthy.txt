@@ -1,0 +1,179 @@
+URL: https://news.fnal.gov/2024/10/a-minute-with-akshay-murthy/
+Title: A minute with: Akshay Murthy
+────────────────────────────────────────────────────────────
+A minute with: Akshay Murthy
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with: Akshay Murthy
+October 22, 2024
+| By:
+Hannah Adams
+Tags:
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Bringing expertise in materials science and engineering, Akshay Murthy is a leader at Fermilab’s Superconducting Quantum Materials and Systems Center. Murthy’s passion at SQMS is extending the lifetimes of quantum states to realize next-generation quantum computers and sensors.
+What do you do at Fermilab?
+I’m an associate scientist and the group leader of the Materials for Quantum Devices group within the Superconducting Quantum Materials and Systems Division at Fermilab, part of the Department of Energy’s National Quantum Information Science Research Center — SQMS. The research group primarily focuses on improving the length of time information can be effectively stored and processed in a superconducting quantum device. Dramatically extending this coherence time is critical for realizing next-generation quantum computers and sensors.
+Akshay Murthy is an associate scientist and group leader at SQMS, as well as an avid runner.
+Our group is composed of graduate students, postdoctoral researchers and engineers. We collaborate to improve coherence times by applying a variety of advanced materials characterization
+tools
+— electron microscopy, X-ray photoelectron spectroscopy and time-of-flight secondary ion mass spectrometry — to understand the physical processes that lead to the loss of quantum information, called decoherence. We aim to answer questions such as:
+Are the surfaces of these materials ordered or disordered? What about the interfaces between materials?
+What impurities are present in our materials? Where are they located?
+What types of defects are present in these devices? How do they respond during device operation at cryogenic temperatures?
+Using these techniques as part of a materials-oriented approach, the SQMS research team has recently achieved
+leading coherence times in transmon qubits
+.
+I’m also the leader for the materials for 2D and 3D quantum devices focus area in the SQMS center, which consists of over 70 researchers across 11 partner institutions focused on fabrication of quantum devices, as well as characterization of quantum devices using structural, chemical, superconducting and microwave-based methods. In this role I prioritize, manage and evaluate activities to ensure SQMS achieves its research goals in a timely fashion. I am extremely passionate about advancing the performance of superconducting qubit platforms, with my ultimate goal being to help deliver a transformational new paradigm in computing. Solving critical scientific and engineering challenges in this field requires the type of coordinated ecosystem involving academic institutions, national labs and industry partners, which we have created as part of SQMS. I am proud of the advances our center has already demonstrated and expect many exciting new achievements in the years to come.
+How long have you worked at Fermilab?
+I have worked at Fermilab for almost four years now. I was initially hired as a postdoctoral research associate in the SQMS division before being promoted to associate scientist. Throughout this time, I have had the wonderful opportunity to work alongside a variety of world-leading scientists and engineers, both at Fermilab and at SQMS partner institutions, in a wide variety of areas, including accelerator physics, quantum physics, materials science, microwave engineering, nanofabrication and beyond. Prior to joining Fermilab, I completed my Ph.D. at Northwestern University in the group of Professor Vinayak Dravid and worked in industry.
+What is the most challenging part of your work?
+Understanding what limits the lifetime of quantum states in superconducting qubits is without question what I find to be the most challenging part of my work. These quantum devices are exceedingly sensitive and understanding the complex interplay between defects, impurities, interfaces and surfaces on various performance metrics presents an imposing challenge daily.
+What is the most rewarding part of the work you do at Fermilab?
+Developing a hypothesis and testing it through a series of systematic experiments is the most rewarding part of my work. No matter whether the original hypothesis is supported by the investigation or whether it requires refining, every experiment serves as an opportunity to learn something new. It’s this opportunity to continuously acquire new knowledge that excites me to come to work every day.
+What do you do for fun outside of work?
+I’m an avid long-distance runner and have run over a dozen half marathon and marathon races, including the Chicago Marathon and Boston Marathon. You can usually find me Saturday mornings running along the lakefront or on the Illinois Prairie Path. I enjoy experiencing the beauty and sounds that nature has to offer while simultaneously pushing my body to its limits.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Fermilab’s SQMS Center funded with $125 million to shape the future of quantum information science
+November 4, 2025
+DOE
+SQMS Center
+Press release
+The SQMS Center enters a new era focused on scaling quantum systems from discovery to deployment — driving innovation in computation, communication and sensing.
+A minute with Mackenzie Ring
+July 24, 2025
+quantum
+SQMS Center
+Fermilab feature
+Mackenzie Ring helps bring quantum research to life as a mechanical technician for the Superconducting Quantum Materials and Systems Center at Fermilab, assembling and maintaining the complex systems inside the SQMS dilution refrigerators. Mackenzie’s role combines hands-on work, problem-solving and collaboration to support cutting-edge experiments at the forefront of science.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

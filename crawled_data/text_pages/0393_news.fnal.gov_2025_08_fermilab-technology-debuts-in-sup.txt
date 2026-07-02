@@ -1,0 +1,205 @@
+URL: https://news.fnal.gov/2025/08/fermilab-technology-debuts-in-supercollider-dress-rehearsal-at-cern/
+Title: Fermilab technology debuts in supercollider dress rehearsal at CERN
+────────────────────────────────────────────────────────────
+Fermilab technology debuts in supercollider dress rehearsal at CERN
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab technology debuts in supercollider dress rehearsal at CERN
+August 14, 2025
+| By:
+Sarah Charley
+Tags:
+HL-LHC Accelerator Upgrade Project
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Several components developed, assembled and tested by the HL-LHC Accelerator Upgrade Project, a consortium of U.S. national laboratories and institutions, including Lawrence Berkeley National Laboratory, Brookhaven National Laboratory and Fermi National Accelerator Laboratory, take center stage as engineers at CERN build and test a section of the High-Luminosity Large Hadron Collider, a major upgrade to the world’s most powerful supercollider.
+Scientists and engineers are preparing to make the world’s biggest supercollider even more powerful with the High Luminosity upgrade to the Large Hadron Collider, or HL-LHC. This upgrade will increase the amount of data collected from particle collisions by an order of magnitude and enable new insights into rare physical phenomena. But how can scientists be sure that the new components will play together in harmony? According to CERN engineer Marta Bajko, this is the role of the HL-LHC string test, which is testing a line of interconnected magnets prior to their installation in the tunnel.
+“We are reproducing the section of the accelerator that will be on the left side of the CMS experiment,” said Bajko, who is leading the string test. “This will let us characterize the collective behavior of the components.”
+U.S. Reps. Keith Self, Brian Babin, Jay Obernolte and Sheri Biggs, with physicist Emmanuel Tsesmelis, discuss U.S. contributions to the high-luminosity upgrade of the Large Hadron Collider beside a U.S.-produced cryoassembly containing superconducting magnets at CERN’s Superconducting Magnet Test Facility in Switzerland on June 17, 2025. Pictured
+,
+from left: Self, Tsesmelis, Babin, Obernolte and Biggs
+.
+Credit: CERN
+The Large Hadron Collider is made from millions of pieces that work together to steer particles and accelerate them to just under the speed of light. The string test allows engineers to verify that the individually tested components of the upgrade — some of which were made and tested in America — can function cohesively before they are installed around the HL-LHC’s collision points 100 meters underground.
+“All the equipment is there,” said Giorgio Apollinari, a scientist at the U.S. Department of Energy’s Fermi National Laboratory and the project director of the HL-LHC Accelerator Upgrade Project. “Everything will operate at the nominal current; it’s the real LHC, but only 100 meters of it and not the full 27 kilometers.”
+Several components developed, assembled and tested by the Accelerator Upgrade Project, a consortium of U.S. national laboratories and institutions, including Lawrence Berkeley National Laboratory, Brookhaven National Laboratory and Fermilab, debuted in the string test. Among them are four quadrupole accelerator magnets, shipped from Fermilab to CERN earlier this year.
+“They were the final piece of the puzzle,” Bajko said.
+These quadrupoles are 25 tons each and contain everything needed to focus the proton beams that will pass through their cores, including coils made from a new type of superconducting material.
+“They are all based on this niobium-three-tin technology, which we as humanity are using for the first time in an accelerator,” Apollinari said.
+A U.S.-produced cryoassembly for the high-luminosity upgrade to the Large Hadron Collider is moved from the testing facility at Fermilab in preparation for shipment to CERN, on Sept. 25, 2023. Credit: Ryan Postel, Fermilab
+According to Apollinari, the current LHC magnets are made from coils of niobium-titanium, a flexible superconductor that can achieve a magnetic field in a particle accelerator of up to 8 tesla, which is approximately 8,000 times stronger than a typical fridge magnet. But this is not strong enough for the planned high luminosity upgrade, which will pack twice as many protons into an even smaller beam volume. By contrast, niobium-three-tin can carry more current and reach magnetic fields around 50% higher than niobium titanium. The problem is that niobium-three-tin is difficult to work with.
+“It is very brittle since it requires a high temperature heat treatment to make it into a superconductor,” Apollinari said.
+While CERN was constructing the LHC in the late 2000s, scientists in the U.S. started experimenting with niobium-three-tin as the basis for future LHC accelerator magnets.
+“Our American colleagues were the pioneers of this new technology,” Bajko said. “I was working on magnet design at the time, and two or three times a week, the Americans would wake up very early or we would stay at CERN very late so that we could discuss and exchange ideas.”
+Bajko recalls that CERN and Fermilab worked together so closely that they were eventually able to build coils that are identical.
+“We were able to put American coils and CERN coils into the same quadrupole,” Bajko said. “That was a very beautiful collaboration.”
+Scientists and engineers have spent more than two decades preparing for the HL-LHC, and the string test is the final check before the new magnets are installed around the LHC’s collision points.
+According to Bajko, engineers recently finished connecting all the magnets and are currently pressure testing the entire system. In September, they plan to cool the chain down to minus 456.25 degrees Fahrenheit, which is just 1.8 degrees above absolute zero. Before the end of the year, she hopes to power-up the chain to 17,300 amps, which is equivalent to a bolt of lightning continuously running through the magnetic coils.
+“This is a huge project, and no one lab can do it alone,” Bajko said. “We need our partners, and we are happy that our partners have been there to share the technical challenges with us.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+HiLumi LHC: full-scale tests start
+February 24, 2026
+accelerator magnets
+collaboration
+HL-LHC Accelerator Upgrade Project
+Press release
+Scientists at CERN have triggered the complex cooldown of a 95-meter-long test stand that reproduces the underground configuration of innovative technologies for the Large Hadron Collider’s high-luminosity upgrade.
+HL-LHC Accelerator Upgrade Project receives approval to move full-speed-ahead from Department of Energy
+February 10, 2021
+accelerator technology
+Berkeley Lab
+Brookhaven
+Brookhaven National Laboratory
+cavity
+CERN
+Department of Energy
+DOE
+High-Luminosity Large Hadron Collider
+High-Luminosity LHC
+HL-LHC
+HL-LHC Accelerator Upgrade Project
+Jefferson Lab
+LHC Accelerator Upgrade Project
+magnet
+National High Magnetic Field Laboratory
+Old Dominion University
+SLAC National Accelerator Laboratory
+University of Florida
+Fermilab feature
+The U.S. Department of Energy has given the U.S. High-Luminosity Large Hadron Collider Accelerator Upgrade Project approval to move full-speed-ahead in building and delivering components for the HL-LHC, specifically, cutting-edge magnets and accelerator cavities that will enable more rapid-fire collisions at the collider. The collider upgrades will allow physicists to study particles such as the Higgs boson in greater detail and reveal rare new physics phenomena. The U.S. collaborators on the project may now move into production mode.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

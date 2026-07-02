@@ -1,0 +1,194 @@
+URL: https://news.fnal.gov/2021/09/doe-invests-13-7-million-for-research-in-data-reduction-for-science/
+Title: DOE invests $13.7 million for research in data reduction for science
+────────────────────────────────────────────────────────────
+DOE invests $13.7 million for research in data reduction for science
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+DOE invests $13.7 million for research in data reduction for science
+September 14, 2021
+Tags:
+big data
+computing
+funding
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The U.S. Department of Energy recently announced $13.7 million in funding for nine research projects that will advance the state of the art in computer science and applied mathematics. One of the recipients of this funding, Fermilab scientist Nhan Tran will lead a project to explore methods for programming custom hardware accelerators for streaming compression.
+Editor’s note: The press release below was
+originally issued by the U.S. Department of Energy
+.
+Scientist Nhan Tran, Jennifer Ngadiuba and other researchers at Fermilab will develop techniques for encoding advanced compression and filtering for use in a wide array of experimental settings, from particle physics experiments to electron microscopes.
+The U.S. Department of Energy (DOE) announced $13.7 million in funding for nine research projects that will advance the state of the art in computer science and applied mathematics. The projects – led by five universities and five DOE National Laboratories across eight states – will address the challenges of moving, storing, and processing the massive data sets produced by scientific observatories, experimental facilities, and supercomputers, accelerating the pace of scientific discoveries.
+As scientific user facilities upgrade and expand, their capacity for generating unwieldy amounts of scientific data has started to exceed scientists’ abilities to stream, archive, and analyze that data. This has created an urgent need to develop new mathematical and computer-science techniques to shrink these data sets by removing trivial or repetitive data while preserving the important scientific information that can lead to discovery.
+While the need for data reduction techniques is clear, the scientists using those techniques must trust that they are not losing important scientific information, and this presents a key challenge. Research supported by this program must address not only the efficiency and effectiveness of a data reduction technique, but its trustworthiness as well.
+“Scientific user facilities across the nation, including the DOE Office of Science, are producing data that could lead to exciting and important scientific discoveries, but the size of that data is creating new challenges,” said Barb Helland, Associate Director for Advanced Scientific Computing Research, DOE Office of Science. “Those discoveries can only be uncovered if the data is made manageable, and the techniques employed to do that are trusted by the scientists.”
+Projects selected in today’s announcement cover a wide range of topics that promise important innovations in data-reduction techniques, including techniques using advanced
+machine learning
+, large-scale statistical calculations, and novel hardware accelerators. A sample of the projects includes:
+Methods to compress streaming data:
+Researchers at Oak Ridge National Laboratory will develop techniques to compress data coming directly from a scientific instrument or a computer model by taking advantage of its specific structure and integrating advanced machine-learning techniques, while allowing scientists to control certain features of the data.
+Methods to intelligently select and tune compression techniques:
+Researchers at Texas State University will develop techniques to search the vast space of potential data compression techniques and select the best method based on the user’s requirements for fidelity, speed, and memory usage.
+Compression methods for related groups of data sets:
+Researchers at the University of California, San Diego will develop scalable techniques for compressing multiple related streams of data, such as those from multiple sensors observing the same physical system, by taking advantage of the relationships between the data sets.
+Methods for programming custom hardware accelerators for streaming compression:
+Researchers at Fermi National Accelerator Laboratory will develop techniques for encoding advanced compression and filtering, including those based on machine learning methods, as custom hardware accelerators for use in a wide array of experimental settings, from particle physics experiments to electron microscopes.
+The projects are managed by the
+Advanced Scientific Computing Research (ASCR) program
+within the DOE Office of Science.
+The full list of projects and more information can be found
+here
+.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Fermilab researchers receive DOE funding to advance emerging technologies for future industries
+March 14, 2024
+compact accelerator
+emerging technologies
+funding
+microelectronics
+partnership
+photon detector
+Fermilab feature
+The funded research areas include state-of-the-art technologies for detecting dark matter; 3D integrated sensors to process tiny, ultrafast signals with high precision; and powerful, compact electron-beam accelerators for industrial use.
+Fermilab receives DOE funding to further develop nationwide quantum network
+October 16, 2023
+emerging technologies
+funding
+quantum
+quantum computing
+quantum network
+Fermilab feature
+Press release
+DOE awarded Fermilab $9 million to further develop technology for national-scale quantum networks to improve the transmission of information as part of the Advanced Quantum Network for Scientific Discovery project.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

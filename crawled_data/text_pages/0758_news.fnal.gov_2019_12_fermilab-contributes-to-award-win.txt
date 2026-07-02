@@ -1,0 +1,185 @@
+URL: https://news.fnal.gov/2019/12/fermilab-contributes-to-award-winning-spack-software-tool/
+Title: Fermilab contributes to award-winning Spack software tool
+────────────────────────────────────────────────────────────
+Fermilab contributes to award-winning Spack software tool
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab contributes to award-winning Spack software tool
+December 18, 2019
+| By:
+Stephen Wampler
+Tags:
+California
+computing
+Lawrence Livermore National Laboratory
+software
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Spack, a software package management tool, was recognized with an R&D 100 Award in November. Developed for high-performance computing applications, Spack is used as an end-to-end development tool within the high-energy physics community. Fermilab is a contributor to Spack, whose initial development was led by Lawrence Livermore National Laboratory.
+Editor’s note: This is an adapted excerpt from an
+article published by Lawrence Livermore National Laboratory
+. Fermilab scientists contributed to the award-winning Spack software package management tool, whose initial development was led by Livermore.
+In November, the trade journal
+R&D World Magazine
+announced the winners of the annual R&D 100 Awards, sometimes called the “Oscars of invention,” in an online post and emails to winners.
+Among the winners was
+Spack
+, a software package management tool for high-performance computing applications, a project led by Lawrence Livermore National Laboratory, a DOE national laboratory.
+Spack is an easy-to-use, versatile and scalable software package management tool for high-performance computing applications. It simplifies and accelerates building and customizing software by automating the build workflow, thus reducing deployment time for large software stacks from weeks to hours.
+In 2013, Todd Gamblin, a computer scientist at Lawrence Livermore National Laboratory, created the first prototype of Spack to automate the many tedious software builds he and colleagues were forced to perform manually.
+More than 2,300 monthly active users use Spack software worldwide. Image courtesy of
+Spack
+Today, Spack is widely available as open-source software. Spack’s original 100 or so packages have grown into a library of more than 3,500, and a large and active community of more than 450 contributors regularly adds features and improvements.
+Spack is now used for software deployment on six of the world’s top 10 supercomputers, and it has been adopted by a number of high-performance computing centers and software development communities.
+Even outside of high-performance computing centers, Spack has had a major impact. It has been picked as an end-to-end development tool within the high-energy physics community, based at Fermilab in the U.S. and CERN in Switzerland.
+Fermilab scientists contributed to Spack’s core functionality as well as software definitions specific to high-energy physics.
+While Livermore led the initial development of Spack, the software’s co-developers include Fermilab and Argonne National Laboratory, the Center for Climate Systems Research, Columbia University, Iowa State University, Kitware Inc., NASA Goddard Institute for Space Studies, the National Energy Research Scientific Computing Center, Perimeter Institute, Swiss Federal Institute of Technology Lausanne, the University of Hamburg, the University of Illinois at Urbana–Champaign and the University of Iowa.
+Fermilab is a DOE national laboratory supported by the Office of Science.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+A minute with Sajid Ali Syed, computational science and AI research associate
+November 2, 2022
+accelerator
+computing
+people
+Fermilab feature
+Always looking for a new trail to ride his bike on or an opportunity to catch a live show in town, Sajid Ali Syed is a research associate in the Computational Science and AI Directorate for high-energy physics applications at Fermilab.
+DOE invests $13.7 million for research in data reduction for science
+September 14, 2021
+big data
+computing
+funding
+Fermilab feature
+The U.S. Department of Energy recently announced $13.7 million in funding for nine research projects that will advance the state of the art in computer science and applied mathematics. One of the recipients of this funding, Fermilab scientist Nhan Tran will lead a project to explore methods for programming custom hardware accelerators for streaming compression.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

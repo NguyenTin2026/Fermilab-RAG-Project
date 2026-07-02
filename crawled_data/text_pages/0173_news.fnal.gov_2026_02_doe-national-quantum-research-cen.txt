@@ -1,0 +1,191 @@
+URL: https://news.fnal.gov/2026/02/doe-national-quantum-research-centers-reach-milestone-breakthrough-towards-building-scalable-quantum-computers/
+Title: DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+────────────────────────────────────────────────────────────
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+February 26, 2026
+Tags:
+emerging technologies
+ions
+microelectronics
+quantum
+quantum electronics
+qubits
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+A partnership between the Quantum Science Center and the Quantum Systems Accelerator, two U.S. Department of Energy national quantum information science research centers, has enabled a breakthrough by Fermilab and MIT Lincoln Laboratory. Researchers used cryoelectronics to control ion traps, a key step toward realizing scalable quantum computers.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Researchers at Fermi National Accelerator Laboratory and the Massachusetts Institute of Technology’s Lincoln Laboratory have successfully trapped and manipulated ions using in-vacuum cryoelectronics, allowing for reduced thermal noise and improved sensitivity. This proof-of-principle experiment marks an important advancement toward building large-scale ion-trap quantum computing systems.
+The co-integration of ion traps and deep cryogenic control circuits project was made possible through collaboration between two DOE National Quantum Information Science Research Centers — the Quantum Science Center, led by Oak Ridge National Laboratory, and the Quantum Systems Accelerator, led by Lawrence Berkeley National Laboratory. This particular effort within the Quantum Systems Accelerator was led by Sandia National Laboratories in collaboration with MIT Lincoln Laboratory.
+Recognizing the complementary expertise of Fermilab and MIT Lincoln Laboratory, leaders from both centers jointly supported the demonstration.
+“This remarkable research integrates state-of-the-art capabilities in quantum technologies to deliver an exciting new direction for scalable ion trap quantum computing using cryoelectronic control chips,” said Travis Humble, director of the Quantum Science Center.
+At the heart of the effort were Fermilab-developed cryoelectronics — specialized circuits designed to operate at the extreme cold temperatures required for quantum computers. These cryoelectronics were integrated into MIT Lincoln Laboratory’s ion-trap platform to test whether they could reliably perform key functions: moving individual ions, holding them at set positions and measuring the effects of electronic noise.
+MIT Lincoln Laboratory researchers Lucy Gray Shamel, left, and Will Setzer, are members of the MIT Lincoln Laboratory trapped-ion team. They used optics and electronics in recent proof-of-principle experiments demonstrating ion-trap-potential control with a compact-form-factor application-specific integrated circuit. Photo: MIT Lincoln Laboratory
+Why ion traps?
+Ion-trap quantum computers use charged atoms confined by electric or magnetic fields as qubits. Such systems are prized for their long coherence times and high-fidelity operations.
+However, scaling them to millions of qubits, as needed for advanced applications, is a major challenge. Today’s systems rely on lasers and extensive wiring between room-temperature electronics and cryogenic ion traps — a setup that becomes increasingly impractical as the number of ions grows.
+By placing ultra-low-power cryoelectronics near the ion traps, the Fermilab–MIT Lincoln Laboratory team realized a promising path forward. Their redesigned system replaced some of the room-temperature controls with a chip mounted inside the cryogenic environment. The researchers successfully demonstrated this hybrid approach could move and control ions.
+“In addition to demonstrating feasibility, we learned a lot,” said Farah Fahim, head of Fermilab’s Microelectronics Division. “By showing that low-power cryoelectronics can work inside ion-trap systems, we may be able to accelerate the timeline for scaling quantum computers, bringing closer into reach what seemed decades away. This approach could ultimately support systems with tens of thousands of electrodes or more.”
+Future work will directly connect the electronics with the ion-trap chips, further increasing efficiency and performance and enabling scaling of ion-trap arrays for larger systems.
+Fermilab researchers Hongzhi Sun, left, and Pamela Klabbers test an ion-trap chip at the test stand at Fermilab. Credit: Ryan Postel, Fermilab
+Lessons learned
+The experiment also surfaced new insights that will guide future chip designs. For instance, transistors that behaved well in Fermilab’s setup did not perform as well in MIT Lincoln Laboratory’s significantly colder environment, impacting the control circuit performance and operation range.
+Also, the circuits initially held voltages for milliseconds. Though modifications extended the hold times, further modifications will be required to further extend them to the minutes or hours large systems require. Addressing these and other challenges will be central to the next round of development.
+Robert McConnell, a technical staff member at MIT Lincoln Laboratory, said that “while there are still significant challenges to establishing the technology needed to control ion arrays of a practical scale, this demonstration of small-form-factor, low-noise electronics lays the foundation for hybrid-integrated systems we hope to develop in the near future.”
+The successful integration highlights the value of cross-center collaboration, in addition to marking a concrete step toward realizing scalable quantum computing technologies for science and beyond.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+The
+Quantum Systems Accelerator (QSA)
+is a U.S. National Quantum Information Science Research Center established in August 2020 and funded by the Department of Energy (DOE) Office of Science. QSA’s core team comprises leading research universities, national laboratories, and industry partners worldwide—bringing together pioneers of many of today’s unique quantum information science (QIS) and engineering capabilities. Led by Lawrence Berkeley National Laboratory (Berkeley Lab), with Sandia National Laboratories (Sandia Labs) as the lead partner, 250+ QSA researchers are catalyzing U.S. leadership in a fast-growing field that seeks solutions to the Nation’s and the world’s most pressing problems by harnessing the laws of quantum information science.
+Headquartered at Oak Ridge National Laboratory, the Quantum Science Center (QSC) is one of five multidisciplinary National Quantum Information Science Research Centers supported by the U.S. Department of Energy’s Office of Science. Initially created in 2020 and renewed in 2025 in response to the National Quantum Initiative Act of 2018, the QSC is focused on advancing quantum information science and technology in the interests of national security and global scientific leadership.
+MIT Lincoln Laboratory is a federally funded research and development center sponsored by the Department of Defense. FFRDCs assist the U.S. government with scientific research and analysis, systems development, and systems acquisition to provide novel, cost-effective solutions to complex government problems. MIT Lincoln Laboratory researches and develops a broad array of advanced technologies to meet critical national security needs.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

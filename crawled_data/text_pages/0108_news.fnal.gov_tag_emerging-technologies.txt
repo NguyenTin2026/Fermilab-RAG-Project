@@ -1,0 +1,209 @@
+URL: https://news.fnal.gov/tag/emerging-technologies/
+Title: emerging technologies Archives - News
+────────────────────────────────────────────────────────────
+emerging technologies Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+emerging technologies
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 60 results
+Northwestern and Fermilab quantum data helps build a new AI benchmark for quantum calibration with NVIDIA Ising open models
+Northwestern Institute for Quantum Information Research and Engineering, April 14, 2026
+emerging technologies
+NEXUS
+QICK
+quantum
+qubits
+In recognition of World Quantum Day, Fermilab’s Sara Sussman writes about the first benchmark from NEXUS qubit data. The new data has enabled the training of NVIDIA Ising Calibration, a vision language model for automating the calibration of quantum processors.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+Transforming water treatment: Fermilab’s innovative electron-beam technology takes on PFAS pollution
+Innovation News Network, April 1, 2026
+accelerator applications
+accelerator technology
+emerging technologies
+PFAS
+Chris Edwards, an Engineering Project Manager at Fermilab, discusses the collaboration with Proficio, utilizing Fermilab’s electron-beam technology to develop methods for treating water contaminated with PFAS.
+Basic2Breakthrough: Making an impact with compact superconducting radiofrequency accelerators
+DOE Office of Science, March 25, 2026
+accelerator technology
+emerging technologies
+IARC
+SRF cavities
+Researchers at the Illinois Accelerator Research Center at Fermilab have developed powerful, compact, and mobile electron accelerators powered by SRF technologies. A compact SRF accelerator
+is a cost-effective, compact version that will enable novel applications.
+Quantum computers gain speed with network achieving 100ps synchronisation
+Quantum Zeitgeist, March 21, 2026
+emerging technologies
+QICK
+quantum
+Fermilab and Stanford University researchers have developed XCOM, a novel network designed to synchronize quantum instrumentation and facilitate low-latency communication.
+Fermilab tackles quantum control bottleneck with low-latency network
+SDX Central, March 25, 2026
+emerging technologies
+QICK
+quantum
+A new network architecture from Fermilab targets a key challenge in scaling quantum computing systems: low-latency, predictable communication across control hardware. The XCOM system connects multiple QICK boards in a mesh network, enabling synchronized operation and deterministic communication between distributed control electronics.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+350 feet underground US lab helps turn qubits into sensors for dark matter research
+Interesting Engineering, March 11, 2026
+emerging technologies
+NEXUS
+quantum
+qubits
+The NEXUS research team at Fermilab recently repeated the 2019 experiment after removing cosmic interference, find quantum information disturbed by other ways. This is the first time scientists have measured charge noise in a chip consisting of multiple qubits.
+Scientists head underground to measure effects of gamma rays on superconducting qubits
+March 10, 2026
+emerging technologies
+quantum
+Fermilab feature
+In a pioneering study at an underground laboratory at Fermilab, scientists measured bursts of charge across multiple superconducting qubits. Their work advances understanding of how background noise impacts qubits while contributing to the development of more precise sensors to discover new physics phenomena and more fault-tolerant quantum computers.
+CERN tests microwire quantum sensors for particle colliders and dark matter detection
+Interesting Engineering, March 3, 2026
+emerging technologies
+photon detectors
+quantum sensor
+Researchers at Fermilab have revealed that an emerging class of quantum sensors, called superconducting microwire single-photon detectors (SMSPDs), could spot high-energy particles and dark matter with exceptional precision.
+1
+2
+3
+…
+6
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

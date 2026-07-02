@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2025/09/squeezed-light-technology-could-accelerate-path-to-quantum-networking/
+Title: ‘Squeezed light’ technology could accelerate path to quantum networking
+────────────────────────────────────────────────────────────
+‘Squeezed light’ technology could accelerate path to quantum networking
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+‘Squeezed light’ technology could accelerate path to quantum networking
+September 30, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+AQNET
+emerging technologies
+partnership
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists at Fermilab and Caltech have demonstrated the feasibility of their method of using squeezed light to dramatically increase the rate at which quantum networks can generate entangled particle pairs over long distances. This advance addresses a critical bottleneck in building large-scale quantum networks.
+Imagine a future where networks of entangled photons, harnessing the unique properties of quantum physics, enable computing and technologies beyond anything we know today.
+Researchers at the U.S. Department of Energy’s Fermi National Accelerator Laboratory and the California Institute of Technology are using a special kind of light — called “squeezed light” — they believe can overcome key challenges in building scalable quantum networks.
+The cutting-edge research represents essential progress toward building a quantum network that could transform scientific research by connecting powerful quantum computers.
+These networks rely on entangled qubits — pairs of quantum bits that share information across distances. In quantum physics, entanglement occurs when two or more particles become linked in such a way that what happens to one affects the other, even if they are far apart.
+Researchers are working to generate and distribute entangled qubits across longer distances to build larger quantum networks. However, quantum networks over fiber optic cable face challenges such as signal loss, memory decoherence, and delays inherent to communication technologies widely used today.
+A new
+study
+led by Fermilab shows the potential of a quantum network protocol that can overcome these challenges by using squeezed light, a special state of light with reduced noise and enhanced sensitivity, to pick up faint signals. This research marks a first step toward increasing the entanglement generation rate, which is a key requirement for large-scale quantum networks.
+Fermilab scientist Alexandru Macridin led a study to increase the generation rate of long-distance entangled quantum pairs, an important step in building a large-scale quantum network. Photo: Andrew Cameron, Fermilab
+Scientists use various methods to encode qubits with quantum information. One approach uses photons — packets of light energy that have both wave and particle properties — that scientists prepare in special ways to manipulate and control qubits.
+The new method described in the study uses two optical encoding types. The combination helps overcome the weaknesses of each and significantly increases the rate of entangled pair generation over long distances.
+To transfer entanglement from one pair of qubits to another, scientists use a process called entanglement swapping. Unlike traditional methods that produce only one entangled pair per swap, squeezed light allows many qubits to become entangled.
+“The greater number of entangled pairs per light signal, the greater the entanglement distribution efficiency,” said Alexandru Macridin, a scientist at Fermilab who led this research. “But since entangled qubits readily decay, the entanglement generation rate is very important when you build this kind of thing. The more you create, the better.”
+Using the new technique, scientists generate entangled pairs by preparing light at two distant locations. Both light sources are sent to a central site equidistant between them and routed through a beam splitter that separates them into two beams of light, one transmitted and one reflected. The light beams return to the central location, where they recombine and are measured. The laws of quantum mechanics dictate that measurement destroys the light but leaves multiple pairs of long-distance entangled qubits.
+The method’s effectiveness depends on the strength of the squeezing, but current technology limits how much can be squeezed.
+“I calculated that producing one extra entangled pair requires three decibels of squeezing,” explained Macridin. “This means that no more than three or four entangled qubit pairs can be produced using current technology because it only allows for squeezing up to 15 decibels of light.”
+Going forward, the team will explore ways to reduce light loss and other effects from fiber optic cables. They will also work to improve the technology and compare light squeezing with other methods for generating multiple qubits. This research is part of a larger collaborative project led by Fermilab called the Advanced Quantum Network, or AQNET. Funded by the Department of Energy Office of Science Advanced Scientific Computing Research program, AQNET aims to connect a local quantum network at Fermilab with quantum nodes at Argonne National Laboratory, Northwestern University, and the University of Illinois at Urbana-Champaign using optical fiber. The ultimate goal is to build a
+nationwide quantum network
+.
+The Fermilab Quantum Network, pictured above, will be used for the Advanced Quantum Network project. AQNET, aims to extend the network, by connecting to quantum nodes at other institutions across the Chicago area and downstate Illinois. Credit: Ryan Postel, Fermilab
+“With
+AQNET
+, we are now at the stage of our development where our network connections can reach metropolitan-scale distances with fiber optics,” said Fermilab scientist Cristián Peña, who leads the project. “This new protocol is another step toward that goal.”
+So far, Macridin and his colleagues have confirmed that the new protocol can improve entanglement distribution efficiency in ideal laboratory settings.
+The protocol is also significant because it builds on existing entanglement swapping hardware developed at Fermilab. The hardware can be readily integrated into a wide range of applications, including quantum repeaters — devices that extend quantum entanglement over longer distances and support the development of diverse quantum network designs.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

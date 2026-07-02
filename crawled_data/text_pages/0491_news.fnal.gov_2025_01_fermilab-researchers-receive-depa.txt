@@ -1,0 +1,182 @@
+URL: https://news.fnal.gov/2025/01/fermilab-researchers-receive-department-of-energy-funding-for-microelectronics-research/
+Title: Fermilab researchers receive Department of Energy funding for microelectronics research
+────────────────────────────────────────────────────────────
+Fermilab researchers receive Department of Energy funding for microelectronics research
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab researchers receive Department of Energy funding for microelectronics research
+January 6, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+emerging technologies
+microelectronics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab is advancing U.S. semiconductor capabilities through leading-edge research in energy-efficient and extreme-environment chips. This important work is driving breakthroughs for high-energy physics and future technologies.
+Microelectronics are essential to everyday life. They power the technology we use daily, like phones, watches and household appliances. However, the most advanced microelectronics are used in scientific experiments that push the limits of performance and accuracy. These innovations not only drive new discoveries but also shape the development of the next generation of commercial technology. Research funded by the U.S. Department of Energy plays a key role in maintaining national leadership in creating technologies that benefit science and industry.
+Two projects led by DOE’s Fermi National Accelerator Laboratory have received funding from the Office of Science to advance microelectronics research. Fermilab is also collaborating on three additional funded projects, which are led by other DOE laboratories. In total, 16 microelectronics projects have received funding.
+The Office of Science awards are part of DOE’s
+$160 million investment
+to support U.S. semiconductor innovation through a key provision in the CHIPS and Science Act. This provision aims to set up Microelectronics Science Research Centers. The MSRCs are intended to further microelectronics research and ensure that the U.S. continues to be competitive with other countries in science and technology.
+“DOE-funded research is vital to advance the capabilities of high-energy physics instrumentation,” said Fermilab Microelectronics Division Head Farah Fahim, a principal investigator on one of the funded projects. “This research will ensure continued U.S. leadership in microelectronics innovation and enable technologies critical for future science, industry and global competitiveness.”
+To advance DOE’s scientific program, future microelectronics technologies must enhance functionality and operate reliably in extreme environments, including high-radiation, cryogenic temperatures and other challenging conditions. The two funded Fermilab-led projects will focus on this area.
+In addition, as the nation’s demand for power continues to rise, energy efficiency will be critical. Fermilab actively contributes to this effort as a partner in three other projects devoted to energy efficiency.
+Fermilab’s funded projects include:
+Vertically Integrated Artificial Intelligence for Sensing and High-Performance Computing
+For this project, Fermilab and its partners aim to develop the next generation of detectors using three-dimensional heterogeneous integrated circuits — devices that combine separately manufactured components like chips, chiplets and other components into a single package that, together, provides enhanced functionality.
+These detectors work in challenging conditions and produce large amounts of data. Using advanced artificial intelligence hardware enables faster data analysis and quicker discoveries. The team is also developing new ways to build tiny, stacked, chiplet-based systems that combine multiple functions into small, efficient packages, boosting performance while saving space.
+Collaborating institutions are Oak Ridge National Laboratory, Lawrence Berkeley National Laboratory, University of Illinois Urbana-Champaign, Arizona State University, GlobalFoundries, Nhanced Semiconductor and Cadence Design Systems.
+Fermilab engineer Farah Fahim is leading the project Vertically Integrated Artificial Intelligence for Sensing and High-Performance Computing, or VIAS. Credit: Fermilab
+Single Photon Detectors Integrated with Cryogenic Electronics
+This project focuses on creating advanced technologies to detect tiny particles for scientific research. These detectors will use new materials to improve their performance and combine superconducting and traditional electronics to create large, efficient imaging systems. By testing these technologies in challenging conditions and developing tools for others to use, the project will share its innovations with the wider community, including industry.
+Collaborating institutions include Argonne National Laboratory, SLAC National Accelerator Laboratory, the National Renewable Energy Laboratory, NASA’s Jet Propulsion Laboratory, the National Institute of Standards and Technology, Massachusetts Institute of Technology, Synopsys and GlobalFoundries.
+Fermilab is also a partner on the following selected MSRC projects to boost energy efficiency: AUREIS: Adaptive Ultra-fast Energy-Efficient Intelligent Sensing Technologies, led by SLAC National Laboratory; BIA: A Co-Design Methodology to Transform Materials and Computer Architecture Research for Energy Efficiency, led by Argonne National Laboratory; and Nano-Scale Research Center for Heterogeneous Integration Platforms, or NSR-CHIP, led by Sandia National Laboratories.
+Fermilab engineer Davide Braga is the principal investigator for the project, Single Photon Detectors Integrated with Cryogenic Electronics, or SPICE. Credit: Fermilab
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+New electronically tunable quantum detector speeds up search for dark matter
+April 6, 2026
+dark matter
+emerging technologies
+QICK
+quantum
+Fermilab feature
+Scientists designed a state-of-the-art detector to electronically tune itself, enabling scientists to search broader frequency ranges for evidence of weak signals produced by dark photons — possible dark matter particles — much faster and more precisely than ever before.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

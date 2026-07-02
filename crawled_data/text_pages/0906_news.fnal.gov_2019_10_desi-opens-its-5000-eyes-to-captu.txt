@@ -1,0 +1,266 @@
+URL: https://news.fnal.gov/2019/10/desi-opens-its-5000-eyes-to-capture-the-colors-of-the-cosmos/
+Title: DESI opens its 5,000 eyes to capture the colors of the cosmos
+────────────────────────────────────────────────────────────
+DESI opens its 5,000 eyes to capture the colors of the cosmos
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+DESI opens its 5,000 eyes to capture the colors of the cosmos
+October 28, 2019
+Tags:
+astrophysics
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Berkeley Lab’s Dark Energy Spectroscopic Instrument aimed its robotic array of 5,000 fiber-optic “eyes” at the night sky Oct. 22 to capture the first images showing its unique view of galaxy light. It was the first test DESI with its nearly complete complement of components. Fermilab contributed key elements to DESI, including the corrector barrel, hexapod, cage and CCDs. Fermilab also provided the online databases used for data acquisition and the software for the instrument’s robotic positioners.
+Media contact
+Andre Salles, Fermilab Office of Communication
+asalles@fnal.gov
+, 630-840-6733
+The
+Dark Energy Spectroscopic Instrument
+seeks to further our cosmic understanding by creating the largest 3-D map of galaxies to date. Below is a press release issued by Lawrence Berkeley National Laboratory announcing first light for this extraordinary instrument. The U.S. Department of Energy’s Fermi National Accelerator Laboratory is a key player in the construction of this instrument, drawing on more than 25 years of experience with the
+Sloan Digital Sky Survey
+and the
+Dark Energy Survey
+.
+Fermilab contributed key elements to DESI, including the corrector barrel, hexapod and cage. The corrector barrel – designed, built and initially tested at Fermilab – aligns DESI’s six large lenses to within the accuracy of the width of a human hair. This precision is essential to ensure that the images DESI collects are sharp and clear. The hexapod, designed and built with partners in Italy, moves and focuses the lenses. Both the barrel and hexapod are housed in the cage, which was also designed and built by Fermilab. Additionally, Fermilab carried out the testing and packaging of the charge-coupled devices, or CCDs. The CCDs convert the light passing through these lenses from distant galaxies into digital information that can then be analyzed by the collaboration.
+Fermilab also provided other components to the project, including the online databases used for data acquisition and the software that will ensure that each of the 5,000 robotic positioners are precisely pointing to their celestial targets.
+“It’s been a long journey to first light, but it’s immensely gratifying to see this next-generation instrument come alive,” said Gaston Gutierrez, Fermilab scientist and manager of the DESI collector barrel construction. “I look forward to the new discoveries and new insights about our cosmos this instrument will provide.”
+Members of the Fermilab team stand with the lens-holding barrel for the Dark Energy Spectroscopic Instrument. From left: Jorge Montes, Mike Roman, David Butler, Gaston Gutierrez, Giuseppe Gallo and Otto Alvarez. Photo: Reidar Hahn
+A new instrument mounted atop a telescope in Arizona aimed its robotic array of 5,000 fiber-optic “eyes” at the night sky on Oct. 22 to capture the first images showing its unique view of galaxy light.
+It was the first test of the
+Dark Energy Spectroscopic Instrument
+, known as DESI, with its nearly complete complement of components. The long-awaited instrument is designed to explore the mystery of dark energy, which makes up about 68 percent of the universe and is speeding up its expansion.
+DESI’s components are designed to automatically point at preselected sets of galaxies, gather their light, and then split that light into narrow bands of color to precisely map their distance from Earth and gauge how much the universe expanded as this light traveled to Earth. In ideal conditions DESI can cycle through a new set of 5,000 galaxies every 20 minutes.
+The latest milestone marks the opening of DESI’s final testing toward the formal start of observations in early 2020.
+Like a powerful time machine, DESI will peer deeply into the universe’s infancy and early development – up to about 11 billion years ago – to create the most detailed 3-D map of the universe.
+By repeatedly mapping the distance to 35 million galaxies and 2.4 million quasars across one-third of the area of the sky over its five-year run, DESI will teach us more about dark energy. Quasars, among the brightest objects in the universe, allow DESI to look deeply into the universe’s past.
+DESI will provide very precise measurements of the universe’s expansion rate. Gravity had slowed this rate of expansion in the early universe, though dark energy has since been responsible for speeding up its expansion.
+“After a decade in planning and R&D, installation and assembly, we are delighted that DESI can soon begin its quest to unravel the mystery of dark energy,” said DESI Director Michael Levi of the Department of Energy’s Lawrence Berkeley National Laboratory, the lead institution for DESI’s construction and operations.
+“Most of the universe’s matter and energy are dark and unknown, and next-generation experiments like DESI are our best bet for unraveling these mysteries,” Levi added. “I am thrilled to see this new experiment come to life.”
+The DESI collaboration has participation from nearly 500 researchers at 75 institutions in 13 countries.
+Installation of DESI
+began in February 2018
+at the
+Nicholas U. Mayall Telescope
+at
+Kitt Peak National Observatory
+near Tucson, Arizona.
+“With DESI we are combining a modern instrument with a venerable old telescope to make a state-of-the-art survey machine,” said Lori Allen, director of Kitt Peak National Observatory at the National Science Foundation’s
+National Optical-Infrared Astronomy Research Laboratory
+.
+DESI’s 5000 spectroscopic “eyes” can cover an area of sky about 38 times larger than that of the full moon, as seen in this overlay of DESI’s focal plane on the night sky (top). Each one of these robotically controlled eyes can fix a fiber-optic cable on a single object to gather its light. Photo: DESI collaboration
+Over the past 18 months, a bevy of DESI components were shipped to the site from institutions around the globe and installed on the telescope.
+Among the early arrivals was an assembly of lenses packaged in a large steel barrel, together weighing in at three tons. This corrector barrel sits over the 4-meter primary mirror of the Mayall Telescope and provides an expansive field of view. The lenses, each measuring about a meter across, were
+successfully tested
+in April.
+DESI’s
+focal plane
+, which carries 5,000 robotic positioners that swivel in a choreographed “dance” to individually focus on galaxies, is at the top of the telescope.
+These little robots – which each hold a light-gathering fiber-optic cable that is about the average width of a human hair – serve as DESI’s eyes. It takes about 10 seconds for the positioners to swivel to a new sequence of targeted galaxies. With its unprecedented surveying speed, DESI will map over 20 times more objects than any predecessor experiment.
+The focal plane, which comprises a half-million individual parts, is arranged in a series of 10 wedge-shaped petals that each contain 500 positioners and a little camera to help the telescope point and focus.
+The focal plane, corrector barrel, and other DESI components weigh 11 tons, and the Mayall telescope’s movable arm that DESI is installed on weighs 250 tons and rises 90 feet above the floor in the Mayall’s 14-story dome.
+Crews use a special machine to install an individual wedge-shaped petal in DESI’s focal plane, which is installed atop the Mayall Telescope at Kitt Peak National Observatory near Tucson, Arizona. The roundish focal plane is made up of 10 petals, and each petal holds 500 robotic positioners that individually target galaxies to collect their light via thin fiber-optic cables. Photo: Christian Soto, National Optical-Infrared Astronomy Research Laboratory/AURA/NSF
+Among the more recent arrivals at Kitt Peak is the collection of spectrographs that are designed to split up the gathered light into three separate color bands to allow precise distance measurements of the observed galaxies across a broad range of colors.
+These spectrographs, which allow DESI’s robotic eyes to “see” even faint, distant galaxies, are designed to measure redshift, which is a shift in the color of objects to longer, redder wavelengths due to the objects’ movement away from us. Redshift is analogous to how the sound of a fire engine’s siren shifts to lower tones as it moves away from us.
+There are now eight spectrographs installed, with the final two arriving before year-end. To connect the focal plane with the spectrographs, which are located beneath the telescope, DESI is equipped with about 150 miles of fiber-optic cabling.
+“This is a very exciting moment,” said Nathalie Palanque-Delabrouille, a DESI spokesperson and an astrophysics researcher at France’s Atomic Energy Commission who has participated in the selection process to determine which galaxies and other objects DESI will observe.
+“The instrument is all there. It has been very exciting to be a part of this from the start,” she said. “This is a very significant advance compared to previous experiments. By looking at objects very far away from us, we can actually map the history of the universe and see what the universe is composed of by looking at very different objects from different eras.”
+Palanque-Delabrouille’s institution, CEA, contributed a specialized cooling system to optimize the performance of the light sensors (known as CCDs or charge-coupled devices) that enable DESI’s broad color-sampling range.
+Gregory Tarlé, a physics professor at the University of Michigan who led the student teams that assembled the robotic positioners for DESI and related components, said it’s gratifying to reach a stage in the project where all of DESI’s complex components are functioning together.
+The University of Michigan delivered a total of 7,300 robotic positioners, including spares. During the production peak, the teams were churning out about 50 positioners a day.
+“It was quite a process,” Tarlé said. “We were at the limits of precision for these production parts.”
+The positioners were installed in the focal plane petals at Berkeley Lab, and after assembly and testing the completed petals were shipped to Kitt Peak and installed one at a time on the Mayall Telescope.
+Now that the hard work of building DESI is largely done, Tarlé said he looks forward to DESI discoveries.
+“I want to find out what the nature of dark energy is,” he said. “We finally have a shot at really trying to understand the nature of this stuff that dominates the universe.”
+###
+DESI is supported by the U.S. Department of Energy’s Office of Science; the U.S. National Science Foundation, Division of Astronomical Sciences under contract to the NSF’s National Optical-Infrared Astronomy Research Laboratory; the Science and Technologies Facilities Council of the United Kingdom; the Gordon and Betty Moore Foundation; the Heising-Simons Foundation; the French Alternative Energies and Atomic Energy Commission (CEA); the National Council of Science and Technology of Mexico; the Ministry of Economy of Spain; and DESI member institutions. The DESI scientists are honored to be permitted to conduct astronomical research on Iolkam Du’ag (Kitt Peak), a mountain with particular significance to the Tohono O’odham Nation. View the full list of DESI
+collaborating institutions
+, and learn more about DESI here:
+desi.lbl.gov
+.
+Founded in 1931 on the belief that the biggest scientific challenges are best addressed by teams,
+Lawrence Berkeley National Laboratory
+and its scientists have been recognized with 13 Nobel Prizes. Today, Berkeley Lab researchers develop sustainable energy and environmental solutions, create useful new materials, advance the frontiers of computing, and probe the mysteries of life, matter, and the universe. Scientists from around the world rely on the Lab’s facilities for their own discovery science. Berkeley Lab is a multiprogram national laboratory, managed by the University of California for the U.S. Department of Energy’s Office of Science.
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States, and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+The National Science Foundation’s
+National Optical-Infrared Astronomy Research Laboratory
+, the U.S. center for ground-based optical-infrared astronomy, operates multiple research facilities including Kitt Peak National Observatory (KPNO). The laboratory is operated by the Association of Universities for Research in Astronomy (AURA) under a cooperative agreement with NSF’s Division of Astronomical Sciences.
+The National Science Foundation (
+NSF
+) is an independent federal agency
+created by Congress
+in 1950 to promote the progress of science. NSF supports basic research and people to create knowledge that transforms the future.
+The
+Heising-Simons Foundation
+is a family foundation based in Los Altos, California. The Foundation works with its many partners to advance sustainable solutions in climate and clean energy, enable groundbreaking research in science, enhance the education of our youngest learners, and support human rights for all people.
+The
+Gordon and Betty Moore Foundation
+, established in 2000, seeks to advance environmental conservation, patient care and scientific research. The Foundation’s Science Program aims to make a significant impact on the development of provocative, transformative scientific research, and increase knowledge in emerging fields.
+The Science and Technology Facilities Council (STFC) of the United Kingdom coordinates research on some of the most significant challenges facing society, such as future energy needs, monitoring and understanding climate change, and global security. It offers grants and support in particle physics, astronomy and nuclear physics; visit
+www.stfc.ac.uk
+.
+Established in 1958 and aiming at the forefront of astronomical science, the
+National Astronomical Observatories of the Chinese Academy of Sciences (NAOC)
+conducts cutting-edge astronomical studies, operates major national facilities and develops state-of the-art technological innovations.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

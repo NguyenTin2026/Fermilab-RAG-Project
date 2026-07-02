@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2022/11/a-minute-with-sajid-ali-syed-computational-science-and-ai-research-associate/
+Title: A minute with Sajid Ali Syed, computational science and AI research associate
+────────────────────────────────────────────────────────────
+A minute with Sajid Ali Syed, computational science and AI research associate
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Sajid Ali Syed, computational science and AI research associate
+November 2, 2022
+| By:
+Maddi Langweil
+Tags:
+accelerator
+computing
+people
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Always looking for a new trail to ride his bike on or an opportunity to catch a live show in town, Sajid Ali Syed is a research associate in the Computational Science and AI Directorate for high-energy physics applications at Fermilab.
+Always looking for a new trail to ride his bike on or an opportunity to catch a live show in town, Sajid Ali Syed is a research associate in computational science and AI for high-energy physics applications at Fermilab. Photo: Sajid Ali Syed
+How long have you been at the U.S. Department of Energy’s Fermi National Accelerator Laboratory?
+I joined Fermilab last October. It has been just over a year now.
+How did you get interested in physics?
+I did electrical engineering for my undergrad. When I first applied for the Ph.D., I thought I would be doing something related to condensed matter physics, but I changed to X-ray imaging. There, I worked on computational X-ray optics and the development of new techniques for nanoscale biological imaging.
+Part of the consequences of the pandemic was that I dropped some of these plans for doing more computational work. Now, here at Fermilab I’m doing scientific computing mostly.
+Please describe your work. What are the projects you’re working on now?
+Currently, I am working on two projects for
+SciDAC
+, which is the U.S. Department of Energy’s Scientific Discovery through Advanced Computing program. One of them deals with a software that simulates how the accelerators work, specifically looking at how the beam interacts with itself or how the beam is shaped by the different kinds of accelerator elements. This will help provide understanding in how the accelerator will be upgraded in the future.
+The other project that I’m working on aims to use [high-performance computing] resources to analyze [high-energy physics] data. Traditionally, HEP data is analyzed on grid computing resources, and now we are using HPC/supercomputers that are quite different. We are developing new ways to analyze data by leveraging novel software paradigms to reduce processing times.
+What’s the most rewarding part of your job?
+These frameworks that we use today are going to be useful for experiments that are yet to be undertaken. We ensure that our software is reusable, and our results are repeatable. This will enable researchers to build upon the work that we are doing in the future.
+What is the most challenging part of your work?
+While I was doing my Ph.D., I was mostly working by myself on a not-very-big team, and now it is really rewarding to see how everyone is working together when some people know physics and others don’t.
+What do you like best about working at Fermilab?
+I got my Ph.D. at Northwestern University and worked a lot at Argonne National Lab through my advisor, so I had experience working at national labs. Fermilab was quite similar but different when coming in.
+What I like the most about Fermilab is how the scope of research is much bigger than what it could be if one were to work at an academic lab. I also like being part of a team that develops software tools that impact a wide variety of experiments.
+What do you do outside the lab for fun? What do you like to do when you are not at work?
+I like to bike, play board games and catch live music performances when possible.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+accelerator
+energy
+particle physics
+quantum
+Fermilab feature
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+Designing resilient targets for high-energy particle accelerators
+November 5, 2024
+accelerator
+neutrinos
+targetry
+Fermilab feature
+Particle accelerator beams can create significant damage to the targets used to generate particles for experiments. Researchers are designing targets to withstand material degradation from radiation damage, shock from thermal expansion and material fatigue — all caused by accelerated protons.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

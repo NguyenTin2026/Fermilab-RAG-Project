@@ -1,0 +1,185 @@
+URL: https://news.fnal.gov/2026/05/mark-ross-lonergan-elected-co-spokesperson-for-microboone-collaboration/
+Title: Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+────────────────────────────────────────────────────────────
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+| By:
+Maxwell Bernstein
+Tags:
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+Mark Ross-Lonergan, an assistant professor at Columbia University, has been elected co-spokesperson for MicroBooNE — a major neutrino experiment at the U.S. Department of Energy’s Fermi National Accelerator Laboratory and an essential part of the lab’s neutrino research program.
+Joining current MicroBooNE co-spokesperson Justin Evans of the University of Manchester, Ross-Lonergan takes over for Matt Toups, who recently completed his term. Spokespeople for large scientific collaborations help set research priorities, keep experiments running smoothly and represent the teams to the outside world. MicroBooNE brings together approximately 190 scientists from 40 institutions worldwide.
+Mark Ross-Lonergan is the newest co-spokesperson for the MicroBooNE collaboration. Credit: Ryan Postel, Fermilab
+“Getting to work even more closely with all the amazing students, postdocs and colleagues that make up MicroBooNE is incredibly exciting,” said Ross-Lonergan. “This experiment helped build me into the physicist, and the person, I am today, and I’m really happy to have the chance to give back to the collaboration as we enter the next chapter.”
+The MicroBooNE detector was designed to study neutrinos — tiny, nearly massless particles that pass through ordinary matter almost undetected. To track them, MicroBooNE used 170 tons of liquid argon chilled to nearly minus 300 degrees Fahrenheit. When a neutrino happened to collide with an argon atom in the detector, it produced a burst of charged particles. Those particles left trails in the liquid argon that the detector could record in fine detail.
+This technology, known as a liquid-argon time projection chamber, allows scientists to identify exactly what kind of particle is being detected and where it came from — like watching the wake left by a boat on calm water and identifying the type of boat that created the wake.
+“This experiment helped build me into the physicist, and the person, I am today, and I’m really happy to have the chance to give back to the collaboration as we enter the next chapter.”
+Mark Ross-Lonergan, MicroBooNE co-spokesperson
+Since beginning data collection in October 2015
+as part of the Short-Baseline Neutrino Program at Fermilab, MicroBooNE was the first large-scale detector of its kind to compile an extensive record of neutrino interactions on a neutrino beamline, advancing scientists’ understanding of how the liquid-argon technology performs at scale.
+One of MicroBooNE’s central goals is to follow up on a puzzling result from an earlier experiment called MiniBooNE. That experiment, also hosted at Fermilab, detected more particle interactions than expected — a statistical excess significant enough that it suggested the potential existence of new physics.  However, scientists were unable to determine whether the extra signal came from electrons or from single photons. That distinction matters because each would point to a completely different explanation.
+The MicroBooNE detector was built specifically to distinguish between these two possibilities.
+A recent study published in the journal
+Nature
+found that electrons are likely not the source. But ruling out photons is more challenging, and the question remains open.
+While the MicroBooNE detector is no longer operating, scientists are now analyzing the extensive data that was collected. Ross-Lonergan notes the collaboration’s next major result — which utilizes nearly twice as much data and improved analysis methods — should provide a much clearer answer.
+“MicroBooNE has achieved a lot over the past 10 years and produced some remarkable results, but we are by no means done.”
+Mark Ross-Lonergan, MicroBooNE co-spokesperson
+MicroBooNE also served as a proving ground for the Deep Underground Neutrino Experiment, a much larger future project that will use liquid-argon detectors weighing thousands of tons. Lessons learned from MicroBooNE and the broader Short-Baseline Neutrino Program at Fermilab — including advances in computing algorithms, detector hardware and machine learning techniques — are feeding into DUNE’s design.
+Ross-Lonergan is optimistic about what’s ahead in MicroBooNE’s search for undiscovered particles that could link neutrinos to dark matter.
+“MicroBooNE has achieved a lot over the past 10 years and produced some remarkable results, but we are by no means done,” he said. “I genuinely believe the next 10 years will prove to be every bit as fruitful and exciting as the last.”
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+ICARUS experiment marks major milestone in first neutrino science results
+April 15, 2026
+ICARUS
+neutrino physics
+SBN
+Short-Baseline Neutrino program
+Press release
+The milestone by ICARUS paves the way to probe sterile‑neutrino oscillations for the full Short-Baseline Neutrino Program at Fermilab. The first results demonstrate the data’s excellent quality and suitability for physics analyses, as well as the maturity of the software tools for event selection, fitting and detector simulation.
+Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+April 9, 2026
+DUNE
+neutrino
+Fermilab feature
+Physicist Steven Gardiner recently received a Department of Energy Early Career Award to explore the low-energy research potential of the Deep Underground Neutrino Experiment. By applying his unique background in neutron simulations, he aims to leverage the massive detector modules of DUNE to study elusive particles from outer space.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

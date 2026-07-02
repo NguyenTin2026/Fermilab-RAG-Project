@@ -1,0 +1,200 @@
+URL: https://news.fnal.gov/2022/05/slacs-superconducting-x-ray-laser-reaches-operating-temperature-colder-than-outer-space/
+Title: SLAC’s superconducting X-ray laser reaches operating temperature colder than outer space
+────────────────────────────────────────────────────────────
+SLAC’s superconducting X-ray laser reaches operating temperature colder than outer space
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+SLAC’s superconducting X-ray laser reaches operating temperature colder than outer space
+May 10, 2022
+Tags:
+LCLS
+LCLS-II
+x-ray
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The facility, LCLS-II, will soon sharpen our view of how nature works on ultrasmall, ultrafast scales, impacting everything from quantum devices to clean energy.
+Media contact
+Manuel Gnida, SLAC National Accelerator Laboratory
+mgnida@slac.stanford.edu
+, (650) 926-2632
+Editor’s note:
+This press release was originally published by SLAC National Accelerator Laboratory
+.
+The U.S. Department of Energy’s Fermi National Accelerator Laboratory designed, built and tested 18 of the
+37 cryogenic accelerator modules
+that are installed in the LCLS-II linac. In total for LCLS-II, 41 modules were delivered to SLAC of which Fermilab supplied 20 modules, including spares, and Jefferson Lab, a key partner in this project, supplied the remainder. The performance of these modules on the test stand dramatically exceeded the then state of the art and set the stage for an additional upgrade (LCLS-II HE) and for future CW FELs.
+Nestled 30 feet underground in Menlo Park, California, a half-mile-long stretch of tunnel is now colder than most of the universe. It houses a new superconducting particle accelerator, part of an upgrade project to the Linac Coherent Light Source (LCLS) X-ray free-electron laser at the Department of Energy’s SLAC National Accelerator Laboratory.
+Crews have successfully cooled the accelerator to minus 456 degrees Fahrenheit – or 2 kelvins – a temperature at which it becomes superconducting and can boost electrons to high energies with nearly zero energy lost in the process. It is one of the last milestones before LCLS-II will produce X-ray pulses that are 10,000 times brighter, on average, than those of LCLS and that arrive up to a million times per second – a world record for today’s most powerful X-ray light sources.
+A half-mile-long stretch of tunnel in Menlo Park, California is now colder than most of the universe. It houses a new superconducting particle accelerator, part of an upgrade project to the Linac Coherent Light Source (LCLS) X-ray free-electron laser. Photo: Jim Gensheimer/Greg Stewart, SLAC
+“In just a few hours, LCLS-II will produce more X-ray pulses than the current laser has generated in its entire lifetime,” said Mike Dunne, director of LCLS. “Data that once might have taken months to collect could be produced in minutes. It will take X-ray science to the next level, paving the way for a whole new range of studies and advancing our ability to develop revolutionary technologies to address some of the most profound challenges facing our society.”
+With these new capabilities, scientists can examine the details of complex materials with unprecedented resolution to drive new forms of computing and communications; reveal rare and fleeting chemical events to teach us how to create more sustainable industries and clean energy technologies; study how biological molecules carry out life’s functions to develop new types of pharmaceuticals; and peek into the bizarre world of quantum mechanics by directly measuring the motions of individual atoms.
+A chilling feat
+LCLS, the world’s first hard X-ray free-electron laser (XFEL), produced its first light in April 2009, generating X-ray pulses a billion times brighter than anything that had come before. It accelerates electrons through a copper pipe at room temperature, which limits its rate to 120 X-ray pulses per second.
+Watch a video: LCLS history
+In 2013, SLAC launched the LCLS-II upgrade project to boost that rate to a million pulses and make the X-ray laser thousands of times more powerful. For that to happen, crews removed part of the old copper accelerator and installed a series of 37 cryogenic accelerator modules, which house pearl-like strings of niobium metal cavities. These are surrounded by three nested layers of cooling equipment, and each successive layer lowers the temperature until it reaches nearly absolute zero – a condition at which the niobium cavities become superconducting.
+“Unlike the copper accelerator powering LCLS, which operates at ambient temperature, the LCLS-II superconducting accelerator operates at 2 kelvins, only about 4 degrees Fahrenheit above absolute zero, the lowest possible temperature,” said Eric Fauve, the Cryogenic Division director at SLAC. “To reach this temperature, the linac is equipped with two world-class helium cryoplants, making SLAC one of the significant cryogenic landmarks in the U.S. and on the globe. The SLAC Cryogenics team has worked on site throughout the pandemic to install and commission the cryogenic system and cool down the accelerator in record time.”
+One of these cryoplants, built specifically for LCLS-II, cools helium gas from room temperature all the way down to its liquid phase at just a few degrees above absolute zero, providing the coolant for the accelerator.
+On April 15, the new accelerator reached its final temperature of 2 K for the first time, and today, May 9, is stable in its final configuration.
+The linac is equipped with two world-class helium cryoplants. One of these cryoplants, built specifically for LCLS-II, cools helium gas from room temperature all the way down to its liquid phase at just a few degrees above absolute zero, providing the coolant for the accelerator. Photo: Greg Stewart, SLAC
+“The cooldown was a critical process and had to be done very carefully to avoid damaging the cryomodules,” said Andrew Burrill, director of SLAC’s Accelerator Directorate. “We’re excited that we’ve reached this milestone and can now focus on turning on the X-ray laser.”
+Bringing it to life
+In addition to a new accelerator and a cryoplant, the project required other cutting-edge components, including a new electron source and
+two new strings of undulator magnets that can generate both “hard”
+and
+“soft” X-rays
+. Hard X-rays, which are more energetic, allow researchers to image materials and biological systems at the atomic level. Soft X-rays can capture how energy flows between atoms and molecules, tracking chemistry in acton and offering insights into new energy technologies. To bring this project to life, SLAC teamed up with four other national labs – Argonne, Berkeley Lab, Fermilab and Jefferson Lab – and Cornell University.
+Jefferson Lab, Fermilab and SLAC pooled their expertise for research and development on cryomodules.  After constructing the cryomodules, Fermilab and Jefferson Lab tested each one extensively before the vessels were packed and shipped to SLAC by truck. The Jefferson Lab team also designed and helped procure the elements of the cryoplants.
+“The LCLS-II project required years of effort from large teams of technicians, engineers and scientists from five different DOE laboratories across the U.S. and many colleagues from around the world,” said Norbert Holtkamp, SLAC deputy director and the project director for LCLS-II. “We couldn’t have made it to where we are now without these ongoing partnerships and the expertise and commitment of our collaborators.”
+Toward first X-rays
+Now that the cavities have been cooled, the next step is to pump them with more than a megawatt of microwave power to accelerate the electron beam from the new source. Electrons passing through the cavities will draw energy from the microwaves so that by the time the electrons have passed through all 37 cryomodules, they’ll be moving close to the speed of light. Then they’ll be directed through the undulators, forcing the electron beam on a zigzag path. If everything is aligned just right – to within a fraction of the width of a human hair – the electrons will emit the world’s most powerful bursts of X-rays.
+This is the same process that LCLS uses to generate X-rays. However, since LCLS-II uses superconducting cavities instead of warm copper cavities based on 60-year-old technology, it can can deliver up to a million pulses per second, 10,000 times the number of X-ray pulses for the same power bill.
+Now that the cavities have been cooled, the next step is to pump them with more than a megawatt of microwave power to accelerate the electron beam from the new source. Electrons passing through the cavities will draw energy from the microwaves so that by the time the electrons have passed through all 37 cryomodules, they’ll be moving close to the speed of light. Photo: Greg Stewart, SLAC
+Once LCLS-II produces its first X-rays, which is expected to happen later this year, both X-ray lasers will work in parallel, allowing researchers to conduct experiments over a wider energy range, capture detailed snapshots of ultrafast processes, probe delicate samples and gather more data in less time, increasing the number of experiments that can be performed. It will greatly expand the scientific reach of the facility, allowing scientists from across the nation and around the world to pursue the most compelling research ideas.
+This project is supported by DOE’s Office of Science. LCLS is a DOE Office of Science user facility.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+September 18, 2023
+cryomodule
+LCLS-II
+x-ray
+Fermilab feature
+Press release
+With up to a million X-ray flashes per second, 8,000 times more than its predecessor, it transforms the ability of scientists to explore atomic-scale, ultrafast phenomena that are key to a broad range of applications, from quantum materials to clean-energy technologies and medicine.
+Fermilab sees record performance from next-generation accelerator component
+November 3, 2021
+cryomodule
+LCLS-II
+superconducting radio-frequency technology
+x-ray
+Fermilab feature
+Accelerator experts at three national labs have advanced the next generation of cryomodules, the building blocks of particle accelerators. A prototype built for the high-energy upgrade of SLAC’s LCLS-II X-ray laser has advanced the state of the art, packing more acceleration into a smaller distance, and could dramatically improve future accelerators.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

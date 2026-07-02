@@ -1,0 +1,210 @@
+URL: https://news.fnal.gov/2022/03/straws-crystals-and-the-quest-for-new-subatomic-physics/
+Title: Straws, crystals and the quest for new subatomic physics
+────────────────────────────────────────────────────────────
+Straws, crystals and the quest for new subatomic physics
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Straws, crystals and the quest for new subatomic physics
+March 24, 2022
+| By:
+Maxwell Bernstein
+and
+Lauren Biron
+Tags:
+detector
+experiment
+lepton
+Mu2e
+muons
+neutrino
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Mu2e experiment at Fermilab will look for a never-before-seen subatomic phenomenon that, if observed, would transform our understanding of elementary particles: the direct conversion of a muon into an electron. An international collaboration of over 200 scientists is building the Mu2e precision particle detector that will hunt for new physics beyond the Standard Model.
+Scientists build complex machines to better understand the particles that make up our universe — and sometimes, they use materials you might not expect. One example? The upcoming Mu2e experiment at the U.S. Department of Energy’s Fermi National Accelerator Laboratory will incorporate thousands of straws made by a drinking straw company.
+But these aren’t your average soda straws. Mu2e will use special mylar straws, with walls thinner than a human hair, to search for a never-before-seen transformation of subatomic particles called muons.
+Several of the Mu2e tracker planes, featuring thin mylar straws, are assembled in a cleanroom at Fermilab. The full tracker will contain 21,600 straws to measure the paths, energies and momentums of electrons with high precision. Photo: Ryan Postel, Fermilab
+Teams from this international collaboration are currently constructing the Mu2e particle detector at Fermilab and aim to start taking physics data by 2026. If they find the rare, sought-after signal, it will be a sign of new physics beyond the tried and tested Standard Model of particle physics. It would help pave the way to answering open questions about the fundamental nature of elementary particles and forces that physicists have had for many years.
+“All of our measurements come up for what seems like a zillion decimal points right on target with the Standard Model,” said Karen Byrum, a scientist at Argonne National Laboratory and the electronics integration team leader for Mu2e. “But we know there’s stuff out there we can’t explain, like results from the
+Muon g-2 experiment at Fermilab
+and the
+LHCb experiment at CERN
+.”
+A clue may lie in one peculiar family of particles.
+From muon to electron
+Particles come in different categories. Perhaps the most familiar are the leptons, whose smallest member, the electron, swirls around in atoms and powers electronic devices.
+Charged leptons come in three types that all behave similarly but have different masses: the electron, muon and tau. Why there are these three types of particles is one of the big open questions in particle physics. While the electron is well studied, its 200-times heavier cousin, the muon, holds many mysteries that could help scientists understand fundamental aspects of matter.
+Eleonora Diociaiuti and Stefano Miscetti examine one of the 1,348 cesium iodide crystals that will be installed in the Mu2e calorimeter. It will measure the energy of electrons emerging from muon decays with high precision. Photo: Ryan Postel, Fermilab
+There are also three flavors of electrically neutral leptons called neutrinos: electron neutrinos, muon neutrinos and tau neutrinos. Scientists have spotted neutrinos changing directly from one type into another. So follows a natural question: Can the charged members of the lepton family shapeshift in the same way?
+Mu2e (pronounced mew-to-e) will try to find out by searching for a muon changing directly into an electron without emitting any other particles, the muon-to-electron conversion that gives the experiment its name. Such a transformation would have a distinct signature that an extremely precise detector could see. But it has never been observed so far. The
+200-plus Mu2e collaborators from 38 institutions in 6 countries
+aim to change that.
+“I am looking forward to the physics run and the breakthrough physics that is Mu2e. It has the potential to open new doors to highly sought after problems of the Standard Model, like lepton hierarchy, neutrino masses and even dark matter.” — Mete Yucel, Fermilab
+An electron in a haystack
+Researchers expect that, if the muon-to-electron phenomenon occurs, it will happen extremely rarely — less often than once in every 1,000 billion muons. The Mu2e experiment will thus need to create and sift through an incredible number of particles.
+The experiment will create a beam of 10 billion muons per second that travel toward an aluminum target. Aluminum nuclei will capture the muons, pulling them into orbit as though they were electrons in a standard atom. Once the muons are trapped around the nuclei of the aluminum atoms, researchers can look for the transformation.
+Karen Byrum and Mete Yucel inspect Mu2e tracker planes. Photo: Ryan Postel, Fermilab
+If a muon decays normally, into an electron and two neutrinos, all three particles will carry away some of the energy. But if a muon transforms only into an electron, the electron will emerge with all of the muon’s energy: 105 MeV, or megaelectronvolts. This is the distinct signature that will tell physicists they’ve found something new.
+“It’s not a signal where you’re going to have thousands of events; it’s going to be a handful,” Byrum said. “You have to understand your detector and the backgrounds that can mimic your signal.”
+Measuring with extreme precision the energy of each electron observed is crucial to eliminating particle events that could create a false signal.
+Building a precision detector
+Capturing and distinguishing precise amounts of energy from billions of electrons takes a powerful detector. Mu2e experimenters are currently building two of the primary components for the detector that will live inside the experiment’s magnet: the tracker and the calorimeter.
+The tracker will measure the paths, energies and momenta of the electrons, using 21,600 mylar straws specially made by the drinking straw company using a modified winding technique. Once laser-cut to length, the straws were arranged in a series of 36 circular planes, each one nearly as tall as a person. Every slender straw contains a gold-plated tungsten wire to collect and transmit information as electrons pass through.
+“It is incredibly challenging to build such a big, precise and delicate device,” said Mete Yucel, a Fermilab scientist leading the plane assembly for the tracker. The equipment is built through collaboration with several universities and Berkeley Lab and is currently under construction at Fermilab. The tracker should be complete in 2024, though one of the planes has already been running for more than a year. Using this “Vertical Slice Test Plane,” researchers have reconstructed tracks from muons produced in the atmosphere and tested some of the software and algorithms Mu2e will use.
+From left to right: Stefano Miscetti, Eleonora Diociaiuti and Ivano Sarra pose with the protected calorimeter skeleton. Photo: Ryan Postel, Fermilab
+Despite the tracker’s precision, measuring the energy from the electrons requires more information, which is where the calorimeter comes in.
+Over the last few months, the Mu2e team has finished assembling the calorimeter’s skeleton: two one-ton disks, each with slots to contain 674 pure cesium iodide crystals that will be installed this summer. When an electron hits a crystal, it creates a shower and emits photons. Custom-built light detectors capture the information and tell scientists how much energy was deposited.
+“When an electron arrives in the tracker, it moves in the magnetic field almost unmodified. When it arrives at the calorimeter, it’s absorbed,” said Stefano Miscetti, a scientist from the Italian National Institute of Nuclear Physics who is leading the calorimeter construction. “We can measure the timing at which the particle arrives very, very precisely. The calorimeter team is very eager to see the startup of this very exciting and challenging experiment.”
+Researchers have successfully tested and measured the calorimeter’s timing to within 100 picoseconds, or 100 trillionths of a second. By combining data from the tracker and calorimeter, scientists will have more than enough data points to know if they’re seeing something spectacular.
+While work on the detector continues, collaborators are making progress on the rest of experiment. The first section,
+where the muons will be produced,
+is nearly complete. Over the past year, researchers have also tested the magnets that will make up the middle section known as the
+transport solenoid
+, which will guide the muons to the aluminum target. Lastly, work is ongoing on the cosmic ray veto system, the third essential detector component that will sit outside the magnet and catch any false signals created by muons from space.
+When the Mu2e experiment comes online, it will be 10,000 times more sensitive than any other experiment that has looked for the muon-to-electron conversion. Scientists expect to begin installation and commissioning of the experiment in 2024 and to be ready to take data in 2026.
+“It has the potential to open new doors to highly sought-after problems of the Standard Model, like lepton hierarchy, neutrino masses and even dark matter,” Yucel said. “I am looking forward to the physics run and the breakthrough physics that is Mu2e.”
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+April 9, 2026
+DUNE
+neutrino
+Fermilab feature
+Physicist Steven Gardiner recently received a Department of Energy Early Career Award to explore the low-energy research potential of the Deep Underground Neutrino Experiment. By applying his unique background in neutron simulations, he aims to leverage the massive detector modules of DUNE to study elusive particles from outer space.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

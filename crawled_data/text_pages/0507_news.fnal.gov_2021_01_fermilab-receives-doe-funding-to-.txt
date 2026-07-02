@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2021/01/fermilab-receives-doe-funding-to-develop-machine-learning-for-particle-accelerators/
+Title: Fermilab receives DOE funding to develop machine learning for particle accelerators
+────────────────────────────────────────────────────────────
+Fermilab receives DOE funding to develop machine learning for particle accelerators
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab receives DOE funding to develop machine learning for particle accelerators
+January 8, 2021
+| By:
+Caitlyn Buongiorno
+Tags:
+accelerator
+accelerator complex
+accelerator operation
+Deep Underground Neutrino Experiment
+DUNE
+machine learning
+Main Control Room
+Main Injector
+Mu2e
+PIP-II
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab scientists and engineers are developing a machine learning platform to help run Fermilab’s accelerator complex alongside a fast-response machine learning application for accelerating particle beams. The programs will work in tandem to boost efficiency and energy conservation in Fermilab accelerators.
+The U.S. Department of Energy Office of Science has
+awarded funding to Fermilab
+to use machine learning to improve the operational efficiency of Fermilab’s particle accelerators.
+These machine learning algorithms, developed for the lab’s accelerator complex, will enable the laboratory to save energy, provide accelerator operators with better guidance on maintenance and system performance, and better inform the research timelines of scientists who use the accelerators.
+Engineers and scientists at Fermilab, home to the nation’s largest particle accelerator complex, are designing the programs to work at a systemwide scale, tracking all of the data resulting from the operation of the complex’s nine accelerators. The pilot system will be used on only a few accelerators, with the plan to extend the program tools to the entire accelerator chain.
+Engineers and scientists at Fermilab are designing machine learning programs for the lab’s accelerator complex. These algorithms will enable the laboratory to save energy, give accelerator operators better guidance on maintenance and system performance, and better inform the research timelines of scientists who use the accelerators. The pilot system will used on the Main Injector and Recycler, pictured here. It will eventually be extended to the entire accelerator chain. Photo: Reidar Hahn, Fermilab
+Fermilab engineer Bill Pellico and Fermilab accelerator scientist Kiyomi Seiya are leading a talented team of engineers, software experts and scientists in tackling the deployment and integration of framework that uses machine learning on two distinct fronts.
+Untangling complex data
+Creating a machine learning program for a single particle accelerator is difficult, says Fermilab engineer Bill Pellico, and Fermilab is home to nine. The work requires that operators track all the individual accelerator subsystems at once.
+“Manually keeping track of every subsystem at the level required for optimum performance is impossible,” Pellico said. “There’s too much information coming from all these different systems. To monitor the hundreds of thousands of devices we have and make some sort of correlation between them requires a machine learning program.”
+The diagnostic signals pinging from individual subsystems form a vast informational web, and the data appear on screens that cover the walls of Fermilab’s Main Control Room, command central for the accelerator complex.
+Particle accelerator operators track all the individual accelerator subsystems at once. The diagnostic signals pinging from individual subsystems form a vast informational web, and the data appear on screens that cover the walls of Fermilab’s Main Control Room, command central for the accelerator complex, pictured here. A machine learning program will not only track signals, but also quickly determine what specific system requires an operator’s attention. Photo: Reidar Hahn, Fermilab
+The data — multicolored lines, graphs and maps — can be overwhelming. On one screen an operator may see data requests from scientists who use the accelerator facility for their experiments. Another screen might show signals that a magnet controlling the particle beam in a particular accelerator needs maintenance.
+Right now, operators must perform their own kind of triage – identifying and prioritizing the most important signals coming in – ranging from fulfilling a researcher request to identifying a problem-causing component. A machine learning program, on the other hand, will be capable not only of tracking signals, but also of quickly determining what specific system requires attention from an operator.
+“Different accelerator systems perform different functions that we want to track all on one system, ideally,” Pellico said. “A system that can learn on its own would untangle the web and give operators information they can use to catch failures before they occur.”
+In principle, the machine learning techniques, when employed on such a large amount of data, would be able to pick up on the minute, unusual changes in a system that would normally get lost in the wave of signals accelerator operators see from day to day. This fine-tuned monitoring would, for example, alert operators to needed maintenance before a system showed outward signs of failure.
+Say the program brought to an operator’s attention an unusual trend or anomaly in a magnet’s field strength, a possible sign of a weakening magnet. The advanced alert would enable the operator to address it before it rippled into a larger problem for the particle beam or the lab’s experiments. These efforts could also help lengthen the life of the hardware in the accelerators.
+Improving beam quality and increasing machine uptime
+While the overarching machine learning framework will process countless pieces of information flowing through Fermilab’s accelerators, a separate program will keep track of (and keep up with) information coming from the particle beam itself.
+Any program tasked with monitoring a speed-of-light particle beam in real time will need to be extremely responsive. Seiya’s team will code machine learning programs onto fast computer chips to measure and respond to beam data within milliseconds.
+Currently, accelerator operators monitor the overall operation and judge whether the beam needs to be adjusted to meet the requirements of a specific experiment, while computer systems help keep the beam stable locally. On the other hand, a machine learning program will be able to monitor both global and local aspects of the operation, pick up on critical beam information in real time, leading to faster improvements to beam quality and reduced beam loss — the inevitable loss of beam to the beam pipe walls.
+“Information from the accelerator chain will pass through this one system,” Seiya said, Fermilab scientist leading the machine learning program for beam quality. “The machine learning model will then be able to figure out the best action for each.”
+That best action depends on what aspect of the beam needs to be adjusted in a given moment. For example, monitors along the particle beamline will send signals to the machine-learning-based program, which will be able to determine whether the particles need an extra kick to ensure they’re traveling in the optimal position in the beam pipe. If something unusual occurs in the accelerator, the program can decide whether the beam has to be stopped or not by scanning the patterns of the monitors.
+A tool for everyone
+And while every accelerator has its particular needs, the accelerator-beam machine learning program implemented at Fermilab could be adapted for any particle accelerator, providing an example for operators at particle accelerators beyond Fermilab.
+“We’re ultimately creating a tool set for everyone to use,” Seiya said. “These techniques will bring new and unique capabilities to accelerator facilities everywhere. The methods we develop could also be implemented at other accelerator complexes with minimal tweaks.”
+This tool set will also save energy for the laboratory. Pellico estimates that 7% of an accelerator’s energy goes unused due to a combination of suboptimal operation, unscheduled maintenance and unnecessary equipment usage. This isn’t surprising considering the number of systems required to run an accelerator. Improvements in energy conservation make for greener accelerator operation, he said, and machine learning is how the lab will get there.
+“The funding from DOE takes us a step closer to that goal,” he said.
+The capabilities of this real-time tuning will be demonstrated on the beamline for Fermilab’s Mu2e experiment and in the Main Injector, with the eventual goal of incorporating the program into all Fermilab experiment beamlines. That includes the beam generated by the upcoming PIP-II accelerator, which will become the heart of the Fermilab complex when it comes online in the late 2020s. PIP-II will power particle beams for the international
+Deep Underground Neutrino Experiment
+, hosted by Fermilab, as well as provide for the long-term future of the Fermilab research program.
+Both of the lab’s new machine learning applications, working in tandem, will benefit accelerator operation and the laboratory’s particle physics experiments. By processing patterns and signals from large amounts of data, machine learning gives scientists the tools they need to produce the best research possible.
+The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,189 @@
+URL: https://news.fnal.gov/2026/04/fermilab-teams-up-with-niu-to-launch-quantum-science-program/
+Title: Fermilab teams up with NIU to launch quantum science program
+────────────────────────────────────────────────────────────
+Fermilab teams up with NIU to launch quantum science program
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+Tags:
+education
+partnership
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+The U.S. Department of Energy’s Fermi National Accelerator Laboratory signed a Cooperative Research and Development Agreement with Northern Illinois University, officially launching a collaborative, cutting-edge quantum science program for graduate students. The inaugural class will begin in the fall semester of 2026.
+Through this partnership, the two institutions will launch a
+Master of Science in Physics program
+with a specialization in quantum science and technology. This new offering in the
+NIU Department of Physics
+will provide an interactive, hands-on educational experience for students interested in manipulating, fabricating and advancing tools and technologies that leverage key features of quantum mechanics — including superposition, entanglement and interference. Students will begin taking classes in fall 2026, and they will start their research with Fermilab in the summer of 2027.
+Fermilab Director Norbert Holtkamp and Richard Mocarski, Vice President of Research and Innovation Partnerships at NIU, signed the agreement for the Master of Science in Physics program with a specialization in quantum science and technology on April 29. Photo credit: JJ Starr, Fermilab
+Officials from Fermilab and NIU met on April 29 to mark the milestone in their partnership. During the event, representatives toured Fermilab’s
+Superconducting Quantum Materials and Systems Center
+, which serves as a national hub for advanced research and innovation in quantum science and technology and will be an important resource for the new program.
+The tour was followed by the signing of a formal agreement, solidifying the institutions’ collaborative commitment to the innovative graduate program. The newly established specialization will offer graduate students formal instruction at the NIU and Fermilab campuses, with hands-on learning experiences at the SQMS Center.
+“We are thrilled to partner with NIU in educating the next generation of quantum scientists, right here in our backyard,” said Norbert Holtkamp, Fermilab director. “Students in this program will learn tangible skills in quantum science, skills and experiences directly connected to Fermilab’s science goals, ultimately preparing them to become the next generation of subject matter experts in the field.”
+The program is an innovative partnership of a state university with a DOE national laboratory research center. By partnering with a national lab, NIU students enrolled in this program will be able to leverage the research, expertise and facilities available at the SQMS Center, one of five DOE quantum information science research centers. The centers are part of DOE’s national initiative to develop and deploy the world’s most powerful quantum computers and sensors.
+The new Master of Science in Physics program at Northern Illinois University offers students the opportunity to do research at the SQMS Center led by Fermilab. Photo credit: Ryan Postel, Fermilab
+“For decades, our students and faculty have had close and productive working relationships with nearby Fermilab, a global leader in quantum science and technology as well as particle and accelerator physics,” NIU President Lisa Freeman said. “We’re excited to expand our collaboration with Fermilab to include our new master’s specialization in quantum science and technology. This partnership creates a powerful new opportunity for students to study at a leading-edge facility where discovery is happening every day.”
+The program was jointly developed by Fermilab and NIU, with leadership from Fermilab’s Office of Education and Public Engagement, the SQMS Center and NIU’s Department of Physics. Together, the partners designed a specialized curriculum shaped by subject matter experts and delivered by leading scientists and instructors in the field. By combining interactive coursework with hands-on research opportunities led by SQMS researchers, the program will equip students with the skills and experience needed for careers in quantum science and technology.
+NIU is a research partner with SQMS, contributing and leveraging its expertise in materials science, nanofabrication, characterization and superconducting radio-frequency cavities.
+More information on the master’s specialization in quantum science and technology is available on the
+NIU Physics graduate program page for quantum science and technology
+.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Northern Illinois University is a student-centered, nationally recognized public research university, with expertise that benefits its region and spans the globe in a wide variety of fields, including the sciences, humanities, arts, business, engineering, education, health and law.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+January 15, 2026
+AI
+emerging technologies
+machine learning
+microelectronics
+particle detector technology
+partnership
+Fermilab feature
+Fermilab researchers have provided expertise and leadership in developing an open-source framework that enables the design of hardware capable of making split-second decisions. These advances aim to prioritize the enormous volumes of data produced by some of humanity’s most ambitious physics experiments.
+SQMS Center team from Fermilab and NYU Langone advance in NIH Quantum Computing Challenge
+January 6, 2026
+partnership
+quantum
+quantum computing
+SQMS
+Fermilab feature
+Magnetic resonance imaging, commonly known as MRI, is a cornerstone of modern medical diagnostics. Now, a collaboration from Fermilab and NYU Langone Health, both partners in the Superconducting Quantum Materials and Systems Center, takes this technology a step further with Quantitative MRI.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

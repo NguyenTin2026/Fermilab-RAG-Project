@@ -1,0 +1,215 @@
+URL: https://news.fnal.gov/2020/03/the-power-of-attraction-the-use-of-magnets-in-particle-accelerators/
+Title: The power of attraction: magnets in particle accelerators
+────────────────────────────────────────────────────────────
+The power of attraction: magnets in particle accelerators
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+The power of attraction: magnets in particle accelerators
+March 19, 2020
+| By:
+Jerald Pinson
+Tags:
+accelerator
+accelerator science
+accelerator technology
+magnet
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Accelerator magnets — how do they work? Depending on the number of poles a magnet has, it bends, shapes or shores up the stability of particle beams as they shoot at velocities close to the speed of light. Experts design magnets so they can wield the beam in just the right way to yield the physics they’re after. Here’s your primer on particle accelerator magnets.
+In 1820, Hans Christian Oersted gave a demonstration on electricity to a class of advanced students at the University of Copenhagen in Denmark. Using an early battery prototype, he looked to see what effect an electric current would have on a compass, and since he hadn’t had time to test his experiment beforehand, the outcome was just as unknown to him as it was to his students. When he completed the circuit by attaching a single wire to both ends of the battery, the resulting current caused the needle of the compass to line up with the wire, showing that electricity and magnetism were two facets of the same phenomenon.
+In generating an electric current, Oersted had created a temporary magnet — an electromagnet. Physicists continued to develop electromagnets for their experiments, and today, they are everywhere: in MRI scanners, loudspeakers, transformers, electric motors — and particle accelerators.
+Accelerator magnets bend and shape beams of subatomic particles as they shoot at velocities close to the speed of light. Experts design magnets so they can wield the beam in just the right way to yield the physics they’re after.
+Accelerator magnets – how do they work?
+The movement of charged particles – such as protons and electrons – creates a magnetic field. By the same token, magnetic fields influence the movement of charged particles. That’s the relationship Oersted helped uncover 200 years ago and later scientists would come to define: Electricity and magnetism are two sides of the same coin.
+It’s a phenomenon that humanity has exploited to world-changing effect. The electrical grid that powers the device you’re using to read this arose from an understanding of the magnetism-electricity relationship.
+Particle physicists have harnessed electromagnetism to explore the origins of our universe by controlling particle beams in accelerators, smashing them into a target and producing even more particles for scientists to study.
+By passing an electrical current through a coiled wire, accelerator experts produce a temporary magnet with a north and south pole. These coiled wires form the poles of the electromagnets used in accelerators. They can be arranged not only into two-pole electromagnets, but magnets with four, six or even more poles.
+Make no mistake: These are not like your household magnets. Accelerator magnets can be as long as a pickup truck — sometimes longer — and can weigh tons. It usually takes months to construct each one.
+Regardless of the materials used to make them, accelerator magnets can be classified according to their number of poles. Most come in one of four types: Dipole magnets bend the beam, quadrupoles focus the beam, sextupoles correct the imperfect focusing of quadrupoles, and octupoles can help increase the stability of stored particle beams. In accelerator lingo, these are the different magnetic “multipoles” that scientists use to manipulate beams in these engines of discovery.
+Accelerator magnets can be as long as a pickup truck — sometimes longer — and can weigh tons. It usually takes months to construct each one. They bend and focus particle beams, correct imperfect focusing and even increase beam stability. Photo: Reidar Hahn, Fermilab
+Dipoles – it’s not easy steering beams
+Dipoles are most often made of two separate coiled wires with their north and south poles facing each other. When current flows through the coils, a unidirectional magnetic field forms in the gap between the poles.
+“Accelerator scientists and engineers can use that field to bend charged-particle beams along a curve,” said Jonathan Jarvis, an associate scientist at Fermilab. “Put simply, dipoles are our main way of getting beams where they need to go.”
+If you happened to be riding on an proton heading straight for a magnetic field pointing downward, you and your proton would move to the left at an amount proportional to the magnet’s field strength. The stronger the magnetic field, the stronger the leftward pull you and your proton would feel. For vertical magnetic fields, the path you would trace out is a horizontal circular arc.
+Dipole magnets are usually used to bend particle beams. In a circular accelerator, for example, multiple dipole magnets are lined up along the beam path. The particle beam moves through one after another, getting nudged in one direction with each pass so that it follows the curve.
+Fast-acting dipoles can also be used to “kick” particle beams into or out of a circular accelerator’s main beam.
+As a positively charged particle travels into the page and passes through the dipole magnet, it is deflected to the left at an angle proportional to the amount of force applied by the magnet. Image: Jerald Pinson
+Quadrupoles – staying focused
+Magnets applying a unidirectional force work well for bending particle beams in a particular direction, but they aren’t able to maintain a beam’s shape.
+“If we leave the beam to its own devices in dipoles, it will come apart,” Jarvis said. “Just like a collection of gas molecules, a beam of particles has a temperature, and that random energy will cause the particles to naturally drift apart in an accelerator.  If the beam particles aren’t brought back together, then they will slam into the walls of the vacuum pipes where they are circulating.”
+So scientists use quadrupole magnets to refocus the wayward particles and bring them back into the fold.
+As the name implies, quadrupoles have four alternating poles. They produce a special magnetic field that can bring particles back together, similar to how lenses can bend rays of light to a point.
+A single quadrupole focuses a beam in one plane. For example, a quadrupole can squeeze the sides of the beam inward as it races through an accelerator, but — similar to the way a lump of Play-Doh responds when you squish its sides together — the beam will defocus in the other direction.
+The solution is to string multiple quadrupoles together with alternating orientations. The beam passes through one and is squeezed in the horizontal direction. Then it passes through the next and is squeezed in the vertical direction. With each successive pinch, it becomes focused.
+The net effect is a stable beam of particles rattling back and forth as they whip around the accelerator.
+By the same token, quadrupoles can also defocus beams. As particles travel through an accelerator, there are times when it’s better for the beam to be a little less tightly packed, decreasing the likelihood that the particles will interfere with each other. As beams pass through quadrupoles of weaker magnetic strength, they are allowed to spread out first in the up-down direction, then in the left-right direction and so on until they’re suitably defocused.
+Quadrupoles have four magnetic poles. In a particle accelerator, the poles push particles together if they deviate too far from the centralized beam. Quadrupoles focus in only one plane, so to squeeze an accelerator beam from both sides, these magnets are usually stacked one after the other, each rotated by 90 degrees relative to the previous one. In this way, the beam particles are pushed together in both directions as they travel through successive magnets. Image: Jerald Pinson
+Sextupoles – color correction
+Just as dipole magnets can bend a beam but aren’t able to keep it focused, quadrupoles can focus particles, but not all to the same location.
+The particles that make up a beam have slightly different energies.
+“Unfortunately, quadrupoles don’t behave exactly the same for all beam energies,” Jarvis said. “A higher-energy particle is less affected by a quadrupole’s magnetic field than a lower-energy particle.”
+The result is that high- and low-energy particles are focused at different points along the beam’s path. This is similar to the way water droplets bend different colors of light to produce a stunning rainbow.
+In quadrupoles, this ‘chromatic aberration’ produces differences in how rapidly the particles are bouncing back and forth in the accelerator, a phenomenon known to accelerator scientists as chromaticity.
+“In many cases, to see the physics we want, we have to correct the chromaticity, and we do this using sextupoles,” Jarvis said.
+When properly placed in the accelerator, these six-poled magnets force higher-energy particles back into alignment with the rest of the beam.
+Quadrupole magnets are not able to focus particles with varying energies to a particular point, so scientists use sextupole magnets to correct for this chromatic aberration. Image: Jerald Pinson
+Octupoles – mixing it up
+We’ve all had that moment: you’re walking down a hallway when someone rounds a corner and ends up directly in your path. You both maneuver one way, then another, then back again in an attempt to avoid colliding, an encounter that can seem to last for ages. The reason it’s so hard to get past the other person is the result of your similar rates of movement. If one person moved more slowly, or simply stayed the course, then this behavior would get suppressed.
+Particle beams can exhibit similar sorts of collective behavior if they all oscillate at the same frequency.
+To stabilize the situation, eight-poled magnets, called octupoles, can be used to mix up the particles’ frequencies. Scientists call the resulting stabilization ‘Landau damping,’ and it provides a particle beam with a bit of natural immunity against some unstable behaviors.
+Unfortunately, the increased stability and enhanced focus imparted by higher order multipole magnets comes at a cost.
+“These magnets can produce harmful resonances and reduce the overall range of positions and energies that the stored particles are allowed to have,” Jarvis said. “If particles find themselves outside this range of the so-called ‘dynamic aperture’, then they will be lost from the accelerator.”
+Integrable optics and beyond
+Scientists at accelerator facilities around the world are working to generate more productive particle beams in their pursuit of the physics that underpins the universe.
+One way they do this is by increasing the beam’s intensity — the number of particles they pack into a beam. But there’s a catch: As intensity increases, the way beams behave can become much more complex, straining the limits of how well traditional magnets can confine them.
+To pave the way for the next generation of particle physics, accelerator scientists at Fermilab are considering fundamentally new types of magnets, ones that that can handle ever increasing beam intensities.
+“These nonlinear magnets are effectively special combinations of many multipoles, and they have the potential to dramatically improve beam stability without making the trade-offs inherent with simple octupoles,” said Jarvis.
+As scientists continue to push the boundaries of magnet technology, we will be able to peer deeper into the subatomic world – discovering exotic particles that exist in only the most extreme conditions, observing the mysterious transformation of neutrinos and the decay of muons, and ultimately come to a better understanding of how the universe began.
+It’s surprising to think that the humble magnet is our gateway to some of the universe’s deepest mysteries, but then again, that’s the power of attraction.
+This work is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+March 9, 2026
+accelerator science
+AI
+Fermilab feature
+Fermilab’s FAST/IOTA accelerator test facility has successfully accelerated and stored its first proton beams, marking a major milestone in the lab’s R&D program for next-generation particle accelerator technology. This achievement paves the way for breakthroughs in high-intensity beam physics, artificial intelligence applications and innovations that will power future experiments like the Deep Underground Neutrino Experiment.
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+accelerator
+energy
+particle physics
+quantum
+Fermilab feature
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+Fermilab expecting 95-ton coldbox delivery
+December 16, 2024
+accelerator technology
+cryogenics
+PIP-II
+technology
+Press release
+The coldbox, a vital piece of Fermilab’s new linear accelerator, is on a two-month voyage from France to its new home in Batavia, Illinois. It will be at the heart of the cryogenic system for the lab’s upgraded accelerator complex.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

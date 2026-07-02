@@ -1,0 +1,196 @@
+URL: https://news.fnal.gov/2021/11/fermilab-sees-record-performance-from-next-generation-accelerator-component/
+Title: Fermilab sees record performance from next-generation accelerator component
+────────────────────────────────────────────────────────────
+Fermilab sees record performance from next-generation accelerator component
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab sees record performance from next-generation accelerator component
+November 3, 2021
+| By:
+Lauren Biron
+and
+Mary Magnuson
+Tags:
+cryomodule
+LCLS-II
+superconducting radio-frequency technology
+x-ray
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Accelerator experts at three national labs have advanced the next generation of cryomodules, the building blocks of particle accelerators. A prototype built for the high-energy upgrade of SLAC’s LCLS-II X-ray laser has advanced the state of the art, packing more acceleration into a smaller distance, and could dramatically improve future accelerators.
+For several years, three U.S. Department of Energy national labs have worked together to further improve state-of-the-art particle accelerator technology. First tests of a prototype built at Fermi National Accelerator Laboratory show the effort has paid off,
+with a new component setting records
+.
+The technology under development is called a superconducting radio-frequency cryomodule, a high-tech piece of equipment that efficiently speeds up particles. It is a key building block of modern particle accelerators and X-ray lasers. All supported by the DOE Office of Science, Fermilab, Thomas Jefferson National Facility and SLAC National Accelerator Laboratory have pooled their expertise for research and development on cryomodules that will enhance SLAC’s X-ray laser, known as the Linac Coherent Light Source.
+Assembly of vCM cold mass prior to insertion into the cryomodule vacuum vessel. Photo: APS-TD process engineering group
+LCLS produces very bright X-ray beams used to provide researchers insights into the atomic structures of cells, materials and biochemical pathways. An upgrade of LCLS to
+LCLS-II
+is currently underway. The cryomodules now in development will be part of a future high-energy update, called LCLS-II-HE, that will enable even more precise atomic X-ray mapping.
+Researchers in biomedical and materials science fields can use LCLS-II and LCLS-II-HE, for example, to study how energy flows in tiny molecules and biochemical systems; how light penetrates and interacts with synthetic materials; and how materials might behave in extreme environments. Importantly, scientists also can use LCLS technology to study the properties of electric fields and how factors such as pressure and magnetism might govern particle interactions.
+vCM in the cantilever fixture for insertion of the coldmass into the vacuum vessel. Photo: APS-TD process engineering group
+To produce X-rays, LCLS-II accelerates electrons using superconducting radio-frequency technology. After reaching close to the speed of light, the electrons fly through a series of magnets, called an undulator, which forces them to travel a zigzag path and give off energy in the form of X-rays that are then used for research.
+From prototype to production
+The high-energy upgrade of LCLS-II is the solution to a seemingly impossible task. Researchers wanted to double the energy of the X-ray laser, but the upgrade has to be squeezed into a relatively small area between the existing accelerator and another experiment. Current state-of-the-art technology would have required too much room — so the teams had to invent a way to pack more particle punch into their equipment.
+Accelerator experts improved the cryomodules in several ways. They used a process called “nitrogen doping” to optimize the molecular makeup of the walls of the superconducting accelerator cavities, the components that accelerate the particle beam. They also developed new procedures to assemble and finish the components. Improving the cleanliness reduces unwanted effects from any contamination on the surface, including errant dust particles.
+“We are starting LCLS-II-HE with the proven success from LCLS-II experience. We will leverage from our successes and also from our unwanted outcomes and adapt the lessons learned to LCLS-II-HE.”
+Fermilab’s prototype is a “verification cryomodule.” It’s proof that the design works as expected, the improved cryomodules will successfully fit in the constrained space, and that final production can begin. It’s a strong start to the upgrade that will take place over the next several years and will require 24 new cryomodules: 13 produced at Fermilab and 11 at Jefferson Lab. Researchers improved the cryomodules far beyond current specifications, and the new equipment should result in a 30 percent improvement to LCLS-II’s performance.
+“Structurally, if you’re looking at the cryomodules from the outside, you won’t be able to tell the difference,” said John Hogan, senior team lead at Jefferson Lab. “But if we’re able to maintain that test performance throughout the whole production, it will give the machine much more energy.”
+vCM cavity assembly in the semiconductor grade cleanroom at MP9. Photo: APS-TD process engineering group
+Experts pay attention to quality factor, called Q0, which measures a cryomodule’s efficiency — basically, how much excess heat it generates. Superconducting cavities generate about 10,000 times less heat than normal conducting cavities made out of copper. But they have to be kept at cryogenic temperatures (usually around 2 Kelvin, or negative 456 degrees Fahrenheit), requiring a cryogenic plant. To keep the cryogenic requirements reasonable, many accelerators are operated in a “pulsed mode,” with pauses between pulses to reduce the cryogenic load. The nitrogen doping process increases the Q0 so much that it allows the cryomodules in LCLS-II to operate at full tilt without stopping, a feature called “continuous wave mode.”
+The verification cryomodule achieved a record in this continuous mode; electrons passing through the module will have their energy increased by an incredible 200 million electronvolts. The rapid acceleration within a single cryomodule is what will enable the high-energy LCLS-II to reach higher energies in a shorter distance while using fewer cryomodules. The team was also able to maintain the high-quality factor, meaning faster acceleration with minimal excess heat.
+Fermilab senior team lead Tug Arkan said the prime focus of the high-energy upgrade is quality and performance, building on the labs’ experience working together. “For LCLS-II, we designed; we procured parts; we assembled the parts into the cryomodules; we tested the cryomodules; and then we successfully delivered them to SLAC,” said Arkan. “We are starting LCLS-II-HE with the proven success from LCLS-II experience. We will leverage from our successes and also from our unwanted outcomes and adapt the lessons learned to LCLS-II-HE.”
+Jefferson Lab and Fermilab are now assembling the needed cryomodules, which should be complete in 2024. The equipment will be shipped to SLAC and stored until scientists are ready to move them into their positions at the end of the LCLS-II accelerator chain.
+The vCM at the Fermilab Cryomodule Test Facility. Photo: APS-TD process engineering group
+Once the team at SLAC installs and commissions the LCLS-II-HE, researchers in everything from biomedical science and molecular physics to renewable energy will find the facility useful.
+“LCLS-II-HE will enable higher X-ray energies and better tools and capabilities for the science community,” said Greg Hays, the LCLS-II-HE project director at SLAC. “Increased gradient with reduced heat loads will cut the number of required liquid helium refrigeration plants in half and reduced the length of the overall accelerator, allowing it more than double the energy of LCLS-II by making it only 50 percent longer.”
+The advances in cryomodule fabrication, installation and operation will also be useful for future particle accelerators both big and small. Many particle accelerators use the same superconducting radio-frequency technology as LCLS-II to accelerate particles, so applying the engineering principles from the LCLS-II-HE upgrade will allow other research teams to create high-performing accelerator cryomodules that create little excess heat and can operate efficiently.
+“Higher-gradient performance with lower heat generation will dramatically improve future particle accelerators,” Hays said. “It translates to lower construction and operation costs.”
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+New collaboration sheds bright light on advancing semiconductor production in the U.S.
+April 4, 2024
+collaboration
+cryomodule
+superconducting radio-frequency technology
+Press release
+A partnership between Fermilab and xLight Inc. will focus on producing advanced semiconductors in the United States using extreme ultraviolet light and accelerator technology.
+SLAC fires up the world’s most powerful X-ray laser: LCLS-II ushers in a new era of science
+September 18, 2023
+cryomodule
+LCLS-II
+x-ray
+Fermilab feature
+Press release
+With up to a million X-ray flashes per second, 8,000 times more than its predecessor, it transforms the ability of scientists to explore atomic-scale, ultrafast phenomena that are key to a broad range of applications, from quantum materials to clean-energy technologies and medicine.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

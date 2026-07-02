@@ -1,0 +1,193 @@
+URL: https://news.fnal.gov/2022/12/detecting-dark-matter-with-quantum-computers/
+Title: Detecting dark matter with quantum computers
+────────────────────────────────────────────────────────────
+Detecting dark matter with quantum computers
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Detecting dark matter with quantum computers
+December 5, 2022
+| By:
+Emily Driehaus
+Tags:
+dark matter
+quantum
+quantum computers
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab scientists have developed an experiment to detect dark matter using superconducting qubits as sensors.
+Dark matter makes up about 27% of the matter and energy budget in the universe, but scientists do not know much about it. They do know that it is cold, meaning that the particles that make up dark matter are slow-moving. It is also difficult to detect dark matter directly because it does not interact with light. However, scientists at the U.S. Department of Energy’s Fermi National Accelerator Laboratory have found a way to look for dark matter using quantum computers.
+Aaron Chou, a senior scientist at Fermilab, works on detecting dark matter through quantum science. As part of DOE’s Office of High Energy Physics QuantISED program, he has developed a way to use qubits, the main component of quantum computing systems, to detect single photons produced by dark matter in the presence of a strong magnetic field.
+How quantum computers could detect dark matter
+A classical computer processes information with binary bits set to either 1 or 0. The specific pattern of ones and zeros makes it possible for the computer to perform certain functions and tasks. In quantum computing, however, qubits exist at both 1 and 0 simultaneously until they are read, due to a quantum mechanical property known as superposition. This property allows quantum computers to efficiently perform complex calculations that a classical computer would take an enormous amount of time to complete.
+“Qubits work by manipulating single excitations of information, for example, single photons,” said Chou. “So, if you’re working with such small packets of energy as single excitations, you’re far more susceptible to external disturbances.”
+Akash Dixit works on the team that uses quantum computers to look for dark matter. Here, Dixit holds a microwave cavity containing a superconducting qubit. The cavity has holes in its side in the same way the screen on a microwave oven door has holes; the holes are simply too small for microwaves to escape. Photo: Ryan Postel, Fermilab
+In order for qubits to operate at these quantum levels, they must reside in carefully controlled environments that protect them from outside interference and keep them at consistently cold temperatures. Even the slightest disturbance can throw off a program in a quantum computer. With their extreme sensitivity, Chou realized quantum computers could provide a way to detect dark matter. He recognized that other dark matter detectors need to be shielded in the same way quantum computers are, further solidifying the idea.
+“Both quantum computers and dark matter detectors have to be heavily shielded, and the only thing that can jump through is dark matter,” Chou said. “So, if people are building quantum computers with the same requirements, we asked ‘why can’t you just use those as dark matter detectors?’”
+Where errors are most welcome
+When dark matter particles traverse a strong magnetic field, they may produce photons that Chou and his team can measure with superconducting qubits inside aluminum photon cavities. Because the qubits have been shielded from all other outside disturbances, when scientists detect a disturbance from a photon, they can infer that it was the result of dark matter flying through the protective layers.
+“These disturbances manifest as errors where you didn’t load any information into the computer, but somehow information appeared, like zeroes that flip into ones from particles flying through the device,” he said.
+Scientist Aaron Chou leads the experiment that searches for dark matter using superconducting qubits and cavities. Photo: Reidar Hahn, Fermilab
+So far, Chou and his team have demonstrated how the technique works and that the device is incredibly sensitive to these photons. Their method has advantages over other sensors, such as being able to make multiple measurements of the same photon to ensure a disturbance was not just caused by another fluke. The device also has an ultra-low noise level, which allows for a heightened sensitivity to dark matter signals.
+Even the slightest disturbance can throw off a program in a quantum computer. With their extreme sensitivity, Aaron Chou realized quantum computers could provide a way to detect dark matter.
+“We know how to make these tunable boxes from the high-energy physics community, and we worked together with the quantum computing people to understand and transfer the technology for these qubits to be used as sensors,” Chou said.
+From here, they plan to develop a dark matter detection experiment and continue improving upon the design of the device.
+Using sapphire cavities to catch dark matter
+These new sapphire photon cavities will help lead the team closer to running dark matter experiments that combine aspects from both physics and quantum science. Photo: Ankur Agrawal, University of Chicago
+“This apparatus tests the sensor in the box, which holds photons with a single frequency,” Chou said. “The next step is to modify this box to turn it into kind of a radio receiver in which we can change the dimensions of the box.”
+By altering the dimensions of the photon cavity, it will be able to sense different wavelengths of photons produced by dark matter.
+“The waves that can live in the box are determined by the overall size of the box. In order to change what frequencies and which wavelengths of dark matter we want to look for, we actually have to change the size of the box,” said Chou. “That’s the work we’re currently doing; we’ve created boxes in which we can change the lengths of different parts of it in order to be able to tune into dark matter at different frequencies.”
+The researchers are also developing cavities made from different materials. The traditional aluminum photon cavities lose their superconductivity in the presence of the magnetic field necessary for producing photons from dark matter particles.
+“These cavities cannot live in high magnetic fields,” he said. “High magnetic fields destroy the superconductivity, so we’ve made a new cavity made out of synthetic sapphire.”
+Developing these new, tunable sapphire photon cavities will lead the team closer to running dark matter experiments that combine aspects from both physics and quantum science.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

@@ -1,0 +1,223 @@
+URL: https://news.fnal.gov/2020/02/particle-accelerator-technology-could-solve-one-of-the-most-vexing-problems-in-building-quantum-computers/
+Title: Particle accelerator technology could solve one of the most vexing problems in building quantum computers
+────────────────────────────────────────────────────────────
+Particle accelerator technology could solve one of the most vexing problems in building quantum computers
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Particle accelerator technology could solve one of the most vexing problems in building quantum computers
+February 26, 2020
+| By:
+Jerald Pinson
+Tags:
+Argonne National Laboratory
+computing
+quantum computing
+quantum information science
+quantum science
+qubits
+SRF technology
+superconducting radio-frequency technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+One of the most difficult problems to overcome in developing a quantum computer is finding a way to maintain the lifespan of information held in quantum bits, called qubits. Researchers at Fermilab and Argonne National Laboratory are working to determine whether devices used in particle accelerators can help solve the problem. The team will run simulations on high-performance computers that will enable them to predict the lifespan of information held within these qubits using smaller versions of these devices, taking us one step closer to the age of quantum computing.
+Last year, researchers at
+Fermilab received over $3.5 million
+for projects that delve into the burgeoning field of
+quantum information science
+. Research funded by the grant runs the gamut, from building and modeling devices for possible use in the development of quantum computers to using ultracold atoms to look for dark matter.
+For their quantum computer project, Fermilab particle physicist Adam Lyon and computer scientist Jim Kowalkowski are collaborating with researchers at Argonne National Laboratory, where they’ll be running simulations on high-performance computers. Their work will help determine whether instruments called
+superconducting radio-frequency cavities
+, also used in particle accelerators, can solve one of the biggest problems facing the successful development of a quantum computer: the decoherence of qubits.
+“Fermilab has pioneered making superconducting cavities that can accelerate particles to an extremely high degree in a short amount of space,” said Lyon, one of the lead scientists on the project. “It turns out this is directly applicable to a qubit.”
+Researchers in the field have worked on developing successful quantum computing devices for the last several decades; so far, it’s been difficult. This is primarily because quantum computers have to maintain very stable conditions to keep qubits in a quantum state called superposition.
+Superconducting radio-frequency cavities, such as the one seen here, are used in particle accelerators. They can also solve one of the biggest problems facing the successful development of a quantum computer: the decoherence of qubits. Photo: Reidar Hahn, Fermilab
+Superposition
+Classical computers use a binary system of 0s and 1s – called bits – to store and analyze data. Eight bits combined make one byte of data, which can be strung together to encode even more information. (There are about 31.8 million bytes in the average three-minute digital song.) In contrast, quantum computers aren’t constrained by a strict binary system. Rather, they operate on a system of qubits, each of which can take on a continuous range of states during computation. Just as an electron orbiting an atomic nucleus doesn’t have a discrete location but rather occupies all positions in its orbit at once in an electron cloud, a qubit can be maintained in a superposition of both 0 and 1
+Since there are two possible states for any given qubit, a pair doubles the amount of information that can be manipulated: 2
+2
+= 4. Use four qubits, and that amount of information grows to 2
+4
+= 16. With this exponential increase, it would take only 300 entangled qubits to encode more information than there is matter in the universe.
+Qubits can be in a superposition of 0 and 1, while classical bits can be only one or the other. Image: Jerald Pinson
+Parallel positions
+Qubits don’t represent data in the same way as bits. Because qubits in superposition are both 0 and 1 at the same time, they can similarly represent all possible answers to a given problem simultaneously. This is called quantum parallelism, and it’s one of the properties that makes quantum computers so much faster than classical systems.
+The difference between classical computers and their quantum counterparts could be compared to a situation in which there is a book with some pages randomly printed in blue ink instead of black. The two computers are given the task of determining how many pages were printed in each color.
+“A classical computer would go through every page,” Lyon said. Each page would be marked, one at a time, as either being printed in black or in blue. “A quantum computer, instead of going through the pages sequentially, would go through them all at once.”
+Once the computation was complete, a classical computer would give you a definite, discrete answer. If the book had three pages printed in blue, that’s the answer you’d get.
+“But a quantum computer is inherently probabilistic,” Kowalkowski said.
+This means the data you get back isn’t definite. In a book with 100 pages, the data from a quantum computer wouldn’t be just three. It also could give you, for example, a 1 percent chance of having three blue pages or a 1 percent chance of 50 blue pages.
+An obvious problem arises when trying to interpret this data. A quantum computer can perform incredibly fast calculations using parallel qubits, but it spits out only probabilities, which, of course, isn’t very helpful – unless, that is, the right answer could somehow be given a higher probability.
+Interference
+Consider two water waves that approach each other. As they meet, they may constructively interfere, producing one wave with a higher crest. Or they may destructively interfere, canceling each other so that there’s no longer any wave to speak of. Qubit states can also act as waves, exhibiting the same patterns of interference, a property researchers can exploit to identify the most likely answer to the problem they’re given.
+“If you can set up interference between the right answers and the wrong answers, you can increase the likelihood that the right answers pop up more than the wrong answers,” Lyon said. “You’re trying to find a quantum way to make the correct answers constructively interfere and the wrong answers destructively interfere.”
+When a calculation is run on a quantum computer, the same calculation is run multiple times, and the qubits are allowed to interfere with one another. The result is a distribution curve in which the correct answer is the most frequent response.
+When waves meet, they may constructively interfere, producing one wave with a higher crest. Image: Jerald Pinson
+Waves may also destructively interfere, canceling each other so that there’s no longer any wave to speak of. Image: Jerald Pinson
+Listening for signals above the noise
+In the last five years, researchers at universities, government facilities and large companies have made encouraging advancements toward the development of a useful quantum computer. Last year, Google announced that it had performed calculations on their quantum processor called Sycamore in a fraction of the time it would have taken the world’s largest supercomputer to complete the same task.
+Yet the quantum devices that we have today are still prototypes, akin to the first large vacuum tube computers of the 1940s.
+“The machines we have now don’t scale up much at all,” Lyon said.
+There’s still a few hurdles researchers have to overcome before quantum computers become viable and competitive. One of the largest is finding a way to keep delicate qubit states isolated long enough for them to perform calculations.
+If a stray photon — a particle of light — from outside the system were to interact with a qubit, its wave would interfere with the qubit’s superposition, essentially turning the calculations into a jumbled mess – a process called decoherence. While the refrigerators do a moderately good job at keeping unwanted interactions to a minimum, they can do so only for a fraction of a second.
+“Quantum systems like to be isolated,” Lyon said, “and there’s just no easy way to do that.”
+When a quantum computer is operating, it needs to be placed in a large refrigerator, like the one pictured here, to cool the device to less than a degree above absolute zero. This is done to keep energy from the surrounding environment from entering the machine. Photo: Reidar Hahn, Fermilab
+Which is where Lyon and Kowalkowski’s simulation work comes in. If the qubits can’t be kept cold enough to maintain an entangled superposition of states, perhaps the devices themselves can be constructed in a way that makes them less susceptible to noise.
+It turns out that superconducting cavities made of niobium, normally used to propel particle beams in accelerators, could be the solution. These cavities need to be constructed very precisely and operate at very low temperatures to efficiently propagate the radio waves that accelerate particle beams. Researchers theorize that by placing quantum processors in these cavities, the qubits will be able to interact undisturbed for seconds rather than the current record of milliseconds, giving them enough time to perform complex calculations.
+Qubits come in several different varieties. They can be created by trapping ions within a magnetic field or by using nitrogen atoms surrounded by the carbon lattice formed naturally in crystals. The research at Fermilab and Argonne will be focused on qubits made from photons.
+Lyon and his team have taken on the job of simulating how well radio-frequency cavities are expected to perform. By carrying out their simulations on high-performance computers, known as HPCs, at Argonne National Laboratory, they can predict how long photon qubits can interact in this ultralow-noise environment and account for any unexpected interactions.
+Researchers around the world have used open-source software for desktop computers to simulate different applications of quantum mechanics, providing developers with blueprints for how to incorporate the results into technology. The scope of these programs, however, is limited by the amount of memory available on personal computers. In order to simulate the exponential scaling of multiple qubits, researchers have to use HPCs.
+“Going from one desktop to an HPC, you might be 10,000 times faster,” said Matthew Otten, a fellow at Argonne National Laboratory and collaborator on the project.
+Once the team has completed their simulations, the results will be used by Fermilab researchers to help improve and test the cavities for acting as computational devices.
+“If we set up a simulation framework, we can ask very targeted questions on the best way to store quantum information and the best way to manipulate it,” said Eric Holland, the deputy head of quantum technology at Fermilab. “We can use that to guide what we develop for quantum technologies.”
+This work is supported by the Department of Energy Office of Science.
+Recommended reading
+View all news
+Fermilab celebrates 2026 quantum science program graduates
+April 28, 2026
+quantum science
+Saturday Morning Quantum
+students
+Press release
+This past weekend, a new group of high school students graduated from the Saturday Morning Quantum program. Hosted by Fermilab, the course allows students to engage directly with lab quantum scientists and engineers while exploring core topics in quantum science.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+February 26, 2026
+emerging technologies
+ions
+microelectronics
+quantum
+quantum electronics
+qubits
+Press release
+A partnership between the Quantum Science Center and the Quantum Systems Accelerator, two U.S. Department of Energy national quantum information science research centers, has enabled a breakthrough by Fermilab and MIT Lincoln Laboratory. Researchers used cryoelectronics to control ion traps, a key step toward realizing scalable quantum computers.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

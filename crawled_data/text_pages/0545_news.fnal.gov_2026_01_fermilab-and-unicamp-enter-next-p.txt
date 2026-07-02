@@ -1,0 +1,183 @@
+URL: https://news.fnal.gov/2026/01/fermilab-and-unicamp-enter-next-phase-of-collaboration-on-argon-purification-for-dune/
+Title: Fermilab and UNICAMP enter next phase of collaboration on argon purification for DUNE
+────────────────────────────────────────────────────────────
+Fermilab and UNICAMP enter next phase of collaboration on argon purification for DUNE
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab and UNICAMP enter next phase of collaboration on argon purification for DUNE
+January 27, 2026
+| By:
+Mark Hume
+Tags:
+Brazil
+cryogenics
+DUNE
+liquid argon
+UNICAMP
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+A signing ceremony held at Fermilab opened the next stage of cooperation for design, manufacturing and testing of cryogenic subsystems for DUNE’s neutrino detector modules in Lead, South Dakota.
+Leaders with the U.S. Department of Energy’s Fermi National Accelerator Laboratory and the University of Campinas in Brazil, known as UNICAMP, met at Fermilab in November to sign an addition to their Inter-Agency Cooperative Research and Development Agreement, strengthening collaboration on key technologies for the Long-Baseline Neutrino Facility far detector cryogenics for the Deep Underground Neutrino Experiment.
+A new project called Annex C, added to the existing agreement, brought together Fermilab’s then-Interim Director Young-Kee Kim, UNICAMP Rector Paulo Cesar Montagner and UNICAMP Vice-Rector Fernando Antonio Santos for the signing ceremony, as researchers and engineers from both institutions gathered to watch the event.
+Annex C marks the beginning of the next phase of the collaboration between Fermilab and UNICAMP. Building on earlier successes, this phase focuses on engineering design, manufacturing and testing of cryogenic subsystems for DUNE’s vertical and horizontal drift far detector modules. The systems will be installed a mile underground at the Sanford Underground Research Facility in Lead, South Dakota — the site where DUNE will detect neutrinos sent 800 miles through the Earth from the Fermilab Accelerator Complex in Batavia, Illinois.
+This graphic shows a 3D model of the liquid argon purification system designed for the DUNE far detector cryostat. Housed in a utility space located between the cryostats, the large tanks represent the liquid argon purification vessels, the smaller tanks serve as particulate filters, and the narrow, vertical blue cylinder functions as a purity monitor. Credit: IKC Brazil UNICAMP/Akaer
+Phase one of the collaboration, signed in March 2020 in Brazil, focused on R&D for liquid-argon purification, a process critical for maintaining the extreme purity of the argon used in DUNE’s detectors.
+Annex C now transitions that work into production. Under the agreement, UNICAMP’s industrial partner in Brazil will lead the construction of both liquid and gaseous argon purification and regeneration systems. Each separate system is referred to as a “skid,” and the gaseous purification skid will be used during initial filling of the massive detector modules.
+UNICAMP plans to deliver the first purification system in spring 2027, with the final components completed a year later
+.
+“This new phase of collaboration with Fermilab reflects Universidade Estadual de Campinas’ strong commitment to advancing global scientific discovery,” said UNICAMP Rector Paulo Cesar Montagner. “By contributing our expertise in liquid-argon purification and working closely with our international partners, we are proud to help build the technologies that will make the Deep Underground Neutrino Experiment a reality. This partnership strengthens Brazil’s role in neutrino research and propels our scientists and engineers toward reaching new heights of innovation.”
+In October, a team from UNICAMP and its Brazilian industry partner visited SURF to survey the installation areas in the underground spaces, a crucial step in preparing for fabrication and delivery.
+A team from Brazil visits the central utility space, nearly a mile underground at the Sanford Underground Research Facility. Credit: Roza Doubnik
+“The international LBNF/DUNE project is an engineering marvel which will enable experimental studies in previously unavailable regimes of high energy physics,” said LBNF/DUNE-US Project Director Jim Kerby. “Building on a strong foundation, the past year has seen continued development of the technical bond between not just our institutions but also associated industrial partners. I look forward to our continued partnership and ultimately the incorporation of these key contributions to the experiment.”
+LBNF/DUNE represents a truly global scientific effort, with more than 200 institutions from over 35 countries contributing expertise and hardware. UNICAMP’s role includes both photon detection and cryogenic purification technology, making it a key partner in realizing DUNE’s ambitious goals.
+“Our research partners at UNICAMP are highly valued and reliable, and they are great collaborators,” said Fermilab Senior Engineer Roza Doubnik. “Their work has provided precise calculations and excellent 3D modeling, and they are open to suggestions during the collaboration process. We value and appreciate their professionalism and their approach to providing high-quality deliverables that advance the project.”
+The signing of Annex C continues a partnership rooted in scientific curiosity, technological excellence and international collaboration. Together, Fermilab and UNICAMP are making strides to advance the frontiers of particle physics by preparing infrastructure that can help us to understand why there is more matter than antimatter in our universe.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

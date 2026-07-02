@@ -1,0 +1,181 @@
+URL: https://news.fnal.gov/2019/11/discovery-of-a-new-type-of-particle-beam-instability/
+Title: Discovery of a new type of particle beam instability
+────────────────────────────────────────────────────────────
+Discovery of a new type of particle beam instability
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Discovery of a new type of particle beam instability
+November 14, 2019
+| By:
+Alexey Burov
+Tags:
+accelerator science
+beam
+result
+theory
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab scientist Alexey Burov has discovered that accelerator scientists misinterpreted a certain collection of phenomena found in intense proton beams for decades. Researchers had misidentified these beam instabilities, assigning them to particular class when, in fact, they belong to a new type of class: convective instabilities. In a paper published this year, Burov explains the problem and proposes a more effective suppression of the unwanted beam disorder.
+Accelerated, charged particle beams do what light does for microscopes: illuminate matter. The more intense the beams, the more easily scientists can examine the object they are looking at. But intensity comes with a cost: the more intense the beams, the more they become prone to instabilities.
+One type of instability occurs when the average energy of accelerated particles traveling through a circular machine reaches its transition value. The transition point occurs when the particles revolve around the ring at the same rate, even though they do not all carry the same energy — in fact, they exhibit a range of energies. The specific motion of the particles near the transition energy makes them extremely prone to collective instabilities.
+These particular instabilities were observed for decades, but they were not sufficiently understood. In fact, they were misinterpreted. In a paper published this year, I suggest a new theory about these instabilities. The application of this theory to the Fermilab Booster accelerator predicted the main features of the instability there at the transition crossing, suggesting better ways to suppress the instability. Recent measurements confirmed the predictions, and more detailed experimental beam studies are planned in the near future.
+Recent measurements at the Fermilab Booster accelerator confirmed existence of a certain kind of particle beam instability. More measurements are planned for the near future to examine new methods proposed to mitigate it.
+Accelerating high-intensity beams is a crucial part of the Fermilab scientific program. A solid theoretical understanding of particle beam behavior equips experimentalists to better manipulate the accelerator parameters to suppress instability. This leads to the high-intensity beams needed for Fermilab’s experiments in fundamental physics. It is also useful for any experiment or institution operating circular accelerators.
+Beam protons talk to each other by electromagnetic fields, which are of two kinds. One is called the Coulomb field. These fields are local and, by themselves, cannot drive instabilities. The second kind is the wake field. Wake fields are radiated by the particles and trail behind them, sometimes far behind.
+When a particle strays from the beam path, the wake field translates this departure backward — in the wake left by the particle. Even a small departure from the path may not escape being carried backward by these electromagnetic fields. If the beams are intense enough, their wakes can destabilize them.
+In the new theory, I suggested a compact mathematical model that effectively takes both sorts of fields into account, realizing that both of them are important when they are strong enough, as they typically are near transition energy.
+This kind of huge amplification happens at CERN’s Proton Synchrotron, for example, as I showed in my more recent paper, submitted to
+Physical Review Accelerators and Beams
+. If not suppressed one way or another, this amplification may grow until the beam touches the vacuum chamber wall and becomes lost. Recent measurements at the Fermilab Booster confirmed existence of a similar instability there; more measurements are planned for the near future to examine new methods proposed to mitigate it.
+These phenomena are called transverse convective instabilities, and the discoveries of how they arise open new doors to theoretical, numerical and experimental ways to better understanding and better dealing with the intense proton beams.
+Learn more
+.
+This work is supported by the DOE Office of Science.
+Alexey Burov is a Fermilab scientist specializing in beam physics, specifically in theory of intensity effects.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+Fermilab’s FAST/IOTA facility achieves major milestone in accelerator research
+March 9, 2026
+accelerator science
+AI
+Fermilab feature
+Fermilab’s FAST/IOTA accelerator test facility has successfully accelerated and stored its first proton beams, marking a major milestone in the lab’s R&D program for next-generation particle accelerator technology. This achievement paves the way for breakthroughs in high-intensity beam physics, artificial intelligence applications and innovations that will power future experiments like the Deep Underground Neutrino Experiment.
+Lee Teng internship fosters undergraduate researchers in accelerator science and engineering
+December 1, 2022
+accelerator science
+engineering
+internship
+Fermilab feature
+Each summer, 10 upper-level university students participate in an internship that exposes them to professional experience in accelerator science and technology.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

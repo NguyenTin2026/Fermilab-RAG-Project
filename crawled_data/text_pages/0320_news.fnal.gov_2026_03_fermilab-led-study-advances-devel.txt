@@ -1,0 +1,191 @@
+URL: https://news.fnal.gov/2026/03/fermilab-led-study-advances-development-of-sophisticated-quantum-sensors-to-track-high-energy-particles-and-detect-dark-matter/
+Title: Fermilab-led study advances development of sophisticated quantum sensors to track high-energy particles and detect dark matter
+────────────────────────────────────────────────────────────
+Fermilab-led study advances development of sophisticated quantum sensors to track high-energy particles and detect dark matter
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab-led study advances development of sophisticated quantum sensors to track high-energy particles and detect dark matter
+March 2, 2026
+| By:
+Marcia Teckenbrock
+Tags:
+dark matter
+emerging technologies
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists are continuing a groundbreaking study of superconducting microwire single photon detectors, or SMSPDs. These ultrasensitive devices show great promise for particle physics research of the future.
+Scientists at the U.S. Department of Energy’s Fermi National Accelerator Laboratory and several collaborating institutions are using a new type of quantum sensor called a superconducting microwire single-photon detector — or SMSPD — to improve particle detection efficiency and timing, characteristics essential for future accelerator-based experiments and dark matter detection experiments.
+The research is led by Fermilab, and collaborators include Caltech, NASA’s Jet Propulsion Laboratory and the University of Geneva.
+This study
+builds on previous
+research
+conducted at Fermilab, which determined SMSPD sensors could efficiently detect individual high-energy charged particles like protons, electrons and pions.
+A superconducting microwire single-photon detector, or SMSPD, under study. Scientists are investigating the use of these devices in future particle accelerators. Building on work conducted at Fermilab, this study took place at CERN’s test beam facility. Credit: Christina Wang, Fermilab
+The
+new study,
+conducted at CERN, takes the development of these high-efficiency sensors one step further by demonstrating improved particle detection efficiency and time resolution using sensors made from a thicker tungsten silicide film than that used previously. The thicker the wire, the better its ability to absorb energy from charged high-energy particles.
+“This research is significant because it shows improvement from our initial measurements using SMSPDs for charged particle detection,” said Cristián Peña, a scientist at Fermilab who led the study.
+“In addition, for the first time, we used SMSPDs to measure the detection efficiency of muons, potentially expanding their use for new avenues of exploration,” said Peña.
+An international collaboration is investigating the feasibility of using muons in a
+future high-energy muon collider
+. Because of their unique properties and behaviors, scientists use these particles — 200 times heavier than electrons — to explore fundamental forces and particles. Future particle physics experiments will require more powerful, more intense colliders that produce millions of events per second. Within these events, detectors must be able to detect and track individual particles in both space and time with increasing precision. SMSPD sensors show great potential for this.
+A research team led by Fermilab conducted a study to test the ability of superconducting microwire single photon detectors to efficiently detect high-energy particles at CERN’s accelerator test beam. Their research represents a significant step forward in determining SMSPD suitability for use in next-generation detectors. Pictured in the front row, from left to right, are Cristián Peña, Thomas Sievert, Manish Sahu, Alex Albert, Elise Sledge, Adi Bornheim, Christina Wang and Artur Apresyan. In the back row, from left to right, are Shuoxing Wu, Towsif Taher, Guillermo Reales Gutierrez and Boris Korzh. Credit: Cristián Peña, Fermilab
+Compared to superconducting nanowire single photon detectors, or SNSPDs, the larger active area afforded by SMSPDs enables greater opportunity to track charged particles. This makes them ideal, not only for future accelerator-based experiments but for also seeking dark matter, and exploration of this new technology continues at a rapid pace.
+In a separate study recently
+published in the
+Journal of Instrumentation
+, some of the same scientists involved in the research above conducted the first detailed temperature-dependent study of an SMSPD sensor array to use in low-background dark matter detection experiments.
+“We are continuing to make strides in developing these sensors with greater precision and greater efficiency to meet the needs of next-generation particle accelerators,” said Si Xie, a scientist at Fermilab and joint appointee at Caltech. “We still have a lot of work to do, but this research shows we are progressing very well. We are excited to continue studying and improving these devices so they can help facilitate new physics discoveries.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

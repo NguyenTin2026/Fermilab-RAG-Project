@@ -1,0 +1,190 @@
+URL: https://news.fnal.gov/2026/04/a-minute-with-jacopo-bernardini/
+Title: A minute with Jacopo Bernardini
+────────────────────────────────────────────────────────────
+A minute with Jacopo Bernardini
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Jacopo Bernardini
+April 27, 2026
+| By:
+Madeleine O’Keefe
+Tags:
+DUNE
+engineering
+PIP-II
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+Jacopo Bernardini is a mechanical engineer with the PIP-II project. Credit: JJ Starr, Fermilab
+Tell me about what you do at Fermilab.
+I’m a mechanical engineer, and I work in the Applied Physics and Superconducting Technology Directorate for the Proton Improvement Plan-II project. Back in August, I was appointed the position of level-3 manager for the 650-megahertz system under the superconducting radio-frequency and cryogenics branch of PIP-II.
+PIP-II is building a linear accelerator
+, and it will be made up of 23 cryomodules of different flavors. In my position, I’m responsible for the delivery of 13 low-beta and high-beta 650-megahertz cryomodules. I’m also sub-project manager for the design and assembly of the single-spoke resonators and 650 cryomodules.
+That’s an important job; those cryomodules are a major component to the upgrade of Fermilab’s Accelerator Complex. What does that role entail?
+The PIP-II project involves a close collaboration with partners from Europe and India. The HB650 cryomodules are being built in the U.K., and the LB650 cryomodules are being built in France with SRF cavities delivered from Italy. Several cryomodule components are also being built in India. So, a lot of my job is to deal with partners and to control the design of the cryomodule, the interfaces between different cryomodules, the infrastructure and so on.
+How did your education and career path lead you to Fermilab?
+I studied mechanical engineering in Italy at the Polytechnic University of Turin, and I did the last part of my master’s degree in mechanical and industrial engineering at the University of Illinois at Chicago in 2019. After that, I started looking for a job. I knew of Fermilab, so I applied to different positions. I started work in the year 2020 — right in the middle of the covid pandemic.
+It sounds like a difficult time to begin a new job! What was that like?
+I was in Italy before the pandemic started because I went back for the Christmas period. Then when I got the job offer, I was still in Italy, and when I was planning to come back to Fermilab to start my position at the end of March, it was the week that international arrivals were restricted because of the pandemic. I couldn’t return to the U.S. for quite some time, like half a year, and I was actually able to arrive at Fermilab in November 2020.
+What do you find most challenging about your work?
+My job is quite broad in scope. It’s interesting because I started here working on the design of the SSR2 cryomodule. After some time, I started working with different subsystems that are involved in the cryomodule design, like cavities, couplers and magnets. From design, you have to transition to procurement, so you have to work with industry, write procurement specifications, manage vendors and also handle incoming quality controls.
+And what do you find most rewarding about the work you do?
+It’s always very rewarding to see something that I design, or I took part in the design of, to be actually built.
+What I also find very exciting is the work with partners, as I’m exposed to many different people working at different laboratories, both in Europe and India. I get to know different cultures and also different ways of working in the same field: superconducting radio frequency.
+I feel like there is quite a strong bonding between people, especially the people I work with. I like working with people at Fermilab, and I like being at the lab and seeing hands-on activity taking place.
+When you’re not at the lab, how do you like to spend your time?
+I do triathlons, so I swim, bike and run most of the time when I’m not working; my favorite of those is biking. The latest triathlon I did was the Ironman 70.3 in Rockford, Illinois. I’d like to compete in a long-distance triathlon next year, which includes a 2.4-mile swim, a 112-mile ride and a 26-mile run.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

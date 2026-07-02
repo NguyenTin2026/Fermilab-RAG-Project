@@ -1,0 +1,230 @@
+URL: https://news.fnal.gov/2023/12/international-science-organizations-sign-agreement-to-provide-hardware-for-the-deep-underground-neutrino-experiment/
+Title: International science organizations sign agreement to provide hardware for the Deep Underground Neutrino Experiment
+────────────────────────────────────────────────────────────
+International science organizations sign agreement to provide hardware for the Deep Underground Neutrino Experiment
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+International science organizations sign agreement to provide hardware for the Deep Underground Neutrino Experiment
+December 6, 2023
+Tags:
+DUNE
+FAPESP
+INFN
+international collaboration
+international engagement
+particle detector technology
+STFC
+UNICAMP
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+On Nov. 17, representatives of funding agencies from five countries signed a memorandum of understanding, affirming their commitment to contribute to the construction of components for DUNE.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Ten international funding agencies will contribute to the construction of the gigantic particle detectors a mile underground for the Fermilab-hosted Deep Underground Neutrino Experiment.
+The
+Deep Underground Neutrino Experiment
+— also known as DUNE — is an international mega science experiment that will use enormous particle detectors to study the behavior of neutrinos, which might indicate why we live in a matter-dominated universe.
+The DUNE collaboration, representing scientists from dozens of countries around the world, will contribute to the construction of detectors at two sites in the United States: one at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, the host lab for DUNE, 40 miles west of Chicago, and the other at the Sanford Underground Research Laboratory (SURF) in Lead, South Dakota.
+On Nov. 17, representatives of funding agencies from five countries signed a memorandum of understanding, affirming their commitment to contribute to the construction of components for DUNE. Director Lia Merminga signed on behalf of Fermilab.
+From left to right: Maria Luiza Moretti, Vice-Rector, Unicamp (Brazil); Reynald Pain, Director, IN2P3 (France); Fermilab Director Lia Merminga, Marco Pallavicini, INFN (Italy), Vice-President; Prof. Dr. Michele Weber, Director, Laboratory for High Energy Physics, University of Bern (Switzerland) and Professor Mark Thomson, Executive Chair, the UK Science and Technology Facilities Council (STFC) United Kingdom gathered at Fermilab on Nov. 17 to sign the memorandum of understanding affirming their contributions to the DUNE experiment. Credit: Ryan Postel, Fermilab
+“DUNE will help answer some of the biggest questions in the universe and has the potential to transform the field of neutrino physics. We are proud to host DUNE in the U.S. with major contributions from the project’s international partners who offer their unique expertise,” said Regina Rameika, DOE associate director for the Office of High Energy Physics. “Having the commitment from our international partners to contribute these vital components is an essential aspect of DUNE.”
+With their signatures, University of Campinas (Unicamp), Brazil, Institut National de Physique Nucléaire et de Physique des Particules (IN2P3), France, Istituto Nazionale Di Fisica Nucleare (INFN), Italy, University of Bern, Switzerland and the Science and Technology Facilities Council/United Kingdom Research and Innovation (STFC/UKRI), United Kingdom, committed to contributing hardware to the two DUNE Far Detectors in South Dakota.
+The Canadian Foundation for Innovation John R. Evans Leaders Fund and the Ontario Research Fund in Canada in addition to CERN in Switzerland also signed the memorandum of understanding remotely and will contribute to the DUNE Near Detector in Batavia, Illinois.
+Signatures from agencies in the Czech Republic and Spain have been coordinated and will be finalized in the future.
+In the memorandum of understanding for Far Detector 1, the United Kingdom and CERN agreed to contribute to anode plane assemblies; Brazil, the Czech Republic, Italy and Spain will contribute to the photon detection system; CERN will contribute to the high-voltage system; Canada, CERN and the U.K. will contribute to the data acquisition system; and Spain will contribute to the calibration and cryogenics instrumentation.
+In the memorandum of understanding for Far Detector 2, CERN and France agreed to contribute to top drift electronics; Brazil, the Czech Republic, France, Italy and Spain will contribute to the photon detection system; France and CERN will contribute to the high-voltage system; Canada, CERN and the U.K. will contribute to the data acquisition system; Spain will contribute to the calibration and cryogenics instrumentation; and CERN and France will contribute to the charge readout planes.
+Scientists and engineers from
+more than 35 countries
+are partnering with Fermilab to design, build and analyze data from DUNE, which will be installed in the new Long-Baseline Neutrino Facility. Construction of LBNF has begun, and the excavation of the large caverns in Lead, South Dakota for the DUNE Far Detectors is more than 85% complete.
+The DUNE collaboration comprises more than 1,400 scientists and engineers from over 200 research institutions. Notably, CERN’s commitment to LBNF and DUNE represents its first investment in infrastructure for a physics experiment outside of Europe. Several countries — France, India, Italy, Poland and the United Kingdom — also are making significant contributions to the
+Proton Improvement Plan II
+project, which includes the construction of the 215-meter-long superconducting particle accelerator at Fermilab that will power DUNE.
+DUNE will be the world’s most comprehensive experiment to study neutrinos: tiny, lightweight particles that permeate the universe but rarely interact with anything. DUNE will seek to determine whether neutrinos could be the reason the universe is made of matter; look for neutrinos emitted from exploding stars to learn more about the formation of neutron stars and black holes; and watch for a rare subatomic phenomenon that could elucidate the unification of nature’s forces.
+To pursue these science goals, DUNE will study neutrino oscillation, a phenomenon in which a neutrino’s property, called flavor, changes as it travels. DUNE will probe this oscillation by shooting a beam of neutrinos 1,300 kilometers straight through the earth, from Fermilab’s accelerator complex in Illinois, through the Near Detector to the Far Detectors located a mile underground at SURF in South Dakota.
+The science of DUNE is a global endeavor, and the partnership with funding agencies, scientists and engineers from around the world makes it the first truly international mega science experiment to be hosted on U.S. soil. Additionally, hundreds of students from all corners of the earth will start their careers in science, engineering and computing on this project.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Quotes from participating organizations:
+Brazil
+– Maria Luiza Moretti, Vice-Rector, Unicamp
+“I never imagined in my life that one day I would be representing my university, my country in such a wonderful, outstanding and remarkable project. Even though we were from different places from around the world, we are a team right now. Although we speak different languages, we all speak the language of science, education and progress.”
+Unicamp media contact: Mrs. Raquel Bueno,
+rabueno@unicamp.br
+Canada – Deborah Harris, professor, Natural Sciences and Engineering Research Councill of Canada and Nikolina Ilic, University of Toronto professor
+“DUNE is an example of just how much nations can accomplish when they work together.  We each arrived at this experiment from different places with different physics motivations but we both can’t wait to use our new eyes on the universe.”
+Media contacts:
+media@innovation.ca
+and
+media@nserc-crsng.gc.ca
+CERN –
+Joachim Mnich, CERN Director for Research and Computing
+“This is an important step for the international Deep Underground Neutrino Experiment, showing again the strong relationship between CERN and the United States and our common commitment to the future of our field. We are looking forward the science DUNE will bring to high energy particle physics.”
+CERN media contact: Arnaud Marsollier,
+Arnaud.Marsollier@
+cern
+.ch
+France – Reynald Pain, Director, IN2P3
+“DUNE will drive a new era in particle physics using neutrinos to probe physics beyond the standard model. IN2P3 is proud to contribute with major investments in implementing the Vertical Drift technology in one of the far detectors. DUNE allows France to deepen scientific and technological collaboration with the U.S. and international partners and, together, we are looking forward to major advances in our understanding of the physics of Universe.”
+IN2P3 media contact: Perrine Royole-Degieux,
+royole@in2p3.fr
+Italy – Marco Pallavicini, INFN vice-president
+“INFN sees the collaboration with DOE and Fermilab as strategic. We are happy to share the important responsibilities on both the construction of the PIP-II accelerator and on the detectors in South Dakota and at Fermilab. We look forward to the beautiful science this endeavor will bring.”
+INFN media contact: Eleonora Cossi,
+eleonora.cossi@presid.infn.it
+Switzerland – Prof. Dr. Michele Weber, director of the Laboratory for High Energy Physics (LHEP) of the University of Bern
+“I’m excited about the signing of the MoU for this most innovative fundamental physics experiment about neutrinos — Switzerland is very proud to be part of it.”
+University of Bern media contact: Ivo Schmucki,
+ivo.schmucki@unibe.ch
+U.K. –
+Professor Mark Thomson, Executive Chair of the UK Science and Technology Facilities Council (STFC)
+“The DUNE experiment is set to revolutionise our understanding of the role of neutrinos in particle physics.”
+STFC media contact: Alex Fyans,
+alexander.fyans@stfc.ac.uk
+Recommended reading
+View all news
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

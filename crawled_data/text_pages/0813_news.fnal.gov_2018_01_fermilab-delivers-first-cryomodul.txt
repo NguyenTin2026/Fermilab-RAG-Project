@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2018/01/fermilab-delivers-first-cryomodule-for-ultrapowerful-x-ray-laser-at-slac/
+Title: Fermilab delivers first cryomodule for ultrapowerful X-ray laser at SLAC
+────────────────────────────────────────────────────────────
+Fermilab delivers first cryomodule for ultrapowerful X-ray laser at SLAC
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab delivers first cryomodule for ultrapowerful X-ray laser at SLAC
+January 19, 2018
+Tags:
+accelerator technology
+California
+collaboration
+Jefferson Lab
+LCLS-II
+SLAC
+SRF
+SRF technology
+Virginia
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+A Fermilab team built and tested the first new superconducting accelerator cryomodule for the LCLS-II project, which will be the nation’s only X-ray free-electron laser facility.
+Science contact
+Rich Stanek, Fermilab ,
+rstanek@fnal.gov
+, 630-840-3519
+Media contact
+Andre Salles, Fermilab Office of Communication
+asalles@fnal.gov
+, 630-840-6733
+A Fermilab team built and tested the first new superconducting accelerator cryomodule for the LCLS-II project, which will be the nation’s only X-ray free-electron laser facility.
+The first cryomodule for SLAC’s LCLS-II X-ray laser departed Fermilab on Jan. 16. Photo: Reidar Hahn
+Earlier this week, scientists and engineers at the U.S. Department of Energy’s Fermilab in Illinois loaded one of the most advanced superconducting radio-frequency cryomodules ever created onto a truck and sent it heading west.
+Today, that cryomodule arrived at the U.S. DOE’s SLAC National Accelerator Laboratory in California, where it will become the first of 37 powering a three-mile-long machine that will revolutionize atomic X-ray imaging. The modules are the product of many years of innovation in accelerator technology, and the first cryomodule Fermilab developed for this project set a world record in energy efficiency.
+These modules, when lined up end to end, will make up the bulk of the accelerator that will power a massive upgrade to the capabilities of the Linac Coherent Light Source at SLAC, a unique X-ray microscope that will use the brightest X-ray pulses ever made to provide unprecedented details of the atomic world. Fermilab will provide 22 of the cryomodules, with the rest built and tested at the U.S. DOE’s Thomas Jefferson National Accelerator Facility in Virginia.
+The quality factor achieved in these components is unprecedented for superconducting radio-frequency cryomodules. The higher the quality factor, the lower the cryogenic load, and the more efficiently the cavity imparts energy to the particle beam. Fermilab’s record-setting cryomodule doubled the quality factor compared to the previous state-of-the-art.
+“LCLS-II represents an important technological step which demonstrates that we can build more efficient and more powerful accelerators,” said Fermilab Director Nigel Lockyer. “This is a major milestone for our accelerator program, for our productive collaboration with SLAC and Jefferson Lab and for the worldwide accelerator community.”
+Today’s arrival is merely the first. From now into 2019, the teams at Fermilab and Jefferson Lab will build the remaining cryomodules, including spares, and scrutinize them from top to bottom, sending them to SLAC only after they pass the rigorous review.
+“It’s safe to say that this is the most advanced machine of its type,” said Elvin Harms, a Fermilab accelerator physicist working on the project. “This upgrade will boost the power of LCLS, allowing it to deliver X-ray laser beams that are 10,000 times brighter than it can give us right now.”
+With short, ultrabright pulses that will arrive up to a million times per second, LCLS-II will further sharpen our view of how nature works at the smallest scales and help advance transformative technologies of the future, including novel electronics, life-saving drugs and innovative energy solutions. Hundreds of scientists use LCLS each year to catch a glimpse of nature’s fundamental processes.
+To meet the machine’s standards, each Fermilab-built cryomodule must be tested in nearly identical conditions as in the actual accelerator. Each large metal cylinder — up to 40 feet in length and 4 feet in diameter — contains accelerating cavities through which electrons zip at nearly the speed of light. But the cavities, made of superconducting metal, must be kept at a temperature of 2 Kelvin (minus 456 degrees Fahrenheit).
+Thirty-seven cryomodules lined end to end  — half from Fermilab and half from Jefferson Lab — will make up the bulk of the LCLS-II accelerator. Photo: Reidar Hahn
+To achieve this, ultracold liquid helium flows through pipes in the cryomodule, and keeping that temperature steady is part of the testing process.
+“The difference between room temperature and a few Kelvin creates a problem, one that manifests as vibrations in the cryomodule,” said Genfa Wu, a Fermilab scientist working on LCLS-II. “And vibrations are bad for linear accelerator operation.”
+In initial tests of the prototype cryomodule, scientists found vibration levels that were higher than specification. To diagnose the problem, they used geophones — the same kind of equipment that can detect earthquakes — to rule out external vibration sources. They determined that the cause was inside the cryomodule and made a number of changes, including adjusting the path of the flow of liquid helium. The changes worked, substantially reducing vibration levels — to a 10th of what they were originally — and have been successfully applied to subsequent cryomodules.
+Fermilab scientists and engineers are also ensuring that unwanted magnetic fields in the cryomodule are kept to a minimum, since excessive magnetic fields reduce the operating efficiency.
+“At Fermilab, we are building this machine from head to toe,” Lockyer said. “From nanoengineering the cavity surface to the integration of thousands of complex components, we have come a long way to the successful delivery of LCLS-II’s first cryomodule.”
+Fermilab has tested seven cryomodules, plus one built and previously tested at Jefferson Lab, with great success. Each of those, along with the modules yet to be built and tested, will get its own cross-country trip in the months and years to come.
+Read more about the LCLS-II project in
+SLAC’s press release
+.
+This project is supported by DOE’s Office of Science. LCLS is a DOE Office of Science user facility.
+Fermilab is America’s premier national laboratory for particle physics research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois and operated under contract by the Fermi Research Alliance, LLC. Visit Fermilab’s website at
+http://www.fnal.gov
+and follow us on Twitter
+@Fermilab
+.
+The DOE Office of Science is the single largest supporter of basic research in the physical sciences in the United States, and is working to address some of the most pressing challenges of our time. For more information, please visit
+http://science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab completes its part in upgrading world’s most powerful X-ray laser
+April 30, 2026
+cryomodule
+Jefferson Lab
+laser
+LCLS-II
+SLAC National Accelerator Laboratory
+x-ray
+Fermilab feature
+Fermilab sent its final contribution for the high-energy upgrade of the superconducting accelerator for SLAC’s X-ray laser, LCLS. The technology they developed will be transferred to industry for semiconductor-chip production and will be used in the Proton Improvement Plan-II, one of Fermilab’s flagship projects.
+Dave Newbold elected co-spokesperson of DUNE collaboration
+March 17, 2026
+collaboration
+DUNE
+leadership
+Press release
+The Deep Underground Neutrino Experiment collaboration announced that a new spokesperson was elected to co-lead the largest neutrino experiment in the U.S. DUNE is at a pivotal time in the development of the massive far detectors and the build-out of the underground space in South Dakota.
+HiLumi LHC: full-scale tests start
+February 24, 2026
+accelerator magnets
+collaboration
+HL-LHC Accelerator Upgrade Project
+Press release
+Scientists at CERN have triggered the complex cooldown of a 95-meter-long test stand that reproduces the underground configuration of innovative technologies for the Large Hadron Collider’s high-luminosity upgrade.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

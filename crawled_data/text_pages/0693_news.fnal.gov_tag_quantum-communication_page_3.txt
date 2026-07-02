@@ -1,0 +1,248 @@
+URL: https://news.fnal.gov/tag/quantum-communication/page/3/
+Title: quantum communication Archives - Page 3 of 3 - News
+────────────────────────────────────────────────────────────
+quantum communication Archives - Page 3 of 3 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+quantum communication
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+21 - 30 of 30 results
+U.S. Department of Energy announces quantum internet plan in Chicago
+July 28, 2020
+Department of Energy
+DOE
+quantum communication
+quantum information science
+quantum internet
+quantum network
+quantum science
+From mystateline.com, July 23, 2020: At a press event on July 23, DOE unveiled a blueprint strategy for the development of a national quantum internet infrastructure. Argonne and the University of Chicago entangled photons across a 52-mile “quantum loop” in the Chicago suburbs. That network will soon be connected to Fermilab, establishing a three-node, 80-mile test bed.
+Why Chicago is central to developing a game-changing ‘quantum internet’
+July 27, 2020
+Argonne
+Argonne National Laboratory
+Department of Energy
+DOE
+quantum communication
+quantum information science
+quantum internet
+quantum network
+quantum science
+University of Chicago
+From WGN9, July 23, 2020: The future of the internet is being designed right here in Chicago, as some of the top scientists in the world unveiled their plans to research and build a “quantum internet” on July 23. Fermilab, Argonne, University of Chicago, Northwestern, and University of Illinois have already laid some of the groundwork.
+The quantum internet of the future is here
+July 27, 2020
+Department of Energy
+DOE
+quantum communication
+quantum information science
+quantum internet
+quantum network
+quantum science
+From the Department of Energy, July 23, 2020: Under Secretary for Science Paul Dabbar writes about the world of new possibilities and opportunities that the quantum internet will open, summarizing the blueprint unveiled on July 23.
+DOE unveils blueprint for ‘unhackable’ quantum internet: central roles for Argonne, University of Chicago, Fermilab
+July 24, 2020
+Argonne
+Argonne National Laboratory
+quantum communication
+quantum information
+quantum internet
+quantum network
+quantum science
+University of Chicago
+From Inside HPC, July 23, 2020: The Department of Energy unveiled on July 23 a strategy for the development of a national quantum internet intended to bring “the United States to the forefront of the global quantum race and usher in a new era of communications.” Earlier this year, Argonne National Laboratory and the University of Chicago entangled photons across a 52-mile “quantum loop” in the Chicago suburbs, “successfully establishing one of the longest land-based quantum networks in the nation,” according to DOE. That network will be connected to Fermilab, establishing a three-node, 80-mile test bed.
+In push for better cybersecurity, U.S. Energy Department outlines a national quantum internet
+July 23, 2020
+Argonne
+Argonne National Laboratory
+Department of Energy
+DOE
+quantum communication
+quantum information science
+quantum internet
+quantum network
+quantum science
+University of Chicago
+From The Wall Street Journal, July 23, 2020: The network, which uses quantum principles to more securely transmit data, could be functional in about a decade. Argonne National Laboratory and the University of Chicago established in February a quantum network of 52 miles’ worth of entangled photons running on unused telecom fiber in the Chicago suburbs. In about a year, the network is expected to be connected to Fermilab, creating an 80-mile quantum internet test bed.
+U.S. Department of Energy unveils blueprint for the quantum internet at ‘Launch to the Future: Quantum Internet’ event
+July 23, 2020
+Argonne
+Argonne National Laboratory
+Department of Energy
+DOE
+Illinois
+quantum communication
+quantum information science
+quantum internet
+quantum science
+University of Chicago
+Press release
+The U.S. Department of Energy unveils a report that lays out a blueprint strategy for the development of a national quantum internet, bringing the United States to the forefront of the global quantum race and ushering in a new era of communications. This report provides a pathway to ensure the development of the National Quantum Initiative Act.
+Partnership between the University of Chicago and Argonne National Laboratory leads to new methods of quantum communication
+March 23, 2020
+Argonne
+quantum communication
+quantum information science
+quantum network
+quantum science
+University of Chicago
+From The Chicago Maroon, March 22, 2020: The University of Chicago, working with scientists from Argonne National Laboratory, has developed a new fiber-optic quantum loop to expand quantum communication experiments. Along with the UChicago quantum loop, Argonne  is working with Fermilab to plan and develop a similar two-way quantum link network.
+Caltech and JPL launch hybrid high rate quantum communication systems
+March 10, 2020
+California
+Caltech
+quantum communication
+quantum information science
+quantum network
+quantum science
+From EurekAlert!, March 6, 2020: Caltech and JPL have designed a practical, high-rate, high-fidelity quantum communication system over fiber and free space. The team is on track to deploy, commission and demonstrate both concepts, including a free-space, municipal quantum link between JPL and Caltech, in 2020-21. They will also establish a space-based quantum optical connection between the Caltech-JPL quantum network and quantum networks in the Midwest, including Fermilab’s FQNET and IEQNET, together with Argonne National Laboratory.
+DOE Under Secretary for Science Paul Dabbar visits Fermilab to discuss quantum program
+January 23, 2019
+computing
+dark matter
+Department of Energy
+detector technology
+DOE
+machine learning
+quantum communication
+quantum computing
+quantum information science
+quantum science
+quantum sensor
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+Fermilab’s quantum program includes a number of leading-edge research initiatives that build on the lab’s unique capabilities as the U.S. center for high-energy physics and a leader in quantum physics research. On the tour, researchers discussed quantum technologies for communication, high-energy physics experiments, algorithms and theory, and superconducting qubits hosted in superconducting radio-frequency cavities.
+Department of Energy awards Fermilab more than $10 million for quantum science
+September 24, 2018
+accelerator technology
+quantum
+quantum communication
+quantum computing
+quantum science
+quantum sensor
+Press release
+Through its Quantum Information Science-Enabled Discovery program, DOE is awarding Fermilab researchers funding for five quantum-science initiatives. It also funds Fermilab’s participation in three further initiatives led by other institutions.
+«
+1
+2
+3
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

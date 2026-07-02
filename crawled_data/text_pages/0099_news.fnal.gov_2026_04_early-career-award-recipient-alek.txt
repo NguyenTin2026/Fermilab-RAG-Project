@@ -1,0 +1,183 @@
+URL: https://news.fnal.gov/2026/04/early-career-award-recipient-aleksandra-ciprijanovic-aims-to-create-universal-ai-analysis-framework/
+Title: Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+────────────────────────────────────────────────────────────
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Early Career Award recipient Aleksandra Ćiprijanović aims to create universal AI analysis framework
+April 2, 2026
+| By:
+Madeleine O’Keefe
+Tags:
+AI
+award
+particle physics
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Aleksandra Ćiprijanović will use artificial intelligence to solve the domain shift problem in high-energy physics research. Fermilab’s computing capabilities make it uniquely positioned to support this project.
+Aleksandra Ćiprijanović, a Wilson Fellow and associate scientist at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, is a recipient of a 2025 DOE Early Career Award. Her project, “Bridging the Gap Between Scientific Datasets with Artificial Intelligence,” was selected for funding by the Office of High Energy Physics as part of the new Computational Research in High Energy Physics program.
+Ćiprijanović’s project aims to address a problem that she encountered almost a decade ago when she first started dabbling with AI in her research: the domain shift problem. The problem occurs when a machine learning model is trained on one dataset but is tested or deployed on data that comes from somewhere else; since the model only learned patterns from the training data, its performance often drops when the data changes.
+The domain shift problem is persistent in high-energy physics research. Scientists often use simulations to train their AI models, but computational constraints, approximations and unknown physics create unavoidable differences between simulations and real data. This means simulation-trained AI models may perform poorly when they are applied to experimental data.
+“Trying to solve this would help the high-energy physics community in general,” said Ćiprijanović.
+So Ćiprijanović wants to create a universal AI analysis framework to bridge the gap between simulated and real data. “The main deliverable of this project is going to be a software package that is general and broad and easy to use for all communities,” she said. “You can just plug in your own dataset, easily choose the type of AI model that you want to train and a downstream task that you want to solve.”
+Aleksandra Ćiprijanović is a recipient of a 2025 DOE Early Career Award. Credit: Ryan Postel, Fermilab
+While she plans to start with cosmological data — since that is her scientific home — Ćiprijanović also intends to test her project on collider and neutrino physics.
+“I really do want to make a software framework that will be used across different high-energy physics frontiers,” she said.
+The framework will have a modular structure and a number of data, model and task options to enable broad scientific use and solutions to any high-energy physics domain-shift problem.
+Fermilab is uniquely positioned to support this project, said Ćiprijanović. The lab’s science and computing capabilities will enable the creation of a universal AI analysis framework that will work with a vast range of high-energy physics research needs and coding standards.
+“We will need to find people to test out the code and give us inputs from cosmic and from neutrinos and from the collider world,” said Ćiprijanović. “Luckily, at Fermilab, we have experts from all these frontiers! Fermilab is the place to do this.”
+Since 2010, the highly competitive DOE Office of Science
+Early Career Research Program
+has distributed funding annually to support outstanding early career scientists at universities, national laboratories and Office of Science user facilities.
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

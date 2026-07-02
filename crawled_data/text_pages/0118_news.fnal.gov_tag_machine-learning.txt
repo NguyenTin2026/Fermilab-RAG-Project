@@ -1,0 +1,211 @@
+URL: https://news.fnal.gov/tag/machine-learning/
+Title: machine learning Archives - News
+────────────────────────────────────────────────────────────
+machine learning Archives - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+machine learning
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+1 - 10 of 27 results
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+January 15, 2026
+AI
+emerging technologies
+machine learning
+microelectronics
+particle detector technology
+partnership
+Fermilab feature
+Fermilab researchers have provided expertise and leadership in developing an open-source framework that enables the design of hardware capable of making split-second decisions. These advances aim to prioritize the enormous volumes of data produced by some of humanity’s most ambitious physics experiments.
+A physicists’ guide to the ethics of artificial intelligence
+May 17, 2024
+AI
+machine learning
+Symmetry feature
+Physics may seem like its own world, but different sectors using machine learning are all part of the same universe.
+Machine learning and experiment
+April 26, 2024
+AI
+machine learning
+Symmetry feature
+For more than 20 years in experimental particle physics and astrophysics, machine learning has been accelerating the pace of science, helping scientists tackle problems of greater and greater complexity.
+A novel type of neural network comes to the aid of big physics
+July 19, 2023
+data analysis
+DUNE
+machine learning
+From Wired, July 16, 2023: The use of a machine learning tool known as sparse convolutional neural network is now being used by researchers to accelerate real-time data analysis.  SCNNs have been used in simulations of the data expected from DUNE and analyzed the simulated data faster than ordinary methods while requiring significantly less computational power.
+Will AI make MC the MVP of particle physics?
+July 18, 2023
+AI
+machine learning
+Monte Carlo simulation
+Symmetry feature
+Particle physicists are building innovative machine-learning algorithms to enhance Monte Carlo simulations with the power of AI.
+The coevolution of particle physics and computing
+September 28, 2021
+computing
+machine learning
+quantum
+Tevatron
+Symmetry feature
+Over time, particle physics and astrophysics and computing have built upon one another’s successes. That coevolution continues today. New physics experiments require computing innovation, including cluster computing for the Tevatron, and more recently machine learning and quantum problem-solving.
+A minute with Aleksandra Ćiprijanović, astrophysicist
+June 21, 2021
+artificial intelligence
+astronomy
+astrophysics
+machine learning
+people
+Fermilab feature
+Whether in Serbia or Chicago, Fermilab postdoctoral researcher Aleksandra Ćiprijanović is working to unlock the secrets of the night sky. As a member of the Deep Skies Lab, an international collaboration of physicists, she’s figuring out how to use artificial intelligence and machine learning to better handle the huge amounts of data needed for discovery science.
+MLCommons launches machine learning benchmark for devices like smartwatches and voice assistants
+June 17, 2021
+artificial intelligence
+machine learning
+spectrogram
+From AI Business, June 16, 2021: Fermilab was part of a consortium  helping in the development of the TinyML benchmark from MLCommons to measure machine learning performance that will bring intelligence to devices like wearables, thermostats, and cameras.
+New computing algorithms expand the boundaries of a quantum future
+April 5, 2021
+Fermilab Quantum Institute
+machine learning
+quantum computing
+qubits
+result
+Fermilab feature
+To fully realize the potential of quantum computing, scientists must start with the basics: developing step-by-step procedures, or algorithms, for quantum computers to perform simple tasks. A Fermilab scientist has done just that, announcing two new algorithms that build upon existing work in the field to further diversify the types of problems quantum computers can solve.
+Searching for stealthy supersymmetry
+April 2, 2021
+CERN
+CMS
+Large Hadron Collider
+LHC
+LPC
+machine learning
+result
+supersymmetry
+Fermilab feature
+U.S. CMS physicists from Fermilab and associated universities collaborating under the umbrella of the LPC make up a team that is the first to perform a new kind of search for “stealthy” supersymmetry that does not result in an obvious signature of large energy imbalance. Instead, the LPC team is looking for collisions that result in an unusually large number of particles in the detector. CMS recently published a briefing explaining their analysis.
+1
+2
+3
+»
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

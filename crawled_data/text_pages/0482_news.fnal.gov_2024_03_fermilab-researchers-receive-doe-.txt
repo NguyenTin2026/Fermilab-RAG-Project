@@ -1,0 +1,199 @@
+URL: https://news.fnal.gov/2024/03/fermilab-researchers-receive-doe-funding-to-advance-emerging-technologies-for-future-industries/
+Title: Fermilab researchers receive DOE funding to advance emerging technologies for future industries
+────────────────────────────────────────────────────────────
+Fermilab researchers receive DOE funding to advance emerging technologies for future industries
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab researchers receive DOE funding to advance emerging technologies for future industries
+March 14, 2024
+| By:
+Marcia Teckenbrock
+Tags:
+compact accelerator
+emerging technologies
+funding
+microelectronics
+partnership
+photon detector
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The funded research areas include state-of-the-art technologies for detecting dark matter; 3D integrated sensors to process tiny, ultrafast signals with high precision; and powerful, compact electron-beam accelerators for industrial use.
+As part of its
+Accelerate Innovations program
+the U.S. Department of Energy is funding three emerging technologies projects involving researchers at its Fermi National Accelerator Laboratory. They are among
+eleven DOE national lab projects
+awarded a total of $73 million in funding over a two-year period. The funding aims to speed up the transition of new technology from discovery to industry.
+Superconducting photon detector technology
+The first project, led by Fermilab, will develop and extend the capabilities of existing superconducting nanowire single-photon detectors, also known as SNSPDs. The technological advances could enable discoveries in fundamental science. Fermilab scientists are particularly interested in using them to expand the search for axions—hypothetical particles that may make up the mysterious dark matter in the universe.
+“This work may translate into an enormous scientific opportunity,” said Fermilab’s Si Xie, principal investigator for the project. “Our project and funding are specifically for particle physics applications including dark matter searches. But the result could have wide-ranging impact on diverse fields of science including the search for far away planets, environmental monitoring and climate change applications, and studying some biochemical processes.”
+SNSPDs are ultrafast light sensors that use a thin superconducting wire to detect single photons. Scientists operate them at very low temperatures and send an electric current through the wire just below the maximum the superconducting material can withstand without turning normal conducting. When a single photon hits the nanowire, it transfers just enough energy to push the nanowire out of its superconducting state. This causes the material to develop electrical resistance, which creates a measurable voltage pulse.
+Fermilab scientist Si Xie mounts a superconducting nanowire single photon detector inside a cryostat. He and his colleagues will use the detector to look for light created by dark matter particles. Photo: Christina Wang, Fermilab
+The new SNSPD detectors will use very little energy and be ideal for detecting faint photon signals formed by particle interactions that may signal axion existence.  The project aims to enable scientists to seek low-energy light from axions with masses in the mid-infrared range, equivalent to 0.05-1 electronvolts. This mass range has remained unexplored so far; no previous detection technology is sensitive enough to such low-energy signals.
+To achieve their goal, the project team aims to construct and test prototype detectors with energy thresholds 20 or more times lower than that of conventional SNSPDs. Lower energy thresholds aid in efficient detection of low-frequency, low-energy photons in this range.
+As part of their work, the project team will develop specialized antenna structures. These will enable, for the first time, mid-infrared SNSPD detectors with an active sensor area larger than 1 square millimeter. They will also focus on improving the ultrafast signal readout by developing novel sensor electronics that extract and detect particle signals at greater resolution than existing SNSPDs.
+Developing 3D integrated sensing solutions
+Fermilab project co-lead Davide Braga holds an integrated circuit developed at Fermilab for extreme environment applications. Scientists aim to make this sensor much tinier while increasing its accuracy and timing. Photo: Albert Dyer, Fermilab
+Anything using microelectronics today requires a lot of functionality squeezed into a tiny amount of space. This includes particle physics experiments, which need low-power detectors with precision timing and position capabilities and high-throughput readout. Conventional two-dimensional chip technology has reached its limits and can no longer meet the ever more stringent requirements.
+To help solve this problem, DOE has funded a new project led by SLAC National Accelerator Laboratory. The project will enable large-scale particle sensors with three-dimensional integrated circuits to process much smaller, much faster signals at a higher level of precision. Fermilab is a major contributor to this project. Artur Apresyan and Davide Braga are the project co-investigators at Fermilab.
+The sensors will be part of 3D heterogeneously integrated detectors—essentially stacked wafers, each layer with its own functionality. The wafers are connected at the micrometer scale. This eliminates traditional larger interconnections and significantly improves the fidelity of signals all along the chain.
+“You can have a lower power because you are getting signals with low noise, so you can use resources more optimally and you can do a lot more with those resources,” said Apresyan.
+While the current generation of this technology uses rather large pixels, around one millimeter, the goal is to scale this down to 50-micron pixels.
+“We want to demonstrate 3D integrated sensors that utilize Low Gain Avalanche Detector particle sensors that provide very fast timing information,” said Braga. “We intend to simultaneously achieve 10-micron position resolution and 10-picosecond precision timing while consuming low power and reaching high throughput rates.”
+The team is also partnering with a commercial chip company to develop advanced manufacturing capability for this novel technology. Their fabrication know-how will be essential for the codesign of sensor and electronics for scaling, said Braga.
+“As we develop the technology to fabricate novel detectors using cutting-edge industrial processes, the partnership will allow us to tap into advanced manufacturing facilities to develop sensors that perform sophisticated operations on the detector itself that were not possible before,” said Apresyan.
+Artur Apresyan inspects the Fermilab-designed integrated circuit that will be used for precision timestamping of signals from silicon detectors. Photo: Cristian Peña, Fermilab
+Compact accelerators for industrial applications
+The third project is a collaboration between DOE’s Thomas Jefferson National Accelerator Facility and Fermilab. It aims to advance the use of compact superconducting radiofrequency electron-beam accelerator technology for industrial processes. As part of the project,
+researchers at Jefferson Lab
+are focusing on further developing the particle accelerator technology. Fermilab will identify industrial applications and develop a technology roadmap to satisfy industrial needs.
+“We’re investigating where an electron-beam accelerator could be a good fit and solve problems,” said scientist Slavica Grdanovska, principal investigator at Fermilab for the project. “We’re focusing on industrial processes—where you can maybe substitute conventional technologies with e-beam technology—or see if it can help make their current processes more efficient.”
+By organizing a workshop with potential industry partners this spring, the project team aims to identify barriers to implementing this powerful technology.
+“At this workshop, we want to show potential industrial partners the current status of our technology, identify processes in the industry where electron beams could make a difference, and focus on specific targets that need to be reached in the accelerator design for use in an industrial setting,” said Fermilab scientist Charles Thangaraj. “We are also seeking potential partners for system integration and production once these machines are ready.”
+Fermilab and Jefferson Lab will then hash out the accelerator technology roadmap to reach those targets.
+Fermilab scientists Slavica Grdanovska (left) and Charles Thangaraj stand next to the conduction cooled cryostat that houses superconducting accelerator technology for industrial electron beam applications. Photo: Tom Nicol, Fermilab
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab leads multi-lab AI initiative to accelerate design of chips used in extreme environments
+May 18, 2026
+AI
+Genesis Mission
+microelectronics
+Fermilab feature
+Researchers with Department of Energy national laboratories are working together alongside industry collaborators to support Genesis Mission goals by using the power of artificial intelligence to significantly reduce design times of custom computer chips for use in extreme temperature, high-radiation and ultra-fast environments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

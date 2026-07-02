@@ -1,0 +1,181 @@
+URL: https://news.fnal.gov/2025/07/fermilab-engages-in-noble-pursuit-of-discovery-energy-secretary-says-in-first-visit/
+Title: Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+────────────────────────────────────────────────────────────
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Fermilab engages in ‘noble pursuit’ of discovery, Energy Secretary says in first visit
+July 24, 2025
+| By:
+Mike Nartker
+Tags:
+accelerator
+energy
+particle physics
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+U.S. Secretary of Energy Chris Wright visited Fermilab recently to see firsthand how the lab is advancing American leadership in fundamental science, artificial intelligence and quantum research. During his tour, he explored cutting-edge projects and praised Fermilab’s commitment to understanding the structure of the universe.
+Fermi National Acceleratory Laboratory rolled out the red carpet on July 17 to welcome U.S. Secretary of Energy Chris Wright for his first visit to America’s, and the world’s, neutrino research capital.
+Secretary Wright had the opportunity to discover first-hand how Fermilab is driving American leadership in fundamental sciences and advancing cutting-edge fields like artificial intelligence and quantum science. He not only saw how Fermilab is pursuing groundbreaking research today, but also how the lab is preparing to maintain American momentum in the future by advancing critical flagship projects like the Long-Baseline Neutrino Facility for the Deep Underground Neutrino Experiment, or LBNF-DUNE. Most importantly, he was able to see Fermilab’s leadership in encouraging collaboration among researchers from around the world to better tackle complex scientific challenges.
+Secretary of Energy Chris Wright (center) speaks with Interim Director of Fermilab Young-Kee Kim (right) as Project Director of LBNF-DUNE-US Jim Kerby (second from left) and President of University of Chicago Paul Alivisatos (third from left) walk with them during an underground tour of DUNE prototype detectors and quantum and dark matter labs. Credit: Ryan Postel, Fermilab
+“It was an honor to host Secretary Wright during his visit to Fermilab and show him how we are helping America lead in science and innovation,” Fermilab interim director Young-Kee Kim said. “Secretary Wright made clear how much he appreciates the value of basic science and the role Fermilab and all the national laboratories play in America’s future.”
+During his visit, Secretary Wright stopped at the Main Injector — one of Fermilab’s five particle accelerators, which is notable for producing the world’s most powerful high-energy neutrino beam. He traveled down more than 300 feet to Fermilab’s underground laboratory to see one of the prototype detectors for the LBNF-DUNE project, which will use neutrinos to help answer the fundamental question of why our universe is dominated by matter. He also observed work underway on the Proton Improvement Plan-II project, critical to powering LBNF-DUNE and other experiments, and even had the chance to sign one of the PIP-II cryomodules.
+With the U.S. Department of Energy focused on advancing America’s preeminence in the field of artificial intelligence, Secretary Wright got to learn more about how Fermilab is leveraging its expertise in both AI and quantum computing. He toured the Superconducting Quantum Materials and Systems Center, one of DOE’s five National Quantum Information Science Research Centers and learned more about how Fermilab is supporting the development of new quantum computers that will enable unprecedented positive impacts for science and society.
+The leader of the pack is right here at Fermi, where a huge amount of the effort is just trying to understand the basic structure of the cosmos.
+Chris Wright, U.S. Secretary of Energy
+At the iconic Wilson Hall, Secretary Wright visited the Remote Operations Center for the CMS experiment at CERN. CMS is one of two particle detectors at the Large Hadron Collider that confirmed the existence of the Higgs boson, and Fermilab is the host institution for the U.S. collaboration that contributed to the landmark discovery.
+Secretary Wright capped his visit by addressing more than 1,000 Fermilab staff, interns and members of the broader laboratory community, saying he was “educated and inspired” by what he saw during the tour. Secretary Wright also reconfirmed his commitment, and that of DOE, to the types of basic scientific research at the heart of Fermilab’s mission.
+“The leader of the pack is right here at Fermi, where a huge amount of the effort is just trying to understand the basic structure of the cosmos,” Secretary Wright said. “Fermilab is engaged in a noble and valued pursuit. We must pursue that path.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

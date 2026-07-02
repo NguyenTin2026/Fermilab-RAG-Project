@@ -1,0 +1,255 @@
+URL: https://news.fnal.gov/2025/06/muon-g-2-most-precise-measurement-of-muon-magnetic-anomaly/
+Title: Muon g-2 announces most precise measurement of the magnetic anomaly of the muon
+────────────────────────────────────────────────────────────
+Muon g-2 announces most precise measurement of the magnetic anomaly of the muon
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Muon g-2 announces most precise measurement of the magnetic anomaly of the muon
+June 3, 2025
+Tags:
+Muon g-2
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The third and final result, based on the last three years of data, is in perfect agreement with the experiment’s previous results, further solidifying the experimental world average. This long-awaited value will be the world’s most precise measurement of the muon magnetic anomaly for many years to come.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Scientists working on the
+Muon g-2 experiment
+, hosted by the U.S. Department of Energy’s Fermi National Accelerator Laboratory, have released their third and final measurement of the muon magnetic anomaly. This value is related to g-2, the experiment’s namesake measurement. The final result agrees with their published results from 2021 and 2023 but with a much better precision of 127 parts-per-billion, surpassing the original experimental design goal of 140 parts-per-billion.
+“The anomalous magnetic moment, or g–2
+,
+of the muon is important because it provides a sensitive test of the Standard Model of particle physics. This is an exciting result and it is great to see an experiment come to a definitive end with a precision measurement,” said Regina Rameika, the U.S. Department of Energy’s Associate Director for the Office of High Energy Physics.
+“This is a very exciting moment because we not only achieved our goals but exceeded them …”
+Peter Winter
+Muon g-2 collaboration co-spokesperson
+This long-awaited result is a tremendous achievement of precision and will remain the world’s most precise measurement of the muon magnetic anomaly for many years to come. Despite recent challenges with the theoretical predictions that reduce evidence of new physics from muon g-2, this result provides a stringent benchmark for proposed extensions of the Standard Model of particle physics.
+“This is a very exciting moment because we not only achieved our goals but exceeded them, which is not very easy for these precision measurements,” said Peter Winter, a physicist at Argonne National Laboratory and co-spokesperson for the Muon g-2 collaboration. “With the support of the funding agencies and the host lab, Fermilab, it has been very successful overall, as we reached or surpassed pretty much all the items that we were aiming for.”
+“For over a century, g-2 has been teaching us a lot about the nature of nature,” said Lawrence Gibbons, professor at Cornell University and analysis co-coordinator for this result. “It’s exciting to add a precise measurement that I think will stand for a long time.”
+The third and final result from the Muon g-2 collaboration, based on the last three years of data, is in perfect agreement with the previous results, further solidifying the experimental world average. Credit: Muon g-2 collaboration
+The Muon g-2 (pronounced “gee minus two”) experiment looks at the wobble of a fundamental particle called the
+muon
+. Muons are similar to electrons but about 200 times more massive; like electrons, muons have a quantum mechanical property called spin that can be interpreted as a tiny internal magnet. In the presence of an external magnetic field, the internal magnet will wobble — or precess — like the axis of a spinning top.
+The precession speed in a magnetic field depends on properties of the muon described by a number called the g-factor. Theoretical physicists calculate the g-factor based on the current knowledge of how the universe works at a fundamental level, which is contained in the
+Standard Model
+of particle physics.
+Nearly 100 years ago, the value of g was predicted to be 2. But experimental measurements soon showed g to be slightly different from 2 by a quantity known as the magnetic anomaly of the muon, a
+μ
+, calculated with (g-2)/2. The Muon g-2 experiment gets its name from this relation.
+The muon magnetic anomaly encodes the effects of all Standard Model particles, and theoretical physicists can calculate these contributions to an incredible precision. But previous measurements taken
+at Brookhaven National Laboratory
+in the late 1990s and early 2000s showed a possible discrepancy with the theoretical calculation at that time.
+When experiment doesn’t align with theory, it could indicate new physics. Specifically, physicists wondered if this discrepancy could be caused by as-yet undiscovered particles pulling at the muon’s precession.
+So physicists decided to upgrade the Muon g-2 experiment to make a more precise measurement. In 2013, Brookhaven’s magnetic storage ring was
+transported
+from Long Island, New York, to Fermilab in Batavia, Illinois. After years of significant upgrades and improvements, the Fermilab Muon g-2 experiment started up on
+May 31, 2017
+.
+The June 3, 2025 results from Fermilab represents analysis of the experiment’s best-quality data as a result of tweaks and enhancements to the experiment in 2023 that improved the quality of the muon beam and reduced uncertainties. Credit: Ryan Postel, Fermilab
+In parallel, an international collaboration of theorists formed the
+Muon g-2 Theory Initiative
+to improve the theoretical calculation. In 2020, the Theory Initiative
+published
+an updated, more precise Standard Model value based on a technique that uses input data from other experiments.
+The discrepancy with the result from that technique continued to grow in 2021 when Fermilab announced its
+first experimental result
+, confirming the Brookhaven result with a slightly improved precision. At the same time, a new
+theoretical prediction
+came out based on a second technique that heavily relies on computational power. This new number was closer to the experimental measurement, narrowing the discrepancy.
+Recently, the Theory Initiative
+published
+a new prediction combining the results of several groups that used the new computational technique. This result remains closer to the experimental measurement, dampening the possibility of new physics. However, the theoretical effort will continue to work to understand the discrepancy between the data-driven and computational approaches.
+The latest experimental value of the magnetic moment of the muon from the Fermilab experiment is:
+a
+μ
+= (g-2)/2 (muon, experiment) = 0.001 165 920 705 +- 0.000 000 000 114(stat.)
++- 0.000 000 000 091(syst.)
+This final measurement is based on the analysis of the last three years of data, taken between 2021 and 2023, combined with the previously published datasets. This more than tripled the size of the dataset used for their
+second result
+in 2023, and it enabled the collaboration to finally achieve their precision goal proposed in 2012.
+It also represents an analysis of the experiment’s best-quality data. Toward the end of their second data-taking run, the Muon g-2 collaboration finished tweaks and enhancements to the experiment that improved the quality of the muon beam and reduced uncertainties.
+The Muon g-2 collaboration describes the result in a paper that they
+submitted
+today to Physical Review Letters.
+“As it has been for decades, the magnetic moment of the muon continues to be a stringent benchmark of the Standard Model,” said Simon Corrodi, assistant physicist at Argonne National Laboratory and analysis co-coordinator. “The new experimental result sheds new light on this fundamental theory and will set the benchmark for any new theoretical calculation to come.”
+A plot showing the accumulated amount of data analyzed (in number of positrons) over the six data-taking periods, or runs, from April 2018 to May 2023. Credit: Muon g-2 collaboration
+A
+future experiment
+at the Japan Proton Accelerator Research Complex will likely make another measurement of the muon magnetic anomaly in the early 2030s, but, initially, they won’t achieve the same precision as Fermilab.
+Meanwhile, the Theory Initiative will continue working to resolve the inconsistency between their two theoretical predictions.
+The Muon g-2
+collaboration
+is made up of nearly 176 scientists from 34 institutions in seven countries. Marco Incagli, a physicist with the Italian National Institute for Nuclear Physics at Pisa and co-spokesperson for Muon g-2, emphasized that the internationality of the collaboration was key to the success of the experiment.
+Unusually, the scientists also represent a variety of physics areas. “This experiment is quite peculiar because it has very different ingredients in it,” said Incagli. “It is really done by a collaboration among communities that normally work on different experiments.”
+Unlike other high-energy physics experiments, Muon g-2 needed more than just high-energy physicists; the collaboration is also composed of accelerator physicists, atomic physicists and nuclear physicists. “It was very valuable to see that, when we had all these different experts come together, we could solve items that probably one group could not have done alone,” said Incagli.
+It was very valuable to see that, when we had all these different experts come together, we could solve items that probably one group could not have done alone.
+Marco Incagli
+Muon g-2 collaboration co-spokesperson
+While the experiment’s main analysis has come to an end, there is more to be mined from the six years of Muon g-2 data. In the future, the collaboration will produce measurements of a property of the muon called the electric dipole moment, as well as tests of a fundamental property of physical laws known as charge, parity, and time-reversal symmetry.
+“It’s a really beautiful experiment,” said Gibbons. “The data that comes out is really exquisite. It’s been a privilege to have access to this data and analyze it.”
+“Of course, it’s sad to end such an endeavor because it’s been a large part of many of our collaborators’ lives,” said Winter, who has been part of the collaboration since 2011. “But we also want to move to the next physics that’s out there, to do our best to advance the field in other areas.
+“I think it will be a textbook experiment that will be a long-lasting reference for many future decades to come,” Winter added.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Fermilab experiment receives prestigious Breakthrough Prize in Fundamental Physics
+April 18, 2026
+muon
+Muon g-2
+Standard Model
+Press release
+The Muon g-2 experiment at Fermilab received the prestigious Breakthrough Prize in fundamental physics for its precision measurement of the muon.
+Meet the winners of the 2025 Universities Research Association awards
+December 19, 2025
+accelerator complex
+ICARUS
+LBNF/DUNE
+Muon g-2
+neutrino
+SBND
+URA
+Fermilab feature
+Gray Putnam, James Mott, Lauren Yates and Chris Jensen are this year’s recipients of the URA Honorary Awards. The awards are presented each year to recognize significant contributions to research at Fermilab.
+Fermilab’s accomplishments highlight discovery and innovation in 2025
+December 17, 2025
+AI
+dark energy
+emerging technologies
+LBNF/DUNE
+LHC AUP
+MAGIS-100
+Magnes
+MicroBooNE
+Mu2e
+Muon g-2
+neutrino
+NOvA
+PIP-II
+QICK
+quantum
+SQMS
+U.S. CMS
+Fermilab feature
+Throughout this year, Fermilab’s dedicated scientists, engineers, technicians and operations staff came together to drive discoveries, advance American innovation and prepare the lab for a bright future.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

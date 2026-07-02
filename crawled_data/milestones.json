@@ -1,0 +1,9 @@
+{
+  "milestones": {
+    "333": 296,
+    "666": 606,
+    "1000": 936
+  },
+  "total_success": 936,
+  "total_attempted": 1000
+}

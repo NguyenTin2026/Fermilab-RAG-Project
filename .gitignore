@@ -13,7 +13,6 @@ Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/
 
 # Large corpus / embeddings artifacts
 Fermilab-process_data_and_finetune_model/corpus_embeddings.npy
-crawled_data/
 
 # HTCondor/SLURM job logs
 *.e[0-9]*

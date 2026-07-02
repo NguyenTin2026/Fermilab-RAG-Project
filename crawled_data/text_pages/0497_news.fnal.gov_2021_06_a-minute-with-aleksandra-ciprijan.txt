@@ -1,0 +1,197 @@
+URL: https://news.fnal.gov/2021/06/a-minute-with-aleksandra-ciprijanovic-astrophysicist/
+Title: A minute with Aleksandra Ćiprijanović, astrophysicist
+────────────────────────────────────────────────────────────
+A minute with Aleksandra Ćiprijanović, astrophysicist
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Aleksandra Ćiprijanović, astrophysicist
+June 21, 2021
+| By:
+Mary Magnuson
+Tags:
+artificial intelligence
+astronomy
+astrophysics
+machine learning
+people
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Whether in Serbia or Chicago, Fermilab postdoctoral researcher Aleksandra Ćiprijanović is working to unlock the secrets of the night sky. As a member of the Deep Skies Lab, an international collaboration of physicists, she’s figuring out how to use artificial intelligence and machine learning to better handle the huge amounts of data needed for discovery science.
+Aleksandra Ćiprijanović is a postdoctoral research associate in Fermilab’s Scientific Computing Division. Photo courtesy of Aleksandra Ćiprijanović
+How long have you been at Fermilab?
+I joined Fermilab in 2019 as a visiting scientist, and in 2020 started as a postdoctoral research associate in the Scientific Computing Division and with the High-Velocity Artificial Intelligence project. That project focuses on novel AI methods that allow us to qualify uncertainties and speed up work with complex simulations and real detector data.
+How did you get interested in physics?
+I always knew that I wanted to study something related to science, but I wasn’t sure what until I realized that astrophysics is an option. It always sounded too fancy to be real, like something out of the movies. When I learned that I can actually study astrophysics in Serbia, which is where I’m from, I said to myself, “This is it, this is my passion.”
+My PhD was in a completely different field, more theoretical. After my PhD, I decided to switch to computational stuff, and I was very interested in machine learning and artificial intelligence. Those tools started gaining popularity in astrophysics, and nobody in astronomy in Serbia was using them. I started learning on my own because there was nobody to ask. That’s why I also decided to do a postdoc somewhere outside of Serbia. I was lucky enough to meet a lot of people who are very good scientists doing AI and astro, and I became part of the Deep Skies Lab. That community really welcomed me and helped me learn a lot.
+What is the Deep Skies Lab?
+The Deep Skies Lab is an awesome virtual community of astrophysicists, physicists, data scientists and people who are generally interested in AI and how it is used in astrophysics and beyond. For me personally, the Deep Skies Lab was tremendously important for both my learning and collaboration with a lot of people, because it allowed me to exponentially grow both my AI and astronomy knowledge, and also meet a lot of the people who actually use AI in their work. It’s a welcoming and amazing place to be.
+What are the projects you’re working on now with Fermilab?
+I’m part of the Scientific Computing Division, and I’m also part of the High-Velocity AI project. Even though AI is very, very powerful, it has a hard time working with data sets that are slightly different but kind of similar, such as data coming from two different telescopes simultaneously. I’m trying to find and define models that are going to allow us to make more robust methods that we can use to actually work with all of the big data sets that we currently have, from astronomical surveys to big simulations.
+What’s the most rewarding part of your job?
+There are a lot of amazing and talented students in Chicago that I work with. I can see more and more of them becoming interested in AI as they recognize that this might be important for the future of astronomy. Observing how much and how quickly they learn by doing science with me and my collaborators is probably the most rewarding out of everything, because it’s nice to learn new things — but it’s even nicer when you can teach somebody else and see that interest sparkle in them too.
+What do you like best about working at Fermilab?
+I’m coming from a very small community, and a small university, so the size and difference of the community here at Fermilab is amazing. Fermilab is a fun place to work because it has so many things to teach you and show you, and so many different people that you can meet.
+I particularly like attending different seminars at Fermilab, and this kind of environment where you have a lot of seminars and also a lot of meetings. It inspires me because I can learn a lot of new things that I don’t know about from people in other fields of physics or from engineers. You can learn a lot more beyond the things that you work on.
+What do you do outside the lab for fun?
+One thing that I used to do outside of work that I stopped when I moved here is teaching dance. I taught contemporary dance and modern ballet for over a decade. So, hopefully I will go back to that at some point. I also really like running, reading and, more recently, indoor rock climbing. I’m also looking forward to doing more of that.
+***
+Research at Fermilab is supported the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+energy.gov/science
+.
+Recommended reading
+View all news
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+January 15, 2026
+AI
+emerging technologies
+machine learning
+microelectronics
+particle detector technology
+partnership
+Fermilab feature
+Fermilab researchers have provided expertise and leadership in developing an open-source framework that enables the design of hardware capable of making split-second decisions. These advances aim to prioritize the enormous volumes of data produced by some of humanity’s most ambitious physics experiments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

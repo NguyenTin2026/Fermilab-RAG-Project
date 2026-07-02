@@ -1,0 +1,202 @@
+URL: https://news.fnal.gov/2020/07/five-thousand-eyes-on-the-skies-scientists-choreograph-robots-to-observe-distant-galaxies/
+Title: Five thousand eyes on the skies: Scientists choreograph robots to observe distant galaxies
+────────────────────────────────────────────────────────────
+Five thousand eyes on the skies: Scientists choreograph robots to observe distant galaxies
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Five thousand eyes on the skies: Scientists choreograph robots to observe distant galaxies
+July 6, 2020
+| By:
+Jerald Pinson
+Tags:
+astrophysics
+Dark Energy Spectroscopic Instrument
+DESI
+detector technology
+sensor
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Scientists have begun operating the Dark Energy Spectroscopic Instrument, or DESI, to create a 3-D map of over 30 million galaxies and quasars that will help them understand the nature of dark energy. The new instrument is the most advanced of its kind, with 5,000 robotic positioners that will enable scientists to gather more than 20 times more data than previous surveys. Researchers at Fermilab helped develop the software that will direct these positioners to focus on galaxies several billion light-years away and are currently in the process of fine-tuning the programs used before the last round of testing later this year.
+Since 2005, scientists have been scanning the night sky to create a three-dimensional map of our universe with the purpose of shedding light on one of the biggest mysteries in physics: the nature and identity of dark energy and dark matter. That effort is about to get a massive upgrade with the successful installation and testing of the Dark Energy Spectroscopic Instrument, or DESI.
+Scientists recently installed DESI at the Kitt Peak National Observatory in Arizona. The device features 5,000 optical fibers, each one designed to collect light from a single galaxy. DESI is enabling scientists to gather 20 times more data than previous surveys.
+A previous instrument on a different telescope, the Baryon Oscillation Spectroscopic Survey instrument, required collaborators to drill 1,000 holes into large metal plates that held fibers in a configuration that exactly matched the position of known galaxies in a small portion of the night sky. Each time scientists wanted to image new galaxies, a new plate had to be drilled and the fibers inserted by hand.
+With DESI, researchers have relegated the grueling work of pinpointing galaxy locations to a hive of 5,000 robotic pencil-shaped tubes. The positioners have a precision of several micrometers — about one-10th the width of a human hair — and are capable of moving on their own to focus on distant galaxies.
+https://mod.fnal.gov/mod/v1/OC/DESI/200603DESI/anticollision5.mp4
+The images they take aren’t ordinary photographs. Scientists are instead interested in the type of light the galaxies emit. All galaxies are in motion, mostly moving away from each other due to the expansion of the universe. And the light from those that move away from us is stretched into the low-frequency, red part of the spectrum, much the same way that sound waves from a siren are stretched when an ambulance moves past you.
+Scientists can use these redshifted signals to create a three-dimensional map of our universe stretching back 11 billion years into its nascent past. By analyzing the distribution of galaxies through space and time, scientists can then make inferences about the nature of the unknown dark matter that pulls galaxies together and that of dark energy, which pushes them apart.
+Researchers completed the first round of testing on the robotic positioners last November.
+“I was pleased to see that positioners moved to where we told them to go when we turned on the instrument,” said Stephen Kent, a scientist at the Department of Energy’s Fermilab. “With a system this complex, you never know where you might run into problems.”
+A second milestone was achieved in January when the positioners were accurately pointed at over 2,000 stars simultaneously.
+“That was the moment we could begin working on science, not just engineering,” Kent said.
+During this testing phase, researchers implemented a software package called Platemaker, which was designed by Kent and scientist Eric Neilsen at Fermilab.
+The software is a key player in choreographing the movement of all 5,000 robotic positioners simultaneously, especially since the positioners can sometimes get in each other’s way.
+“As a design decision for the instrument from the beginning, we allow the robots to reach into each other’s patrol zones,” said Joseph Silber, an engineer at Lawrence Berkeley National Laboratory and lead engineer on the focal plane. “That means they can collide, and they shouldn’t.”
+Since then, Kent and his team have been fine-tuning the code in Platemaker to improve the accuracy to which the positioners can be located.
+The software guides the robotic positioners on a multistep process to locate galaxies. First, the focal plane — a large metallic structure that holds the positioners in place — must be pointed at just the right portion of sky. Just as old maritime navigators would use the position of the stars to guide their way, 10 high-resolution cameras embedded in the focal plane capture and analyze light from stars, which allows researchers to orient the telescope.
+These movements to position the focal plane have to be incredibly precise for each fiber to receive the most light that it can from its assigned galaxy. Nudged even a little off target, and the fiber will be only partially filled with its galaxy’s light. But when positioned as designed, each fiber will be filled completely with the light of its galaxy, with minimal background.
+Once the telescope is pointed in the right direction, the robotic positioners begin an intricate mechanical waltz, peering deep into the sky to detect sources of light far too faint for human eyes to see.
+Scientists have begun operating the Dark Energy Spectroscopic Instrument, or DESI, to create a 3-D map of over 30 million galaxies and quasars that will help them understand the nature of dark energy. Photo: Marilyn Sargent /Lawrence Berkeley National Laboratory
+Their high degree of precision gets them most of the way to the desired galaxy, but the angle might still be slightly off for some. To get them the rest of the way, DESI has a CCD camera installed at the primary mirror of the telescope, which looks up at the focal plane. Researchers use a built-in light source to illuminate the fibers embedded in the robotic positioners. The fibers project the resulting small dots of light to the CCD camera, which then images them. The Platemaker software compares the positions of the fibers in the images to where they should actually be pointed based on detailed star charts from previous surveys.
+The software then computes how far off each positioner is from the desired target, after which another system can move it the rest of the way toward its designated galaxy.
+“It’s a very complicated modeling process, which has taken us a few years to figure out,” Kent said.
+With the toughest work now complete, researchers, who are currently teleworking, plan to finish testing the software when they return to site.
+DESI is scheduled to operate for a total of five years, during which time it will measure the redshifts of over 30 million galaxies and quasars — a type of massive black hole. Scientists can then use this information to determine if and how the concentration of dark energy has changed throughout the history of our universe.
+Work for DESI and Fermilab astrophysics programs is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+DESI completes planned 3D map of the universe and continues exploring
+April 17, 2026
+Berkeley Lab
+cosmology
+dark energy
+Dark Energy Spectroscopic Instrument
+DESI
+Press release
+The Dark Energy Spectroscopic Instrument has completed its originally planned five-year mission and mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of our universe to date. Because of the instrument’s excellent performance and hints that dark energy might evolve, DESI will continue observations into 2028 and further expand the map.
+Fermilab drives progress for national AI Genesis Mission
+March 19, 2026
+AI
+artificial intelligence
+astrophysics
+computing
+emerging technologies
+microelectronics
+particle accelerator
+particle physics
+theory
+Fermilab feature
+The Genesis Mission is leveraging the strength of the U.S. Department of Energy’s 17 national laboratories, including Fermilab, alongside American research universities and industry partners. The collaborative effort aims to supercharge innovation by integrating the transformative power of artificial intelligence across the national research landscape.
+American Physical Society recognizes Fermilab scientists
+February 9, 2026
+American Physical Society
+astrophysics
+CMS
+high-energy physics
+Large Hadron Collider
+MicroBooNE
+particle physics
+quantum chromodynamics
+Fermilab feature
+The American Physical Society has honored researchers at Fermilab for their outstanding contributions to physics. These recognitions include major APS prizes and fellowships, underscoring the laboratory’s leadership in advancing scientific discovery.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

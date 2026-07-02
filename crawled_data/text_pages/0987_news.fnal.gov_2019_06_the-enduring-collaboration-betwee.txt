@@ -1,0 +1,210 @@
+URL: https://news.fnal.gov/2019/06/the-enduring-collaboration-between-spain-and-fermilab/
+Title: The enduring collaboration between Spain and Fermilab
+────────────────────────────────────────────────────────────
+The enduring collaboration between Spain and Fermilab
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+The enduring collaboration between Spain and Fermilab
+June 20, 2019
+| By:
+Caitlyn Buongiorno
+Tags:
+Autonomous University of Madrid
+Canfranc Underground Laboratory
+CDF
+CIEMAT
+Dark Energy Survey
+Deep Underground Neutrino Experiment
+DES
+DUNE
+dune-international
+Institute for High Energy Physics
+international engagement
+international relations
+internationality
+NEXT
+ProtoDUNE
+SBN
+SBND
+Short-Baseline Near Detector
+Short-Baseline Neutrino program
+Spain
+University of Barcelona
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+For over two decades, Spanish institutions have been collaborating with Fermilab. From the Tevatron era to the lab’s current neutrino experiments, Spain has made important contributions.
+In 2015, 700 scientists from around the world came together and established a collaboration on neutrino research that has grown to include more than 1,000 scientists from over 30 countries. And Spain was involved from the beginning.
+“It was an exciting time,” said Inés Gil-Botella, member of Fermilab’s Physics Advisory Committee and senior scientist at Spain’s Center for Energy, Environment and Technology Research (CIEMAT). “It was a huge step toward a neutrino-based partnership between Fermilab and Spain, and the rest of the world.”
+The early collaboration meetings set the stage for what would quickly become the
+Deep Underground Neutrino Experiment
+, a name Gil-Botella remembers the early collaboration voting on. Already involved in the development of similar technology at the European laboratory CERN, Spanish institutions brought technical expertise of photon detectors and liquid-argon cryostats to the collaboration.
+“Spanish scientists and institutions have a long history of working with Fermilab and have made countless important contributions over the years,” said Fermilab Director Nigel Lockyer. “Projects such as the development of the photon detection system are critical to the success of DUNE, and we benefit from the expertise of our colleagues from Spain.”
+A CIEMAT technician installs the photon detection system in one of the ProtoDUNE detectors. Photo: Enrique Calvo, CIEMAT
+Currently, Spain is developing a photon detection system for DUNE’s giant particle detector. This is key to identifying and recreating a particle interaction. The system will allow scientists to understand when an interaction took place inside the detector and to determine the energy of that interaction. Knowing this information helps scientists narrow down when and where the neutrinos came from — a supernova for instance. The system is currently being tested in one of the aptly named ProtoDUNE detectors at CERN. Scientists from Spain are also working on controls and instrumentation for the DUNE detector that let researchers adjust voltages and monitor temperatures, for example.
+Well before DUNE was even an idea, Spain was participating in research at Fermilab — most notably with the CDF collaboration, which, along with the DZero collaboration, discovered the top quark in 1995 using the Tevatron particle collider. During this era, Spanish institutions contributed the expertise they gained at CERN in collider physics to Fermilab experiments. One link between the Tevatron era and the current DUNE era was scientist Mario Martinez of the Spanish Institute for High Energy Physics in Barcelona. A leader in the CDF experiment, he also previously served as a representative for Spain in the early days of LBNF/DUNE.
+Collaborators at the Institute of Corpuscular Physics in Valencia, Spain, constructed this 25-foot thermometer for one of the ProtoDUNE detectors at CERN. Photo: CERN
+Today, more than 60 scientists at 15 Spanish institutions contribute their expertise to more than a dozen experiments at Fermilab. In addition to their research at the Large Hadron Collider, Spanish scientists bring knowledge about neutrino physics, liquid-argon cryostats, computing, cosmology and more to the Fermilab research program. CIEMAT and the University of Granada, for example, are helping build the
+Short-Baseline Near Detector
+, which is part of Fermilab’s
+Short-Baseline Neutrino Program
+and relies on the liquid-argon detector technology that is also used by DUNE.
+Neutrinos have three “flavors,” or types: muon, electron and tau. The SBN program will measure how the neutrinos’ flavors change as they go through the three detectors, which allows scientists to look for the existence of a fourth type of neutrino. The Short-Baseline Near Detector, the SBN detector closest to the neutrino production point, will record over a million neutrino interactions per year, providing scientists with an enormous treasure trove of data for analysis.
+Spain is contributing to the simulation side of the photon detection system of SBND. The two institutions hope to expand their involvement when the SBN program begins taking data.
+“We are open to help with what they need,” said Gil-Botella. “Physics is the goal, and I think the world has a lot to gain.”
+CIEMAT collaborators mount the fibers of one of a ProtoDUNE light calibration system. Photo: Enrique Calvo, CIEMAT
+Spain also collaborates with Fermilab on theoretical physics. Scientists are searching for ways experiments like DUNE can go beyond the Standard Model of physics, the framework that describes nature’s fundamental forces and particles at the subatomic scale. Scientists from the Institute of Corpuscular Physics (IFIC) in Valencia, the Autonomous University of Madrid (UAM) and the Institute for High Energy Physics in Barcelona are frequent collaborators with Fermilab’s theoretical physics group. Fermilab has also established formal staff and student exchange programs with both IFIC and UAM and plans to establish a similar program with the University of Barcelona. Every year the Fermilab Theoretical Physics Department receives many students, postdocs and scientists from Spanish institutions who come to Fermilab for several weeks to perform their theoretical work and interact with Fermilab theorists and experimentalists.
+“If you are a neutrino physicist, Fermilab is the laboratory of reference,” said Michel Sorel, a scientist at IFIC who has been involved in Fermilab neutrino experiments for the past 20 years. “It is the neutrino capital of the world.”
+DUNE collaborators from the Institute for Corpuscular Physics gather near one of the ProtoDUNE detectors prior to its installation at CERN. Photo: IFIC
+Groups at the Institute of Space Sciences, the Institute for High Energy Physics and CIEMAT also participate in the Fermilab-hosted
+Dark Energy Survey
+, which completed its sixth and final year of data-taking earlier this year. This survey is an international collaboration that mapped a 5,000-square-degree area of the sky, recording information from 300 million galaxies.
+The contributions go both ways. For example, Fermilab scientists are working on NEXT, the Neutrino Experiment with a Xenon TPC. Located at the Canfranc Underground Laboratory in Spain, NEXT seeks to determine whether or not neutrinos are their own antiparticles.
+“We are collaborating on a day-to-day basis,” Sorel said. “It is a very close relationship both for the institutions and the individual scientists.”
+For more information on Spain’s contributions at Fermilab, look at some of the
+previously published articles
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

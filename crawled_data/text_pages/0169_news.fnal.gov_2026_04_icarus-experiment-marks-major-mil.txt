@@ -1,0 +1,208 @@
+URL: https://news.fnal.gov/2026/04/icarus-experiment-marks-major-milestone-in-first-neutrino-science-results/
+Title: ICARUS experiment marks major milestone in first neutrino science results
+────────────────────────────────────────────────────────────
+ICARUS experiment marks major milestone in first neutrino science results
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+ICARUS experiment marks major milestone in first neutrino science results
+April 15, 2026
+Tags:
+ICARUS
+neutrino physics
+SBN
+Short-Baseline Neutrino program
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The milestone by ICARUS paves the way to probe sterile‑neutrino oscillations for the full Short-Baseline Neutrino Program at Fermilab. The first results demonstrate the data’s excellent quality and suitability for physics analyses, as well as the maturity of the software tools for event selection, fitting and detector simulation.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+The international
+ICARUS collaboration
+announced its first physics results on neutrino oscillation searches in a paper recently posted to the preprint server
+arXiv.
+They did not observe muon-neutrino disappearance in the data collected with the neutrino beam at Fermilab. The analysis is unique for its rigorous treatment of uncertainties around detector performance. It also demonstrates the quality of the ICARUS data and advances the development of analysis techniques and software tools.
+ICARUS
+is located at the U.S. Department of Energy’s Fermi National Accelerator Laboratory near Chicago and is the world’s first large liquid-argon neutrino detector. It began operating in 2010 at Italy’s Gran Sasso National Laboratory, governed by INFN, the Italian Institute for Nuclear Physics. In 2014, the detector was moved to CERN to be refurbished and improved and, three years later, it journeyed to its new home at Fermilab to become part of the
+Short Baseline Neutrino (SBN) Program
+.
+The ICARUS collaboration was formed in the 1990s to develop liquid-argon time projection chamber technology. The experiment first studied neutrinos at the Gran Sasso National Laboratory in Italy. Today, the collaboration consists of more than 180 scientists, engineers and technical staff from 27 institutions. Credit: ICARUS collaboration
+The search for neutrino oscillations
+The SBN Program consists of three experiments situated along the lab’s neutrino beam: The Short Baseline Near Detector (SBND) is the closest to the neutrino source at just 110 meters away, followed by MicroBooNE at 470 meters, and finally ICARUS at 600 meters. All three SBN experiments study how mysterious, ultra-lightweight particles called
+neutrinos
+change as they move through space and matter.
+“With ICARUS fully validated and operating we are entering, in concert with SBND, a new era of neutrino physics in which definitive, world‑leading measurements are finally within reach.”
+Carlo Rubbia, 1984 Physics Nobel laureate and ICARUS spokesperson
+Neutrinos
+come in three types, called
+flavors
+: electron, muon and tau. In a phenomenon called
+neutrino oscillation
+, neutrinos change flavor as they travel. To fully understand this behavior, physicists designed baseline experiments — in which particle detectors are placed at various distances along a neutrino beam, like in the SBN Program — to study it.
+One specific phenomenon ICARUS is looking for could be evidence of a postulated fourth flavor of neutrino, the sterile neutrino. In the so-called 3+1 model of neutrino behavior, the
+sterile neutrino
+could mix with the three known flavors and cause oscillations that appear as muon‑neutrino disappearance over short distances. So, if ICARUS were to observe muon-neutrino disappearance, it would be evidence supporting the 3+1 sterile-neutrino hypothesis; if not, the collaboration could set limits on the model parameters.
+First results from ICARUS
+In this first analysis, which used data taken from 2022 to 2023, the collaboration did not observe evidence of muon-neutrino disappearance in ICARUS. But the result represents a first important milestone for the SBN Program. The collaboration demonstrated the ICARUS data’s excellent quality and its suitability for physics analyses, as well as the maturity of the software tools for event selection, fitting and detector simulation.
+“These first disappearance results mark a major milestone for ICARUS and the broader Short Baseline Neutrino Program at Fermilab,” said Carlo Rubbia, 1984 Physics Nobel laureate and ICARUS spokesperson. “They demonstrate the exceptional performance and stability of the detector and confirm that we now have the precision analysis tools in place to rigorously explore the sterile‑neutrino hypothesis.”
+These results were also vital for developing construction and analysis techniques. The collaboration thoroughly examined uncertainties that arose from the collected data sample itself, which allowed them to properly describe the neutrino flux in the neutrino beam, the neutrino interactions in the liquid argon and the detector performance. They were able to place exclusion limits on the 3+1 sterile-neutrino model with 90% confidence.
+Future combined analyses with other SBN detectors will be vital to reduce the uncertainties further. Collaborators say it will be essential to work with SBND to reduce uncertainties and conduct a robust two-detector analysis.
+A muon-neutrino interaction recorded by ICARUS. The neutrino beam came from the left, then a muon neutrino interacted in the liquid argon and produced a 140-cm muon track and two 10-cm proton tracks. Image: ICARUS collaboration
+“With ICARUS fully validated and operating we are entering, in concert with SBND, a new era of neutrino physics in which definitive, world‑leading measurements are finally within reach,” said Rubbia.
+Preparing for DUNE
+ICARUS, as well as SBND and MicroBooNE, is a liquid‑argon time projection chamber detector. Neutrinos are notoriously hard to detect, but when they occasionally interact with argon atoms in a liquid-argon TPC, they cause ionization, creating electrons. A high voltage drifts the electrons to wire planes inside the tank, resulting in a distinctive, precise signal that yields important information about the neutrino interaction and allows for a 3D reconstruction of the particles’ trajectories.
+ICARUS is the world’s first large liquid-argon neutrino detector. Credit: Al Johnson, Fermilab
+This same technology will be used for the forthcoming
+Deep Underground Neutrino Experiment
+, DUNE, led by Fermilab. Currently under construction at the Long Baseline Neutrino Facility at Fermilab in Batavia, Illinois, and in Lead, South Dakota, DUNE will be the world’s most comprehensive neutrino experiment. It will consist of liquid-argon TPC detectors that use technology pioneered by ICARUS — but more than 20 times larger.
+ICARUS is supported by the U.S. Department of Energy Office of Science, the Italian National Institute for Nuclear Physics (INFN) and CERN, the European Organization for Nuclear Research.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+Meet the winners of the 2025 Universities Research Association awards
+December 19, 2025
+accelerator complex
+ICARUS
+LBNF/DUNE
+Muon g-2
+neutrino
+SBND
+URA
+Fermilab feature
+Gray Putnam, James Mott, Lauren Yates and Chris Jensen are this year’s recipients of the URA Honorary Awards. The awards are presented each year to recognize significant contributions to research at Fermilab.
+DUNE scientists observe first neutrinos with prototype detector at Fermilab
+August 12, 2024
+detector technology
+DUNE
+neutrino physics
+Press release
+The prototype of a novel particle detection system for the international Deep Underground Neutrino Experiment successfully recorded its first accelerator neutrinos, providing a first look at the ability of this innovative technology to handle large numbers of the mysterious particles’ interactions.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

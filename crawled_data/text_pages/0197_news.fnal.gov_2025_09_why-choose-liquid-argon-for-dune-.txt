@@ -1,0 +1,182 @@
+URL: https://news.fnal.gov/2025/09/why-choose-liquid-argon-for-dune-detectors/
+Title: Why choose liquid argon for DUNE detectors?
+────────────────────────────────────────────────────────────
+Why choose liquid argon for DUNE detectors?
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Why choose liquid argon for DUNE detectors?
+September 19, 2025
+| By:
+Anne Heavey
+Tags:
+DUNE
+liquid argon
+neutrino
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+In its quest to understand why matter exists, the flagship neutrino experiment hosted by Fermilab is constructing an enormous next-generation liquid-argon-based detector a mile underground. The Deep Underground Neutrino Experiment is building on the successes of previous liquid-argon experiments, promising measurements of unprecedented precision over a wide range of energies that will bring significant new insights into the nature of the universe.
+What can neutrinos — particles that are imperceptible to all but the most sensitive devices ever built — tell us about how matter triumphed over antimatter in the early universe? As head-in-the-clouds as this question sounds, real people working on the Deep Underground Neutrino Experiment are developing down-to-earth detectors, infrastructure and processes to run this very ambitious experiment to find out.
+The liquid-argon-based technology chosen for the DUNE neutrino detectors promises to deliver stunning scientific insights and to be complementary to experiments pursuing similar goals that use the more traditional water-based technology. The U.S. Department of Energy’s Fermi National Accelerator Laboratory is the host for DUNE, in partnership with funding agencies and more than 1,400 scientists and engineers from around the world.
+A prototype of the Deep Underground Neutrino Experiment, known as ProtoDUNE, fills with liquid argon at CERN in 2024. The green hue is due to the lights used to protect the photon detectors. Credit: CERN
+Atoms are mostly empty space with a nucleus in the middle and point-like electrons orbiting around it — like infinitesimal solar systems. The nucleus is held together by a force aptly named the “strong force” and it keeps its electrons in tow by the “electromagnetic force,” the familiar opposites-attract force. These are the two strongest of the four known fundamental forces of nature, and neutrinos are immune to both. They are, however, subject to what is called the “weak force,” which comes into play only if they get very close to a nucleus or an electron, and to gravity, which is negligible for this tiny particle.
+Neutrinos — travelling at nearly the speed of light and basically blind to and unaffected by everything around them — therefore fly right through matter as though it’s not even there. Except that every once in a while a neutrino gets within weak force range of an atomic particle and crashes right into it. As in any collision, stuff sprays out — subatomic particles, in this case. DUNE wants to capture this once-in-a-while event in its detectors as many times as it can.
+To improve the chances for neutrino interactions to both occur and then be detected, DUNE needs: (a) lots of neutrinos, (b) shielding from cosmic rays that would otherwise drown out the neutrino signals, and (c) lots of target material – the denser the better.
+The Long-Baseline Neutrino Facility at Fermilab is building a beamline to send a prodigious flow of neutrinos (that’s part “a”) to DUNE’s two neutrino detectors, a smaller near detector at Fermilab, and a gigantic, modular far detector 800 miles downstream. DUNE’s far detector modules will be constructed and installed in South Dakota in a laboratory that is a mile underground (that’s “b,” the earth above the detector will absorb the cosmic rays). Finally, each detector module will be filled with kilotons of a quite well-endowed material, liquid argon (“c”).
+In a detector known as a LArTPC, shorthand for liquid-argon time projection chamber, a bath of ultra-pure cryogenic liquid argon is subjected to a strong electric field created between a cathode and an anode, which are like the negative and positive terminals on a battery. Charged particles that emerge from neutrino-nucleus collisions strip electrons from argon atoms in the surrounding volume. These freed electrons, called ionization electrons, drift in the enormous electrified volume of argon, an inert element that won’t gobble them up enroute, to a multi-layered anode, which enables the time-projection aspect of the experiment. From the resulting 3D images, physicists can see how the event evolved and work back to understand the nature of the originating neutrino interaction.
+A neutrino interaction in the SBND LArTPC detector at Fermilab showing high-resolution particle tracks. The dark blue background represents the liquid argon, the multi-colored lines represent the ionization paths of the particles generated in the interaction, with the colors indicating the amount of energy deposited. The ionization electrons released along these paths drift in the electric field, casting projections onto the anode layers. Credit: SBND collaboration
+“The ionization electrons carry the imprint of the neutrino interaction, said Hilary Utaegbulam, a graduate student at the University of Rochester. “They tell us where the neutrino interacted, how much energy it deposited, and depending on how the ionization patterns cluster, what type of neutrino it was. The electrons act as messengers that tell us a great deal about the interaction itself.”
+The very fine-grained imaging from a liquid-argon time projection chamber makes it a desirable choice for neutrino experiments. Water Cherenkov technology, which relies on detecting photons generated when a charged particle moves faster than the speed of light in the water, has strengths that are complementary to those of LArTPCs, but lacks some of the latter’s capabilities. With an impressive history of discovery including that of neutrino oscillation about 25 years ago by the experiments SuperKamiokande in Japan and SNO in Canada, water Cherenkov is the technology choice of the other leading next-generation neutrino detector, HyperKamiokande.
+The LArTPC technology, together with DUNE’s longer 800-mile baseline and its companion neutrino beam that spans a wide range of energies, will uniquely enable DUNE to measure all the sought-after neutrino oscillation properties.
+“The DUNE LArTPCs offer millimeter spatial resolution on a timescale of milliseconds,” said Afroditi Papadopoulou, an Oppenheimer postdoctoral fellow at Los Alamos National Laboratory. “They also provide excellent particle identification, energy precision, and low particle-detection thresholds. All these properties make LArTPCs the ideal detectors for performing the high-impact measurements essential for world-leading discoveries.”
+Credit: Fermilab
+In addition, liquid argon is a tremendous scintillator. This means that when energy from an interaction bumps a neighboring argon atom up to an unstable excited state, the atom emits a packet of light energy called a photon as it returns to its ground state. LArTPCs are therefore supplemented with photon detectors. The photons, naturally traveling at the speed of light in argon, are detected nearly instantaneously, providing precise timing information. Light detection enhances the detector’s capabilities for all of DUNE’s planned measurements and opens up prospects for further physics explorations.
+Finally, as liquid argon is a byproduct of the large industrial production of liquid oxygen and nitrogen, and is itself used in industrial applications such as welding, it is abundantly available and inexpensive. The only other liquids that could offer similar performance are, like argon, found in the far-right column of the periodic table, and are more challenging to acquire.
+“The LArTPC design for DUNE gives us the benefits of large and scalable detectors without sacrificing high-resolution energy measurement over a wide range of neutrino energies,” said Fermilab scientist Anne Norrick. “We will have some healthy competition from HyperK, but when all is said and done, for neutrino detection, DUNE’s LArTPC technology is simply unmatched.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

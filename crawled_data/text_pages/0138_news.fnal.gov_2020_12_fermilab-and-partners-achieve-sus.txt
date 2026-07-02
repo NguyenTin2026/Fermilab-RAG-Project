@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/2020/12/fermilab-and-partners-achieve-sustained-high-fidelity-quantum-teleportation/
+Title: Fermilab and partners achieve sustained, high-fidelity quantum teleportation
+────────────────────────────────────────────────────────────
+Fermilab and partners achieve sustained, high-fidelity quantum teleportation
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab and partners achieve sustained, high-fidelity quantum teleportation
+December 15, 2020
+Tags:
+California
+Caltech
+IN-Q-NET
+quantum communication
+quantum information science
+quantum science
+quantum teleportation
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+A joint team of researchers at Fermilab and partner institutions have achieved quantum teleportation, teleporting information over a distance of 44 kilometers. The remarkable achievement supports the premise that scientists and engineers can build a workable and high-fidelity quantum network using practical devices.
+Media contact
+Leah Hesla, Fermilab
+media@fnal.gov
+, 630-840-3351
+A viable quantum internet — a network in which information stored in qubits is shared over long distances through entanglement — would transform the fields of data storage, precision sensing and computing, ushering in a new era of communication.
+This month, scientists at Fermilab, a U.S. Department of Energy Office of Science national laboratory, and their partners took a significant step in the direction of realizing a quantum internet.
+In a paper published in
+PRX Quantum
+, the team presents for the first time a demonstration of a sustained, long-distance (44 kilometers of fiber) teleportation of qubits of photons (quanta of light) with fidelity greater than 90%. The qubits were teleported over a fiber-optic network using state-of-the-art single-photon detectors and off-the-shelf equipment.
+“We’re thrilled by these results,” said Fermilab scientist Panagiotis Spentzouris, head of the Fermilab quantum science program and one of the paper’s co-authors. “This is a key achievement on the way to building a technology that will redefine how we conduct global communication.”
+In a demonstration of high-fidelity quantum teleportation at the Fermilab Quantum Network, fiber-optic cables connect off-the-shelf devices (shown above), as well as state-of-the-art R&D devices. Photo: Fermilab
+Quantum teleportation is a “disembodied” transfer of quantum states from one location to another. The quantum teleportation of a qubit is achieved using quantum entanglement, in which two or more particles are inextricably linked to each other. If an entangled pair of particles is shared between two separate locations, no matter the distance between them, the encoded information is teleported.
+The joint team — researchers at Fermilab, AT&T, Caltech, Harvard University, NASA Jet Propulsion Laboratory and University of Calgary — successfully teleported qubits on two systems: the
+Caltech Quantum Network
+, or CQNET, and the
+Fermilab Quantum Network
+, or FQNET. The systems were designed, built, commissioned and deployed by Caltech’s public-private research program on Intelligent Quantum Networks and Technologies, or
+IN-Q-NET
+.
+“We are very proud to have achieved this milestone on sustainable, high-performing and scalable quantum teleportation systems,” said Maria Spiropulu, Shang-Yi Ch’en professor of physics at Caltech and director of the IN-Q-NET research program. “The results will be further improved with system upgrades we are expecting to complete by Q2 2021.”
+CQNET and FQNET, which feature near-autonomous data processing, are compatible both with existing telecommunication infrastructure and with emerging quantum processing and storage devices. Researchers are using them to improve the fidelity and rate of entanglement distribution, with an emphasis on complex quantum communication protocols and fundamental science.
+The achievement comes just a few months after the U.S. Department of Energy
+unveiled its blueprint for a national quantum internet
+at a press conference in Chicago.
+“With this demonstration we’re beginning to lay the foundation for the construction of a Chicago-area metropolitan quantum network,” Spentzouris said. The Chicagoland network, called the
+Illinois Express Quantum Network
+, is being designed by Fermilab in collaboration with Argonne National Laboratory, Caltech, Northwestern University and industry partners.
+This research was supported by DOE’s Office of Science through the Quantum Information Science-Enabled Discovery (QuantISED) program.
+“The feat is a testament to success of collaboration across disciplines and institutions, which drives so much of what we accomplish in science,” said Fermilab Deputy Director of Research Joe Lykken. “I commend the IN-Q-NET team and our partners in academia and industry on this first-of-its-kind achievement in quantum teleportation.”
+Learn more about the result
+.
+Fermilab is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC, a joint partnership between the University of Chicago and the Universities Research Association, Inc. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on Twitter at
+@Fermilab
+.
+The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Fermilab celebrates 2026 quantum science program graduates
+April 28, 2026
+quantum science
+Saturday Morning Quantum
+students
+Press release
+This past weekend, a new group of high school students graduated from the Saturday Morning Quantum program. Hosted by Fermilab, the course allows students to engage directly with lab quantum scientists and engineers while exploring core topics in quantum science.
+Fermilab opens new QUIET underground quantum information science laboratory
+June 12, 2024
+emerging technologies
+quantum information science
+qubits
+superconducting technology
+Press release
+The new state-of-the-art QUIET laboratory will study the performance of qubits isolated from cosmic radiation. Its above ground counterpart is LOUD and together they will enable  controlled experiments of quantum sensors.
+A minute with Cristián Peña, associate scientist at the Fermilab Quantum Institute
+November 4, 2021
+CMS
+entanglement swapping
+Fermilab Quantum Institute
+people
+precision-timing detector
+quantum communication
+Fermilab feature
+Whether he is on the side of a mountain or working at the Fermilab Quantum Institute, Cristián Peña likes to explore the unknown and tackle new challenges. Although he spends most of his time working on quantum communication systems for FQI, Peña dedicates time to work on the CMS experiment. His work between the two experiments, while different in practice, are conceptually similar.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

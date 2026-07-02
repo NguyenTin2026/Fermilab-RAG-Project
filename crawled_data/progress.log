@@ -1,0 +1,2028 @@
+2026-06-05 13:13:02,506 === Fermilab 1000-page crawler started — target 1000 pages ===
+2026-06-05 13:13:02,804 [1/1000] OK  200  Newsroom
+2026-06-05 13:13:06,085 [2/1000] OK  200  Fermilab Education and Public Engagement
+2026-06-05 13:13:08,218 [3/1000] OK  200  About – Fermilab Education and Public Engagement
+2026-06-05 13:13:10,791 [4/1000] OK  200  STEM outreach – Fermilab Education and Public Enga
+2026-06-05 13:13:12,821 [5/1000] OK  200  DUNE will use liquid-argon time projection chamber
+2026-06-05 13:13:14,401 [6/1000] FAIL  https://www.fnal.gov/pub/science/particle-detectors-computing/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-detectors-computing/index.html
+2026-06-05 13:13:15,945 [7/1000] FAIL  https://www.fnal.gov/pub/science/particle-accelerators/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-accelerators/index.html
+2026-06-05 13:13:18,120 [8/1000] OK  200  In the news Archives - News
+2026-06-05 13:13:19,811 [9/1000] OK  200  Fermilab marks major milestone for world-leading D
+2026-06-05 13:13:21,362 [10/1000] FAIL  https://www.fnal.gov/pub/visiting  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting
+2026-06-05 13:13:22,910 [11/1000] FAIL  https://www.fnal.gov/pub/about/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/index.html
+2026-06-05 13:13:24,961 [12/1000] OK  200  quantum Archives - News
+2026-06-05 13:13:26,501 [13/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics-101/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics-101/index.html
+2026-06-05 13:13:28,530 [14/1000] OK  200  Fermilab features Archives - News
+2026-06-05 13:13:30,990 [15/1000] OK  200  Subscribe to Fermilab Frontiers
+2026-06-05 13:13:32,535 [16/1000] FAIL  https://www.fnal.gov/pub/community/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/index.html
+2026-06-05 13:13:34,828 [17/1000] OK  200  News and features
+2026-06-05 13:13:36,863 [18/1000] OK  200  Fermilab completes its part in upgrading world’s m
+2026-06-05 13:13:38,948 [19/1000] OK  200  Fermilab celebrates 2026 quantum science program g
+2026-06-05 13:13:40,488 [20/1000] FAIL  https://www.fnal.gov/pub/resources/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/resources/index.html
+2026-06-05 13:13:42,032 [21/1000] FAIL  https://www.fnal.gov/pub/community/hours.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/hours.html
+2026-06-05 13:13:44,630 [22/1000] OK  200  Press releases Archives - News
+2026-06-05 13:13:47,045 [23/1000] OK  200  Contact us
+2026-06-05 13:13:48,594 [24/1000] FAIL  https://www.fnal.gov/pub/newsroom/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/newsroom/index.html
+2026-06-05 13:13:50,701 [25/1000] OK  200  Fermilab leads multi-lab AI initiative to accelera
+2026-06-05 13:13:53,117 [26/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:13:54,785 [27/1000] OK  200  Fermilab drives progress for national AI Genesis M
+2026-06-05 13:13:56,805 [28/1000] OK  200  partnership Archives - News
+2026-06-05 13:13:58,830 [29/1000] OK  200  dark matter Archives - News
+2026-06-05 13:14:01,043 [30/1000] OK  200  New electronically tunable quantum detector speeds
+2026-06-05 13:14:03,325 [31/1000] OK  200  Fermilab teams up with NIU to launch quantum scien
+2026-06-05 13:14:05,365 [32/1000] OK  200  QICK Archives - News
+2026-06-05 13:14:07,392 [33/1000] OK  200  Using AI, Fermilab researcher probes how transisto
+2026-06-05 13:14:08,941 [34/1000] FAIL  https://www.fnal.gov/pub/disclaim.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/disclaim.html
+2026-06-05 13:14:10,992 [35/1000] OK  200  Fermilab and Harmoniqs integrate open-source tools
+2026-06-05 13:14:13,127 [36/1000] OK  200  Fact sheets
+2026-06-05 13:14:15,579 [37/1000] OK  200  Lederman Science Center – Fermilab Education and P
+2026-06-05 13:14:18,100 [38/1000] OK  200  News and features
+2026-06-05 13:14:19,651 [39/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/index.html
+2026-06-05 13:14:21,316 [40/1000] OK  200  Mark Ross‑Lonergan elected co-spokesperson for Mic
+2026-06-05 13:14:22,869 [41/1000] FAIL  https://www.fnal.gov/staff-directory  →  403 Client Error: Forbidden for url: https://www.fnal.gov/staff-directory
+2026-06-05 13:14:25,048 [42/1000] OK  200  Largest neutrino experiment in the US wins Project
+2026-06-05 13:14:27,566 [43/1000] OK  200  In the news Archives - News
+2026-06-05 13:14:30,041 [44/1000] OK  200  DUNE Archives - News
+2026-06-05 13:14:31,587 [45/1000] FAIL  https://www.fnal.gov/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/
+2026-06-05 13:14:34,075 [46/1000] OK  200  Fact sheets
+2026-06-05 13:14:35,621 [47/1000] FAIL  https://www.fnal.gov/pub/science/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/index.html
+2026-06-05 13:14:37,705 [48/1000] OK  200  AI Archives - News
+2026-06-05 13:14:39,709 [49/1000] OK  200  Anna Grassellino appointed to DOE Office of Scienc
+2026-06-05 13:14:41,259 [50/1000] FAIL  https://www.fnal.gov/pub/resources/industrial-partnerships/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/resources/industrial-partnerships/index.html
+2026-06-05 13:14:42,810 [51/1000] FAIL  https://www.fnal.gov/faw/fermilab_at_work.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/faw/fermilab_at_work.html
+2026-06-05 13:14:44,844 [52/1000] OK  200  A chilling new search for dark matter will soon be
+2026-06-05 13:14:46,385 [53/1000] FAIL  https://www.fnal.gov/pub/contact/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/contact/index.html
+2026-06-05 13:14:49,096 [54/1000] OK  200  Social media
+2026-06-05 13:14:51,282 [55/1000] OK  200  Beauty and Charm – Introduction to Particle Physic
+2026-06-05 13:14:53,364 [56/1000] OK  200  QuarkNet – Fermilab Education and Public Engagemen
+2026-06-05 13:14:55,625 [57/1000] OK  200  Teacher workshops – Fermilab Education and Public 
+2026-06-05 13:14:57,927 [58/1000] OK  200  Ecology and the environment – Fermilab Education a
+2026-06-05 13:15:00,021 [59/1000] OK  200  MakerSpace – Fermilab Education and Public Engagem
+2026-06-05 13:15:03,786 [60/1000] OK  200  Fact sheets
+2026-06-05 13:15:06,024 [61/1000] OK  200  Cosmology – Fermilab Education and Public Engageme
+2026-06-05 13:15:08,602 [62/1000] OK  200  Quantum science – Fermilab Education and Public En
+2026-06-05 13:15:10,754 [63/1000] OK  200  Frequently asked questions – Fermilab Education an
+2026-06-05 13:15:12,951 [64/1000] OK  200  Fermilab Center QuarkNet workshop – Fermilab Educa
+2026-06-05 13:15:15,625 [65/1000] OK  200  Saturday Morning Quantum* – Fermilab Education and
+2026-06-05 13:15:18,072 [66/1000] OK  200  Scoring Particles and Expanding Outreach – Fermila
+2026-06-05 13:15:20,156 [67/1000] OK  200  Field Trip Essentials – Fermilab Education and Pub
+2026-06-05 13:15:22,244 [68/1000] OK  200  Energy and Ecosystems: Prairie, Water, and Woods t
+2026-06-05 13:15:25,211 [69/1000] OK  200  MakerSpace Open Lab – Fermilab Education and Publi
+2026-06-05 13:15:27,278 [70/1000] OK  200  Saturday Morning Physics – Fermilab Education and 
+2026-06-05 13:15:29,423 [71/1000] FAIL  https://education.fnal.gov/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/search
+2026-06-05 13:15:31,391 [72/1000] OK  200  Press release sign-up
+2026-06-05 13:15:34,024 [73/1000] OK  200  For Fermilab employees – Fermilab Education and Pu
+2026-06-05 13:15:36,263 [74/1000] OK  200  Field trips – Fermilab Education and Public Engage
+2026-06-05 13:15:38,373 [75/1000] OK  200  Neutrinos – Fermilab Education and Public Engageme
+2026-06-05 13:15:40,569 [76/1000] OK  200  Muons and other fundamental particles – Fermilab E
+2026-06-05 13:15:42,116 [77/1000] FAIL  https://www.fnal.gov/pub/visiting/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/index.html
+2026-06-05 13:15:44,281 [78/1000] OK  200  Plan your visit – Fermilab Education and Public En
+2026-06-05 13:15:46,935 [79/1000] OK  200  Calendar of public events | Public Events
+2026-06-05 13:15:49,025 [80/1000] FAIL  https://education.fnal.gov/about/fermilab@fnal.gov  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/fermilab@fnal.gov
+2026-06-05 13:15:51,441 [81/1000] OK  200  (no title)
+2026-06-05 13:15:53,507 [82/1000] FAIL  https://education.fnal.gov/about/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/search
+2026-06-05 13:15:55,054 [83/1000] FAIL  https://www.fnal.gov/pub/about/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/
+2026-06-05 13:15:57,215 [84/1000] OK  200  Programs – Fermilab Education and Public Engagemen
+2026-06-05 13:15:59,252 [85/1000] FAIL  https://education.fnal.gov/program/stem-outreach/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/stem-outreach/search
+2026-06-05 13:16:01,340 [86/1000] OK  200  LBNF Archives - News
+2026-06-05 13:16:03,900 [87/1000] OK  200  neutrino Archives - News
+2026-06-05 13:16:06,067 [88/1000] OK  200  Short-Baseline Neutrino program Archives - News
+2026-06-05 13:16:08,195 [89/1000] OK  200  A minute with Jacopo Bernardini
+2026-06-05 13:16:10,200 [90/1000] OK  200  PIP-II Archives - News
+2026-06-05 13:16:12,362 [91/1000] OK  200  Anne Heavey Archives - News
+2026-06-05 13:16:14,474 [92/1000] OK  200  Deep Underground Neutrino Experiment Archives - Ne
+2026-06-05 13:16:16,157 [93/1000] OK  200  DUNE scientists observe first neutrinos with proto
+2026-06-05 13:16:18,325 [94/1000] OK  200  Zachary Burton Archives - News
+2026-06-05 13:16:20,856 [95/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:16:23,523 [96/1000] OK  200  cryogenics Archives - News
+2026-06-05 13:16:25,725 [97/1000] OK  200  Why choose liquid argon for DUNE detectors?
+2026-06-05 13:16:27,735 [98/1000] OK  200  MicroBooNE Archives - News
+2026-06-05 13:16:29,741 [99/1000] OK  200  engineering Archives - News
+2026-06-05 13:16:31,893 [100/1000] OK  200  milestone Archives - News
+2026-06-05 13:16:34,055 [101/1000] OK  200  liquid argon Archives - News
+2026-06-05 13:16:36,041 [102/1000] OK  200  LBNF/DUNE Archives - News
+2026-06-05 13:16:37,720 [103/1000] OK  200  Fermilab’s PIP-II accelerator project recognized a
+2026-06-05 13:16:39,297 [104/1000] FAIL  http://www.fnal.gov/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/
+2026-06-05 13:16:41,418 [105/1000] OK  200  neutrinos Archives - News
+2026-06-05 13:16:43,413 [106/1000] OK  200  community Archives - News
+2026-06-05 13:16:45,461 [107/1000] OK  200  In the news Archives - Page 2 of 167 - News
+2026-06-05 13:16:47,708 [108/1000] OK  200  neutrino physics Archives - News
+2026-06-05 13:16:49,833 [109/1000] OK  200  In the news Archives - Page 3 of 167 - News
+2026-06-05 13:16:51,802 [110/1000] FAIL  https://news.fnal.gov/category/ext/in-the-news/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/ext/in-the-news/search
+2026-06-05 13:16:53,977 [111/1000] OK  200  baby bison Archives - News
+2026-06-05 13:16:56,132 [112/1000] OK  200  collaboration Archives - News
+2026-06-05 13:16:58,133 [113/1000] OK  200  award Archives - News
+2026-06-05 13:17:00,323 [114/1000] OK  200  In the news Archives - Page 167 of 167 - News
+2026-06-05 13:17:02,341 [115/1000] OK  200  ecology Archives - News
+2026-06-05 13:17:04,440 [116/1000] OK  200  Genesis Mission Archives - News
+2026-06-05 13:17:06,994 [117/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:17:09,033 [118/1000] OK  200  microelectronics Archives - News
+2026-06-05 13:17:11,121 [119/1000] OK  200  NEXUS Archives - News
+2026-06-05 13:17:13,381 [120/1000] OK  200  Fermilab’s new director clarifies mission and achi
+2026-06-05 13:17:15,047 [121/1000] OK  200  emerging technologies Archives - News
+2026-06-05 13:17:17,048 [122/1000] OK  200  quantum Archives - Page 13 of 13 - News
+2026-06-05 13:17:19,202 [123/1000] OK  200  SQMS Archives - News
+2026-06-05 13:17:21,317 [124/1000] OK  200  Office of Science Archives - News
+2026-06-05 13:17:23,346 [125/1000] OK  200  Genesis Misson Archives - News
+2026-06-05 13:17:25,379 [126/1000] OK  200  qubits Archives - News
+2026-06-05 13:17:27,491 [127/1000] OK  200  Yao Lu receives Early Career Award to harness quan
+2026-06-05 13:17:29,568 [128/1000] OK  200  MAGIS-100 Archives - News
+2026-06-05 13:17:32,077 [129/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:17:34,131 [130/1000] OK  200  quantum Archives - Page 3 of 13 - News
+2026-06-05 13:17:36,364 [131/1000] OK  200  HL-LHC Accelerator Upgrade Project Archives - News
+2026-06-05 13:17:38,409 [132/1000] OK  200  DOE Archives - News
+2026-06-05 13:17:40,464 [133/1000] OK  200  quantum Archives - Page 2 of 13 - News
+2026-06-05 13:17:42,535 [134/1000] OK  200  cryomodule Archives - News
+2026-06-05 13:17:44,599 [135/1000] OK  200  Fermilab features Archives - Page 66 of 66 - News
+2026-06-05 13:17:46,667 [136/1000] OK  200  LCLS-II Archives - News
+2026-06-05 13:17:48,662 [137/1000] OK  200  Jefferson Lab Archives - News
+2026-06-05 13:17:50,704 [138/1000] OK  200  SLAC National Accelerator Laboratory Archives - Ne
+2026-06-05 13:17:52,902 [139/1000] OK  200  Fermilab features Archives - Page 3 of 66 - News
+2026-06-05 13:17:54,880 [140/1000] OK  200  laser Archives - News
+2026-06-05 13:17:56,932 [141/1000] FAIL  https://news.fnal.gov/category/newsroom/fermilab-feature/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/fermilab-feature/search
+2026-06-05 13:17:59,475 [142/1000] OK  200  x-ray Archives - News
+2026-06-05 13:18:01,491 [143/1000] OK  200  Fermilab features Archives - Page 2 of 66 - News
+2026-06-05 13:18:03,885 [144/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:18:05,886 [145/1000] OK  200  News and features
+2026-06-05 13:18:08,052 [146/1000] OK  200  education Archives - News
+2026-06-05 13:18:10,464 [147/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:18:12,588 [148/1000] OK  200  SQMS Center Archives - News
+2026-06-05 13:18:14,620 [149/1000] OK  200  students Archives - News
+2026-06-05 13:18:16,618 [150/1000] OK  200  quantum science Archives - News
+2026-06-05 13:18:18,675 [151/1000] OK  200  Saturday Morning Quantum Archives - News
+2026-06-05 13:18:20,958 [152/1000] OK  200  News and features
+2026-06-05 13:18:23,065 [153/1000] OK  200  News and features
+2026-06-05 13:18:25,088 [154/1000] OK  200  Madeleine O’Keefe Archives - News
+2026-06-05 13:18:27,120 [155/1000] OK  200  New collaboration sheds bright light on advancing 
+2026-06-05 13:18:29,146 [156/1000] OK  200  Fermilab completes laser lab construction for worl
+2026-06-05 13:18:31,553 [157/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:18:33,562 [158/1000] OK  200  superconducting radio-frequency technology Archive
+2026-06-05 13:18:35,600 [159/1000] OK  200  SLAC fires up the world’s most powerful X-ray lase
+2026-06-05 13:18:37,668 [160/1000] OK  200  Fermilab sees record performance from next-generat
+2026-06-05 13:18:39,704 [161/1000] OK  200  California Archives - News
+2026-06-05 13:18:41,664 [162/1000] OK  200  IN-Q-NET Archives - News
+2026-06-05 13:18:43,677 [163/1000] OK  200  Fermilab and partners achieve sustained, high-fide
+2026-06-05 13:18:45,671 [164/1000] OK  200  quantum information and science Archives - News
+2026-06-05 13:18:47,770 [165/1000] OK  200  High school students working with Argonne and Ferm
+2026-06-05 13:18:49,777 [166/1000] OK  200  quantum information science Archives - News
+2026-06-05 13:18:51,813 [167/1000] OK  200  Caltech Archives - News
+2026-06-05 13:18:54,160 [168/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:18:56,343 [169/1000] OK  200  CPS students graduate from Fermilab quantum scienc
+2026-06-05 13:18:58,368 [170/1000] OK  200  quantum teleportation Archives - News
+2026-06-05 13:19:00,549 [171/1000] OK  200  quantum communication Archives - News
+2026-06-05 13:19:02,639 [172/1000] OK  200  muon Archives - News
+2026-06-05 13:19:04,658 [173/1000] OK  200  ions Archives - News
+2026-06-05 13:19:06,674 [174/1000] OK  200  dark energy Archives - News
+2026-06-05 13:19:08,804 [175/1000] OK  200  DESI completes planned 3D map of the universe and 
+2026-06-05 13:19:11,215 [176/1000] OK  200  ICARUS Archives - News
+2026-06-05 13:19:13,317 [177/1000] OK  200  Spring arrives at Fermilab, welcoming this year’s 
+2026-06-05 13:19:15,335 [178/1000] OK  200  Dave Newbold elected co-spokesperson of DUNE colla
+2026-06-05 13:19:17,420 [179/1000] OK  200  quantum electronics Archives - News
+2026-06-05 13:19:19,594 [180/1000] OK  200  Berkeley Lab Archives - News
+2026-06-05 13:19:21,590 [181/1000] OK  200  construction Archives - News
+2026-06-05 13:19:23,256 [182/1000] OK  200  ICARUS experiment marks major milestone in first n
+2026-06-05 13:19:25,288 [183/1000] OK  200  Press releases Archives - Page 3 of 38 - News
+2026-06-05 13:19:27,542 [184/1000] OK  200  Dark Energy Spectroscopic Instrument Archives - Ne
+2026-06-05 13:19:29,610 [185/1000] OK  200  Press releases Archives - Page 2 of 38 - News
+2026-06-05 13:19:31,679 [186/1000] OK  200  cosmology Archives - News
+2026-06-05 13:19:33,661 [187/1000] OK  200  SBN Archives - News
+2026-06-05 13:19:35,618 [188/1000] OK  200  Standard Model Archives - News
+2026-06-05 13:19:37,633 [189/1000] OK  200  DOE national quantum research centers reach breakt
+2026-06-05 13:19:39,695 [190/1000] OK  200  Muon g-2 Archives - News
+2026-06-05 13:19:41,684 [191/1000] OK  200  Fermilab experiment receives prestigious Breakthro
+2026-06-05 13:19:43,716 [192/1000] FAIL  https://news.fnal.gov/category/newsroom/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/search
+2026-06-05 13:19:45,770 [193/1000] OK  200  Press releases Archives - Page 38 of 38 - News
+2026-06-05 13:19:47,842 [194/1000] OK  200  DESI Archives - News
+2026-06-05 13:19:49,865 [195/1000] OK  200  leadership Archives - News
+2026-06-05 13:19:51,863 [196/1000] OK  200  Fermilab researchers supercharge neural networks, 
+2026-06-05 13:19:54,290 [197/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:19:56,320 [198/1000] OK  200  Marcia Teckenbrock Archives - News
+2026-06-05 13:19:58,362 [199/1000] OK  200  particle accelerator Archives - News
+2026-06-05 13:20:00,509 [200/1000] OK  200  Fermilab researchers develop AI tools to advance t
+2026-06-05 13:20:03,283 [201/1000] OK  200  Arts and Lecture Series Archives - News
+2026-06-05 13:20:05,439 [202/1000] OK  200  muons Archives - News
+2026-06-05 13:20:07,498 [203/1000] OK  200  theory Archives - News
+2026-06-05 13:20:09,559 [204/1000] OK  200  artificial intelligence Archives - News
+2026-06-05 13:20:11,629 [205/1000] OK  200  Mark Hume Archives - News
+2026-06-05 13:20:13,684 [206/1000] OK  200  Fermilab’s FAST/IOTA facility achieves major miles
+2026-06-05 13:20:16,008 [207/1000] OK  200  computing Archives - News
+2026-06-05 13:20:18,391 [208/1000] OK  200  astrophysics Archives - News
+2026-06-05 13:20:20,460 [209/1000] OK  200  particle physics Archives - News
+2026-06-05 13:20:22,952 [210/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:20:25,083 [211/1000] OK  200  accelerator applications Archives - News
+2026-06-05 13:20:27,111 [212/1000] OK  200  quantum computing Archives - News
+2026-06-05 13:20:29,390 [213/1000] OK  200  IARC Archives - News
+2026-06-05 13:20:31,424 [214/1000] OK  200  quantum network Archives - News
+2026-06-05 13:20:33,755 [215/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:20:35,898 [216/1000] OK  200  SQMS Center team from Fermilab and NYU Langone adv
+2026-06-05 13:20:37,922 [217/1000] OK  200  particle detector technology Archives - News
+2026-06-05 13:20:39,954 [218/1000] OK  200  partnership Archives - Page 2 of 4 - News
+2026-06-05 13:20:42,000 [219/1000] OK  200  Fermilab celebrates new era of quantum innovation 
+2026-06-05 13:20:44,054 [220/1000] OK  200  PFAS Archives - News
+2026-06-05 13:20:46,061 [221/1000] OK  200  machine learning Archives - News
+2026-06-05 13:20:48,044 [222/1000] OK  200  partnership Archives - Page 3 of 4 - News
+2026-06-05 13:20:50,076 [223/1000] OK  200  partnership Archives - Page 4 of 4 - News
+2026-06-05 13:20:52,091 [224/1000] OK  200  Fermilab teams up with Proficio to develop water t
+2026-06-05 13:20:54,112 [225/1000] OK  200  A minute with Ryan Linehan
+2026-06-05 13:20:56,138 [226/1000] OK  200  Fermilab-led study advances development of sophist
+2026-06-05 13:20:58,182 [227/1000] OK  200  dark matter Archives - Page 2 of 24 - News
+2026-06-05 13:21:00,373 [228/1000] OK  200  dark matter Archives - Page 24 of 24 - News
+2026-06-05 13:21:02,433 [229/1000] OK  200  High-Luminosity Large Hadron Collider Archives - N
+2026-06-05 13:21:04,824 [230/1000] OK  200  CMS Archives - News
+2026-06-05 13:21:07,128 [231/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:09,185 [232/1000] OK  200  New ultra-fast particle detector could help unmask
+2026-06-05 13:21:11,493 [233/1000] OK  200  magnetic moment Archives - News
+2026-06-05 13:21:13,583 [234/1000] OK  200  dark matter Archives - Page 3 of 24 - News
+2026-06-05 13:21:15,883 [235/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:17,881 [236/1000] OK  200  Detecting dark matter with quantum computers
+2026-06-05 13:21:20,262 [237/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:22,394 [238/1000] OK  200  LHC AUP Archives - News
+2026-06-05 13:21:24,387 [239/1000] OK  200  QICK Archives - Page 3 of 3 - News
+2026-06-05 13:21:26,415 [240/1000] OK  200  U.S. CMS Archives - News
+2026-06-05 13:21:28,453 [241/1000] OK  200  Magnes Archives - News
+2026-06-05 13:21:30,428 [242/1000] OK  200  Mu2e Archives - News
+2026-06-05 13:21:32,480 [243/1000] OK  200  Fermilab’s accomplishments highlight discovery and
+2026-06-05 13:21:34,598 [244/1000] OK  200  NOvA Archives - News
+2026-06-05 13:21:36,974 [245/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:39,076 [246/1000] OK  200  QICK Archives - Page 2 of 3 - News
+2026-06-05 13:21:41,477 [247/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:43,799 [248/1000] OK  200  Maxwell Bernstein Archives - News
+2026-06-05 13:21:46,167 [249/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:21:48,223 [250/1000] OK  200  Higgs boson Archives - News
+2026-06-05 13:21:50,261 [251/1000] OK  200  (no title)
+2026-06-05 13:21:52,436 [252/1000] OK  200  (no title)
+2026-06-05 13:21:54,744 [253/1000] OK  200  procurement Archives - News
+2026-06-05 13:21:56,818 [254/1000] OK  200  (no title)
+2026-06-05 13:21:58,922 [255/1000] OK  200  national laboratory Archives - News
+2026-06-05 13:22:00,592 [256/1000] OK  200  (no title)
+2026-06-05 13:22:02,720 [257/1000] OK  200  Illinois Accelerator Research Center Archives - Ne
+2026-06-05 13:22:04,721 [258/1000] OK  200  (no title)
+2026-06-05 13:22:06,830 [259/1000] OK  200  history Archives - News
+2026-06-05 13:22:08,941 [260/1000] OK  200  internship Archives - News
+2026-06-05 13:22:10,764 [261/1000] OK  200  (no title)
+2026-06-05 13:22:12,901 [262/1000] OK  200  experiment Archives - News
+2026-06-05 13:22:15,524 [263/1000] OK  200  (no title)
+2026-06-05 13:22:17,690 [264/1000] OK  200  technology transfer Archives - News
+2026-06-05 13:22:19,719 [265/1000] OK  200  (no title)
+2026-06-05 13:22:21,815 [266/1000] OK  200  (no title)
+2026-06-05 13:22:23,519 [267/1000] OK  200  (no title)
+2026-06-05 13:22:25,748 [268/1000] OK  200  (no title)
+2026-06-05 13:22:28,186 [269/1000] OK  200  (no title)
+2026-06-05 13:22:30,104 [270/1000] OK  200  (no title)
+2026-06-05 13:22:32,311 [271/1000] OK  200  (no title)
+2026-06-05 13:22:34,012 [272/1000] OK  200  (no title)
+2026-06-05 13:22:36,300 [273/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:22:38,333 [274/1000] OK  200  Large Hadron Collider Archives - News
+2026-06-05 13:22:40,418 [275/1000] OK  200  (no title)
+2026-06-05 13:22:42,629 [276/1000] OK  200  (no title)
+2026-06-05 13:22:44,808 [277/1000] OK  200  (no title)
+2026-06-05 13:22:46,769 [278/1000] OK  200  Edwards Center Archives - News
+2026-06-05 13:22:48,785 [279/1000] OK  200  accelerator Archives - News
+2026-06-05 13:22:50,839 [280/1000] OK  200  environment Archives - News
+2026-06-05 13:22:52,943 [281/1000] OK  200  (no title)
+2026-06-05 13:22:55,324 [282/1000] OK  200  (no title)
+2026-06-05 13:22:57,365 [283/1000] OK  200  (no title)
+2026-06-05 13:22:59,591 [284/1000] OK  200  (no title)
+2026-06-05 13:23:01,542 [285/1000] OK  200  (no title)
+2026-06-05 13:23:03,733 [286/1000] OK  200  (no title)
+2026-06-05 13:23:05,831 [287/1000] OK  200  (no title)
+2026-06-05 13:23:07,904 [288/1000] OK  200  CERN Archives - News
+2026-06-05 13:23:09,988 [289/1000] OK  200  LHC Archives - News
+2026-06-05 13:23:12,226 [290/1000] OK  200  (no title)
+2026-06-05 13:23:14,365 [291/1000] FAIL  https://education.fnal.gov/lederman-science-center/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/lederman-science-center/search
+2026-06-05 13:23:17,450 [292/1000] OK  200  Leon M. Lederman – Fermilab Education and Public E
+2026-06-05 13:23:20,062 [293/1000] OK  200  Exhibits – Fermilab Education and Public Engagemen
+2026-06-05 13:23:22,617 [294/1000] OK  200  MicroBooNE finds no evidence for a sterile neutrin
+2026-06-05 13:23:24,606 [295/1000] OK  200  MicroBooNE celebrates tenth anniversary at Fermila
+2026-06-05 13:23:26,614 [296/1000] OK  200  Steven Gardiner receives Early Career Award to adv
+2026-06-05 13:23:29,061 [297/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:23:31,068 [298/1000] OK  200  Excavation of colossal caverns for Fermilab’s DUNE
+2026-06-05 13:23:33,541 [299/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:23:36,455 [300/1000] OK  200  Long-Baseline Neutrino Facility pre-excavation wor
+2026-06-05 13:23:38,414 [301/1000] FAIL  https://news.fnal.gov/category/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/search
+2026-06-05 13:23:40,570 [302/1000] OK  200  In the news Archives - Page 3 of 167 - News
+2026-06-05 13:23:42,678 [303/1000] OK  200  In the news Archives - Page 167 of 167 - News
+2026-06-05 13:23:44,679 [304/1000] OK  200  In the news Archives - Page 2 of 167 - News
+2026-06-05 13:23:46,680 [305/1000] OK  200  ML Archives - News
+2026-06-05 13:23:48,782 [306/1000] OK  200  DUNE Archives - Page 46 of 46 - News
+2026-06-05 13:23:50,828 [307/1000] OK  200  DUNE Archives - Page 2 of 46 - News
+2026-06-05 13:23:53,075 [308/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:23:55,219 [309/1000] OK  200  DUNE collaborators advance breakthrough power-over
+2026-06-05 13:23:57,211 [310/1000] OK  200  DUNE Archives - Page 3 of 46 - News
+2026-06-05 13:23:59,620 [311/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:24:01,795 [312/1000] OK  200  Early Career Award recipient Aleksandra Ćiprijanov
+2026-06-05 13:24:03,797 [313/1000] OK  200  AI Archives - Page 3 of 3 - News
+2026-06-05 13:24:05,803 [314/1000] OK  200  accelerator science Archives - News
+2026-06-05 13:24:08,169 [315/1000] OK  200  AI Archives - Page 2 of 3 - News
+2026-06-05 13:24:10,540 [316/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:24:12,889 [317/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:24:14,443 [318/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/experiments/admx.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/experiments/admx.html
+2026-06-05 13:24:17,052 [319/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:24:19,639 [320/1000] OK  200  Phriendly Physics 3-5 teacher workshop – Fermilab 
+2026-06-05 13:24:21,719 [321/1000] FAIL  https://education.fnal.gov/program/beauty-and-charm-at-fermilab/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/beauty-and-charm-at-fermilab/search
+2026-06-05 13:24:23,792 [322/1000] OK  200  Beauty and Charm field trip – Fermilab Education a
+2026-06-05 13:24:25,854 [323/1000] FAIL  https://education.fnal.gov/quarknet/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/quarknet/search
+2026-06-05 13:24:28,352 [324/1000] OK  200  Fermilab QuarkNet Center teacher resources – Fermi
+2026-06-05 13:24:30,387 [325/1000] OK  200  Insects at Work in Our World teacher workshop – Fe
+2026-06-05 13:24:32,568 [326/1000] OK  200  Summer Secondary Environmental Science Institute –
+2026-06-05 13:24:34,588 [327/1000] FAIL  https://education.fnal.gov/teacher-workshops/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/teacher-workshops/search
+2026-06-05 13:24:37,045 [328/1000] OK  200  Phriendly Physics: Science and Engineering K-2 tea
+2026-06-05 13:24:38,590 [329/1000] FAIL  https://www.fnal.gov/pub/about/bisoncam/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/bisoncam/
+2026-06-05 13:24:40,731 [330/1000] FAIL  https://education.fnal.gov/ecology-and-the-environment/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/ecology-and-the-environment/search
+2026-06-05 13:24:42,908 [331/1000] OK  200  STEM spotlight – Fermilab Education and Public Eng
+2026-06-05 13:24:45,458 [332/1000] OK  200  Visualizing STEM – Fermilab Education and Public E
+2026-06-05 13:24:47,595 [333/1000] FAIL  https://education.fnal.gov/makerspace/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/makerspace/search
+2026-06-05 13:24:47,596 *** MILESTONE page 333 — 297 documents downloaded so far ***
+2026-06-05 13:24:50,136 [334/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:24:52,215 [335/1000] FAIL  https://education.fnal.gov/cosmology/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/cosmology/search
+2026-06-05 13:24:54,381 [336/1000] FAIL  https://education.fnal.gov/explore/quantum-science/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/explore/quantum-science/search
+2026-06-05 13:24:56,097 [337/1000] FAIL  https://education.fnal.gov/wp-admin/post.php  →  403 Client Error: Forbidden for url: https://sorry.fnal.gov
+2026-06-05 13:24:58,939 [338/1000] OK  200  Lederman Science Center – Fermilab Education and P
+2026-06-05 13:25:01,307 [339/1000] FAIL  https://education.fnal.gov/about/faq/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/faq/search
+2026-06-05 13:25:03,331 [340/1000] FAIL  https://education.fnal.gov/program/fermilab-center-quarknet-workshop/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/fermilab-center-quarknet-workshop/search
+2026-06-05 13:25:05,383 [341/1000] FAIL  https://education.fnal.gov/program/saturday-morning-quantum-in-chicago/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/saturday-morning-quantum-in-chicago/search
+2026-06-05 13:25:07,459 [342/1000] OK  200  SMQ* in Chicago Spring 2026 Schedule – Fermilab Ed
+2026-06-05 13:25:09,208 [343/1000] OK  200  (no title)
+2026-06-05 13:25:11,196 [344/1000] FAIL  https://education.fnal.gov/scoring-particles-and-expanding-outreach/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/scoring-particles-and-expanding-outreach/search
+2026-06-05 13:25:13,203 [345/1000] FAIL  https://education.fnal.gov/program/field-trip-essentials/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/field-trip-essentials/search
+2026-06-05 13:25:15,350 [346/1000] FAIL  https://education.fnal.gov/program/energy-and-ecosystems/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/energy-and-ecosystems/search
+2026-06-05 13:25:17,463 [347/1000] OK  200  Energy and Ecosystems:  Prairie, Water, and Woods 
+2026-06-05 13:25:19,459 [348/1000] FAIL  https://education.fnal.gov/program/makerspace-open-lab/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/makerspace-open-lab/search
+2026-06-05 13:25:21,005 [349/1000] FAIL  https://www.fnal.gov/pub/visiting/hours/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/hours/index.html
+2026-06-05 13:25:23,116 [350/1000] OK  200  High school physical science field trip – Fermilab
+2026-06-05 13:25:25,337 [351/1000] FAIL  https://education.fnal.gov/program/saturdaymorningphysics/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/saturdaymorningphysics/search
+2026-06-05 13:25:27,623 [352/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:25:29,819 [353/1000] OK  200  Press releases
+2026-06-05 13:25:32,346 [354/1000] OK  200  MakerSpace – Fermilab Education and Public Engagem
+2026-06-05 13:25:34,889 [355/1000] OK  200  Teacher workshops – Fermilab Education and Public 
+2026-06-05 13:25:36,994 [356/1000] FAIL  https://education.fnal.gov/about/for-employees/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/for-employees/search
+2026-06-05 13:25:39,034 [357/1000] OK  200  Insects at Work in Our World field trip – Fermilab
+2026-06-05 13:25:41,040 [358/1000] OK  200  High school life science field trip – Fermilab Edu
+2026-06-05 13:25:43,195 [359/1000] OK  200  Phriendly Physics field trip – Fermilab Education 
+2026-06-05 13:25:45,235 [360/1000] FAIL  https://education.fnal.gov/field-trips/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/field-trips/search
+2026-06-05 13:25:47,304 [361/1000] FAIL  https://education.fnal.gov/neutrinos/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/neutrinos/search
+2026-06-05 13:25:48,847 [362/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/experiments/neutrinos.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/experiments/neutrinos.html
+2026-06-05 13:25:50,840 [363/1000] FAIL  https://education.fnal.gov/muons-and-other-fundamental-particles/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/muons-and-other-fundamental-particles/search
+2026-06-05 13:25:52,852 [364/1000] OK  200  Physicists discover top quark
+2026-06-05 13:25:54,797 [365/1000] FAIL  https://news.fnal.gov/2014/07/july-1-1977-discovery-of-the-bottom-quark/  →  404 Client Error: Not Found for url: https://news.fnal.gov/2014/07/july-1-1977-discovery-of-the-bottom-quark/
+2026-06-05 13:25:57,256 [366/1000] OK  200  Physicists Find First Direct Evidence for Tau Neut
+2026-06-05 13:25:59,345 [367/1000] FAIL  https://education.fnal.gov/about/directions-to-lederman-science-center/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/directions-to-lederman-science-center/search
+2026-06-05 13:26:01,627 [368/1000] OK  200  (no title)
+2026-06-05 13:26:03,171 [369/1000] FAIL  https://www.fnal.gov/pub/visiting/directions/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/directions/index.html
+2026-06-05 13:26:05,192 [370/1000] OK  200  Subscribe to Fermilab Frontiers
+2026-06-05 13:26:07,651 [371/1000] OK  200  Fermilab Education and Public Engagement
+2026-06-05 13:26:09,203 [372/1000] FAIL  https://www.fnal.gov/pub/jobs/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/jobs/index.html
+2026-06-05 13:26:10,757 [373/1000] FAIL  https://www.fnal.gov/pub/community/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/
+2026-06-05 13:26:12,807 [374/1000] OK  200  Programs – Page 3 – Fermilab Education and Public 
+2026-06-05 13:26:14,867 [375/1000] OK  200  Programs – Page 2 – Fermilab Education and Public 
+2026-06-05 13:26:17,047 [376/1000] FAIL  https://education.fnal.gov/program/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/search
+2026-06-05 13:26:19,225 [377/1000] OK  200  LBNF Archives - Page 3 of 15 - News
+2026-06-05 13:26:21,356 [378/1000] OK  200  LBNF/DUNE excavation achieves a gem of a milestone
+2026-06-05 13:26:23,300 [379/1000] OK  200  international collaboration Archives - News
+2026-06-05 13:26:25,307 [380/1000] OK  200  SURF Archives - News
+2026-06-05 13:26:27,301 [381/1000] OK  200  First DUNE science components arrive at SURF
+2026-06-05 13:26:29,335 [382/1000] OK  200  Rock transportation system is ready for excavation
+2026-06-05 13:26:31,289 [383/1000] OK  200  accelerator operation Archives - News
+2026-06-05 13:26:33,405 [384/1000] OK  200  ProtoDUNE Archives - News
+2026-06-05 13:26:35,358 [385/1000] OK  200  research Archives - News
+2026-06-05 13:26:37,372 [386/1000] OK  200  Latin America Archives - News
+2026-06-05 13:26:39,838 [387/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:26:41,851 [388/1000] OK  200  APA Archives - News
+2026-06-05 13:26:43,861 [389/1000] OK  200  Sanford Underground Research Facility Archives - N
+2026-06-05 13:26:45,970 [390/1000] OK  200  excavation Archives - News
+2026-06-05 13:26:47,975 [391/1000] OK  200  Symmetry features Archives - News
+2026-06-05 13:26:50,010 [392/1000] OK  200  LBNF Archives - Page 15 of 15 - News
+2026-06-05 13:26:51,972 [393/1000] OK  200  high-energy physics Archives - News
+2026-06-05 13:26:54,122 [394/1000] OK  200  LBNF Archives - Page 2 of 15 - News
+2026-06-05 13:26:56,168 [395/1000] OK  200  MINERvA Archives - News
+2026-06-05 13:26:58,196 [396/1000] OK  200  nuclear physics Archives - News
+2026-06-05 13:27:00,289 [397/1000] OK  200  detector technology Archives - News
+2026-06-05 13:27:02,409 [398/1000] OK  200  detector Archives - News
+2026-06-05 13:27:04,477 [399/1000] OK  200  Long-Baseline Neutrino Facility Archives - News
+2026-06-05 13:27:06,465 [400/1000] OK  200  neutrino Archives - Page 3 of 55 - News
+2026-06-05 13:27:08,520 [401/1000] OK  200  Containing thousands of tons of liquid argon for D
+2026-06-05 13:27:10,653 [402/1000] OK  200  SBND Archives - News
+2026-06-05 13:27:12,827 [403/1000] OK  200  Meet the winners of the 2025 Universities Research
+2026-06-05 13:27:14,916 [404/1000] OK  200  URA Archives - News
+2026-06-05 13:27:17,067 [405/1000] OK  200  accelerator complex Archives - News
+2026-06-05 13:27:19,187 [406/1000] OK  200  Keeping liquid argon chilled underground is one of
+2026-06-05 13:27:21,190 [407/1000] OK  200  neutrino Archives - Page 55 of 55 - News
+2026-06-05 13:27:23,935 [408/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:27:26,045 [409/1000] OK  200  neutrino Archives - Page 2 of 55 - News
+2026-06-05 13:27:28,092 [410/1000] OK  200  Scientists assemble final detector of Fermilab’s S
+2026-06-05 13:27:30,122 [411/1000] OK  200  MiniBooNE Archives - News
+2026-06-05 13:27:32,254 [412/1000] OK  200  MINOS Archives - News
+2026-06-05 13:27:34,253 [413/1000] OK  200  They are there and they are gone: ICARUS chases a 
+2026-06-05 13:27:36,306 [414/1000] OK  200  Short-Baseline Near Detector Archives - News
+2026-06-05 13:27:38,763 [415/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:27:40,759 [416/1000] OK  200  sterile neutrino Archives - News
+2026-06-05 13:27:44,007 [417/1000] OK  200  Short-Baseline Neutrino program Archives - Page 2 
+2026-06-05 13:27:46,089 [418/1000] OK  200  UNICAMP Archives - News
+2026-06-05 13:27:48,207 [419/1000] OK  200  international engagement Archives - News
+2026-06-05 13:27:50,805 [420/1000] OK  200  Switzerland Archives - News
+2026-06-05 13:27:55,950 [421/1000] OK  200  SBND scientists complete assembly of large neutrin
+2026-06-05 13:27:57,906 [422/1000] OK  200  Short-Baseline Neutrino program Archives - Page 3 
+2026-06-05 13:27:59,893 [423/1000] OK  200  Short-Baseline Neutrino program Archives - Page 4 
+2026-06-05 13:28:01,975 [424/1000] OK  200  University of Bern Archives - News
+2026-06-05 13:28:04,271 [425/1000] OK  200  neutrino interactions Archives - News
+2026-06-05 13:28:06,855 [426/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:28:08,942 [427/1000] OK  200  PIP-II Archives - Page 9 of 9 - News
+2026-06-05 13:28:10,998 [428/1000] OK  200  Construction for Fermilab's new particle accelerat
+2026-06-05 13:28:13,014 [429/1000] OK  200  Magnets Archives - News
+2026-06-05 13:28:14,962 [430/1000] OK  200  Fermilab expecting 95-ton coldbox delivery
+2026-06-05 13:28:16,948 [431/1000] OK  200  PIP-II Archives - Page 2 of 9 - News
+2026-06-05 13:28:19,099 [432/1000] OK  200  PIP-II Archives - Page 3 of 9 - News
+2026-06-05 13:28:21,597 [433/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:28:23,819 [434/1000] OK  200  accelerator technology Archives - News
+2026-06-05 13:28:26,132 [435/1000] OK  200  technology Archives - News
+2026-06-05 13:28:28,168 [436/1000] OK  200  Cristian Boffo appointed director of Fermilab’s pa
+2026-06-05 13:28:30,156 [437/1000] OK  200  University of Chicago Archives - News
+2026-06-05 13:28:32,259 [438/1000] OK  200  internationality Archives - News
+2026-06-05 13:28:34,434 [439/1000] OK  200  United Kingdom Archives - News
+2026-06-05 13:28:37,030 [440/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:28:39,226 [441/1000] OK  200  Precision and ingenuity drive construction of DUNE
+2026-06-05 13:28:41,228 [442/1000] OK  200  Illinois Archives - News
+2026-06-05 13:28:43,199 [443/1000] OK  200  DUNE exceeds expectations
+2026-06-05 13:28:45,329 [444/1000] OK  200  Deep Underground Neutrino Experiment Archives - Pa
+2026-06-05 13:28:47,795 [445/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:28:49,805 [446/1000] OK  200  Deep Underground Neutrino Experiment Archives - Pa
+2026-06-05 13:28:51,953 [447/1000] OK  200  Deep Underground Neutrino Experiment Archives - Pa
+2026-06-05 13:28:55,141 [448/1000] OK  200  Engineering innovation meets history in groundbrea
+2026-06-05 13:28:57,542 [449/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:28:59,309 [450/1000] OK  200  (no title)
+2026-06-05 13:29:01,719 [451/1000] OK  200  Prototype for DUNE detector will test new technolo
+2026-06-05 13:29:03,954 [452/1000] OK  200  ICARUS gets ready to fly
+2026-06-05 13:29:05,704 [453/1000] OK  200  (no title)
+2026-06-05 13:29:07,621 [454/1000] OK  200  (no title)
+2026-06-05 13:29:09,466 [455/1000] OK  200  (no title)
+2026-06-05 13:29:11,731 [456/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:29:14,084 [457/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:29:16,166 [458/1000] OK  200  SRF cavities Archives - News
+2026-06-05 13:29:18,222 [459/1000] OK  200  cryogenics Archives - Page 2 of 3 - News
+2026-06-05 13:29:20,212 [460/1000] OK  200  nuclear energy Archives - News
+2026-06-05 13:29:22,279 [461/1000] OK  200  cryogenics Archives - Page 3 of 3 - News
+2026-06-05 13:29:24,468 [462/1000] OK  200  Argonne and Fermilab receive $3.2M in federal fund
+2026-06-05 13:29:26,468 [463/1000] OK  200  Brazil Archives - News
+2026-06-05 13:29:28,451 [464/1000] OK  200  A minute with Maria Barba
+2026-06-05 13:29:30,430 [465/1000] OK  200  Fermilab and UNICAMP enter next phase of collabora
+2026-06-05 13:29:32,796 [466/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:29:34,789 [467/1000] OK  200  MicroBooNE Archives - Page 3 of 7 - News
+2026-06-05 13:29:36,829 [468/1000] OK  200  MicroBooNE Archives - Page 7 of 7 - News
+2026-06-05 13:29:39,398 [469/1000] OK  200  MicroBooNE Archives - Page 2 of 7 - News
+2026-06-05 13:29:41,400 [470/1000] OK  200  quantum chromodynamics Archives - News
+2026-06-05 13:29:43,677 [471/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:29:45,731 [472/1000] OK  200  American Physical Society recognizes Fermilab scie
+2026-06-05 13:29:47,755 [473/1000] OK  200  American Physical Society Archives - News
+2026-06-05 13:29:49,819 [474/1000] OK  200  protons Archives - News
+2026-06-05 13:29:52,059 [475/1000] OK  200  Helen Edwards Archives - News
+2026-06-05 13:29:54,163 [476/1000] OK  200  innovation Archives - News
+2026-06-05 13:29:56,130 [477/1000] OK  200  Tevatron Archives - News
+2026-06-05 13:29:58,073 [478/1000] OK  200  electron Archives - News
+2026-06-05 13:30:00,101 [479/1000] OK  200  Fermilab dedicates new state-of-the-art building h
+2026-06-05 13:30:02,731 [480/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:04,808 [481/1000] OK  200  engineering Archives - Page 2 of 4 - News
+2026-06-05 13:30:06,821 [482/1000] OK  200  William Pellico receives 2024 URA Honorary Enginee
+2026-06-05 13:30:08,983 [483/1000] OK  200  engineering Archives - Page 3 of 4 - News
+2026-06-05 13:30:11,030 [484/1000] OK  200  engineering Archives - Page 4 of 4 - News
+2026-06-05 13:30:13,299 [485/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:15,351 [486/1000] OK  200  nature Archives - News
+2026-06-05 13:30:17,372 [487/1000] OK  200  campus Archives - News
+2026-06-05 13:30:19,594 [488/1000] OK  200  Successful tests pave the way for Fermilab’s next-
+2026-06-05 13:30:21,675 [489/1000] OK  200  bison Archives - News
+2026-06-05 13:30:23,889 [490/1000] OK  200  Fermilab welcomes first baby bison of the year
+2026-06-05 13:30:26,203 [491/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:28,170 [492/1000] OK  200  liquid argon Archives - Page 2 of 4 - News
+2026-06-05 13:30:30,137 [493/1000] OK  200  liquid argon Archives - Page 4 of 4 - News
+2026-06-05 13:30:32,229 [494/1000] OK  200  liquid argon Archives - Page 3 of 4 - News
+2026-06-05 13:30:34,384 [495/1000] OK  200  LBNF/DUNE Archives - Page 7 of 7 - News
+2026-06-05 13:30:36,402 [496/1000] OK  200  LBNF/DUNE Archives - Page 3 of 7 - News
+2026-06-05 13:30:39,793 [497/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:41,840 [498/1000] OK  200  LBNF/DUNE Archives - Page 2 of 7 - News
+2026-06-05 13:30:44,078 [499/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:46,075 [500/1000] OK  200  UK to play vital role in creating the world’s most
+2026-06-05 13:30:48,226 [501/1000] OK  200  neutrinos Archives - Page 2 of 3 - News
+2026-06-05 13:30:50,237 [502/1000] OK  200  neutrinos Archives - Page 3 of 3 - News
+2026-06-05 13:30:52,204 [503/1000] OK  200  scientist Archives - News
+2026-06-05 13:30:55,039 [504/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:30:57,005 [505/1000] OK  200  Fermilab’s Wilson Hall open to the public
+2026-06-05 13:30:59,078 [506/1000] OK  200  From Director Lia Merminga: Updates to Fermilab’s 
+2026-06-05 13:31:01,088 [507/1000] OK  200  Wilson Hall Archives - News
+2026-06-05 13:31:03,240 [508/1000] OK  200  science Archives - News
+2026-06-05 13:31:05,272 [509/1000] OK  200  guest artist Archives - News
+2026-06-05 13:31:07,294 [510/1000] OK  200  public engagement Archives - News
+2026-06-05 13:31:09,583 [511/1000] OK  200  community Archives - Page 3 of 3 - News
+2026-06-05 13:31:11,606 [512/1000] OK  200  community Archives - Page 2 of 3 - News
+2026-06-05 13:31:13,881 [513/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:31:15,901 [514/1000] OK  200  site access Archives - News
+2026-06-05 13:31:17,880 [515/1000] OK  200  guest composer Archives - News
+2026-06-05 13:31:19,917 [516/1000] OK  200  STEM Archives - News
+2026-06-05 13:31:21,978 [517/1000] OK  200  CDF Archives - News
+2026-06-05 13:31:23,989 [518/1000] OK  200  In the news Archives - Page 4 of 167 - News
+2026-06-05 13:31:25,942 [519/1000] OK  200  mass Archives - News
+2026-06-05 13:31:28,008 [520/1000] OK  200  proton Archives - News
+2026-06-05 13:31:29,995 [521/1000] OK  200  W boson Archives - News
+2026-06-05 13:31:32,010 [522/1000] FAIL  https://news.fnal.gov/category/ext/in-the-news/page/2/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/ext/in-the-news/page/2/search
+2026-06-05 13:31:34,096 [523/1000] OK  200  collider physics Archives - News
+2026-06-05 13:31:36,442 [524/1000] OK  200  In the news Archives - News
+2026-06-05 13:31:38,458 [525/1000] OK  200  neutrino physics Archives - Page 2 of 3 - News
+2026-06-05 13:31:40,475 [526/1000] OK  200  neutrino physics Archives - Page 3 of 3 - News
+2026-06-05 13:31:42,799 [527/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:31:44,722 [528/1000] FAIL  https://news.fnal.gov/category/ext/in-the-news/page/3/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/ext/in-the-news/page/3/search
+2026-06-05 13:31:46,835 [529/1000] OK  200  IOTA Archives - News
+2026-06-05 13:31:48,935 [530/1000] OK  200  In the news Archives - Page 5 of 167 - News
+2026-06-05 13:31:51,181 [531/1000] OK  200  Fermilab’s baby bison season begins
+2026-06-05 13:31:54,278 [532/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:31:56,296 [533/1000] OK  200  Spring at Fermilab welcomes the arrival of two bab
+2026-06-05 13:31:58,262 [534/1000] OK  200  Double delivery of baby bison at Fermilab today
+2026-06-05 13:32:00,713 [535/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:32:02,908 [536/1000] OK  200  accelerator magnets Archives - News
+2026-06-05 13:32:05,043 [537/1000] OK  200  collaboration Archives - Page 11 of 11 - News
+2026-06-05 13:32:07,285 [538/1000] OK  200  collaboration Archives - Page 3 of 11 - News
+2026-06-05 13:32:09,384 [539/1000] OK  200  HiLumi LHC: full-scale tests start
+2026-06-05 13:32:11,479 [540/1000] OK  200  collaboration Archives - Page 2 of 11 - News
+2026-06-05 13:32:13,626 [541/1000] OK  200  Fermilab’s Anna Grassellino receives prestigious M
+2026-06-05 13:32:15,577 [542/1000] OK  200  women in STEM Archives - News
+2026-06-05 13:32:17,627 [543/1000] OK  200  Ana Martina Botti receives 2024 URA Honorary Tolle
+2026-06-05 13:32:19,719 [544/1000] OK  200  award Archives - Page 3 of 3 - News
+2026-06-05 13:32:21,815 [545/1000] OK  200  award Archives - Page 2 of 3 - News
+2026-06-05 13:32:24,220 [546/1000] OK  200  Anna Grassellino Archives - News
+2026-06-05 13:32:26,196 [547/1000] OK  200  Fermilab’s Anna Grassellino receives one of Italy’
+2026-06-05 13:32:28,601 [548/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:32:30,551 [549/1000] FAIL  https://news.fnal.gov/category/ext/in-the-news/page/167/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/ext/in-the-news/page/167/search
+2026-06-05 13:32:32,568 [550/1000] OK  200  Sorry, Einstein. Quantum Study Suggests ‘Spooky Ac
+2026-06-05 13:32:34,648 [551/1000] OK  200  astronomy Archives - News
+2026-06-05 13:32:36,780 [552/1000] OK  200  In the news Archives - Page 166 of 167 - News
+2026-06-05 13:32:38,870 [553/1000] OK  200  In the news Archives - Page 165 of 167 - News
+2026-06-05 13:32:41,430 [554/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:32:43,437 [555/1000] OK  200  Science meets soil in Fermilab’s prairie land
+2026-06-05 13:32:45,501 [556/1000] OK  200  ecology Archives - Page 2 of 4 - News
+2026-06-05 13:32:47,584 [557/1000] OK  200  prairie Archives - News
+2026-06-05 13:32:49,561 [558/1000] OK  200  ecology Archives - Page 4 of 4 - News
+2026-06-05 13:32:51,638 [559/1000] OK  200  Fermilab Natural Areas Archives - News
+2026-06-05 13:32:53,794 [560/1000] OK  200  ecology Archives - Page 3 of 4 - News
+2026-06-05 13:32:56,091 [561/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:32:58,152 [562/1000] OK  200  Fermilab researchers receive DOE funding to advanc
+2026-06-05 13:33:00,325 [563/1000] OK  200  A minute with Troy England
+2026-06-05 13:33:02,386 [564/1000] OK  200  photon detector Archives - News
+2026-06-05 13:33:04,413 [565/1000] OK  200  detectors Archives - News
+2026-06-05 13:33:06,601 [566/1000] OK  200  Fermilab joined national effort to increase effici
+2026-06-05 13:33:10,096 [567/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:33:12,205 [568/1000] OK  200  Fermilab researchers receive Department of Energy 
+2026-06-05 13:33:15,362 [569/1000] OK  200  funding Archives - News
+2026-06-05 13:33:17,831 [570/1000] OK  200  energy efficiency Archives - News
+2026-06-05 13:33:19,800 [571/1000] OK  200  microelectronics Archives - Page 2 of 2 - News
+2026-06-05 13:33:21,907 [572/1000] OK  200  Fermilab-led microelectronics codesign team works 
+2026-06-05 13:33:24,134 [573/1000] OK  200  compact accelerator Archives - News
+2026-06-05 13:33:26,605 [574/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:33:28,757 [575/1000] OK  200  Dark SRF experiment at Fermilab demonstrates ultra
+2026-06-05 13:33:30,796 [576/1000] OK  200  Norbert Holtkamp appointed director of Fermi Natio
+2026-06-05 13:33:33,125 [577/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:33:35,274 [578/1000] OK  200  emerging technologies Archives - Page 6 of 6 - New
+2026-06-05 13:33:37,350 [579/1000] OK  200  photon detectors Archives - News
+2026-06-05 13:33:39,959 [580/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:33:42,287 [581/1000] OK  200  emerging technologies Archives - Page 3 of 6 - New
+2026-06-05 13:33:44,595 [582/1000] OK  200  quantum sensor Archives - News
+2026-06-05 13:33:46,710 [583/1000] OK  200  emerging technologies Archives - Page 2 of 6 - New
+2026-06-05 13:33:48,780 [584/1000] OK  200  Scientists head underground to measure effects of 
+2026-06-05 13:33:51,295 [585/1000] OK  200  quantum Archives - News
+2026-06-05 13:33:53,307 [586/1000] OK  200  workshop Archives - News
+2026-06-05 13:33:57,816 [587/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:33:59,908 [588/1000] OK  200  quantum Archives - Page 12 of 13 - News
+2026-06-05 13:34:01,873 [589/1000] OK  200  University of Southern California Archives - News
+2026-06-05 13:34:03,956 [590/1000] OK  200  Fermilab hosts tutorial from Google as part of uni
+2026-06-05 13:34:05,897 [591/1000] OK  200  quantum Archives - Page 11 of 13 - News
+2026-06-05 13:34:07,854 [592/1000] OK  200  Quantum physics boosts artificial intelligence met
+2026-06-05 13:34:09,923 [593/1000] OK  200  SQMS Archives - Page 2 of 4 - News
+2026-06-05 13:34:12,207 [594/1000] OK  200  SQMS Archives - Page 4 of 4 - News
+2026-06-05 13:34:14,313 [595/1000] OK  200  quantum research Archives - News
+2026-06-05 13:34:16,378 [596/1000] OK  200  SQMS Archives - Page 3 of 4 - News
+2026-06-05 13:34:18,614 [597/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:34:20,708 [598/1000] OK  200  people Archives - News
+2026-06-05 13:34:23,059 [599/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:34:25,117 [600/1000] OK  200  basic research Archives - News
+2026-06-05 13:34:27,213 [601/1000] OK  200  Gina Rameika named the new associate director for 
+2026-06-05 13:34:29,763 [602/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:34:31,850 [603/1000] OK  200  quantum computers Archives - News
+2026-06-05 13:34:33,908 [604/1000] OK  200  qubits Archives - Page 2 of 4 - News
+2026-06-05 13:34:35,967 [605/1000] OK  200  qubits Archives - Page 4 of 4 - News
+2026-06-05 13:34:38,037 [606/1000] OK  200  qubits Archives - Page 3 of 4 - News
+2026-06-05 13:34:40,373 [607/1000] OK  200  QUIET Archives - News
+2026-06-05 13:34:42,540 [608/1000] OK  200  Customizable quantum control toolkit developed at 
+2026-06-05 13:34:44,848 [609/1000] OK  200  Superconducting Quantum Materials and Systems Cent
+2026-06-05 13:34:46,851 [610/1000] OK  200  Fermilab leads project to develop novel quantum se
+2026-06-05 13:34:49,288 [611/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:34:51,330 [612/1000] OK  200  superconducting technology Archives - News
+2026-06-05 13:34:53,331 [613/1000] OK  200  Hannah Brumbaugh Archives - News
+2026-06-05 13:34:55,654 [614/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:34:58,038 [615/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:35:00,136 [616/1000] OK  200  gravitational waves Archives - News
+2026-06-05 13:35:02,157 [617/1000] OK  200  MAGIS-100 Archives - Page 2 of 2 - News
+2026-06-05 13:35:04,221 [618/1000] OK  200  Innovative MAGIS-100 quantum experiment at Fermila
+2026-06-05 13:35:06,300 [619/1000] OK  200  AQNET Archives - News
+2026-06-05 13:35:08,514 [620/1000] OK  200  Energy Department announces partnership with Fermi
+2026-06-05 13:35:10,831 [621/1000] OK  200  quantum Archives - Page 4 of 13 - News
+2026-06-05 13:35:13,086 [622/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:35:15,030 [623/1000] OK  200  emerging technology Archives - News
+2026-06-05 13:35:17,085 [624/1000] OK  200  general relativity Archives - News
+2026-06-05 13:35:19,140 [625/1000] OK  200  chicago Archives - News
+2026-06-05 13:35:21,201 [626/1000] OK  200  ‘Squeezed light’ technology could accelerate path 
+2026-06-05 13:35:23,317 [627/1000] OK  200  quantum Archives - Page 5 of 13 - News
+2026-06-05 13:35:26,054 [628/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:35:28,069 [629/1000] OK  200  Department of Energy Archives - News
+2026-06-05 13:35:30,076 [630/1000] OK  200  High-Luminosity LHC Archives - News
+2026-06-05 13:35:32,095 [631/1000] OK  200  University of Florida Archives - News
+2026-06-05 13:35:34,169 [632/1000] OK  200  cavity Archives - News
+2026-06-05 13:35:36,147 [633/1000] OK  200  HL-LHC Accelerator Upgrade Project receives approv
+2026-06-05 13:35:38,286 [634/1000] OK  200  National High Magnetic Field Laboratory Archives -
+2026-06-05 13:35:40,492 [635/1000] OK  200  Fermilab technology debuts in supercollider dress 
+2026-06-05 13:35:42,730 [636/1000] OK  200  magnet Archives - News
+2026-06-05 13:35:44,784 [637/1000] OK  200  Brookhaven National Laboratory Archives - News
+2026-06-05 13:35:46,743 [638/1000] OK  200  Old Dominion University Archives - News
+2026-06-05 13:35:48,739 [639/1000] OK  200  Brookhaven Archives - News
+2026-06-05 13:35:50,781 [640/1000] OK  200  HL-LHC Archives - News
+2026-06-05 13:35:52,938 [641/1000] OK  200  LHC Accelerator Upgrade Project Archives - News
+2026-06-05 13:35:55,021 [642/1000] OK  200  US Department of Energy launches ‘Genesis Mission’
+2026-06-05 13:35:57,298 [643/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:35:59,337 [644/1000] OK  200  Fermilab’s SQMS Center funded with $125 million to
+2026-06-05 13:36:01,367 [645/1000] OK  200  DOE Archives - Page 3 of 10 - News
+2026-06-05 13:36:03,413 [646/1000] OK  200  VALOR Archives - News
+2026-06-05 13:36:05,473 [647/1000] OK  200  DOE Archives - Page 10 of 10 - News
+2026-06-05 13:36:07,563 [648/1000] OK  200  veterans Archives - News
+2026-06-05 13:36:09,807 [649/1000] OK  200  DOE Archives - Page 2 of 10 - News
+2026-06-05 13:36:12,005 [650/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:36:13,993 [651/1000] OK  200  cryomodule Archives - Page 3 of 3 - News
+2026-06-05 13:36:15,964 [652/1000] OK  200  Indian scientists come to Fermilab to assist with 
+2026-06-05 13:36:17,915 [653/1000] OK  200  Early Career Award Archives - News
+2026-06-05 13:36:19,899 [654/1000] OK  200  cleanroom Archives - News
+2026-06-05 13:36:22,313 [655/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:36:24,422 [656/1000] OK  200  niobium Archives - News
+2026-06-05 13:36:26,470 [657/1000] OK  200  India Archives - News
+2026-06-05 13:36:28,758 [658/1000] OK  200  cryomodule Archives - Page 2 of 3 - News
+2026-06-05 13:36:30,817 [659/1000] OK  200  prototype Archives - News
+2026-06-05 13:36:32,815 [660/1000] OK  200  Accelerator-based neutrino experiments dig deep to
+2026-06-05 13:36:34,827 [661/1000] OK  200  Holometer Archives - News
+2026-06-05 13:36:36,936 [662/1000] OK  200  Fermilab features Archives - Page 65 of 66 - News
+2026-06-05 13:36:39,189 [663/1000] OK  200  Fermilab attains unprecedented quality factor for 
+2026-06-05 13:36:41,273 [664/1000] OK  200  Accelerator physicist invents new way to clean up 
+2026-06-05 13:36:43,284 [665/1000] OK  200  Nobel Prize Archives - News
+2026-06-05 13:36:45,271 [666/1000] OK  200  The short-baseline detectives and the mysterious c
+2026-06-05 13:36:45,271 *** MILESTONE page 666 — 604 documents downloaded so far ***
+2026-06-05 13:36:47,341 [667/1000] OK  200  SRF Archives - News
+2026-06-05 13:36:49,471 [668/1000] OK  200  An avian mixed bag reflects Fermilab's diverse eco
+2026-06-05 13:36:51,505 [669/1000] OK  200  MicroBooNE sees first accelerator-born neutrinos
+2026-06-05 13:36:53,554 [670/1000] OK  200  What happens when you kidnap a muon?
+2026-06-05 13:36:55,742 [671/1000] FAIL  https://news.fnal.gov/category/newsroom/fermilab-feature/page/66/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/fermilab-feature/page/66/search
+2026-06-05 13:36:58,017 [672/1000] OK  200  space-time Archives - News
+2026-06-05 13:37:00,217 [673/1000] OK  200  wildlife Archives - News
+2026-06-05 13:37:02,348 [674/1000] OK  200  Approaching the final frontier
+2026-06-05 13:37:04,405 [675/1000] OK  200  result Archives - News
+2026-06-05 13:37:06,913 [676/1000] OK  200  Fermilab features Archives - News
+2026-06-05 13:37:09,315 [677/1000] OK  200  SLAC Archives - News
+2026-06-05 13:37:11,612 [678/1000] OK  200  Fermilab features Archives - Page 64 of 66 - News
+2026-06-05 13:37:13,673 [679/1000] OK  200  bird Archives - News
+2026-06-05 13:37:15,766 [680/1000] OK  200  Fermilab plays part in NSF- funded accelerator res
+2026-06-05 13:37:17,811 [681/1000] OK  200  Absence of gravitational-wave signal extends limit
+2026-06-05 13:37:19,830 [682/1000] OK  200  accelerator R&D Archives - News
+2026-06-05 13:37:21,912 [683/1000] OK  200  animal Archives - News
+2026-06-05 13:37:24,602 [684/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:37:26,611 [685/1000] OK  200  LCLS Archives - News
+2026-06-05 13:37:29,081 [686/1000] OK  200  Argonne National Laboratory Archives - News
+2026-06-05 13:37:31,305 [687/1000] OK  200  Virginia Archives - News
+2026-06-05 13:37:33,458 [688/1000] OK  200  Fermilab delivers first cryomodule for ultrapowerf
+2026-06-05 13:37:35,464 [689/1000] OK  200  DESY Archives - News
+2026-06-05 13:37:37,924 [690/1000] OK  200  Fermilab delivers final superconducting particle a
+2026-06-05 13:37:40,310 [691/1000] OK  200  SRF technology Archives - News
+2026-06-05 13:37:42,440 [692/1000] OK  200  LCLS-II Archives - Page 2 of 2 - News
+2026-06-05 13:37:44,484 [693/1000] OK  200  Cornell University Archives - News
+2026-06-05 13:37:46,542 [694/1000] OK  200  SLAC’s superconducting X-ray laser reaches operati
+2026-06-05 13:37:48,753 [695/1000] OK  200  A million pulses per second: How particle accelera
+2026-06-05 13:37:50,829 [696/1000] OK  200  Gran Sasso Archives - News
+2026-06-05 13:37:52,812 [697/1000] OK  200  SNOLAB Archives - News
+2026-06-05 13:37:54,813 [698/1000] OK  200  New York Archives - News
+2026-06-05 13:37:56,899 [699/1000] OK  200  Oak Ridge National Laboratory Archives - News
+2026-06-05 13:37:59,058 [700/1000] OK  200  South Korea Archives - News
+2026-06-05 13:38:01,109 [701/1000] OK  200  South Dakota Archives - News
+2026-06-05 13:38:03,121 [702/1000] OK  200  T2K Archives - News
+2026-06-05 13:38:05,093 [703/1000] OK  200  Italy Archives - News
+2026-06-05 13:38:07,247 [704/1000] OK  200  Jefferson Lab Archives - Page 2 of 2 - News
+2026-06-05 13:38:09,448 [705/1000] OK  200  Canada Archives - News
+2026-06-05 13:38:11,800 [706/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:38:13,901 [707/1000] OK  200  NOMAD Archives - News
+2026-06-05 13:38:15,944 [708/1000] OK  200  Super-Kamiokande Archives - News
+2026-06-05 13:38:17,934 [709/1000] OK  200  J-PARC Archives - News
+2026-06-05 13:38:19,896 [710/1000] OK  200  LUX Archives - News
+2026-06-05 13:38:21,961 [711/1000] OK  200  Japan Archives - News
+2026-06-05 13:38:23,896 [712/1000] OK  200  UA1 Archives - News
+2026-06-05 13:38:25,865 [713/1000] OK  200  DZero Archives - News
+2026-06-05 13:38:27,952 [714/1000] OK  200  QuarkNet Archives - News
+2026-06-05 13:38:29,932 [715/1000] OK  200  lattice QCD Archives - News
+2026-06-05 13:38:31,899 [716/1000] OK  200  ArgonCube Archives - News
+2026-06-05 13:38:33,912 [717/1000] OK  200  Stanford University Archives - News
+2026-06-05 13:38:35,830 [718/1000] OK  200  theoretical particle physics Archives - News
+2026-06-05 13:38:37,856 [719/1000] OK  200  INFN Archives - News
+2026-06-05 13:38:39,844 [720/1000] OK  200  antimatter Archives - News
+2026-06-05 13:38:41,776 [721/1000] OK  200  University of Oxford Archives - News
+2026-06-05 13:38:43,747 [722/1000] OK  200  dark photon Archives - News
+2026-06-05 13:38:45,784 [723/1000] OK  200  oscillation Archives - News
+2026-06-05 13:38:47,905 [724/1000] OK  200  tau Archives - News
+2026-06-05 13:38:49,959 [725/1000] OK  200  quarks Archives - News
+2026-06-05 13:38:52,001 [726/1000] OK  200  Particle detector at Fermilab plays crucial role i
+2026-06-05 13:38:53,943 [727/1000] OK  200  heavy neutrino Archives - News
+2026-06-05 13:38:55,909 [728/1000] OK  200  electrons Archives - News
+2026-06-05 13:38:58,273 [729/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:39:00,250 [730/1000] FAIL  https://news.fnal.gov/category/newsroom/fermilab-feature/page/3/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/fermilab-feature/page/3/search
+2026-06-05 13:39:02,271 [731/1000] OK  200  FermiForward Archives - News
+2026-06-05 13:39:04,327 [732/1000] OK  200  Fermilab features Archives - Page 5 of 66 - News
+2026-06-05 13:39:06,333 [733/1000] OK  200  2026 guest artist and composer transform Fermilab 
+2026-06-05 13:39:08,349 [734/1000] OK  200  Fermilab features Archives - Page 4 of 66 - News
+2026-06-05 13:39:10,397 [735/1000] OK  200  Mu2e reaches major milestone with tracker move
+2026-06-05 13:39:12,496 [736/1000] OK  200  Anadi Canepa begins work as new CMS spokesperson
+2026-06-05 13:39:14,472 [737/1000] OK  200  Don Lincoln Archives - News
+2026-06-05 13:39:16,427 [738/1000] OK  200  fusion Archives - News
+2026-06-05 13:39:18,505 [739/1000] OK  200  quantum mechanics Archives - News
+2026-06-05 13:39:20,989 [740/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:39:23,049 [741/1000] OK  200  cosmic ray Archives - News
+2026-06-05 13:39:25,406 [742/1000] OK  200  muography Archives - News
+2026-06-05 13:39:27,710 [743/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:39:29,625 [744/1000] FAIL  https://news.fnal.gov/category/newsroom/fermilab-feature/page/2/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/fermilab-feature/page/2/search
+2026-06-05 13:39:31,767 [745/1000] OK  200  LHC Physics Center at Fermilab reaches 15-year mil
+2026-06-05 13:39:33,739 [746/1000] OK  200  top quark Archives - News
+2026-06-05 13:39:35,764 [747/1000] OK  200  News and features
+2026-06-05 13:39:37,816 [748/1000] OK  200  News and features
+2026-06-05 13:39:40,184 [749/1000] OK  200  CDF Results Raise Questions on Quark Structure
+2026-06-05 13:39:42,646 [750/1000] OK  200  News and features
+2026-06-05 13:39:44,607 [751/1000] OK  200  Harvesting the Prairie: The 1995 Fermilab Prairie 
+2026-06-05 13:39:46,937 [752/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:39:48,907 [753/1000] OK  200  community colleges Archives - News
+2026-06-05 13:39:50,961 [754/1000] OK  200  South Africa Archives - News
+2026-06-05 13:39:52,996 [755/1000] OK  200  event Archives - News
+2026-06-05 13:39:54,949 [756/1000] OK  200  education Archives - Page 9 of 9 - News
+2026-06-05 13:39:56,954 [757/1000] OK  200  education Archives - Page 2 of 9 - News
+2026-06-05 13:39:59,030 [758/1000] OK  200  outreach Archives - News
+2026-06-05 13:40:01,061 [759/1000] OK  200  Family Open House Archives - News
+2026-06-05 13:40:03,059 [760/1000] OK  200  Lia Merminga Archives - News
+2026-06-05 13:40:05,329 [761/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:40:07,312 [762/1000] OK  200  open house Archives - News
+2026-06-05 13:40:09,344 [763/1000] OK  200  Fermilab partners with community colleges to devel
+2026-06-05 13:40:11,303 [764/1000] OK  200  Lederman Science Center Archives - News
+2026-06-05 13:40:13,308 [765/1000] OK  200  education Archives - Page 3 of 9 - News
+2026-06-05 13:40:15,473 [766/1000] OK  200  A minute with Mackenzie Ring
+2026-06-05 13:40:17,488 [767/1000] OK  200  IBM intends to partner with Fermilab’s SQMS Center
+2026-06-05 13:40:19,497 [768/1000] OK  200  SQMS Center Archives - Page 6 of 6 - News
+2026-06-05 13:40:21,663 [769/1000] OK  200  A minute with: Akshay Murthy
+2026-06-05 13:40:23,617 [770/1000] OK  200  SQMS Center Archives - Page 3 of 6 - News
+2026-06-05 13:40:25,662 [771/1000] OK  200  Researchers at the SQMS Center achieve leading per
+2026-06-05 13:40:27,732 [772/1000] OK  200  SQMS Center Archives - Page 2 of 6 - News
+2026-06-05 13:40:29,897 [773/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:40:32,161 [774/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:40:34,126 [775/1000] OK  200  conference Archives - News
+2026-06-05 13:40:36,143 [776/1000] OK  200  mentorship Archives - News
+2026-06-05 13:40:38,232 [777/1000] OK  200  students Archives - Page 2 of 2 - News
+2026-06-05 13:40:40,410 [778/1000] OK  200  NASA Archives - News
+2026-06-05 13:40:42,513 [779/1000] OK  200  Chicago Quantum Exchange Archives - News
+2026-06-05 13:40:44,506 [780/1000] OK  200  Quantum Science Center Archives - News
+2026-06-05 13:40:46,442 [781/1000] OK  200  Stony Brook University Archives - News
+2026-06-05 13:40:48,471 [782/1000] OK  200  quantum sensing Archives - News
+2026-06-05 13:40:50,741 [783/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:40:53,019 [784/1000] OK  200  Fermilab is partner in Quantum Science Center base
+2026-06-05 13:40:55,030 [785/1000] OK  200  quantum science Archives - Page 11 of 11 - News
+2026-06-05 13:40:57,007 [786/1000] OK  200  quantum science Archives - Page 2 of 11 - News
+2026-06-05 13:40:58,978 [787/1000] OK  200  quantum science Archives - Page 3 of 11 - News
+2026-06-05 13:41:01,023 [788/1000] OK  200  quantum internet Archives - News
+2026-06-05 13:41:03,502 [789/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:05,515 [790/1000] OK  200  News and features
+2026-06-05 13:41:07,923 [791/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:09,995 [792/1000] OK  200  News and features
+2026-06-05 13:41:12,574 [793/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:14,592 [794/1000] OK  200  How an experiment at Fermilab fixed a hole in the 
+2026-06-05 13:41:16,570 [795/1000] OK  200  Madeleine O’Keefe Archives - Page 3 of 5 - News
+2026-06-05 13:41:18,758 [796/1000] OK  200  material science Archives - News
+2026-06-05 13:41:20,708 [797/1000] OK  200  Madeleine O’Keefe Archives - Page 5 of 5 - News
+2026-06-05 13:41:23,089 [798/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:27,301 [799/1000] OK  200  Fermilab-funded research demonstrates new method f
+2026-06-05 13:41:29,339 [800/1000] OK  200  superconductors Archives - News
+2026-06-05 13:41:31,324 [801/1000] OK  200  Madeleine O’Keefe Archives - Page 2 of 5 - News
+2026-06-05 13:41:33,537 [802/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:35,833 [803/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:38,041 [804/1000] OK  200  Northwestern University Archives - News
+2026-06-05 13:41:40,528 [805/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:42,655 [806/1000] OK  200  superconducting radio-frequency technology Archive
+2026-06-05 13:41:44,644 [807/1000] OK  200  Particle accelerator technology could solve one of
+2026-06-05 13:41:47,710 [808/1000] OK  200  SQMS researchers discover performance-limiting nan
+2026-06-05 13:41:49,684 [809/1000] OK  200  quantum information Archives - News
+2026-06-05 13:41:52,016 [810/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:41:53,929 [811/1000] OK  200  (no title)
+2026-06-05 13:41:56,032 [812/1000] OK  200  Lauren Biron Archives - News
+2026-06-05 13:41:57,868 [813/1000] OK  200  (no title)
+2026-06-05 13:41:59,630 [814/1000] OK  200  (no title)
+2026-06-05 13:42:01,573 [815/1000] OK  200  (no title)
+2026-06-05 13:42:03,810 [816/1000] OK  200  Mary Magnuson Archives - News
+2026-06-05 13:42:06,028 [817/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:42:08,084 [818/1000] OK  200  Dark Energy Survey Archives - News
+2026-06-05 13:42:10,030 [819/1000] OK  200  Lawrence Livermore National Laboratory Archives - 
+2026-06-05 13:42:12,012 [820/1000] OK  200  Powered by pixels
+2026-06-05 13:42:14,064 [821/1000] OK  200  LUX-ZEPLIN Archives - News
+2026-06-05 13:42:16,026 [822/1000] OK  200  software Archives - News
+2026-06-05 13:42:18,087 [823/1000] OK  200  California Archives - Page 4 of 4 - News
+2026-06-05 13:42:20,147 [824/1000] OK  200  SuperCDMS Archives - News
+2026-06-05 13:42:22,108 [825/1000] OK  200  ADMX Archives - News
+2026-06-05 13:42:24,116 [826/1000] OK  200  dune-international Archives - News
+2026-06-05 13:42:26,203 [827/1000] OK  200  University of California Archives - News
+2026-06-05 13:42:28,184 [828/1000] OK  200  Riverside Archives - News
+2026-06-05 13:42:30,152 [829/1000] OK  200  University of Washington Archives - News
+2026-06-05 13:42:32,134 [830/1000] OK  200  LZ Archives - News
+2026-06-05 13:42:34,320 [831/1000] OK  200  California Archives - Page 3 of 4 - News
+2026-06-05 13:42:36,306 [832/1000] OK  200  California Archives - Page 2 of 4 - News
+2026-06-05 13:42:38,581 [833/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:42:40,740 [834/1000] OK  200  Three sky surveys completed in preparation for Dar
+2026-06-05 13:42:42,769 [835/1000] OK  200  Washington Archives - News
+2026-06-05 13:42:44,734 [836/1000] OK  200  Dark Energy Survey census of the smallest galaxies
+2026-06-05 13:42:46,847 [837/1000] OK  200  LSST Archives - News
+2026-06-05 13:42:48,807 [838/1000] OK  200  Fermilab contributes to award-winning Spack softwa
+2026-06-05 13:42:51,073 [839/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:42:53,177 [840/1000] OK  200  Fermilab Quantum Institute Archives - News
+2026-06-05 13:42:55,154 [841/1000] OK  200  entanglement swapping Archives - News
+2026-06-05 13:42:57,016 [842/1000] OK  200  (no title)
+2026-06-05 13:42:59,071 [843/1000] OK  200  U.S. Department of Energy unveils blueprint for th
+2026-06-05 13:43:01,322 [844/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:43:03,366 [845/1000] OK  200  Fermilab opens new QUIET underground quantum infor
+2026-06-05 13:43:05,453 [846/1000] OK  200  precision-timing detector Archives - News
+2026-06-05 13:43:07,399 [847/1000] OK  200  A minute with Cristián Peña, associate scientist a
+2026-06-05 13:43:09,745 [848/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:43:11,947 [849/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:43:13,949 [850/1000] OK  200  University of Notre Dame Archives - News
+2026-06-05 13:43:15,955 [851/1000] OK  200  Indiana Archives - News
+2026-06-05 13:43:17,918 [852/1000] OK  200  Emily Stevens Archives - News
+2026-06-05 13:43:19,907 [853/1000] OK  200  South Bend, Indiana, school gets a chance at physi
+2026-06-05 13:43:21,693 [854/1000] OK  200  (no title)
+2026-06-05 13:43:23,694 [855/1000] OK  200  quantum information science Archives - Page 2 of 1
+2026-06-05 13:43:25,803 [856/1000] OK  200  quantum information science Archives - Page 3 of 1
+2026-06-05 13:43:27,758 [857/1000] OK  200  matter Archives - News
+2026-06-05 13:43:29,750 [858/1000] OK  200  quantum field theory Archives - News
+2026-06-05 13:43:31,834 [859/1000] OK  200  quantum technology Archives - News
+2026-06-05 13:43:34,956 [860/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:43:37,063 [861/1000] OK  200  dark matter technology Archives - News
+2026-06-05 13:43:39,091 [862/1000] OK  200  Rutgers University Archives - News
+2026-06-05 13:43:41,152 [863/1000] OK  200  photons Archives - News
+2026-06-05 13:43:43,144 [864/1000] OK  200  quantum information science Archives - Page 11 of 
+2026-06-05 13:43:45,120 [865/1000] OK  200  axion Archives - News
+2026-06-05 13:43:47,183 [866/1000] OK  200  SQMS Center announces the addition of Rutgers Univ
+2026-06-05 13:43:49,231 [867/1000] OK  200  ATLAS Archives - News
+2026-06-05 13:43:51,654 [868/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:43:53,627 [869/1000] OK  200  Chicago Quantum Exchange to create technologically
+2026-06-05 13:43:55,855 [870/1000] OK  200  Argonne Archives - News
+2026-06-05 13:43:58,112 [871/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:00,508 [872/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:02,508 [873/1000] OK  200  data Archives - News
+2026-06-05 13:44:04,596 [874/1000] OK  200  quantum entanglement Archives - News
+2026-06-05 13:44:06,861 [875/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:08,984 [876/1000] OK  200  quantum communication Archives - Page 2 of 3 - New
+2026-06-05 13:44:10,941 [877/1000] OK  200  quantum communication Archives - Page 3 of 3 - New
+2026-06-05 13:44:13,290 [878/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:15,709 [879/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:17,704 [880/1000] OK  200  energy Archives - News
+2026-06-05 13:44:19,759 [881/1000] OK  200  dark energy Archives - Page 3 of 10 - News
+2026-06-05 13:44:21,849 [882/1000] OK  200  dark energy Archives - Page 10 of 10 - News
+2026-06-05 13:44:24,050 [883/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:26,061 [884/1000] OK  200  neutron star Archives - News
+2026-06-05 13:44:28,025 [885/1000] OK  200  dark energy Archives - Page 2 of 10 - News
+2026-06-05 13:44:30,074 [886/1000] OK  200  DES Archives - News
+2026-06-05 13:44:32,171 [887/1000] OK  200  Dark Energy Camera Archives - News
+2026-06-05 13:44:34,191 [888/1000] OK  200  New DESI results strengthen hints that dark energy
+2026-06-05 13:44:36,185 [889/1000] OK  200  universe Archives - News
+2026-06-05 13:44:38,817 [890/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:40,766 [891/1000] OK  200  Skipper CCD Archives - News
+2026-06-05 13:44:42,813 [892/1000] OK  200  DESI opens access to the largest 3D map of the uni
+2026-06-05 13:44:45,053 [893/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:47,229 [894/1000] OK  200  ICARUS Archives - Page 3 of 4 - News
+2026-06-05 13:44:49,369 [895/1000] OK  200  LSND Archives - News
+2026-06-05 13:44:51,390 [896/1000] OK  200  ICARUS Archives - Page 2 of 4 - News
+2026-06-05 13:44:53,320 [897/1000] OK  200  ICARUS Archives - Page 4 of 4 - News
+2026-06-05 13:44:55,608 [898/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:44:58,268 [899/1000] OK  200  (no title)
+2026-06-05 13:45:00,382 [900/1000] OK  200  The genetic purity and diversity of the Fermilab b
+2026-06-05 13:45:03,106 [901/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:45:05,566 [902/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:45:07,680 [903/1000] OK  200  Dark Energy Spectroscopic Instrument starts 5-year
+2026-06-05 13:45:09,649 [904/1000] OK  200  superconducting magnet Archives - News
+2026-06-05 13:45:11,682 [905/1000] OK  200  WIMP Archives - News
+2026-06-05 13:45:13,691 [906/1000] OK  200  light source Archives - News
+2026-06-05 13:45:15,680 [907/1000] OK  200  Sanford Lab Archives - News
+2026-06-05 13:45:17,731 [908/1000] OK  200  galaxy Archives - News
+2026-06-05 13:45:19,799 [909/1000] OK  200  APS Archives - News
+2026-06-05 13:45:22,479 [910/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:45:24,422 [911/1000] OK  200  Kitt Peak National Observatory Archives - News
+2026-06-05 13:45:26,366 [912/1000] OK  200  National laboratories’ magnet designers look to th
+2026-06-05 13:45:28,344 [913/1000] OK  200  robotics Archives - News
+2026-06-05 13:45:30,504 [914/1000] OK  200  First results from DESI make the most precise meas
+2026-06-05 13:45:32,597 [915/1000] OK  200  Dark Energy Spectroscopic Instrument (DESI) create
+2026-06-05 13:45:34,644 [916/1000] OK  200  Berkeley Lab Archives - Page 3 of 3 - News
+2026-06-05 13:45:36,803 [917/1000] OK  200  Berkeley Lab Archives - Page 2 of 3 - News
+2026-06-05 13:45:38,941 [918/1000] OK  200  construction Archives - Page 2 of 3 - News
+2026-06-05 13:45:40,974 [919/1000] OK  200  PIP-II Injector Test Archives - News
+2026-06-05 13:45:43,921 [920/1000] OK  200  Over a year later, construction continues to progr
+2026-06-05 13:45:45,927 [921/1000] OK  200  Crews complete major upgrade to Ross Hoists
+2026-06-05 13:45:48,027 [922/1000] OK  200  facilities Archives - News
+2026-06-05 13:45:50,074 [923/1000] OK  200  construction Archives - Page 3 of 3 - News
+2026-06-05 13:45:52,073 [924/1000] OK  200  Native American Archives - News
+2026-06-05 13:45:55,214 [925/1000] OK  200  Industrial Center Building Addition Archives - New
+2026-06-05 13:45:57,571 [926/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:45:59,652 [927/1000] OK  200  New accelerator at Fermilab approved for construct
+2026-06-05 13:46:02,328 [928/1000] OK  200  Construction crews start lowering equipment a mile
+2026-06-05 13:46:04,587 [929/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:46:07,036 [930/1000] OK  200  Press releases Archives - News
+2026-06-05 13:46:08,979 [931/1000] OK  200  DOE national laboratory Archives - News
+2026-06-05 13:46:10,980 [932/1000] OK  200  US CMS Archives - News
+2026-06-05 13:46:13,067 [933/1000] OK  200  Press releases Archives - Page 4 of 38 - News
+2026-06-05 13:46:17,290 [934/1000] OK  200  Fermilab mourns the passing of John Peoples, third
+2026-06-05 13:46:19,337 [935/1000] OK  200  photography Archives - News
+2026-06-05 13:46:21,307 [936/1000] OK  200  John Peoples Archives - News
+2026-06-05 13:46:23,425 [937/1000] OK  200  Fermilab researchers advance quantum sensing for f
+2026-06-05 13:46:25,544 [938/1000] OK  200  Press releases Archives - Page 5 of 38 - News
+2026-06-05 13:46:27,636 [939/1000] OK  200  Fermilab opens applications for 2025 Global Physic
+2026-06-05 13:46:30,515 [940/1000] OK  200  Muon g-2 announces most precise measurement of the
+2026-06-05 13:46:32,789 [941/1000] OK  200  Winners of the 2025 Fermilab Photowalk unveiled an
+2026-06-05 13:46:34,781 [942/1000] OK  200  lab director Archives - News
+2026-06-05 13:46:36,790 [943/1000] OK  200  Secretary of Energy Chris Wright visits Fermilab
+2026-06-05 13:46:38,680 [944/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/page/3/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/page/3/search
+2026-06-05 13:46:41,040 [945/1000] OK  200  Interactions Archives - News
+2026-06-05 13:46:43,058 [946/1000] OK  200  The LHC experiment collaborations at CERN receive 
+2026-06-05 13:46:45,117 [947/1000] OK  200  DESI opens its 5,000 eyes to capture the colors of
+2026-06-05 13:46:47,093 [948/1000] OK  200  Five thousand eyes on the skies: Scientists choreo
+2026-06-05 13:46:49,191 [949/1000] OK  200  sensor Archives - News
+2026-06-05 13:46:51,433 [950/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:46:53,474 [951/1000] OK  200  Mapping the universe in 3-D: Fermilab contributes 
+2026-06-05 13:46:55,454 [952/1000] OK  200  Now complete, telescope instrument is poised to be
+2026-06-05 13:46:57,452 [953/1000] OK  200  Dark Energy Survey scientists release new analysis
+2026-06-05 13:46:59,561 [954/1000] OK  200  Fermilab Archives - News
+2026-06-05 13:47:01,589 [955/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/page/2/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/page/2/search
+2026-06-05 13:47:03,865 [956/1000] OK  200  galaxies Archives - News
+2026-06-05 13:47:05,825 [957/1000] OK  200  training Archives - News
+2026-06-05 13:47:07,817 [958/1000] OK  200  DECam Archives - News
+2026-06-05 13:47:09,781 [959/1000] OK  200  DOE recommits $8 million to Fermilab workforce dev
+2026-06-05 13:47:11,918 [960/1000] OK  200  cosmology Archives - Page 3 of 12 - News
+2026-06-05 13:47:14,028 [961/1000] OK  200  gravitational wave Archives - News
+2026-06-05 13:47:16,335 [962/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:47:18,372 [963/1000] OK  200  Revived technology utilized to count individual ph
+2026-06-05 13:47:20,335 [964/1000] OK  200  baryon Archives - News
+2026-06-05 13:47:22,319 [965/1000] OK  200  cosmic microwave background Archives - News
+2026-06-05 13:47:24,768 [966/1000] OK  200  cosmology Archives - Page 12 of 12 - News
+2026-06-05 13:47:26,867 [967/1000] OK  200  CMB Archives - News
+2026-06-05 13:47:28,863 [968/1000] OK  200  cosmology Archives - Page 2 of 12 - News
+2026-06-05 13:47:30,903 [969/1000] OK  200  Autonomous University of Madrid Archives - News
+2026-06-05 13:47:32,871 [970/1000] OK  200  University of Barcelona Archives - News
+2026-06-05 13:47:35,180 [971/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:47:37,244 [972/1000] OK  200  NEXT Archives - News
+2026-06-05 13:47:39,290 [973/1000] OK  200  international relations Archives - News
+2026-06-05 13:47:41,229 [974/1000] OK  200  SBN Archives - Page 3 of 3 - News
+2026-06-05 13:47:43,195 [975/1000] OK  200  Fermilab and University of Bern join forces for ne
+2026-06-05 13:47:45,278 [976/1000] OK  200  Syracuse University Archives - News
+2026-06-05 13:47:47,221 [977/1000] OK  200  CIEMAT Archives - News
+2026-06-05 13:47:49,264 [978/1000] OK  200  Canfranc Underground Laboratory Archives - News
+2026-06-05 13:47:51,307 [979/1000] OK  200  The enduring collaboration between Spain and Fermi
+2026-06-05 13:47:53,361 [980/1000] OK  200  SBN Archives - Page 2 of 3 - News
+2026-06-05 13:47:55,530 [981/1000] OK  200  Spain Archives - News
+2026-06-05 13:47:57,571 [982/1000] OK  200  Institute for High Energy Physics Archives - News
+2026-06-05 13:47:59,537 [983/1000] OK  200  Standard Model Archives - Page 3 of 12 - News
+2026-06-05 13:48:01,534 [984/1000] OK  200  physics Archives - News
+2026-06-05 13:48:03,521 [985/1000] OK  200  Standard Model Archives - Page 2 of 12 - News
+2026-06-05 13:48:05,541 [986/1000] OK  200  Standard Model Archives - Page 12 of 12 - News
+2026-06-05 13:48:07,941 [987/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:48:10,241 [988/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:48:12,193 [989/1000] OK  200  Muon g-2 Archives - Page 2 of 15 - News
+2026-06-05 13:48:14,175 [990/1000] OK  200  Muon g-2 Archives - Page 15 of 15 - News
+2026-06-05 13:48:16,632 [991/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:48:18,669 [992/1000] OK  200  Muon g-2 Archives - Page 3 of 15 - News
+2026-06-05 13:48:21,025 [993/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-05 13:48:23,180 [994/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/page/38/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/page/38/search
+2026-06-05 13:48:25,157 [995/1000] OK  200  Press releases Archives - Page 36 of 38 - News
+2026-06-05 13:48:27,233 [996/1000] OK  200  Press releases Archives - Page 37 of 38 - News
+2026-06-05 13:48:29,351 [997/1000] OK  200  New DESI results weigh in on gravity
+2026-06-05 13:48:32,262 [998/1000] OK  200  SDSS Archives - News
+2026-06-05 13:48:34,311 [999/1000] OK  200  cosmic inflation Archives - News
+2026-06-05 13:48:36,240 [1000/1000] OK  200  DESI Archives - Page 3 of 3 - News
+2026-06-05 13:48:36,240 *** MILESTONE page 1000 — 932 documents downloaded so far ***
+2026-06-05 13:48:37,740 ============================================================
+2026-06-05 13:48:37,741 ✓ COMPLETED — 932/1000 pages downloaded successfully (93.2%)
+2026-06-05 13:48:37,741 Time elapsed: 0:35:35.234853
+2026-06-05 13:48:37,741 CSV report : fermilab_downloads_1000/download_report_1000.csv
+2026-06-05 13:48:37,741 HTML files : fermilab_downloads_1000/html_pages
+2026-06-05 13:48:37,741 Text files : fermilab_downloads_1000/text_pages
+2026-06-05 13:48:37,741 Milestones : fermilab_downloads_1000/milestones.json
+2026-06-05 13:48:37,741 ============================================================
+2026-06-05 13:48:37,741 PROJECT STATUS: ✓ FERMILAB CRAWLER COMPLETE
+2026-06-05 13:48:37,741 ============================================================
+2026-06-10 13:25:04,596 === Fermilab 1000-page crawler started — target 1000 pages ===
+2026-06-10 13:25:04,860 [1/1000] OK  200  Newsroom
+2026-06-10 13:25:06,994 [2/1000] OK  200  Fermilab Education and Public Engagement
+2026-06-10 13:25:09,093 [3/1000] OK  200  About – Fermilab Education and Public Engagement
+2026-06-10 13:25:11,799 [4/1000] OK  200  STEM outreach – Fermilab Education and Public Enga
+2026-06-10 13:25:13,379 [5/1000] FAIL  https://www.fnal.gov/pub/about/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/index.html
+2026-06-10 13:25:15,451 [6/1000] OK  200  AI Archives - News
+2026-06-10 13:25:17,066 [7/1000] FAIL  https://www.fnal.gov/pub/community/hours.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/hours.html
+2026-06-10 13:25:19,101 [8/1000] OK  200  Fermilab leads multi-lab AI initiative to accelera
+2026-06-10 13:25:21,161 [9/1000] OK  200  Fermilab celebrates 2026 quantum science program g
+2026-06-10 13:25:24,175 [10/1000] OK  200  Lederman Science Center – Fermilab Education and P
+2026-06-10 13:25:26,186 [11/1000] OK  200  Fermilab completes its part in upgrading world’s m
+2026-06-10 13:25:29,150 [12/1000] OK  200  Press releases Archives - News
+2026-06-10 13:25:31,199 [13/1000] OK  200  DUNE will use liquid-argon time projection chamber
+2026-06-10 13:25:33,257 [14/1000] OK  200  New electronically tunable quantum detector speeds
+2026-06-10 13:25:34,807 [15/1000] FAIL  https://www.fnal.gov/pub/science/particle-detectors-computing/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-detectors-computing/index.html
+2026-06-10 13:25:36,357 [16/1000] FAIL  https://www.fnal.gov/pub/resources/industrial-partnerships/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/resources/industrial-partnerships/index.html
+2026-06-10 13:25:37,967 [17/1000] FAIL  https://www.fnal.gov/pub/community/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/index.html
+2026-06-10 13:25:39,519 [18/1000] FAIL  https://www.fnal.gov/pub/visiting  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting
+2026-06-10 13:25:41,560 [19/1000] OK  200  A chilling new search for dark matter will soon be
+2026-06-10 13:25:43,913 [20/1000] OK  200  In the news Archives - News
+2026-06-10 13:25:46,303 [21/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:25:48,318 [22/1000] OK  200  DUNE Archives - News
+2026-06-10 13:25:50,327 [23/1000] OK  200  Largest neutrino experiment in the US wins Project
+2026-06-10 13:25:52,515 [24/1000] OK  200  In the news Archives - News
+2026-06-10 13:25:54,505 [25/1000] OK  200  Contact us
+2026-06-10 13:25:56,517 [26/1000] OK  200  quantum Archives - News
+2026-06-10 13:25:58,067 [27/1000] FAIL  https://www.fnal.gov/pub/disclaim.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/disclaim.html
+2026-06-10 13:25:59,614 [28/1000] FAIL  https://www.fnal.gov/pub/science/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/index.html
+2026-06-10 13:26:01,623 [29/1000] OK  200  Fermilab marks major milestone for world-leading D
+2026-06-10 13:26:03,843 [30/1000] OK  200  Anna Grassellino appointed to DOE Office of Scienc
+2026-06-10 13:26:06,061 [31/1000] OK  200  Subscribe to Fermilab Frontiers
+2026-06-10 13:26:07,605 [32/1000] FAIL  https://www.fnal.gov/pub/resources/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/resources/index.html
+2026-06-10 13:26:09,681 [33/1000] OK  200  Using AI, Fermilab researcher probes how transisto
+2026-06-10 13:26:11,368 [34/1000] OK  200  News and features
+2026-06-10 13:26:13,372 [35/1000] OK  200  Fermilab and Harmoniqs integrate open-source tools
+2026-06-10 13:26:14,944 [36/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics-101/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics-101/index.html
+2026-06-10 13:26:16,498 [37/1000] FAIL  https://www.fnal.gov/staff-directory  →  403 Client Error: Forbidden for url: https://www.fnal.gov/staff-directory
+2026-06-10 13:26:18,506 [38/1000] OK  200  News and features
+2026-06-10 13:26:20,054 [39/1000] FAIL  https://www.fnal.gov/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/
+2026-06-10 13:26:22,094 [40/1000] OK  200  Mark Ross‑Lonergan elected co-spokesperson for Mic
+2026-06-10 13:26:24,120 [41/1000] OK  200  Fermilab drives progress for national AI Genesis M
+2026-06-10 13:26:26,074 [42/1000] OK  200  QICK Archives - News
+2026-06-10 13:26:27,623 [43/1000] FAIL  https://www.fnal.gov/pub/science/particle-accelerators/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-accelerators/index.html
+2026-06-10 13:26:29,617 [44/1000] OK  200  partnership Archives - News
+2026-06-10 13:26:31,634 [45/1000] OK  200  Fermilab teams up with NIU to launch quantum scien
+2026-06-10 13:26:33,686 [46/1000] OK  200  Social media
+2026-06-10 13:26:35,709 [47/1000] OK  200  Fact sheets
+2026-06-10 13:26:37,737 [48/1000] OK  200  Fermilab features Archives - News
+2026-06-10 13:26:39,346 [49/1000] FAIL  https://www.fnal.gov/faw/fermilab_at_work.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/faw/fermilab_at_work.html
+2026-06-10 13:26:41,744 [50/1000] OK  200  Fact sheets
+2026-06-10 13:26:43,289 [51/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/index.html
+2026-06-10 13:26:44,833 [52/1000] FAIL  https://www.fnal.gov/pub/contact/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/contact/index.html
+2026-06-10 13:26:46,905 [53/1000] OK  200  dark matter Archives - News
+2026-06-10 13:26:48,453 [54/1000] FAIL  https://www.fnal.gov/pub/newsroom/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/newsroom/index.html
+2026-06-10 13:26:50,918 [55/1000] OK  200  Field Trip Essentials – Fermilab Education and Pub
+2026-06-10 13:26:52,951 [56/1000] FAIL  https://education.fnal.gov/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/search
+2026-06-10 13:26:56,311 [57/1000] OK  200  Calendar of public events | Public Events
+2026-06-10 13:26:58,376 [58/1000] OK  200  Frequently asked questions – Fermilab Education an
+2026-06-10 13:27:00,465 [59/1000] OK  200  Ecology and the environment – Fermilab Education a
+2026-06-10 13:27:02,675 [60/1000] OK  200  Beauty and Charm – Introduction to Particle Physic
+2026-06-10 13:27:04,734 [61/1000] OK  200  Field trips – Fermilab Education and Public Engage
+2026-06-10 13:27:06,834 [62/1000] OK  200  Teacher workshops – Fermilab Education and Public 
+2026-06-10 13:27:08,907 [63/1000] OK  200  Energy and Ecosystems: Prairie, Water, and Woods t
+2026-06-10 13:27:11,045 [64/1000] OK  200  Saturday Morning Physics – Fermilab Education and 
+2026-06-10 13:27:13,215 [65/1000] OK  200  Neutrinos – Fermilab Education and Public Engageme
+2026-06-10 13:27:14,763 [66/1000] FAIL  https://www.fnal.gov/pub/visiting/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/index.html
+2026-06-10 13:27:16,814 [67/1000] OK  200  Fermilab Center QuarkNet workshop – Fermilab Educa
+2026-06-10 13:27:18,914 [68/1000] OK  200  Muons and other fundamental particles – Fermilab E
+2026-06-10 13:27:20,991 [69/1000] OK  200  Plan your visit – Fermilab Education and Public En
+2026-06-10 13:27:23,589 [70/1000] OK  200  Quantum science – Fermilab Education and Public En
+2026-06-10 13:27:26,130 [71/1000] OK  200  For Fermilab employees – Fermilab Education and Pu
+2026-06-10 13:27:28,731 [72/1000] OK  200  Saturday Morning Quantum* – Fermilab Education and
+2026-06-10 13:27:30,777 [73/1000] OK  200  QuarkNet – Fermilab Education and Public Engagemen
+2026-06-10 13:27:32,919 [74/1000] OK  200  MakerSpace – Fermilab Education and Public Engagem
+2026-06-10 13:27:35,030 [75/1000] OK  200  Cosmology – Fermilab Education and Public Engageme
+2026-06-10 13:27:37,112 [76/1000] OK  200  Scoring Particles and Expanding Outreach – Fermila
+2026-06-10 13:27:39,178 [77/1000] OK  200  Press release sign-up
+2026-06-10 13:27:41,968 [78/1000] OK  200  MakerSpace Open Lab – Fermilab Education and Publi
+2026-06-10 13:27:45,071 [79/1000] OK  200  Fact sheets
+2026-06-10 13:27:47,103 [80/1000] FAIL  https://education.fnal.gov/about/fermilab@fnal.gov  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/fermilab@fnal.gov
+2026-06-10 13:27:49,192 [81/1000] FAIL  https://education.fnal.gov/about/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/search
+2026-06-10 13:27:50,742 [82/1000] FAIL  https://www.fnal.gov/pub/about/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/
+2026-06-10 13:27:52,609 [83/1000] OK  200  (no title)
+2026-06-10 13:27:55,044 [84/1000] FAIL  https://education.fnal.gov/program/stem-outreach/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/stem-outreach/search
+2026-06-10 13:27:57,136 [85/1000] OK  200  Programs – Fermilab Education and Public Engagemen
+2026-06-10 13:27:59,161 [86/1000] OK  200  AI Archives - Page 3 of 3 - News
+2026-06-10 13:28:01,152 [87/1000] OK  200  Genesis Mission Archives - News
+2026-06-10 13:28:03,194 [88/1000] OK  200  Fermilab’s accomplishments highlight discovery and
+2026-06-10 13:28:05,219 [89/1000] OK  200  AI Archives - Page 2 of 3 - News
+2026-06-10 13:28:07,225 [90/1000] OK  200  ML Archives - News
+2026-06-10 13:28:09,271 [91/1000] OK  200  Fermilab’s new director clarifies mission and achi
+2026-06-10 13:28:11,395 [92/1000] OK  200  MAGIS-100 Archives - News
+2026-06-10 13:28:13,368 [93/1000] OK  200  LBNF Archives - News
+2026-06-10 13:28:15,382 [94/1000] OK  200  Fermilab researchers develop AI tools to advance t
+2026-06-10 13:28:17,374 [95/1000] OK  200  particle detector technology Archives - News
+2026-06-10 13:28:19,402 [96/1000] OK  200  particle accelerator Archives - News
+2026-06-10 13:28:21,423 [97/1000] OK  200  PIP-II Archives - News
+2026-06-10 13:28:23,405 [98/1000] OK  200  Genesis Misson Archives - News
+2026-06-10 13:28:25,426 [99/1000] OK  200  Early Career Award recipient Aleksandra Ćiprijanov
+2026-06-10 13:28:27,447 [100/1000] OK  200  collaboration Archives - News
+2026-06-10 13:28:29,581 [101/1000] OK  200  microelectronics Archives - News
+2026-06-10 13:28:31,555 [102/1000] OK  200  artificial intelligence Archives - News
+2026-06-10 13:28:34,328 [103/1000] OK  200  Mu2e Archives - News
+2026-06-10 13:28:36,347 [104/1000] OK  200  dark energy Archives - News
+2026-06-10 13:28:38,367 [105/1000] OK  200  NOvA Archives - News
+2026-06-10 13:28:40,350 [106/1000] OK  200  computing Archives - News
+2026-06-10 13:28:42,350 [107/1000] OK  200  cryogenics Archives - News
+2026-06-10 13:28:44,369 [108/1000] OK  200  emerging technologies Archives - News
+2026-06-10 13:28:46,456 [109/1000] OK  200  astrophysics Archives - News
+2026-06-10 13:28:48,524 [110/1000] OK  200  award Archives - News
+2026-06-10 13:28:50,528 [111/1000] OK  200  Fermilab’s FAST/IOTA facility achieves major miles
+2026-06-10 13:28:52,575 [112/1000] OK  200  MicroBooNE Archives - News
+2026-06-10 13:28:54,536 [113/1000] OK  200  Magnes Archives - News
+2026-06-10 13:28:56,555 [114/1000] OK  200  Fermilab researchers supercharge neural networks, 
+2026-06-10 13:28:58,535 [115/1000] OK  200  LBNF/DUNE Archives - News
+2026-06-10 13:29:00,566 [116/1000] OK  200  U.S. CMS Archives - News
+2026-06-10 13:29:02,639 [117/1000] OK  200  theory Archives - News
+2026-06-10 13:29:04,645 [118/1000] OK  200  machine learning Archives - News
+2026-06-10 13:29:06,840 [119/1000] OK  200  SQMS Archives - News
+2026-06-10 13:29:09,386 [120/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:29:11,557 [121/1000] OK  200  Muon g-2 Archives - News
+2026-06-10 13:29:13,728 [122/1000] OK  200  neutrino Archives - News
+2026-06-10 13:29:15,787 [123/1000] OK  200  particle physics Archives - News
+2026-06-10 13:29:17,862 [124/1000] OK  200  accelerator science Archives - News
+2026-06-10 13:29:19,846 [125/1000] OK  200  LHC AUP Archives - News
+2026-06-10 13:29:21,903 [126/1000] OK  200  HL-LHC Accelerator Upgrade Project Archives - News
+2026-06-10 13:29:23,873 [127/1000] OK  200  Marcia Teckenbrock Archives - News
+2026-06-10 13:29:25,446 [128/1000] FAIL  http://www.fnal.gov/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/
+2026-06-10 13:29:27,779 [129/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:29:29,767 [130/1000] OK  200  Caltech Archives - News
+2026-06-10 13:29:31,782 [131/1000] OK  200  quantum communication Archives - News
+2026-06-10 13:29:34,426 [132/1000] OK  200  students Archives - News
+2026-06-10 13:29:36,498 [133/1000] OK  200  CPS students graduate from Fermilab quantum scienc
+2026-06-10 13:29:38,814 [134/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:29:40,802 [135/1000] OK  200  Saturday Morning Quantum Archives - News
+2026-06-10 13:29:42,937 [136/1000] OK  200  quantum information science Archives - News
+2026-06-10 13:29:45,012 [137/1000] OK  200  quantum science Archives - News
+2026-06-10 13:29:47,028 [138/1000] OK  200  Fermilab and partners achieve sustained, high-fide
+2026-06-10 13:29:49,149 [139/1000] OK  200  California Archives - News
+2026-06-10 13:29:51,224 [140/1000] OK  200  IN-Q-NET Archives - News
+2026-06-10 13:29:53,235 [141/1000] OK  200  High school students working with Argonne and Ferm
+2026-06-10 13:29:55,176 [142/1000] OK  200  quantum information and science Archives - News
+2026-06-10 13:29:57,194 [143/1000] OK  200  quantum teleportation Archives - News
+2026-06-10 13:29:59,261 [144/1000] FAIL  https://education.fnal.gov/lederman-science-center/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/lederman-science-center/search
+2026-06-10 13:30:02,665 [145/1000] OK  200  Leon M. Lederman – Fermilab Education and Public E
+2026-06-10 13:30:05,172 [146/1000] OK  200  Exhibits – Fermilab Education and Public Engagemen
+2026-06-10 13:30:07,133 [147/1000] OK  200  New collaboration sheds bright light on advancing 
+2026-06-10 13:30:09,152 [148/1000] OK  200  Fermilab completes laser lab construction for worl
+2026-06-10 13:30:11,155 [149/1000] OK  200  superconducting radio-frequency technology Archive
+2026-06-10 13:30:13,175 [150/1000] OK  200  x-ray Archives - News
+2026-06-10 13:30:15,405 [151/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:30:17,575 [152/1000] OK  200  Madeleine O’Keefe Archives - News
+2026-06-10 13:30:19,527 [153/1000] OK  200  Fermilab sees record performance from next-generat
+2026-06-10 13:30:21,547 [154/1000] OK  200  LCLS-II Archives - News
+2026-06-10 13:30:23,538 [155/1000] OK  200  cryomodule Archives - News
+2026-06-10 13:30:25,585 [156/1000] OK  200  SLAC fires up the world’s most powerful X-ray lase
+2026-06-10 13:30:27,583 [157/1000] OK  200  SLAC National Accelerator Laboratory Archives - Ne
+2026-06-10 13:30:29,627 [158/1000] OK  200  laser Archives - News
+2026-06-10 13:30:31,715 [159/1000] OK  200  Jefferson Lab Archives - News
+2026-06-10 13:30:33,770 [160/1000] OK  200  engineering Archives - News
+2026-06-10 13:30:36,342 [161/1000] OK  200  leadership Archives - News
+2026-06-10 13:30:38,460 [162/1000] OK  200  Dave Newbold elected co-spokesperson of DUNE colla
+2026-06-10 13:30:40,436 [163/1000] OK  200  DESI Archives - News
+2026-06-10 13:30:42,442 [164/1000] OK  200  Standard Model Archives - News
+2026-06-10 13:30:44,577 [165/1000] OK  200  muon Archives - News
+2026-06-10 13:30:46,767 [166/1000] OK  200  SQMS Center Archives - News
+2026-06-10 13:30:48,749 [167/1000] OK  200  quantum electronics Archives - News
+2026-06-10 13:30:50,732 [168/1000] OK  200  Dark Energy Spectroscopic Instrument Archives - Ne
+2026-06-10 13:30:52,752 [169/1000] OK  200  ICARUS experiment marks major milestone in first n
+2026-06-10 13:30:54,775 [170/1000] OK  200  ions Archives - News
+2026-06-10 13:30:56,738 [171/1000] OK  200  Short-Baseline Neutrino program Archives - News
+2026-06-10 13:30:58,710 [172/1000] OK  200  milestone Archives - News
+2026-06-10 13:31:00,705 [173/1000] OK  200  DOE national quantum research centers reach breakt
+2026-06-10 13:31:02,783 [174/1000] OK  200  Fermilab experiment receives prestigious Breakthro
+2026-06-10 13:31:04,820 [175/1000] OK  200  construction Archives - News
+2026-06-10 13:31:06,881 [176/1000] OK  200  Press releases Archives - Page 3 of 38 - News
+2026-06-10 13:31:08,908 [177/1000] OK  200  DESI completes planned 3D map of the universe and 
+2026-06-10 13:31:10,942 [178/1000] OK  200  Spring arrives at Fermilab, welcoming this year’s 
+2026-06-10 13:31:12,944 [179/1000] OK  200  Press releases Archives - Page 2 of 38 - News
+2026-06-10 13:31:14,962 [180/1000] OK  200  SBN Archives - News
+2026-06-10 13:31:17,055 [181/1000] OK  200  neutrino physics Archives - News
+2026-06-10 13:31:19,092 [182/1000] OK  200  ecology Archives - News
+2026-06-10 13:31:21,101 [183/1000] OK  200  qubits Archives - News
+2026-06-10 13:31:23,106 [184/1000] OK  200  Press releases Archives - Page 38 of 38 - News
+2026-06-10 13:31:25,090 [185/1000] OK  200  baby bison Archives - News
+2026-06-10 13:31:27,142 [186/1000] OK  200  Berkeley Lab Archives - News
+2026-06-10 13:31:29,373 [187/1000] OK  200  education Archives - News
+2026-06-10 13:31:31,329 [188/1000] OK  200  ICARUS Archives - News
+2026-06-10 13:31:33,330 [189/1000] OK  200  cosmology Archives - News
+2026-06-10 13:31:35,424 [190/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/search
+2026-06-10 13:31:37,539 [191/1000] OK  200  DUNE scientists observe first neutrinos with proto
+2026-06-10 13:31:40,235 [192/1000] OK  200  A minute with Jacopo Bernardini
+2026-06-10 13:31:42,566 [193/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:31:44,574 [194/1000] OK  200  Zachary Burton Archives - News
+2026-06-10 13:31:46,598 [195/1000] OK  200  Anne Heavey Archives - News
+2026-06-10 13:31:48,571 [196/1000] OK  200  Deep Underground Neutrino Experiment Archives - Ne
+2026-06-10 13:31:50,590 [197/1000] OK  200  Why choose liquid argon for DUNE detectors?
+2026-06-10 13:31:52,717 [198/1000] OK  200  Fermilab’s PIP-II accelerator project recognized a
+2026-06-10 13:31:54,806 [199/1000] OK  200  liquid argon Archives - News
+2026-06-10 13:31:56,810 [200/1000] OK  200  Detecting dark matter with quantum computers
+2026-06-10 13:31:59,166 [201/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:32:01,167 [202/1000] OK  200  DOE Archives - News
+2026-06-10 13:32:03,184 [203/1000] OK  200  Office of Science Archives - News
+2026-06-10 13:32:04,743 [204/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/experiments/admx.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/experiments/admx.html
+2026-06-10 13:32:06,886 [205/1000] OK  200  Yao Lu receives Early Career Award to harness quan
+2026-06-10 13:32:09,200 [206/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:32:11,209 [207/1000] OK  200  neutrinos Archives - News
+2026-06-10 13:32:13,365 [208/1000] OK  200  community Archives - News
+2026-06-10 13:32:15,349 [209/1000] OK  200  In the news Archives - Page 3 of 167 - News
+2026-06-10 13:32:17,392 [210/1000] OK  200  In the news Archives - Page 2 of 167 - News
+2026-06-10 13:32:19,499 [211/1000] FAIL  https://news.fnal.gov/category/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/search
+2026-06-10 13:32:21,496 [212/1000] OK  200  In the news Archives - Page 167 of 167 - News
+2026-06-10 13:32:23,573 [213/1000] OK  200  muons Archives - News
+2026-06-10 13:32:25,664 [214/1000] OK  200  Arts and Lecture Series Archives - News
+2026-06-10 13:32:27,661 [215/1000] OK  200  DUNE Archives - Page 3 of 46 - News
+2026-06-10 13:32:29,699 [216/1000] OK  200  Steven Gardiner receives Early Career Award to adv
+2026-06-10 13:32:32,034 [217/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:32:34,092 [218/1000] OK  200  DUNE collaborators advance breakthrough power-over
+2026-06-10 13:32:36,080 [219/1000] OK  200  DUNE Archives - Page 46 of 46 - News
+2026-06-10 13:32:38,115 [220/1000] OK  200  DUNE Archives - Page 2 of 46 - News
+2026-06-10 13:32:40,718 [221/1000] OK  200  Long-Baseline Neutrino Facility pre-excavation wor
+2026-06-10 13:32:43,441 [222/1000] OK  200  Excavation of colossal caverns for Fermilab’s DUNE
+2026-06-10 13:32:45,945 [223/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:32:47,924 [224/1000] FAIL  https://news.fnal.gov/category/ext/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/ext/search
+2026-06-10 13:32:50,314 [225/1000] OK  200  In the news Archives - Page 167 of 167 - News
+2026-06-10 13:32:52,319 [226/1000] OK  200  In the news Archives - Page 3 of 167 - News
+2026-06-10 13:32:53,994 [227/1000] OK  200  In the news Archives - Page 2 of 167 - News
+2026-06-10 13:32:56,314 [228/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:32:58,721 [229/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:00,685 [230/1000] OK  200  NEXUS Archives - News
+2026-06-10 13:33:02,645 [231/1000] OK  200  quantum Archives - Page 3 of 13 - News
+2026-06-10 13:33:04,593 [232/1000] OK  200  quantum Archives - Page 2 of 13 - News
+2026-06-10 13:33:06,581 [233/1000] OK  200  quantum Archives - Page 13 of 13 - News
+2026-06-10 13:33:08,864 [234/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:11,164 [235/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:13,701 [236/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:16,585 [237/1000] OK  200  Maxwell Bernstein Archives - News
+2026-06-10 13:33:18,942 [238/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:21,212 [239/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:23,329 [240/1000] OK  200  News and features
+2026-06-10 13:33:25,320 [241/1000] OK  200  News and features
+2026-06-10 13:33:27,345 [242/1000] OK  200  News and features
+2026-06-10 13:33:29,681 [243/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:31,667 [244/1000] OK  200  MicroBooNE celebrates tenth anniversary at Fermila
+2026-06-10 13:33:33,638 [245/1000] OK  200  MicroBooNE finds no evidence for a sterile neutrin
+2026-06-10 13:33:35,854 [246/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:37,862 [247/1000] OK  200  Mark Hume Archives - News
+2026-06-10 13:33:40,154 [248/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:42,419 [249/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:44,392 [250/1000] OK  200  QICK Archives - Page 3 of 3 - News
+2026-06-10 13:33:47,193 [251/1000] OK  200  QICK Archives - Page 2 of 3 - News
+2026-06-10 13:33:49,366 [252/1000] OK  200  quantum computing Archives - News
+2026-06-10 13:33:51,432 [253/1000] OK  200  SQMS Center team from Fermilab and NYU Langone adv
+2026-06-10 13:33:53,901 [254/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:33:55,863 [255/1000] OK  200  partnership Archives - Page 3 of 4 - News
+2026-06-10 13:33:57,864 [256/1000] OK  200  IARC Archives - News
+2026-06-10 13:33:59,806 [257/1000] OK  200  partnership Archives - Page 4 of 4 - News
+2026-06-10 13:34:01,773 [258/1000] OK  200  Fermilab teams up with Proficio to develop water t
+2026-06-10 13:34:03,757 [259/1000] OK  200  quantum network Archives - News
+2026-06-10 13:34:05,825 [260/1000] OK  200  Fermilab celebrates new era of quantum innovation 
+2026-06-10 13:34:07,865 [261/1000] OK  200  accelerator applications Archives - News
+2026-06-10 13:34:09,827 [262/1000] OK  200  PFAS Archives - News
+2026-06-10 13:34:11,790 [263/1000] OK  200  partnership Archives - Page 2 of 4 - News
+2026-06-10 13:34:14,064 [264/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:34:16,408 [265/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:34:18,496 [266/1000] OK  200  (no title)
+2026-06-10 13:34:20,500 [267/1000] OK  200  technology transfer Archives - News
+2026-06-10 13:34:22,568 [268/1000] OK  200  Large Hadron Collider Archives - News
+2026-06-10 13:34:24,686 [269/1000] OK  200  CERN Archives - News
+2026-06-10 13:34:26,697 [270/1000] OK  200  Edwards Center Archives - News
+2026-06-10 13:34:28,494 [271/1000] OK  200  (no title)
+2026-06-10 13:34:30,678 [272/1000] OK  200  (no title)
+2026-06-10 13:34:32,403 [273/1000] OK  200  (no title)
+2026-06-10 13:34:34,787 [274/1000] OK  200  (no title)
+2026-06-10 13:34:36,803 [275/1000] OK  200  (no title)
+2026-06-10 13:34:38,499 [276/1000] OK  200  (no title)
+2026-06-10 13:34:40,609 [277/1000] OK  200  (no title)
+2026-06-10 13:34:42,605 [278/1000] OK  200  accelerator Archives - News
+2026-06-10 13:34:44,595 [279/1000] OK  200  Illinois Accelerator Research Center Archives - Ne
+2026-06-10 13:34:46,603 [280/1000] OK  200  (no title)
+2026-06-10 13:34:48,704 [281/1000] OK  200  (no title)
+2026-06-10 13:34:50,746 [282/1000] OK  200  (no title)
+2026-06-10 13:34:52,783 [283/1000] OK  200  internship Archives - News
+2026-06-10 13:34:54,769 [284/1000] OK  200  (no title)
+2026-06-10 13:34:56,784 [285/1000] OK  200  (no title)
+2026-06-10 13:34:58,731 [286/1000] OK  200  (no title)
+2026-06-10 13:35:00,707 [287/1000] OK  200  LHC Archives - News
+2026-06-10 13:35:02,608 [288/1000] OK  200  (no title)
+2026-06-10 13:35:04,654 [289/1000] OK  200  (no title)
+2026-06-10 13:35:07,471 [290/1000] OK  200  (no title)
+2026-06-10 13:35:09,484 [291/1000] OK  200  experiment Archives - News
+2026-06-10 13:35:11,474 [292/1000] OK  200  history Archives - News
+2026-06-10 13:35:13,149 [293/1000] OK  200  (no title)
+2026-06-10 13:35:15,290 [294/1000] OK  200  (no title)
+2026-06-10 13:35:17,345 [295/1000] OK  200  (no title)
+2026-06-10 13:35:19,364 [296/1000] OK  200  (no title)
+2026-06-10 13:35:21,393 [297/1000] OK  200  environment Archives - News
+2026-06-10 13:35:23,673 [298/1000] OK  200  (no title)
+2026-06-10 13:35:25,537 [299/1000] OK  200  (no title)
+2026-06-10 13:35:27,528 [300/1000] OK  200  procurement Archives - News
+2026-06-10 13:35:29,856 [301/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:35:32,084 [302/1000] OK  200  (no title)
+2026-06-10 13:35:34,205 [303/1000] OK  200  (no title)
+2026-06-10 13:35:36,188 [304/1000] OK  200  Higgs boson Archives - News
+2026-06-10 13:35:38,171 [305/1000] OK  200  national laboratory Archives - News
+2026-06-10 13:35:40,143 [306/1000] OK  200  (no title)
+2026-06-10 13:35:42,196 [307/1000] OK  200  Fermilab features Archives - Page 3 of 66 - News
+2026-06-10 13:35:44,226 [308/1000] OK  200  Fermilab features Archives - Page 2 of 66 - News
+2026-06-10 13:35:46,259 [309/1000] FAIL  https://news.fnal.gov/category/newsroom/fermilab-feature/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/fermilab-feature/search
+2026-06-10 13:35:48,292 [310/1000] OK  200  Fermilab features Archives - Page 66 of 66 - News
+2026-06-10 13:35:51,674 [311/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:35:53,810 [312/1000] OK  200  New ultra-fast particle detector could help unmask
+2026-06-10 13:35:55,776 [313/1000] OK  200  dark matter Archives - Page 3 of 24 - News
+2026-06-10 13:35:57,852 [314/1000] OK  200  dark matter Archives - Page 24 of 24 - News
+2026-06-10 13:35:59,899 [315/1000] OK  200  A minute with Ryan Linehan
+2026-06-10 13:36:01,968 [316/1000] OK  200  magnetic moment Archives - News
+2026-06-10 13:36:04,086 [317/1000] OK  200  dark matter Archives - Page 2 of 24 - News
+2026-06-10 13:36:06,218 [318/1000] OK  200  High-Luminosity Large Hadron Collider Archives - N
+2026-06-10 13:36:08,435 [319/1000] OK  200  CMS Archives - News
+2026-06-10 13:36:10,477 [320/1000] OK  200  Fermilab-led study advances development of sophist
+2026-06-10 13:36:12,842 [321/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:36:15,030 [322/1000] FAIL  https://education.fnal.gov/program/field-trip-essentials/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/field-trip-essentials/search
+2026-06-10 13:36:17,385 [323/1000] OK  200  Fermilab Education and Public Engagement
+2026-06-10 13:36:18,932 [324/1000] FAIL  https://www.fnal.gov/pub/community/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/community/
+2026-06-10 13:36:20,481 [325/1000] FAIL  https://www.fnal.gov/pub/jobs/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/jobs/index.html
+2026-06-10 13:36:22,568 [326/1000] OK  200  Subscribe to Fermilab Frontiers
+2026-06-10 13:36:25,619 [327/1000] OK  200  Lederman Science Center – Fermilab Education and P
+2026-06-10 13:36:27,635 [328/1000] FAIL  https://education.fnal.gov/about/faq/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/faq/search
+2026-06-10 13:36:29,692 [329/1000] FAIL  https://education.fnal.gov/ecology-and-the-environment/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/ecology-and-the-environment/search
+2026-06-10 13:36:31,236 [330/1000] FAIL  https://www.fnal.gov/pub/about/bisoncam/  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/about/bisoncam/
+2026-06-10 13:36:33,283 [331/1000] OK  200  Beauty and Charm field trip – Fermilab Education a
+2026-06-10 13:36:35,335 [332/1000] FAIL  https://education.fnal.gov/program/beauty-and-charm-at-fermilab/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/beauty-and-charm-at-fermilab/search
+2026-06-10 13:36:37,755 [333/1000] OK  200  Phriendly Physics 3-5 teacher workshop – Fermilab 
+2026-06-10 13:36:37,756 *** MILESTONE page 333 — 296 documents downloaded so far ***
+2026-06-10 13:36:39,855 [334/1000] OK  200  High school physical science field trip – Fermilab
+2026-06-10 13:36:41,934 [335/1000] OK  200  Energy and Ecosystems:  Prairie, Water, and Woods 
+2026-06-10 13:36:44,095 [336/1000] OK  200  Phriendly Physics field trip – Fermilab Education 
+2026-06-10 13:36:46,138 [337/1000] OK  200  High school life science field trip – Fermilab Edu
+2026-06-10 13:36:48,208 [338/1000] OK  200  Insects at Work in Our World field trip – Fermilab
+2026-06-10 13:36:50,237 [339/1000] FAIL  https://education.fnal.gov/field-trips/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/field-trips/search
+2026-06-10 13:36:52,793 [340/1000] OK  200  Teacher workshops – Fermilab Education and Public 
+2026-06-10 13:36:55,291 [341/1000] OK  200  Phriendly Physics: Science and Engineering K-2 tea
+2026-06-10 13:36:57,377 [342/1000] FAIL  https://education.fnal.gov/teacher-workshops/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/teacher-workshops/search
+2026-06-10 13:36:59,504 [343/1000] OK  200  Insects at Work in Our World teacher workshop – Fe
+2026-06-10 13:37:01,577 [344/1000] OK  200  Summer Secondary Environmental Science Institute –
+2026-06-10 13:37:03,660 [345/1000] FAIL  https://education.fnal.gov/program/energy-and-ecosystems/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/energy-and-ecosystems/search
+2026-06-10 13:37:05,791 [346/1000] FAIL  https://education.fnal.gov/program/saturdaymorningphysics/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/saturdaymorningphysics/search
+2026-06-10 13:37:07,346 [347/1000] FAIL  https://www.fnal.gov/pub/science/particle-physics/experiments/neutrinos.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/science/particle-physics/experiments/neutrinos.html
+2026-06-10 13:37:09,424 [348/1000] FAIL  https://education.fnal.gov/neutrinos/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/neutrinos/search
+2026-06-10 13:37:11,764 [349/1000] FAIL  https://education.fnal.gov/program/fermilab-center-quarknet-workshop/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/fermilab-center-quarknet-workshop/search
+2026-06-10 13:37:13,958 [350/1000] OK  200  Physicists discover top quark
+2026-06-10 13:37:16,451 [351/1000] OK  200  Physicists Find First Direct Evidence for Tau Neut
+2026-06-10 13:37:18,498 [352/1000] FAIL  https://education.fnal.gov/muons-and-other-fundamental-particles/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/muons-and-other-fundamental-particles/search
+2026-06-10 13:37:20,539 [353/1000] FAIL  https://news.fnal.gov/2014/07/july-1-1977-discovery-of-the-bottom-quark/  →  404 Client Error: Not Found for url: https://news.fnal.gov/2014/07/july-1-1977-discovery-of-the-bottom-quark/
+2026-06-10 13:37:22,820 [354/1000] OK  200  (no title)
+2026-06-10 13:37:24,374 [355/1000] FAIL  https://www.fnal.gov/pub/visiting/directions/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/directions/index.html
+2026-06-10 13:37:26,415 [356/1000] FAIL  https://education.fnal.gov/about/directions-to-lederman-science-center/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/directions-to-lederman-science-center/search
+2026-06-10 13:37:28,395 [357/1000] FAIL  https://education.fnal.gov/explore/quantum-science/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/explore/quantum-science/search
+2026-06-10 13:37:30,122 [358/1000] FAIL  https://education.fnal.gov/wp-admin/post.php  →  403 Client Error: Forbidden for url: https://sorry.fnal.gov
+2026-06-10 13:37:32,164 [359/1000] FAIL  https://education.fnal.gov/about/for-employees/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/about/for-employees/search
+2026-06-10 13:37:34,720 [360/1000] OK  200  MakerSpace – Fermilab Education and Public Engagem
+2026-06-10 13:37:36,705 [361/1000] FAIL  https://education.fnal.gov/program/saturday-morning-quantum-in-chicago/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/saturday-morning-quantum-in-chicago/search
+2026-06-10 13:37:38,480 [362/1000] OK  200  (no title)
+2026-06-10 13:37:40,533 [363/1000] OK  200  SMQ* in Chicago Spring 2026 Schedule – Fermilab Ed
+2026-06-10 13:37:43,003 [364/1000] OK  200  Fermilab QuarkNet Center teacher resources – Fermi
+2026-06-10 13:37:45,012 [365/1000] FAIL  https://education.fnal.gov/quarknet/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/quarknet/search
+2026-06-10 13:37:47,552 [366/1000] OK  200  Visualizing STEM – Fermilab Education and Public E
+2026-06-10 13:37:49,859 [367/1000] FAIL  https://education.fnal.gov/makerspace/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/makerspace/search
+2026-06-10 13:37:51,856 [368/1000] OK  200  STEM spotlight – Fermilab Education and Public Eng
+2026-06-10 13:37:53,986 [369/1000] FAIL  https://education.fnal.gov/cosmology/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/cosmology/search
+2026-06-10 13:37:55,978 [370/1000] FAIL  https://education.fnal.gov/scoring-particles-and-expanding-outreach/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/scoring-particles-and-expanding-outreach/search
+2026-06-10 13:37:58,114 [371/1000] OK  200  Press releases
+2026-06-10 13:38:00,470 [372/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:02,021 [373/1000] FAIL  https://www.fnal.gov/pub/visiting/hours/index.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/visiting/hours/index.html
+2026-06-10 13:38:04,090 [374/1000] FAIL  https://education.fnal.gov/program/makerspace-open-lab/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/makerspace-open-lab/search
+2026-06-10 13:38:06,494 [375/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:08,492 [376/1000] OK  200  Programs – Page 3 – Fermilab Education and Public 
+2026-06-10 13:38:10,544 [377/1000] OK  200  Programs – Page 2 – Fermilab Education and Public 
+2026-06-10 13:38:12,878 [378/1000] FAIL  https://education.fnal.gov/program/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/program/search
+2026-06-10 13:38:15,201 [379/1000] OK  200  AI Archives - News
+2026-06-10 13:38:17,177 [380/1000] OK  200  Monte Carlo simulation Archives - News
+2026-06-10 13:38:19,365 [381/1000] OK  200  Fermilab researcher receives two prestigious award
+2026-06-10 13:38:21,399 [382/1000] OK  200  Department of Energy Archives - News
+2026-06-10 13:38:23,784 [383/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:25,821 [384/1000] OK  200  Symmetry features Archives - News
+2026-06-10 13:38:28,276 [385/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:30,177 [386/1000] OK  200  Artificial Intelligence | Computing
+2026-06-10 13:38:32,247 [387/1000] OK  200  HL-LHC Accelerator Upgrade Project receives approv
+2026-06-10 13:38:34,426 [388/1000] OK  200  New DESI results strengthen hints that dark energy
+2026-06-10 13:38:36,397 [389/1000] OK  200  Fermilab expecting 95-ton coldbox delivery
+2026-06-10 13:38:38,644 [390/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:40,731 [391/1000] OK  200  Fermilab’s SQMS Center funded with $125 million to
+2026-06-10 13:38:42,719 [392/1000] OK  200  Energy Department announces partnership with Fermi
+2026-06-10 13:38:44,725 [393/1000] OK  200  Fermilab technology debuts in supercollider dress 
+2026-06-10 13:38:46,729 [394/1000] OK  200  Muon g-2 announces most precise measurement of the
+2026-06-10 13:38:48,708 [395/1000] OK  200  DESI opens access to the largest 3D map of the uni
+2026-06-10 13:38:50,258 [396/1000] FAIL  https://www.fnal.gov/pub/tevatron/tevatron-accelerator.html  →  403 Client Error: Forbidden for url: https://www.fnal.gov/pub/tevatron/tevatron-accelerator.html
+2026-06-10 13:38:52,605 [397/1000] OK  200  US Department of Energy launches ‘Genesis Mission’
+2026-06-10 13:38:54,586 [398/1000] OK  200  Customizable quantum control toolkit developed at 
+2026-06-10 13:38:56,916 [399/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:38:59,231 [400/1000] OK  200  Kevin Pedro receives 2024 URA Honorary Early Caree
+2026-06-10 13:39:01,376 [401/1000] OK  200  URA Archives - News
+2026-06-10 13:39:03,465 [402/1000] OK  200  physics Archives - News
+2026-06-10 13:39:05,462 [403/1000] OK  200  DES Archives - News
+2026-06-10 13:39:07,486 [404/1000] OK  200  Chicago Quantum Exchange Archives - News
+2026-06-10 13:39:09,850 [405/1000] OK  200  Early Career Award Archives - News
+2026-06-10 13:39:11,895 [406/1000] OK  200  research Archives - News
+2026-06-10 13:39:14,276 [407/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:39:16,309 [408/1000] OK  200  Norbert Holtkamp appointed director of Fermi Natio
+2026-06-10 13:39:18,311 [409/1000] OK  200  Dark SRF experiment at Fermilab demonstrates ultra
+2026-06-10 13:39:20,722 [410/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:39:23,028 [411/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:39:25,278 [412/1000] OK  200  detector technology Archives - News
+2026-06-10 13:39:27,366 [413/1000] OK  200  Innovative MAGIS-100 quantum experiment at Fermila
+2026-06-10 13:39:29,466 [414/1000] OK  200  MAGIS-100 Archives - Page 2 of 2 - News
+2026-06-10 13:39:31,585 [415/1000] OK  200  gravitational waves Archives - News
+2026-06-10 13:39:33,645 [416/1000] OK  200  high-energy physics Archives - News
+2026-06-10 13:39:35,735 [417/1000] OK  200  MINERvA Archives - News
+2026-06-10 13:39:37,734 [418/1000] OK  200  nuclear physics Archives - News
+2026-06-10 13:39:39,818 [419/1000] OK  200  ProtoDUNE Archives - News
+2026-06-10 13:39:42,008 [420/1000] OK  200  First DUNE science components arrive at SURF
+2026-06-10 13:39:44,008 [421/1000] OK  200  excavation Archives - News
+2026-06-10 13:39:46,123 [422/1000] OK  200  Latin America Archives - News
+2026-06-10 13:39:48,169 [423/1000] OK  200  detector Archives - News
+2026-06-10 13:39:50,197 [424/1000] OK  200  Rock transportation system is ready for excavation
+2026-06-10 13:39:52,598 [425/1000] OK  200  LBNF Archives - Page 2 of 15 - News
+2026-06-10 13:39:54,735 [426/1000] OK  200  LBNF/DUNE excavation achieves a gem of a milestone
+2026-06-10 13:39:57,038 [427/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:39:59,138 [428/1000] OK  200  Long-Baseline Neutrino Facility Archives - News
+2026-06-10 13:40:01,484 [429/1000] OK  200  accelerator operation Archives - News
+2026-06-10 13:40:03,517 [430/1000] OK  200  APA Archives - News
+2026-06-10 13:40:05,484 [431/1000] OK  200  LBNF Archives - Page 15 of 15 - News
+2026-06-10 13:40:07,589 [432/1000] OK  200  Sanford Underground Research Facility Archives - N
+2026-06-10 13:40:09,560 [433/1000] OK  200  LBNF Archives - Page 3 of 15 - News
+2026-06-10 13:40:11,566 [434/1000] OK  200  SURF Archives - News
+2026-06-10 13:40:13,579 [435/1000] OK  200  international collaboration Archives - News
+2026-06-10 13:40:15,643 [436/1000] OK  200  Caitlyn Buongiorno Archives - News
+2026-06-10 13:40:17,940 [437/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:40:20,320 [438/1000] OK  200  STFC Archives - News
+2026-06-10 13:40:22,422 [439/1000] OK  200  International science organizations sign agreement
+2026-06-10 13:40:24,534 [440/1000] OK  200  quantum mechanics Archives - News
+2026-06-10 13:40:26,630 [441/1000] OK  200  Mu2e reaches major milestone with tracker move
+2026-06-10 13:40:28,814 [442/1000] OK  200  A new way to explore proton’s structure with neutr
+2026-06-10 13:40:30,817 [443/1000] OK  200  UNICAMP Archives - News
+2026-06-10 13:40:32,790 [444/1000] OK  200  protons Archives - News
+2026-06-10 13:40:34,745 [445/1000] OK  200  particle detector technology Archives - Page 2 of 
+2026-06-10 13:40:36,789 [446/1000] OK  200  Containing thousands of tons of liquid argon for D
+2026-06-10 13:40:38,847 [447/1000] OK  200  STEM Archives - News
+2026-06-10 13:40:40,814 [448/1000] OK  200  FAPESP Archives - News
+2026-06-10 13:40:42,803 [449/1000] OK  200  international engagement Archives - News
+2026-06-10 13:40:44,785 [450/1000] OK  200  INFN Archives - News
+2026-06-10 13:40:46,991 [451/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:40:49,006 [452/1000] OK  200  axion Archives - News
+2026-06-10 13:40:50,956 [453/1000] OK  200  particle accelerator Archives - Page 3 of 3 - News
+2026-06-10 13:40:52,933 [454/1000] OK  200  particles Archives - News
+2026-06-10 13:40:55,045 [455/1000] OK  200  A minute with Maria Barba
+2026-06-10 13:40:57,041 [456/1000] OK  200  sustainability Archives - News
+2026-06-10 13:40:59,071 [457/1000] OK  200  particle accelerator Archives - Page 2 of 3 - News
+2026-06-10 13:41:01,398 [458/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:41:03,344 [459/1000] OK  200  travel Archives - News
+2026-06-10 13:41:05,366 [460/1000] OK  200  climate change Archives - News
+2026-06-10 13:41:07,325 [461/1000] OK  200  P5 Archives - News
+2026-06-10 13:41:09,304 [462/1000] OK  200  universe Archives - News
+2026-06-10 13:41:11,319 [463/1000] OK  200  Snowmass Archives - News
+2026-06-10 13:41:13,315 [464/1000] OK  200  Construction for Fermilab's new particle accelerat
+2026-06-10 13:41:15,598 [465/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:41:17,537 [466/1000] OK  200  accelerator technology Archives - News
+2026-06-10 13:41:19,525 [467/1000] OK  200  PIP-II Archives - Page 2 of 9 - News
+2026-06-10 13:41:21,535 [468/1000] OK  200  Magnets Archives - News
+2026-06-10 13:41:23,493 [469/1000] OK  200  Cristian Boffo appointed director of Fermilab’s pa
+2026-06-10 13:41:25,504 [470/1000] OK  200  PIP-II Archives - Page 3 of 9 - News
+2026-06-10 13:41:27,508 [471/1000] OK  200  technology Archives - News
+2026-06-10 13:41:29,471 [472/1000] OK  200  PIP-II Archives - Page 9 of 9 - News
+2026-06-10 13:41:31,628 [473/1000] OK  200  accelerator complex Archives - News
+2026-06-10 13:41:33,934 [474/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:41:36,247 [475/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:41:38,453 [476/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:41:40,433 [477/1000] OK  200  HiLumi LHC: full-scale tests start
+2026-06-10 13:41:42,506 [478/1000] OK  200  collaboration Archives - Page 2 of 11 - News
+2026-06-10 13:41:44,471 [479/1000] OK  200  collaboration Archives - Page 3 of 11 - News
+2026-06-10 13:41:46,517 [480/1000] OK  200  collaboration Archives - Page 11 of 11 - News
+2026-06-10 13:41:48,532 [481/1000] OK  200  accelerator magnets Archives - News
+2026-06-10 13:41:50,613 [482/1000] OK  200  Fermilab researchers receive DOE funding to advanc
+2026-06-10 13:41:52,604 [483/1000] OK  200  photon detector Archives - News
+2026-06-10 13:41:54,870 [484/1000] OK  200  A minute with Troy England
+2026-06-10 13:41:56,817 [485/1000] OK  200  microelectronics Archives - Page 2 of 2 - News
+2026-06-10 13:41:58,786 [486/1000] OK  200  Fermilab joined national effort to increase effici
+2026-06-10 13:42:00,835 [487/1000] OK  200  energy efficiency Archives - News
+2026-06-10 13:42:02,824 [488/1000] OK  200  compact accelerator Archives - News
+2026-06-10 13:42:05,028 [489/1000] OK  200  detectors Archives - News
+2026-06-10 13:42:07,352 [490/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:42:09,375 [491/1000] OK  200  Fermilab researchers receive Department of Energy 
+2026-06-10 13:42:11,369 [492/1000] OK  200  Fermilab-led microelectronics codesign team works 
+2026-06-10 13:42:13,324 [493/1000] OK  200  funding Archives - News
+2026-06-10 13:42:15,309 [494/1000] OK  200  people Archives - News
+2026-06-10 13:42:17,281 [495/1000] OK  200  big data Archives - News
+2026-06-10 13:42:19,271 [496/1000] OK  200  artificial intelligence Archives - Page 2 of 2 - N
+2026-06-10 13:42:21,232 [497/1000] OK  200  A minute with Aleksandra Ćiprijanović, astrophysic
+2026-06-10 13:42:23,190 [498/1000] OK  200  spectrogram Archives - News
+2026-06-10 13:42:25,406 [499/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:42:27,553 [500/1000] OK  200  astronomy Archives - News
+2026-06-10 13:42:29,970 [501/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:42:32,454 [502/1000] OK  200  electron Archives - News
+2026-06-10 13:42:34,568 [503/1000] OK  200  Main Injector Archives - News
+2026-06-10 13:42:37,814 [504/1000] OK  200  Stefano Miscetti elected as Mu2e co-spokesperson
+2026-06-10 13:42:39,981 [505/1000] OK  200  spokesperson Archives - News
+2026-06-10 13:42:42,847 [506/1000] OK  200  lepton Archives - News
+2026-06-10 13:42:44,908 [507/1000] OK  200  Fermilab receives DOE funding to develop machine l
+2026-06-10 13:42:47,397 [508/1000] OK  200  Main Control Room Archives - News
+2026-06-10 13:42:49,532 [509/1000] OK  200  Mu2e Archives - Page 2 of 3 - News
+2026-06-10 13:42:51,615 [510/1000] OK  200  Mu2e Archives - Page 3 of 3 - News
+2026-06-10 13:42:53,719 [511/1000] OK  200  electrons Archives - News
+2026-06-10 13:42:57,215 [512/1000] OK  200  Straws, crystals and the quest for new subatomic p
+2026-06-10 13:42:59,250 [513/1000] OK  200  energy Archives - News
+2026-06-10 13:43:02,981 [514/1000] OK  200  dark energy Archives - Page 3 of 10 - News
+2026-06-10 13:43:05,781 [515/1000] OK  200  dark energy Archives - Page 10 of 10 - News
+2026-06-10 13:43:07,843 [516/1000] OK  200  Dark Energy Camera Archives - News
+2026-06-10 13:43:09,926 [517/1000] OK  200  dark energy Archives - Page 2 of 10 - News
+2026-06-10 13:43:12,214 [518/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:43:14,218 [519/1000] OK  200  neutron star Archives - News
+2026-06-10 13:43:16,183 [520/1000] OK  200  NOvA Archives - Page 3 of 6 - News
+2026-06-10 13:43:18,133 [521/1000] OK  200  sterile neutrino Archives - News
+2026-06-10 13:43:20,167 [522/1000] OK  200  New NOvA results add to mystery of neutrinos
+2026-06-10 13:43:22,447 [523/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:43:24,506 [524/1000] OK  200  neutrino oscillation Archives - News
+2026-06-10 13:43:26,489 [525/1000] OK  200  NOvA Archives - Page 2 of 6 - News
+2026-06-10 13:43:28,473 [526/1000] OK  200  Double the data: neutrino hunters nearing long-sou
+2026-06-10 13:43:30,445 [527/1000] OK  200  NOvA Archives - Page 6 of 6 - News
+2026-06-10 13:43:32,498 [528/1000] OK  200  result Archives - News
+2026-06-10 13:43:34,455 [529/1000] OK  200  DOE invests $13.7 million for research in data red
+2026-06-10 13:43:36,480 [530/1000] OK  200  Tevatron Archives - News
+2026-06-10 13:43:38,500 [531/1000] OK  200  computing Archives - Page 3 of 8 - News
+2026-06-10 13:43:40,521 [532/1000] OK  200  quantum internet Archives - News
+2026-06-10 13:43:42,473 [533/1000] OK  200  data Archives - News
+2026-06-10 13:43:44,470 [534/1000] OK  200  quantum entanglement Archives - News
+2026-06-10 13:43:46,433 [535/1000] OK  200  QCD Archives - News
+2026-06-10 13:43:49,080 [536/1000] OK  200  A minute with Sajid Ali Syed, computational scienc
+2026-06-10 13:43:51,112 [537/1000] OK  200  Coffea speeds up particle physics data analysis
+2026-06-10 13:43:53,150 [538/1000] OK  200  computing Archives - Page 8 of 8 - News
+2026-06-10 13:43:55,454 [539/1000] OK  200  Fermilab Archives - News
+2026-06-10 13:43:57,507 [540/1000] OK  200  Science and Technology Facilities Council Archives
+2026-06-10 13:43:59,481 [541/1000] OK  200  How physics explores the world’s unanswered questi
+2026-06-10 13:44:01,479 [542/1000] OK  200  United Kingdom Archives - News
+2026-06-10 13:44:03,854 [543/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:44:06,192 [544/1000] OK  200  computing Archives - Page 2 of 8 - News
+2026-06-10 13:44:08,252 [545/1000] OK  200  Fermilab and UNICAMP enter next phase of collabora
+2026-06-10 13:44:10,204 [546/1000] OK  200  Brazil Archives - News
+2026-06-10 13:44:12,214 [547/1000] OK  200  Argonne and Fermilab receive $3.2M in federal fund
+2026-06-10 13:44:14,304 [548/1000] OK  200  SRF cavities Archives - News
+2026-06-10 13:44:16,651 [549/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:44:18,671 [550/1000] OK  200  nuclear energy Archives - News
+2026-06-10 13:44:20,706 [551/1000] OK  200  cryogenics Archives - Page 2 of 3 - News
+2026-06-10 13:44:22,728 [552/1000] OK  200  Keeping liquid argon chilled underground is one of
+2026-06-10 13:44:24,673 [553/1000] OK  200  cryogenics Archives - Page 3 of 3 - News
+2026-06-10 13:44:26,682 [554/1000] OK  200  emerging technologies Archives - Page 3 of 6 - New
+2026-06-10 13:44:28,668 [555/1000] OK  200  emerging technologies Archives - Page 2 of 6 - New
+2026-06-10 13:44:30,936 [556/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:44:32,983 [557/1000] OK  200  quantum sensor Archives - News
+2026-06-10 13:44:35,048 [558/1000] OK  200  Scientists head underground to measure effects of 
+2026-06-10 13:44:37,103 [559/1000] OK  200  photon detectors Archives - News
+2026-06-10 13:44:39,292 [560/1000] OK  200  emerging technologies Archives - Page 6 of 6 - New
+2026-06-10 13:44:41,334 [561/1000] OK  200  astrophysics Archives - Page 19 of 19 - News
+2026-06-10 13:44:43,322 [562/1000] OK  200  Fermilab astrophysicist receives 2023 DOE Early Ca
+2026-06-10 13:44:45,494 [563/1000] OK  200  gamma ray Archives - News
+2026-06-10 13:44:47,480 [564/1000] OK  200  American Physical Society recognizes Fermilab scie
+2026-06-10 13:44:49,492 [565/1000] OK  200  quantum chromodynamics Archives - News
+2026-06-10 13:44:51,453 [566/1000] OK  200  Siena Galaxy Atlas Archives - News
+2026-06-10 13:44:53,529 [567/1000] OK  200  baryon Archives - News
+2026-06-10 13:44:55,493 [568/1000] OK  200  astrophysics Archives - Page 2 of 19 - News
+2026-06-10 13:44:58,258 [569/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:00,374 [570/1000] OK  200  Ten ways Fermilab advanced science and technology 
+2026-06-10 13:45:02,416 [571/1000] OK  200  CMB Archives - News
+2026-06-10 13:45:04,389 [572/1000] OK  200  astrophysics Archives - Page 3 of 19 - News
+2026-06-10 13:45:06,385 [573/1000] OK  200  galaxies Archives - News
+2026-06-10 13:45:08,738 [574/1000] OK  200  antimatter Archives - News
+2026-06-10 13:45:10,716 [575/1000] OK  200  astronomical clock Archives - News
+2026-06-10 13:45:12,794 [576/1000] OK  200  American Physical Society Archives - News
+2026-06-10 13:45:14,922 [577/1000] OK  200  line-intensity mapping Archives - News
+2026-06-10 13:45:16,897 [578/1000] OK  200  Dark Energy Survey Archives - News
+2026-06-10 13:45:18,966 [579/1000] OK  200  15 spectacular photos from the Dark Energy Camera
+2026-06-10 13:45:21,115 [580/1000] OK  200  site access Archives - News
+2026-06-10 13:45:23,139 [581/1000] OK  200  Ana Martina Botti receives 2024 URA Honorary Tolle
+2026-06-10 13:45:25,092 [582/1000] OK  200  Fermilab’s Anna Grassellino receives one of Italy’
+2026-06-10 13:45:27,053 [583/1000] OK  200  Fermilab’s Anna Grassellino receives prestigious M
+2026-06-10 13:45:29,053 [584/1000] OK  200  award Archives - Page 2 of 3 - News
+2026-06-10 13:45:31,011 [585/1000] OK  200  award Archives - Page 3 of 3 - News
+2026-06-10 13:45:33,916 [586/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:35,907 [587/1000] OK  200  Anna Grassellino Archives - News
+2026-06-10 13:45:37,966 [588/1000] OK  200  women in STEM Archives - News
+2026-06-10 13:45:39,980 [589/1000] OK  200  Designing resilient targets for high-energy partic
+2026-06-10 13:45:42,464 [590/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:44,768 [591/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:46,740 [592/1000] OK  200  MicroBooNE Archives - Page 7 of 7 - News
+2026-06-10 13:45:48,681 [593/1000] OK  200  MicroBooNE Archives - Page 2 of 7 - News
+2026-06-10 13:45:50,676 [594/1000] OK  200  MicroBooNE Archives - Page 3 of 7 - News
+2026-06-10 13:45:53,054 [595/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:55,507 [596/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:45:57,511 [597/1000] OK  200  LBNF/DUNE Archives - Page 7 of 7 - News
+2026-06-10 13:45:59,525 [598/1000] OK  200  LBNF/DUNE Archives - Page 2 of 7 - News
+2026-06-10 13:46:02,129 [599/1000] OK  200  LBNF/DUNE Archives - Page 3 of 7 - News
+2026-06-10 13:46:04,524 [600/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:46:06,825 [601/1000] OK  200  U.S. joins the world in a new era of research at t
+2026-06-10 13:46:09,561 [602/1000] OK  200  Two Large Hadron Collider experiments first to obs
+2026-06-10 13:46:11,743 [603/1000] OK  200  particle decay Archives - News
+2026-06-10 13:46:13,776 [604/1000] OK  200  LHCb Archives - News
+2026-06-10 13:46:16,256 [605/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:46:18,221 [606/1000] OK  200  measurements Archives - News
+2026-06-10 13:46:20,217 [607/1000] OK  200  theory Archives - Page 2 of 6 - News
+2026-06-10 13:46:22,616 [608/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:46:24,651 [609/1000] OK  200  theory Archives - Page 6 of 6 - News
+2026-06-10 13:46:26,665 [610/1000] OK  200  theory Archives - Page 3 of 6 - News
+2026-06-10 13:46:28,874 [611/1000] OK  200  machine learning Archives - Page 2 of 3 - News
+2026-06-10 13:46:30,832 [612/1000] OK  200  LPC Archives - News
+2026-06-10 13:46:32,890 [613/1000] OK  200  machine learning Archives - Page 3 of 3 - News
+2026-06-10 13:46:35,296 [614/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:46:37,297 [615/1000] OK  200  Fermilab Quantum Institute Archives - News
+2026-06-10 13:46:39,375 [616/1000] OK  200  New computing algorithms expand the boundaries of 
+2026-06-10 13:46:41,438 [617/1000] OK  200  data analysis Archives - News
+2026-06-10 13:46:43,531 [618/1000] OK  200  Searching for stealthy supersymmetry
+2026-06-10 13:46:45,511 [619/1000] OK  200  supersymmetry Archives - News
+2026-06-10 13:46:47,502 [620/1000] OK  200  SQMS Archives - Page 3 of 4 - News
+2026-06-10 13:46:49,457 [621/1000] OK  200  quantum research Archives - News
+2026-06-10 13:46:51,625 [622/1000] OK  200  SQMS Archives - Page 2 of 4 - News
+2026-06-10 13:46:53,564 [623/1000] OK  200  SQMS Archives - Page 4 of 4 - News
+2026-06-10 13:46:55,779 [624/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:46:57,754 [625/1000] OK  200  Muon g-2 Archives - Page 15 of 15 - News
+2026-06-10 13:46:59,697 [626/1000] OK  200  SBND Archives - News
+2026-06-10 13:47:02,031 [627/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:47:04,252 [628/1000] OK  200  Meet the winners of the 2025 Universities Research
+2026-06-10 13:47:06,226 [629/1000] OK  200  science Archives - News
+2026-06-10 13:47:08,515 [630/1000] OK  200  Muon g-2 Archives - Page 2 of 15 - News
+2026-06-10 13:47:10,461 [631/1000] OK  200  Muon g-2 Archives - Page 3 of 15 - News
+2026-06-10 13:47:13,255 [632/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:47:15,243 [633/1000] OK  200  neutrino Archives - Page 55 of 55 - News
+2026-06-10 13:47:17,353 [634/1000] OK  200  neutrino Archives - Page 3 of 55 - News
+2026-06-10 13:47:19,515 [635/1000] OK  200  neutrino Archives - Page 2 of 55 - News
+2026-06-10 13:47:21,587 [636/1000] OK  200  Andrzej Szelc elected co-spokesperson for SBND col
+2026-06-10 13:47:23,545 [637/1000] OK  200  LHC Physics Center at Fermilab reaches 15-year mil
+2026-06-10 13:47:25,597 [638/1000] OK  200  Fermilab engages in ‘noble pursuit’ of discovery, 
+2026-06-10 13:47:27,651 [639/1000] OK  200  Researchers meet at Fermilab for U.S. Higgs factor
+2026-06-10 13:47:29,658 [640/1000] OK  200  Future Circular Collider Archives - News
+2026-06-10 13:47:31,655 [641/1000] OK  200  DOE national laboratory Archives - News
+2026-06-10 13:47:33,637 [642/1000] OK  200  Secretary of Energy Chris Wright visits Fermilab
+2026-06-10 13:47:35,675 [643/1000] OK  200  particle physics Archives - Page 3 of 7 - News
+2026-06-10 13:47:37,689 [644/1000] OK  200  particle physics Archives - Page 2 of 7 - News
+2026-06-10 13:47:39,694 [645/1000] OK  200  particle physics Archives - Page 7 of 7 - News
+2026-06-10 13:47:41,799 [646/1000] OK  200  Anadi Canepa begins work as new CMS spokesperson
+2026-06-10 13:47:44,115 [647/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:47:46,066 [648/1000] OK  200  accelerator science Archives - Page 4 of 4 - News
+2026-06-10 13:47:48,226 [649/1000] OK  200  accelerator science Archives - Page 2 of 4 - News
+2026-06-10 13:47:50,245 [650/1000] OK  200  University of Chicago Archives - News
+2026-06-10 13:47:52,254 [651/1000] OK  200  The power of attraction: magnets in particle accel
+2026-06-10 13:47:54,975 [652/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:47:57,041 [653/1000] OK  200  John Byrd selected as new director of the US Parti
+2026-06-10 13:47:59,059 [654/1000] OK  200  magnet Archives - News
+2026-06-10 13:48:01,019 [655/1000] OK  200  Argonne Archives - News
+2026-06-10 13:48:03,430 [656/1000] OK  200  Illinois Institute of Technology Archives - News
+2026-06-10 13:48:05,497 [657/1000] OK  200  Northwestern University Archives - News
+2026-06-10 13:48:07,500 [658/1000] OK  200  targetry Archives - News
+2026-06-10 13:48:09,525 [659/1000] OK  200  Northern Illinois flourishes as accelerator R&D hu
+2026-06-10 13:48:11,757 [660/1000] OK  200  Argonne National Laboratory Archives - News
+2026-06-10 13:48:13,707 [661/1000] OK  200  Northern Illinois University Archives - News
+2026-06-10 13:48:15,750 [662/1000] OK  200  Lee Teng internship fosters undergraduate research
+2026-06-10 13:48:17,774 [663/1000] OK  200  beam Archives - News
+2026-06-10 13:48:19,922 [664/1000] OK  200  accelerator science Archives - Page 3 of 4 - News
+2026-06-10 13:48:21,890 [665/1000] OK  200  Illinois Archives - News
+2026-06-10 13:48:23,907 [666/1000] OK  200  Discovery of a new type of particle beam instabili
+2026-06-10 13:48:23,907 *** MILESTONE page 666 — 606 documents downloaded so far ***
+2026-06-10 13:48:25,871 [667/1000] OK  200  Robert Ainsworth awarded $2.5 million to improve p
+2026-06-10 13:48:27,812 [668/1000] OK  200  LHC Accelerator Upgrade Project Archives - News
+2026-06-10 13:48:30,129 [669/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:48:32,096 [670/1000] OK  200  HL-LHC Archives - News
+2026-06-10 13:48:34,119 [671/1000] OK  200  National High Magnetic Field Laboratory Archives -
+2026-06-10 13:48:36,135 [672/1000] OK  200  Brookhaven Archives - News
+2026-06-10 13:48:38,128 [673/1000] OK  200  High-Luminosity LHC Archives - News
+2026-06-10 13:48:40,195 [674/1000] OK  200  Old Dominion University Archives - News
+2026-06-10 13:48:42,625 [675/1000] OK  200  Brookhaven National Laboratory Archives - News
+2026-06-10 13:48:45,033 [676/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:48:47,261 [677/1000] OK  200  cavity Archives - News
+2026-06-10 13:48:49,468 [678/1000] OK  200  University of Florida Archives - News
+2026-06-10 13:48:51,713 [679/1000] OK  200  AQNET Archives - News
+2026-06-10 13:48:53,681 [680/1000] OK  200  Fermilab researchers advance quantum sensing for f
+2026-06-10 13:48:55,637 [681/1000] OK  200  Marcia Teckenbrock Archives - Page 3 of 3 - News
+2026-06-10 13:48:57,626 [682/1000] OK  200  ‘Squeezed light’ technology could accelerate path 
+2026-06-10 13:48:59,635 [683/1000] OK  200  ceramics Archives - News
+2026-06-10 13:49:01,667 [684/1000] OK  200  New ceramic material for high-power particle accel
+2026-06-10 13:49:04,013 [685/1000] OK  200  Marcia Teckenbrock Archives - Page 2 of 3 - News
+2026-06-10 13:49:06,390 [686/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:49:08,671 [687/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:49:10,673 [688/1000] OK  200  ATLAS Archives - News
+2026-06-10 13:49:12,622 [689/1000] OK  200  University of Southern California Archives - News
+2026-06-10 13:49:14,615 [690/1000] OK  200  Chicago Quantum Exchange to create technologically
+2026-06-10 13:49:17,156 [691/1000] OK  200  Quantum physics boosts artificial intelligence met
+2026-06-10 13:49:19,143 [692/1000] OK  200  NASA Archives - News
+2026-06-10 13:49:21,140 [693/1000] OK  200  quantum communication Archives - Page 3 of 3 - New
+2026-06-10 13:49:23,882 [694/1000] OK  200  precision-timing detector Archives - News
+2026-06-10 13:49:26,278 [695/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:49:28,279 [696/1000] OK  200  Stony Brook University Archives - News
+2026-06-10 13:49:30,299 [697/1000] OK  200  entanglement swapping Archives - News
+2026-06-10 13:49:32,276 [698/1000] OK  200  New York Archives - News
+2026-06-10 13:49:34,290 [699/1000] OK  200  quantum communication Archives - Page 2 of 3 - New
+2026-06-10 13:49:36,371 [700/1000] OK  200  A minute with Cristián Peña, associate scientist a
+2026-06-10 13:49:38,348 [701/1000] OK  200  conference Archives - News
+2026-06-10 13:49:40,687 [702/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:49:42,649 [703/1000] OK  200  mentorship Archives - News
+2026-06-10 13:49:44,728 [704/1000] OK  200  students Archives - Page 2 of 2 - News
+2026-06-10 13:49:46,666 [705/1000] OK  200  scientist Archives - News
+2026-06-10 13:49:48,760 [706/1000] OK  200  QuarkNet Archives - News
+2026-06-10 13:49:50,724 [707/1000] OK  200  outreach Archives - News
+2026-06-10 13:49:52,911 [708/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:49:54,906 [709/1000] OK  200  Indiana Archives - News
+2026-06-10 13:49:56,855 [710/1000] OK  200  University of Notre Dame Archives - News
+2026-06-10 13:49:58,845 [711/1000] OK  200  South Bend, Indiana, school gets a chance at physi
+2026-06-10 13:50:01,139 [712/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:50:03,148 [713/1000] OK  200  Rutgers University Archives - News
+2026-06-10 13:50:05,621 [714/1000] OK  200  SQMS Center announces the addition of Rutgers Univ
+2026-06-10 13:50:07,581 [715/1000] OK  200  quantum technology Archives - News
+2026-06-10 13:50:09,616 [716/1000] OK  200  matter Archives - News
+2026-06-10 13:50:11,675 [717/1000] OK  200  quantum information science Archives - Page 2 of 1
+2026-06-10 13:50:13,745 [718/1000] OK  200  superconducting technology Archives - News
+2026-06-10 13:50:16,030 [719/1000] OK  200  quantum information science Archives - Page 11 of 
+2026-06-10 13:50:17,987 [720/1000] OK  200  quantum field theory Archives - News
+2026-06-10 13:50:20,045 [721/1000] OK  200  photons Archives - News
+2026-06-10 13:50:22,059 [722/1000] OK  200  quantum information science Archives - Page 3 of 1
+2026-06-10 13:50:23,997 [723/1000] OK  200  dark matter technology Archives - News
+2026-06-10 13:50:26,294 [724/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:50:28,328 [725/1000] OK  200  Fermilab opens new QUIET underground quantum infor
+2026-06-10 13:50:30,474 [726/1000] OK  200  quantum sensing Archives - News
+2026-06-10 13:50:32,699 [727/1000] OK  200  Oak Ridge National Laboratory Archives - News
+2026-06-10 13:50:34,934 [728/1000] OK  200  Superconducting Quantum Materials and Systems Cent
+2026-06-10 13:50:37,024 [729/1000] OK  200  quantum science Archives - Page 3 of 11 - News
+2026-06-10 13:50:39,073 [730/1000] OK  200  quantum science Archives - Page 2 of 11 - News
+2026-06-10 13:50:41,067 [731/1000] OK  200  Fermilab is partner in Quantum Science Center base
+2026-06-10 13:50:43,109 [732/1000] OK  200  quantum science Archives - Page 11 of 11 - News
+2026-06-10 13:50:45,504 [733/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:50:47,545 [734/1000] OK  200  Quantum Science Center Archives - News
+2026-06-10 13:50:49,356 [735/1000] OK  200  (no title)
+2026-06-10 13:50:51,400 [736/1000] OK  200  U.S. Department of Energy unveils blueprint for th
+2026-06-10 13:50:53,680 [737/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:50:55,677 [738/1000] OK  200  Lawrence Livermore National Laboratory Archives - 
+2026-06-10 13:50:57,665 [739/1000] OK  200  software Archives - News
+2026-06-10 13:50:59,661 [740/1000] OK  200  LZ Archives - News
+2026-06-10 13:51:01,735 [741/1000] OK  200  SuperCDMS Archives - News
+2026-06-10 13:51:03,669 [742/1000] OK  200  Virginia Archives - News
+2026-06-10 13:51:05,968 [743/1000] OK  200  LSST Archives - News
+2026-06-10 13:51:08,018 [744/1000] OK  200  LUX-ZEPLIN Archives - News
+2026-06-10 13:51:09,995 [745/1000] OK  200  California Archives - Page 3 of 4 - News
+2026-06-10 13:51:11,986 [746/1000] OK  200  SNOLAB Archives - News
+2026-06-10 13:51:14,040 [747/1000] OK  200  Powered by pixels
+2026-06-10 13:51:16,029 [748/1000] OK  200  dune-international Archives - News
+2026-06-10 13:51:18,059 [749/1000] OK  200  Riverside Archives - News
+2026-06-10 13:51:20,266 [750/1000] OK  200  SLAC Archives - News
+2026-06-10 13:51:22,275 [751/1000] OK  200  Dark Energy Survey census of the smallest galaxies
+2026-06-10 13:51:24,219 [752/1000] OK  200  ADMX Archives - News
+2026-06-10 13:51:26,246 [753/1000] OK  200  Three sky surveys completed in preparation for Dar
+2026-06-10 13:51:28,334 [754/1000] OK  200  University of Washington Archives - News
+2026-06-10 13:51:30,292 [755/1000] OK  200  University of Bern Archives - News
+2026-06-10 13:51:32,379 [756/1000] OK  200  Washington Archives - News
+2026-06-10 13:51:34,390 [757/1000] OK  200  California Archives - Page 4 of 4 - News
+2026-06-10 13:51:36,340 [758/1000] OK  200  Fermilab contributes to award-winning Spack softwa
+2026-06-10 13:51:38,716 [759/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:51:40,783 [760/1000] OK  200  ArgonCube Archives - News
+2026-06-10 13:51:42,916 [761/1000] OK  200  internationality Archives - News
+2026-06-10 13:51:44,908 [762/1000] OK  200  A million pulses per second: How particle accelera
+2026-06-10 13:51:46,870 [763/1000] OK  200  University of California Archives - News
+2026-06-10 13:51:48,845 [764/1000] OK  200  California Archives - Page 2 of 4 - News
+2026-06-10 13:51:50,857 [765/1000] OK  200  Switzerland Archives - News
+2026-06-10 13:51:52,907 [766/1000] OK  200  Canada Archives - News
+2026-06-10 13:51:55,223 [767/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:51:57,212 [768/1000] OK  200  Emily Stevens Archives - News
+2026-06-10 13:51:58,992 [769/1000] OK  200  (no title)
+2026-06-10 13:52:01,253 [770/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:03,696 [771/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:05,943 [772/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:08,389 [773/1000] FAIL  https://education.fnal.gov/engage/lederman-science-center/leon-lederman/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/engage/lederman-science-center/leon-lederman/search
+2026-06-10 13:52:11,271 [774/1000] OK  200  Accelerators room – Fermilab Education and Public 
+2026-06-10 13:52:13,286 [775/1000] FAIL  https://education.fnal.gov/engage/lederman-science-center/exhibits/search  →  404 Client Error: Not Found for url: https://education.fnal.gov/engage/lederman-science-center/exhibits/search
+2026-06-10 13:52:15,910 [776/1000] OK  200  Methods room – Fermilab Education and Public Engag
+2026-06-10 13:52:18,796 [777/1000] OK  200  Ideas room – Fermilab Education and Public Engagem
+2026-06-10 13:52:21,508 [778/1000] OK  200  Detectors room – Fermilab Education and Public Eng
+2026-06-10 13:52:24,456 [779/1000] OK  200  Outdoor exhibits – Fermilab Education and Public E
+2026-06-10 13:52:26,762 [780/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:29,107 [781/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:31,163 [782/1000] OK  200  Particle accelerator technology could solve one of
+2026-06-10 13:52:33,192 [783/1000] OK  200  SRF Archives - News
+2026-06-10 13:52:35,261 [784/1000] OK  200  superconducting radio-frequency technology Archive
+2026-06-10 13:52:37,245 [785/1000] OK  200  Successful tests pave the way for Fermilab’s next-
+2026-06-10 13:52:39,473 [786/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:41,501 [787/1000] OK  200  SRF technology Archives - News
+2026-06-10 13:52:43,438 [788/1000] OK  200  quantum information Archives - News
+2026-06-10 13:52:46,106 [789/1000] OK  200  SQMS researchers discover performance-limiting nan
+2026-06-10 13:52:48,084 [790/1000] OK  200  LCLS Archives - News
+2026-06-10 13:52:50,079 [791/1000] OK  200  SLAC’s superconducting X-ray laser reaches operati
+2026-06-10 13:52:52,016 [792/1000] OK  200  cosmic ray Archives - News
+2026-06-10 13:52:54,453 [793/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:52:56,425 [794/1000] OK  200  muography Archives - News
+2026-06-10 13:52:58,791 [795/1000] OK  200  Madeleine O’Keefe Archives - Page 5 of 5 - News
+2026-06-10 13:53:00,883 [796/1000] OK  200  superconductors Archives - News
+2026-06-10 13:53:02,910 [797/1000] OK  200  Madeleine O’Keefe Archives - Page 3 of 5 - News
+2026-06-10 13:53:05,717 [798/1000] OK  200  Fermilab-funded research demonstrates new method f
+2026-06-10 13:53:07,724 [799/1000] OK  200  Madeleine O’Keefe Archives - Page 2 of 5 - News
+2026-06-10 13:53:09,969 [800/1000] OK  200  material science Archives - News
+2026-06-10 13:53:12,199 [801/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:53:14,234 [802/1000] OK  200  How an experiment at Fermilab fixed a hole in the 
+2026-06-10 13:53:16,039 [803/1000] OK  200  (no title)
+2026-06-10 13:53:17,814 [804/1000] OK  200  (no title)
+2026-06-10 13:53:19,848 [805/1000] OK  200  Mary Magnuson Archives - News
+2026-06-10 13:53:22,142 [806/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:53:23,966 [807/1000] OK  200  (no title)
+2026-06-10 13:53:25,885 [808/1000] OK  200  (no title)
+2026-06-10 13:53:27,845 [809/1000] OK  200  Lauren Biron Archives - News
+2026-06-10 13:53:29,810 [810/1000] OK  200  Fermilab delivers final superconducting particle a
+2026-06-10 13:53:31,774 [811/1000] OK  200  Cornell University Archives - News
+2026-06-10 13:53:33,785 [812/1000] OK  200  LCLS-II Archives - Page 2 of 2 - News
+2026-06-10 13:53:35,780 [813/1000] OK  200  Fermilab delivers first cryomodule for ultrapowerf
+2026-06-10 13:53:38,002 [814/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:53:40,004 [815/1000] OK  200  DESY Archives - News
+2026-06-10 13:53:42,017 [816/1000] OK  200  cryomodule Archives - Page 2 of 3 - News
+2026-06-10 13:53:44,041 [817/1000] OK  200  cryomodule Archives - Page 3 of 3 - News
+2026-06-10 13:53:46,014 [818/1000] OK  200  niobium Archives - News
+2026-06-10 13:53:47,956 [819/1000] OK  200  prototype Archives - News
+2026-06-10 13:53:49,970 [820/1000] OK  200  cleanroom Archives - News
+2026-06-10 13:53:51,979 [821/1000] OK  200  Indian scientists come to Fermilab to assist with 
+2026-06-10 13:53:54,253 [822/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:53:56,290 [823/1000] OK  200  India Archives - News
+2026-06-10 13:53:58,468 [824/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:54:00,543 [825/1000] OK  200  heavy neutrino Archives - News
+2026-06-10 13:54:02,783 [826/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:54:04,787 [827/1000] OK  200  Stanford University Archives - News
+2026-06-10 13:54:06,757 [828/1000] OK  200  dark photon Archives - News
+2026-06-10 13:54:08,753 [829/1000] OK  200  theoretical particle physics Archives - News
+2026-06-10 13:54:11,021 [830/1000] OK  200  Particle detector at Fermilab plays crucial role i
+2026-06-10 13:54:13,000 [831/1000] OK  200  University of Oxford Archives - News
+2026-06-10 13:54:15,079 [832/1000] OK  200  oscillation Archives - News
+2026-06-10 13:54:17,064 [833/1000] OK  200  Italy Archives - News
+2026-06-10 13:54:19,176 [834/1000] OK  200  quarks Archives - News
+2026-06-10 13:54:21,250 [835/1000] OK  200  tau Archives - News
+2026-06-10 13:54:23,206 [836/1000] OK  200  fusion Archives - News
+2026-06-10 13:54:25,469 [837/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:54:27,751 [838/1000] OK  200  Don Lincoln Archives - News
+2026-06-10 13:54:29,735 [839/1000] OK  200  LUX Archives - News
+2026-06-10 13:54:31,738 [840/1000] OK  200  MINOS Archives - News
+2026-06-10 13:54:33,719 [841/1000] OK  200  J-PARC Archives - News
+2026-06-10 13:54:35,955 [842/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:54:37,988 [843/1000] OK  200  UA1 Archives - News
+2026-06-10 13:54:40,028 [844/1000] OK  200  South Dakota Archives - News
+2026-06-10 13:54:42,094 [845/1000] OK  200  South Korea Archives - News
+2026-06-10 13:54:44,116 [846/1000] OK  200  T2K Archives - News
+2026-06-10 13:54:46,088 [847/1000] OK  200  NOMAD Archives - News
+2026-06-10 13:54:48,137 [848/1000] OK  200  Japan Archives - News
+2026-06-10 13:54:50,169 [849/1000] OK  200  Jefferson Lab Archives - Page 2 of 2 - News
+2026-06-10 13:54:52,162 [850/1000] OK  200  Gran Sasso Archives - News
+2026-06-10 13:54:54,115 [851/1000] OK  200  lattice QCD Archives - News
+2026-06-10 13:54:56,088 [852/1000] OK  200  DZero Archives - News
+2026-06-10 13:54:58,239 [853/1000] OK  200  Super-Kamiokande Archives - News
+2026-06-10 13:55:00,299 [854/1000] OK  200  CDF Archives - News
+2026-06-10 13:55:02,696 [855/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:55:04,615 [856/1000] OK  200  engineering Archives - Page 4 of 4 - News
+2026-06-10 13:55:06,683 [857/1000] OK  200  Helen Edwards Archives - News
+2026-06-10 13:55:08,681 [858/1000] OK  200  engineering Archives - Page 2 of 4 - News
+2026-06-10 13:55:10,757 [859/1000] OK  200  innovation Archives - News
+2026-06-10 13:55:13,237 [860/1000] OK  200  William Pellico receives 2024 URA Honorary Enginee
+2026-06-10 13:55:15,372 [861/1000] OK  200  engineering Archives - Page 3 of 4 - News
+2026-06-10 13:55:17,413 [862/1000] OK  200  Fermilab dedicates new state-of-the-art building h
+2026-06-10 13:55:19,570 [863/1000] OK  200  Pantaleo Raimondi to be new leader of Fermilab’s a
+2026-06-10 13:55:21,613 [864/1000] OK  200  Fermilab names Jim Kerby as LBNF/DUNE-US project d
+2026-06-10 13:55:23,602 [865/1000] OK  200  Fermilab announces new chief operating officer
+2026-06-10 13:55:25,643 [866/1000] OK  200  Norbert Holtkamp Archives - News
+2026-06-10 13:55:27,842 [867/1000] OK  200  Fermilab undergoes leadership change
+2026-06-10 13:55:30,094 [868/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:55:32,064 [869/1000] OK  200  leadership Archives - Page 2 of 2 - News
+2026-06-10 13:55:34,161 [870/1000] OK  200  Sowjanya Gollapinni elected co-spokesperson for DU
+2026-06-10 13:55:36,166 [871/1000] OK  200  Fermilab welcomes new head of communication
+2026-06-10 13:55:38,195 [872/1000] OK  200  DOE Project Leadership Institute award returns to 
+2026-06-10 13:55:40,401 [873/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:55:42,392 [874/1000] OK  200  New DESI results weigh in on gravity
+2026-06-10 13:55:44,365 [875/1000] OK  200  Big Bang Archives - News
+2026-06-10 13:55:46,474 [876/1000] OK  200  cosmic inflation Archives - News
+2026-06-10 13:55:48,638 [877/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:55:50,634 [878/1000] OK  200  gravity Archives - News
+2026-06-10 13:55:52,631 [879/1000] OK  200  Milky Way Archives - News
+2026-06-10 13:55:54,600 [880/1000] OK  200  galaxy Archives - News
+2026-06-10 13:55:56,638 [881/1000] OK  200  DESI Archives - Page 2 of 3 - News
+2026-06-10 13:55:58,624 [882/1000] OK  200  DESI Archives - Page 3 of 3 - News
+2026-06-10 13:56:00,698 [883/1000] OK  200  First results from DESI make the most precise meas
+2026-06-10 13:56:02,777 [884/1000] OK  200  Skipper CCD Archives - News
+2026-06-10 13:56:04,969 [885/1000] OK  200  DESI early data release holds nearly two million o
+2026-06-10 13:56:07,290 [886/1000] OK  200  SDSS Archives - News
+2026-06-10 13:56:09,696 [887/1000] OK  200  spectroscopy Archives - News
+2026-06-10 13:56:12,737 [888/1000] OK  200  Standard Model Archives - Page 3 of 12 - News
+2026-06-10 13:56:14,901 [889/1000] OK  200  Standard Model Archives - Page 2 of 12 - News
+2026-06-10 13:56:17,191 [890/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:56:19,195 [891/1000] OK  200  Standard Model Archives - Page 12 of 12 - News
+2026-06-10 13:56:21,421 [892/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:56:23,432 [893/1000] OK  200  A minute with: Akshay Murthy
+2026-06-10 13:56:25,429 [894/1000] OK  200  SQMS Center Archives - Page 6 of 6 - News
+2026-06-10 13:56:27,840 [895/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:56:30,016 [896/1000] OK  200  A minute with Mackenzie Ring
+2026-06-10 13:56:32,073 [897/1000] OK  200  IBM intends to partner with Fermilab’s SQMS Center
+2026-06-10 13:56:34,143 [898/1000] OK  200  Researchers at the SQMS Center achieve leading per
+2026-06-10 13:56:36,284 [899/1000] OK  200  quantum computers Archives - News
+2026-06-10 13:56:38,250 [900/1000] OK  200  SQMS Center Archives - Page 2 of 6 - News
+2026-06-10 13:56:40,289 [901/1000] OK  200  SQMS Center Archives - Page 3 of 6 - News
+2026-06-10 13:56:42,735 [902/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:56:44,763 [903/1000] OK  200  robotics Archives - News
+2026-06-10 13:56:46,783 [904/1000] OK  200  sensor Archives - News
+2026-06-10 13:56:48,779 [905/1000] OK  200  Now complete, telescope instrument is poised to be
+2026-06-10 13:56:50,860 [906/1000] OK  200  DESI opens its 5,000 eyes to capture the colors of
+2026-06-10 13:56:52,819 [907/1000] OK  200  Mapping the universe in 3-D: Fermilab contributes 
+2026-06-10 13:56:55,111 [908/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:56:57,173 [909/1000] OK  200  Five thousand eyes on the skies: Scientists choreo
+2026-06-10 13:56:59,228 [910/1000] OK  200  Dark Energy Spectroscopic Instrument starts 5-year
+2026-06-10 13:57:01,205 [911/1000] OK  200  Dark Energy Spectroscopic Instrument (DESI) create
+2026-06-10 13:57:03,162 [912/1000] OK  200  Kitt Peak National Observatory Archives - News
+2026-06-10 13:57:05,418 [913/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:07,690 [914/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:09,912 [915/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:11,976 [916/1000] OK  200  SBND scientists complete assembly of large neutrin
+2026-06-10 13:57:14,062 [917/1000] OK  200  Short-Baseline Near Detector Archives - News
+2026-06-10 13:57:16,332 [918/1000] OK  200  Scientists assemble final detector of Fermilab’s S
+2026-06-10 13:57:18,285 [919/1000] OK  200  neutrino interactions Archives - News
+2026-06-10 13:57:20,244 [920/1000] OK  200  Short-Baseline Neutrino program Archives - Page 3 
+2026-06-10 13:57:22,235 [921/1000] OK  200  Short-Baseline Neutrino program Archives - Page 4 
+2026-06-10 13:57:24,215 [922/1000] OK  200  They are there and they are gone: ICARUS chases a 
+2026-06-10 13:57:26,297 [923/1000] OK  200  MiniBooNE Archives - News
+2026-06-10 13:57:28,259 [924/1000] OK  200  Short-Baseline Neutrino program Archives - Page 2 
+2026-06-10 13:57:30,216 [925/1000] OK  200  Fermilab welcomes first baby bison of the year
+2026-06-10 13:57:32,194 [926/1000] OK  200  campus Archives - News
+2026-06-10 13:57:34,178 [927/1000] OK  200  nature Archives - News
+2026-06-10 13:57:36,122 [928/1000] OK  200  bison Archives - News
+2026-06-10 13:57:38,431 [929/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:40,781 [930/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:43,118 [931/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:57:45,812 [932/1000] OK  200  Over a year later, construction continues to progr
+2026-06-10 13:57:47,753 [933/1000] OK  200  Sanford Lab Archives - News
+2026-06-10 13:57:49,789 [934/1000] OK  200  PIP-II Injector Test Archives - News
+2026-06-10 13:57:51,775 [935/1000] OK  200  construction Archives - Page 2 of 3 - News
+2026-06-10 13:57:53,776 [936/1000] OK  200  facilities Archives - News
+2026-06-10 13:57:55,776 [937/1000] OK  200  Industrial Center Building Addition Archives - New
+2026-06-10 13:57:58,056 [938/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:58:00,077 [939/1000] OK  200  construction Archives - Page 3 of 3 - News
+2026-06-10 13:58:02,802 [940/1000] OK  200  Native American Archives - News
+2026-06-10 13:58:04,813 [941/1000] OK  200  Construction crews start lowering equipment a mile
+2026-06-10 13:58:06,815 [942/1000] OK  200  Crews complete major upgrade to Ross Hoists
+2026-06-10 13:58:08,890 [943/1000] OK  200  New accelerator at Fermilab approved for construct
+2026-06-10 13:58:10,860 [944/1000] OK  200  John Peoples Archives - News
+2026-06-10 13:58:12,887 [945/1000] OK  200  Fermilab mourns the passing of John Peoples, third
+2026-06-10 13:58:14,907 [946/1000] OK  200  Interactions Archives - News
+2026-06-10 13:58:16,894 [947/1000] OK  200  Spring at Fermilab welcomes the arrival of two bab
+2026-06-10 13:58:18,873 [948/1000] OK  200  Winners of the 2025 Fermilab Photowalk unveiled an
+2026-06-10 13:58:20,870 [949/1000] OK  200  The LHC experiment collaborations at CERN receive 
+2026-06-10 13:58:22,873 [950/1000] OK  200  Press releases Archives - Page 5 of 38 - News
+2026-06-10 13:58:25,086 [951/1000] OK  200  Fermilab opens applications for 2025 Global Physic
+2026-06-10 13:58:27,490 [952/1000] OK  200  Press releases Archives - News
+2026-06-10 13:58:29,485 [953/1000] OK  200  Press releases Archives - Page 4 of 38 - News
+2026-06-10 13:58:31,489 [954/1000] OK  200  lab director Archives - News
+2026-06-10 13:58:33,907 [955/1000] OK  200  photography Archives - News
+2026-06-10 13:58:35,922 [956/1000] OK  200  US CMS Archives - News
+2026-06-10 13:58:37,850 [957/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/page/3/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/page/3/search
+2026-06-10 13:58:40,086 [958/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:58:42,166 [959/1000] OK  200  The genetic purity and diversity of the Fermilab b
+2026-06-10 13:58:44,429 [960/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:58:47,236 [961/1000] OK  200  (no title)
+2026-06-10 13:58:49,260 [962/1000] OK  200  Double delivery of baby bison at Fermilab today
+2026-06-10 13:58:51,358 [963/1000] OK  200  prairie Archives - News
+2026-06-10 13:58:53,384 [964/1000] OK  200  Science meets soil in Fermilab’s prairie land
+2026-06-10 13:58:55,350 [965/1000] OK  200  DECam Archives - News
+2026-06-10 13:58:57,340 [966/1000] OK  200  Dark Energy Survey scientists release new analysis
+2026-06-10 13:58:59,347 [967/1000] FAIL  https://news.fnal.gov/category/newsroom/press-release/page/2/search  →  404 Client Error: Not Found for url: https://news.fnal.gov/category/newsroom/press-release/page/2/search
+2026-06-10 13:59:01,473 [968/1000] OK  200  DOE recommits $8 million to Fermilab workforce dev
+2026-06-10 13:59:03,449 [969/1000] OK  200  veterans Archives - News
+2026-06-10 13:59:05,542 [970/1000] OK  200  FermiForward Archives - News
+2026-06-10 13:59:07,588 [971/1000] OK  200  training Archives - News
+2026-06-10 13:59:09,602 [972/1000] OK  200  VALOR Archives - News
+2026-06-10 13:59:11,741 [973/1000] OK  200  LSND Archives - News
+2026-06-10 13:59:13,725 [974/1000] OK  200  SBN Archives - Page 3 of 3 - News
+2026-06-10 13:59:15,784 [975/1000] OK  200  Institute for High Energy Physics Archives - News
+2026-06-10 13:59:17,728 [976/1000] OK  200  University of Barcelona Archives - News
+2026-06-10 13:59:19,968 [977/1000] OK  200  Canfranc Underground Laboratory Archives - News
+2026-06-10 13:59:21,903 [978/1000] OK  200  Syracuse University Archives - News
+2026-06-10 13:59:23,918 [979/1000] OK  200  international relations Archives - News
+2026-06-10 13:59:25,888 [980/1000] OK  200  Fermilab and University of Bern join forces for ne
+2026-06-10 13:59:27,903 [981/1000] OK  200  SBN Archives - Page 2 of 3 - News
+2026-06-10 13:59:30,002 [982/1000] OK  200  Spain Archives - News
+2026-06-10 13:59:31,955 [983/1000] OK  200  NEXT Archives - News
+2026-06-10 13:59:33,959 [984/1000] OK  200  CIEMAT Archives - News
+2026-06-10 13:59:36,668 [985/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:59:38,629 [986/1000] OK  200  Autonomous University of Madrid Archives - News
+2026-06-10 13:59:40,596 [987/1000] OK  200  The enduring collaboration between Spain and Fermi
+2026-06-10 13:59:42,568 [988/1000] OK  200  neutrino physics Archives - Page 3 of 3 - News
+2026-06-10 13:59:44,823 [989/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:59:46,801 [990/1000] OK  200  neutrino physics Archives - Page 2 of 3 - News
+2026-06-10 13:59:48,750 [991/1000] OK  200  Fermilab Natural Areas Archives - News
+2026-06-10 13:59:50,995 [992/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 13:59:53,006 [993/1000] OK  200  ecology Archives - Page 3 of 4 - News
+2026-06-10 13:59:54,942 [994/1000] OK  200  ecology Archives - Page 2 of 4 - News
+2026-06-10 13:59:56,883 [995/1000] OK  200  ecology Archives - Page 4 of 4 - News
+2026-06-10 13:59:59,165 [996/1000] OK  200  Search for hidden chambers using cosmic-ray muons 
+2026-06-10 14:00:01,169 [997/1000] OK  200  QUIET Archives - News
+2026-06-10 14:00:03,562 [998/1000] OK  200  Fermilab leads project to develop novel quantum se
+2026-06-10 14:00:05,622 [999/1000] OK  200  qubits Archives - Page 2 of 4 - News
+2026-06-10 14:00:07,625 [1000/1000] OK  200  qubits Archives - Page 3 of 4 - News
+2026-06-10 14:00:07,625 *** MILESTONE page 1000 — 936 documents downloaded so far ***
+2026-06-10 14:00:09,126 ============================================================
+2026-06-10 14:00:09,126 ✓ COMPLETED — 936/1000 pages downloaded successfully (93.6%)
+2026-06-10 14:00:09,126 Time elapsed: 0:35:04.529705
+2026-06-10 14:00:09,126 CSV report : fermilab_downloads_1000/download_report_1000.csv
+2026-06-10 14:00:09,126 HTML files : fermilab_downloads_1000/html_pages
+2026-06-10 14:00:09,126 Text files : fermilab_downloads_1000/text_pages
+2026-06-10 14:00:09,126 Milestones : fermilab_downloads_1000/milestones.json
+2026-06-10 14:00:09,126 ============================================================
+2026-06-10 14:00:09,126 PROJECT STATUS: ✓ FERMILAB CRAWLER COMPLETE
+2026-06-10 14:00:09,126 ============================================================

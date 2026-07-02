@@ -1,0 +1,195 @@
+URL: https://news.fnal.gov/2021/11/a-minute-with-cristian-pena-associate-scientist-at-the-fermilab-quantum-institute/
+Title: A minute with Cristián Peña, associate scientist at the Fermilab Quantum Institute
+────────────────────────────────────────────────────────────
+A minute with Cristián Peña, associate scientist at the Fermilab Quantum Institute
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A minute with Cristián Peña, associate scientist at the Fermilab Quantum Institute
+November 4, 2021
+| By:
+Maxwell Bernstein
+Tags:
+CMS
+entanglement swapping
+Fermilab Quantum Institute
+people
+precision-timing detector
+quantum communication
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Whether he is on the side of a mountain or working at the Fermilab Quantum Institute, Cristián Peña likes to explore the unknown and tackle new challenges. Although he spends most of his time working on quantum communication systems for FQI, Peña dedicates time to work on the CMS experiment. His work between the two experiments, while different in practice, are conceptually similar.
+Whether he is on the side of a mountain or working at the Fermilab Quantum Institute, Cristián Peña likes to explore the unknown and tackle new challenges. Although he spends most of his time working on quantum communication systems for FIQ, Peña dedicates time to work on the CMS experiment. His work between the two experiments, while different in practice, are conceptually similar. Photo: Cristián Peña
+What do you work on at the U.S. Department of Energy’s Fermi National Accelerator Laboratory?
+I am with the
+Fermilab Quantum Institute
+. I work on various aspects of high-energy physics and quantum information science. I work on what we call quantum communication systems; that’s using the properties of quantum entanglement to distribute information.
+On the other side, I also work for the
+Compact Muon Solenoid experiment
+. In CMS, I work on precision-timing detectors, and I also look for new physics in what we call long-lived particles.
+How did Fermilab become part of your career path?
+I was an electrical engineer as an undergrad in Chile until I switched to physics at some point close to finishing my undergrad degree. Then I came to Fermilab as an undergrad from Chile to work on neutrino physics.
+In the U.S., I applied to graduate school and got into Caltech. There, I did my Ph.D. in particle physics with the CMS experiment. I applied for a postdoc at many places and decided to join Fermilab as a
+Lederman Fellow
+.
+As a Lederman Fellow, you have the freedom to choose what you do, which is great. I decided to work partly on the CMS, and in parallel, develop a new program to perform quantum communication experiments, which at the time was quantum teleportation. Now, the novel experiment that we are running at the Fermi Quantum Institute is called entanglement swapping.
+How does your work overlap between the Fermi Quantum Institute and CMS?
+I tend to think of ways to connect the dots. For example, ultra-precision timing is something that we’ve worked on extensively in CMS, and it also turns out that it underpins our quantum communications projects. Ultra-precision timing detectors are key to achieving our ambitions scientific goals, as well as electronics systems that can read out timing information with high accuracy. These are all aspects in which Fermilab is a leader in the field, which makes it very rewarding to be involved in such a vibrant community.
+For example, recording the time of arrival of a long-lived particle in the CMS detector and the time of arrival of a photon in quantum teleportation or entanglement swapping experiments both need very precise time measurements. It’s not the same detector that we use, but it is the same concept. There’s a lot of information encoded in the time of arrival of a particle, and measuring it as accurately as possible enables us to conduct our experiments. By working at the frontier of time-precision detectors, I can transfer knowledge from one community to the other and run experiments seamlessly between the two.
+How do outside collaborations play a role in your experience as a Fermilab scientist?
+As a Fermilab scientist, I have the opportunity to interact with experts from different fields who come here to use our expertise. We have very fruitful and active collaborations that are really pushing the envelope.
+People from all backgrounds come here. We have students, postdoctoral fellows and professors who set up their experiments at Fermilab. We have a very fluid collaboration with them so that’s something that I enjoy a lot.
+It also feels like you’re not always grinding the same thing over and over again. There’s always something new, something unique, and there’s always a new challenge. It’s refreshing to have new students, to train new people, and to learn from them as well. So it’s very, very unique.
+“As a Fermilab scientist, I have the opportunity to interact with experts from different fields who come here to use our expertise. We have very fruitful and active collaborations that are really pushing the envelope.”
+Can you tell me about specific projects you are working on that require collaboration?
+The
+Illinois Express Quantum Network
+is an experiment where we collaborate closely with Northwestern University, Argonne National Lab and Caltech. The project is to communicate or connect, through the use of optical fiber and single photons, various quantum nodes across the Chicagoland area with Argonne and Northwestern. For the Fermilab Quantum Network (FQNET), although it has the name “Fermilab” in it, we collaborate very closely with Caltech. This original collaboration was the seeding experiment for the more complex Illinois Express Quantum Network.
+What do you like to do when you are not at work?
+I grew up next to the Andes mountains. In physics, you explore new things as much as possible, and that’s what mountains give you. There’s this sense of exploration of new things and challenges. Now that I have kids, my free time is more family-focused, but mountains are always a part of our family trips.
+The Fermilab Quantum Institute is supported by the DOE Office of Science.
+Fermilab is the host laboratory in the United States that facilitates participation of hundreds of U.S. physicists from more than 50 institutions in the CMS experiment at CERN. Fermilab CMS plays a leading role in detector construction and operations, computing and software, and data analysis.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+New ultra-fast particle detector could help unmask dark matter
+March 24, 2026
+CMS
+dark matter
+High-Luminosity Large Hadron Collider
+Fermilab feature
+The CMS experiment at CERN is building a new detector that will unravel the chaotic particle collisions at the Large Hadron Collider, helping scientists identify particles based on their speeds.
+LHC Physics Center at Fermilab reaches 15-year milestone for CMS Data Analysis School
+March 11, 2026
+CMS
+LHC
+particle physics
+Fermilab feature
+The intensive program trains the next generation of researchers in advanced particle physics, data analysis and agentic artificial intelligence.
+Anadi Canepa begins work as new CMS spokesperson
+February 23, 2026
+CMS
+High-Luminosity Large Hadron Collider
+particle physics
+Fermilab feature
+The Fermilab senior scientist brings a wealth of scientific leadership experience to her new role as the collaboration prepares for the High-Luminosity Large Hadron Collider.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

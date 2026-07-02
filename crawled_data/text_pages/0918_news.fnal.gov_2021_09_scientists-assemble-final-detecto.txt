@@ -1,0 +1,193 @@
+URL: https://news.fnal.gov/2021/09/scientists-assemble-final-detector-of-fermilabs-short-baseline-neutrino-program/
+Title: Scientists assemble final detector of Fermilab’s Short-Baseline Neutrino Program
+────────────────────────────────────────────────────────────
+Scientists assemble final detector of Fermilab’s Short-Baseline Neutrino Program
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Scientists assemble final detector of Fermilab’s Short-Baseline Neutrino Program
+September 30, 2021
+| By:
+Mary Magnuson
+Tags:
+detector
+neutrino interactions
+Short-Baseline Near Detector
+Short-Baseline Neutrino program
+sterile neutrino
+UNICAMP
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+This summer, a team of scientists, engineers and technicians finished installing one of the main components that will create the strong electric field within the Short-Baseline Near Detector. Now they are getting ready to assemble the rest of the detector.
+In September, Anne Schukraft looks up to the electrically isolating support hangers that suspend the weight of the cathode and connecting components from above on the Short-Baseline Near Detector. Photo: Ryan Postel, Fermilab
+With a directive to look for physics beyond the standard model and study the behavior of the universe’s most elusive particles, the U.S. Department of Energy’s Fermi National Accelerator Laboratory’s Short-Baseline Neutrino Program has a full plate.
+Consisting of three detectors — the Short-Baseline Near Detector, MicroBooNE and ICARUS — the program will expand on Fermilab’s internationally acclaimed neutrino research activities. By studying neutrino properties with these detectors, scientists will learn more about the role these tiny particles play in the universe.
+On the Fermilab campus, the three detectors will sit staggered along a straight line, each probing an intense neutrino beam. SBND, under construction, will be closest to the neutrino beam source, just 110 meters away from the area where protons smash into a target and create a beam of muon neutrinos. MicroBooNE, which began taking data in 2015, sits 360 meters from SBND, and ICARUS, which will begin its physics run this fall, sits 130 meters beyond MicroBooNE.
+Together, these detectors will study neutrino oscillations in unprecedented detail. In this process, a single neutrino can shift between the three known neutrino types as it travels through space. If there is a fourth type of neutrino or if neutrinos behave differently than current theory predicts, scientists expect to find evidence for this new physics in the neutrino oscillation patterns observed by the three detectors.
+When completed, the SBND’s detector will be suspended in a chamber full of liquid argon. When a neutrino enters the chamber and collides with an argon atom, it will send out a spray of charged particles and light, which the detector will record. These signals will provide scientists with the information to reconstruct a precise 3D image of the trajectories of all the particles that emerged from a neutrino-argon collision.
+“You’ll see an image that shows you so much detail, and at such a small scale,” said scientist Anne Schukraft, technical coordinator for the project. “If you compare it to previous generation experiments, it really opens a new world of what you can learn.”
+Getting charged up
+In September, the SBND cathode plane with bottom field cage modules installed in the assembly transport frame. The cathode frame tube structure holds 16 double-sided wavelength-shifting reflective panels, here covered with black plastic to protect from light exposure. Photo: Ryan Postel, Fermilab
+In battery-powered circuits, electrons flow between the negative and the positive terminals. In SBND, the electrons produced following neutrino collisions will follow the electric field created inside the detector: two anode planes and one negatively charged cathode plane. This is no tiny circuit, however. Each plane measures 5 by 4 meters, and the electric field between the cathode and each anode will be 500 volts per centimeter, with the cathode conducting a whopping 100,000 volts.
+The two anode planes, each made of delicate wires spaced 3 millimeters apart, will cover two opposite-side walls of the cube-shaped detector. They will collect the electrons created by particles emerging from collisions inside the detector, while light sensors behind them will record the photons, or particles of light.
+In the middle of the detector, an upright plane covered with reflective foil will act as the cathode. The assembly team lowered the heavy cathode plane into place in the detector’s steel frame in late July and expects to install the first anode plane in early October. Until installation, each of the light-sensitive layers are kept in a special controlled clean area.
+When fully assembled, the detector will weigh more than 100 tons and be filled with argon kept at minus 190 degrees Celsius. The entire apparatus will sit in a cryostat, made of thick steel and insulation panels that keep everything cold. A complicated piping system will circulate and filter the liquid argon to keep it clean.
+Neutrino scientists, assemble
+Different groups around the world — primarily based in the United States, the U.K., Brazil and Switzerland — built the detector parts and shipped them to Fermilab. But the warehouse-like building where the detector frame is being assembled isn’t the detector’s forever home.
+Once the components are situated in the steel frame, the team will transport the detector several miles across the Fermilab site to the SBND building, where crews are constructing the cryostat and where the detector will actually collect its data. Schukraft estimates SBND will make its data debut in early 2023.
+“The good thing about SBND is that we are building it from scratch,” said Mônica Nunes, a postdoctoral researcher at Syracuse University. “So everything that we are learning about this process is going to be really useful for the next generation of neutrino experiments.”
+In September, Will Foreman (IIT) and Vishvas Pandey (U Florida) discuss the installation of light diffusers for the calibration of the photon detection system. Photo: Ryan Postel, Fermilab
+SBND will complement MicroBooNE and ICARUS as the trio probes for physics beyond the Standard Model. In particular, researchers are searching for the sterile neutrino, a type of neutrino that doesn’t interact with the weak force. Two prior experiments, the Liquid Scintillator Neutrino Detector at Los Alamos National Lab and MiniBooNE at Fermilab, discovered anomalies that hint at the existence of these elusive particles. By measuring how neutrinos oscillate and shift types, the SBN Program aims to confirm or dispute these anomalies and add more evidence for or against the existence of sterile neutrinos.
+“The idea is to rig a detector really close to the source of neutrinos in hopes of catching this kind of neutrino,” said Roberto Acciarri, co-manager of the detector assembly. “Then, we have one far detector and one in the middle, to see if we can see sterile neutrinos when they’re produced and when they’re oscillating away.”
+SBND researchers will also examine with high precision how neutrinos interact with the argon atoms that fill the detector. Because SBND sits so close to the origin of the neutrino beam, it will record more than a million neutrino-argon interactions per year. The physics of these interactions is an important element of future neutrino experiments that will employ liquid-argon detectors, such as the
+Deep Underground Neutrino Experiment
+.
+“It’s great to see progress on almost a daily basis,” said Schukraft. “We’re all eagerly waiting to see this experiment start to take data.”
+The Fermilab SBND project is supported by the DOE Office of Science.
+Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+ICARUS experiment marks major milestone in first neutrino science results
+April 15, 2026
+ICARUS
+neutrino physics
+SBN
+Short-Baseline Neutrino program
+Press release
+The milestone by ICARUS paves the way to probe sterile‑neutrino oscillations for the full Short-Baseline Neutrino Program at Fermilab. The first results demonstrate the data’s excellent quality and suitability for physics analyses, as well as the maturity of the software tools for event selection, fitting and detector simulation.
+Fermilab and UNICAMP enter next phase of collaboration on argon purification for DUNE
+January 27, 2026
+Brazil
+cryogenics
+DUNE
+liquid argon
+UNICAMP
+Fermilab feature
+A signing ceremony held at Fermilab opened the next stage of cooperation for design, manufacturing and testing of cryogenic subsystems for DUNE’s neutrino detector modules in Lead, South Dakota.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

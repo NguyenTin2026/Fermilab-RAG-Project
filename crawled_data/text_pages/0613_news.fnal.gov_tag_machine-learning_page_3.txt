@@ -1,0 +1,204 @@
+URL: https://news.fnal.gov/tag/machine-learning/page/3/
+Title: machine learning Archives - Page 3 of 3 - News
+────────────────────────────────────────────────────────────
+machine learning Archives - Page 3 of 3 - News
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+machine learning
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+21 - 27 of 27 results
+The future of particle accelerators may be autonomous
+June 25, 2019
+accelerator
+accelerator science
+accelerator technology
+machine learning
+Symmetry feature
+Particle accelerators are some of the most complicated machines in science. In today’s more autonomous era of self-driving cars and vacuuming robots, efforts are going strong to automate different aspects of the operation of accelerators, and the next generation of particle accelerators promises to be more automated than ever. Scientists are working on ways to run them with a diminishing amount of direction from humans.
+Data scientists face off in LSST machine-learning competition
+January 28, 2019
+Berkeley Lab
+computing
+LSST
+machine learning
+A new telescope will take a sequence of snapshots with the world’s largest digital camera, covering the entire visible night sky every few days — and repeating the process for an entire decade. What’s the best way to rapidly and automatically identify and categorize all of the stars, galaxies and other objects captured in these images? Data scientists trained have computers to pick out useful information from these hi-res snapshots of the universe.
+DOE Under Secretary for Science Paul Dabbar visits Fermilab to discuss quantum program
+January 23, 2019
+computing
+dark matter
+Department of Energy
+detector technology
+DOE
+machine learning
+quantum communication
+quantum computing
+quantum information science
+quantum science
+quantum sensor
+SRF technology
+superconducting radio-frequency technology
+Fermilab feature
+Fermilab’s quantum program includes a number of leading-edge research initiatives that build on the lab’s unique capabilities as the U.S. center for high-energy physics and a leader in quantum physics research. On the tour, researchers discussed quantum technologies for communication, high-energy physics experiments, algorithms and theory, and superconducting qubits hosted in superconducting radio-frequency cavities.
+»Künstliche Intelligenz« sucht nach neuer Physik
+November 6, 2018
+machine learning
+neutrino
+NOvA
+From
+Spektrum
+, Nov. 2, 2018: Maschinelles Lernen hat bereits bei der Entdeckung des Higgs einen wesentlichen Beitrag geleistet. Teilchenphysiker setzen Verfahren aus diesem Bereich schon seit Jahrzehnten ein. Doch nun erwarten Experten durch lernende Software eine Revolution bei der Datenanalyse.
+Studying the stars with machine learning
+October 16, 2018
+astronomy
+astrophysics
+computing
+cosmology
+machine learning
+Symmetry feature
+To keep up with an impending astronomical increase in data about our universe, astrophysicists turn to machine learning.
+MicroBooNE demonstrates use of convolutional neural networks on liquid-argon TPC data for first time
+September 12, 2018
+machine learning
+MicroBooNE
+neutrino
+result
+Fermilab feature
+Recently, the MicroBooNE experiment published a paper describing how they used convolutional neural networks — a particular type of deep neural network — to sort individual pixels coming from images made by a particular type of detector.
+Machine learning proliferates in particle physics
+August 1, 2018
+ATLAS
+CMS
+computing
+LHC
+LHCb
+machine learning
+MicroBooNE
+NOvA
+SLAC
+Symmetry feature
+A new review in
+Nature
+chronicles the many ways machine learning is popping up in particle physics research.
+«
+1
+2
+3
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

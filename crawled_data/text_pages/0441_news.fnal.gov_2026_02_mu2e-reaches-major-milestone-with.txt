@@ -1,0 +1,184 @@
+URL: https://news.fnal.gov/2026/02/mu2e-reaches-major-milestone-with-tracker-move/
+Title: Mu2e reaches major milestone with tracker move
+────────────────────────────────────────────────────────────
+Mu2e reaches major milestone with tracker move
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+Mu2e reaches major milestone with tracker move
+February 5, 2026
+| By:
+Caitlyn Buongiorno
+Tags:
+Mu2e
+muon
+particle detector technology
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Researchers at Fermilab moved the final subdetector for Mu2e into the experiment hall, marking a major step forward for the collaboration. Once completed, Mu2e will search for a rare muon conversion that may unlock evidence of physics beyond the Standard Model.
+The Mu2e experiment, hosted by the U.S. Department of Energy’s Fermi National Accelerator Laboratory, reached an important milestone in November as the collaboration moved a key component of the experiment, called the tracker, across the Fermilab campus into Mu2e Hall.
+“This is a major moment for Mu2e,” said Bob Bernstein, Mu2e co-spokesperson. “Soon, we’re going to be able to start looking at our first particle tracks from cosmic rays passing through all of our detectors.”
+Although the Standard Model of particle physics is scientists’ best explanation for how the universe works, it doesn’t account for phenomena like dark matter and dark energy. So, scientists are on the hunt for new physics.
+The tracker was lowered into Mu2e Hall in November, joining the two calorimeter disks already installed over the rails in September. Credit: JJ Starr, Fermilab
+Subatomic particles called muons are in the same family as electrons: charged leptons. The Standard Model dictates that when a muon decays into an electron, two neutrinos are also produced. But physicists believe it’s possible that charged leptons convert directly into each other.
+Mu2e, as its name suggests, will be looking for the direct conversion of a muon into an electron without producing neutrinos. From previous experiments, scientists know that this hypothetical muon-to-electron conversion would be extremely rare. If the phenomenon occurs, it will happen less often than once every 1 trillion muon decays.
+“And Mu2e is going to produce one muon for every grain of sand on Earth’s beaches, which is kind of an incomprehensible number of muons.”
+Brendan Kiburg, Mu2e tracker project manager
+“One of the keys to intensity frontier experiments is designing an experiment that enables us to look at a process very quickly and then repeat that billions, if not trillions of times,” said Brendan Kiburg, a project manager for the Mu2e tracker. “And Mu2e is going to produce one muon for every grain of sand on Earth’s beaches, which is kind of an incomprehensible number of muons.”
+To handle so many muons, Mu2e has a unique, sinuous design. Three magnets make up the body of the experiment. The first magnet is called the production solenoid. This is where the muons are produced. The transport solenoid then delivers those muons into the detector solenoid that will hold Mu2e’s subdetectors. There, the muons encounter an aluminum target where they are stopped, captured and potentially undergo this hypothetical muon-to-electron conversion. The secondary particles produced will then encounter the first subdetector, called the tracker.
+The Mu2e detector is a particle physics detector embedded in a series of superconducting magnets. Muons will flow through the Mu2e experiment into the detector solenoid, where they will first encounter the stopping target, shown at right in red. The subsequent electrons will then encounter the tracker, depicted at right in yellow, and calorimeter subdetectors, shown at right in pink. Credit: Mu2e collaboration
+“The Mu2e tracker is an interesting construction because we didn’t want to have any mass on the inside of the tracker to interfere with the particles we’re trying to detect,” said Kiburg.
+This design also helps the experiment weed out particles at the wrong energies.
+As an electron enters the detector solenoid, the magnetic field will force the particle to spiral. If an electron has too low a momentum, the spiral is too tight, and it will never encounter the tracker, leaving the subdetector without ever interacting. But a higher momentum particle, which is more likely to be within the desired energy range, can spiral into the heart of the detector and produce a signal.
+To complement the tracker, another subdetector, called the calorimeter, is installed downstream in the detector solenoid. While the tracker will have the precision to measure the momentum of the signal, the calorimeter will check its energy and timing, allowing the collaboration to definitively identify the particle as an electron. The calorimeter will also be an important step in cleaning up the particle tracks identified by the tracker.
+The third subdetector is the cosmic ray veto that surrounds the detector solenoids and, as its name implies, helps identify cosmic ray tracks before they enter the tracker and calorimeter so that they can be easily eliminated.
+The Mu2e tracker uses straw tubes filled with gas to detect the momentum of an electron. Eighteen panels, each with 96 straw tubes, are aligned to create an almost circular opening for unwanted particles to pass through. Credit: Ryan Postel, Fermilab
+“Thanks to this sophisticated detection system, we can beautifully reconstruct the candidate particle’s momentum,” said Stefano Miscetti, Mu2e co-spokesperson. “So, if we say this event is just an electron, there will be no doubt that we saw just an electron.”
+Now that the tracker has joined the calorimeter and cosmic ray veto at the Mu2e Hall, the experiment can begin integrating the three subdetectors together to be read out by Mu2e’s data acquisition system.
+At that point, the experiment will be able to start testing the ensemble of detectors with cosmic rays. This will enable the collaboration to calibrate the signals from the subdetectors before the beam is sent to the detector. “Mu2e is one of the most exciting experiments to start looking for new physics in the muon sector,” said Miscetti. “We have been working on this system for more than 10 years, and now we finally see the experiment taking shape.”
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+DUNE collaborators advance breakthrough power-over-fiber technology
+April 22, 2026
+DUNE
+particle detector technology
+Fermilab feature
+Researchers at the South Dakota School of Mines and Technology, working as part of the international Deep Underground Neutrino Experiment collaboration, are perfecting an innovative power-over-fiber system to enable photon detectors to operate reliably in cryogenic, high-voltage conditions.
+Fermilab experiment receives prestigious Breakthrough Prize in Fundamental Physics
+April 18, 2026
+muon
+Muon g-2
+Standard Model
+Press release
+The Muon g-2 experiment at Fermilab received the prestigious Breakthrough Prize in fundamental physics for its precision measurement of the muon.
+Fermilab researchers supercharge neural networks, boosting potential of AI to revolutionize particle physics
+January 15, 2026
+AI
+emerging technologies
+machine learning
+microelectronics
+particle detector technology
+partnership
+Fermilab feature
+Fermilab researchers have provided expertise and leadership in developing an open-source framework that enables the design of hardware capable of making split-second decisions. These advances aim to prioritize the enormous volumes of data produced by some of humanity’s most ambitious physics experiments.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

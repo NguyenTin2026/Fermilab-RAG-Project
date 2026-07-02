@@ -1,0 +1,195 @@
+URL: https://news.fnal.gov/2024/06/new-nova-results-add-to-mystery-of-neutrinos/
+Title: New NOvA results add to mystery of neutrinos
+────────────────────────────────────────────────────────────
+New NOvA results add to mystery of neutrinos
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+New NOvA results add to mystery of neutrinos
+June 18, 2024
+Tags:
+neutrino
+NOvA
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The international collaboration presented their first results with new data in four years, featuring a new low-energy sample of electron neutrinos and a dataset doubled in size.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+The international NOvA collaboration presented new results at the Neutrino 2024 conference in Milan, Italy, on June 17. The collaboration doubled their neutrino data since their
+previous release
+four years ago, including adding a new low-energy sample of electron neutrinos. The new results are consistent with previous NOvA results, but with improved precision. The data favor the “normal” ordering of neutrino masses more strongly than before, but ambiguity remains around the neutrino’s oscillation properties.
+The latest NOvA data provide a very precise measurement of the bigger splitting between the squared neutrino masses and slightly favor the normal mass ordering. That precision on the mass splitting means that, when coupled with data from other experiments performed at nuclear reactors, the data favor the normal ordering at almost 7:1 odds. This suggests that neutrinos adhere to the normal ordering, but physicists have not met the high threshold of certainty required to declare a discovery.
+Probability distributions for the value of the larger neutrino mass squared splitting from NOvA data when antineutrino measurements at nuclear reactors are included. The normal (blue) mass ordering is preferred over the inverted (red) one by a factor of 7:1. Credit: NOvA Collaboration
+NOvA
+, short for NuMI Off-axis ν
+e
+Appearance, is an experiment managed by the U.S. Department of Energy’s Fermi National Accelerator Laboratory, located outside of Chicago. Fermilab sends a beam of neutrinos 500 miles north to a 14,000-ton detector in Ash River, Minnesota. By measuring the
+neutrinos
+and their antimatter partners, antineutrinos, in both locations, physicists can study how these particles change their type as they travel, a phenomenon known as neutrino oscillation.
+NOvA aims to learn more about the
+ordering
+of neutrino masses. Physicists know that there are three types of neutrinos with different masses, but they don’t know the absolute mass, nor which is heaviest. Theoretical models predict two possible mass orderings, normal or inverted. In the normal ordering, there are two light neutrinos and one heavier neutrino; in inverted, there is one light neutrino and two heavier ones.
+“Getting additional information from reactor experiments enhances our knowledge of the mass ordering and gets us close to exciting territory,” said Erika Catano-Mur, a postdoctoral research associate at William & Mary and co-convener of the analysis. “We almost have an answer to one of those big questions that we have in neutrino physics. But we’re not there yet.”
+The solution to neutrino oscillation remains ambiguous in the new results. Physicists don’t currently have enough data to disentangle two effects on the oscillation: mass ordering and a property called
+charge parity violation
+. The collaboration observed a moderate amount of oscillation that could be explained in either mass ordering scenario with different amounts of CP violation, so they cannot tease apart the mass ordering and CP violation. However, the physicists were able to rule out specific combinations of the two properties.
+An electron neutrino scattering event from the latest NOvA dataset. The brighter the yellow pixels, the more energy that was deposited. Physicists know this is a neutrino because it occurs in time with the beam pulse, “points” back to Fermilab, and occurs far away from the edges of the detector, meaning whatever initiated the activity had to travel through a lot of matter without leaving a trace. The electron in the final state is initially track-like, but then develops into an electromagnetic cascade. Credit: NOvA Collaboration
+“It really takes more than one measurement for us to learn everything we need to know,” said Jeremy Wolcott, a postdoctoral fellow at Tufts University, one of NOvA’s analysis coordinators and the speaker at the conference.
+“NOvA is an important player in this because there are unique aspects to all of the various experiments that are trying to measure the same parameters,” said Wolcott. “We’re starting to see a picture come together, but it’s murky. Having different measurements that all work together is really important.”
+The NOvA experiment started taking data in 2014 and will continue running through early 2027, during which time the collaboration hopes to double their antineutrino dataset. They also continue to implement analysis improvements to maximize the sensitivity of the experiment.
+Their efforts are also paving the way for future experiments that will seek to contribute even more to solving the mysteries around neutrino properties.
+“We want to make the most that we can out of the data,” said Catano-Mur. “What we learn — not only from the results themselves, but in the process, what we’re learning about the analysis methods — is going to be useful for the next generation of experiments that right now are under construction.”
+Still, NOvA has the potential to reveal more about the elusive neutrino. “This result is an important reminder that the current generation of experiments, including NOvA, continues to collect valuable data and produce physics insights,” said Zoya Vallari, postdoctoral researcher at CalTech and co-convener of the analysis. “They are our best shot at a discovery right now.”
+The NOvA collaboration at their February 2024 meeting at the IIT Wheaton campus. Credit: Yagmur Torun
+The
+NOvA collaboration
+is made up of more than 200 scientists from
+50 institutions
+in eight countries. With the additional data and further analysis improvements, NOvA will bring physicists closer to understanding the identity-changing behavior of neutrinos.
+Fermi National Accelerator Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit
+science.energy.gov
+.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Fermilab feature
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Steven Gardiner receives Early Career Award to advance low-energy neutrino research at DUNE
+April 9, 2026
+DUNE
+neutrino
+Fermilab feature
+Physicist Steven Gardiner recently received a Department of Energy Early Career Award to explore the low-energy research potential of the Deep Underground Neutrino Experiment. By applying his unique background in neutron simulations, he aims to leverage the massive detector modules of DUNE to study elusive particles from outer space.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

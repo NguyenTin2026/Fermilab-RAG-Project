@@ -1,0 +1,208 @@
+URL: https://news.fnal.gov/2024/07/ibm-intends-to-partner-with-fermilabs-sqms-center-to-advance-critical-quantum-information-science-initiatives/
+Title: IBM intends to partner with Fermilab’s SQMS Center to advance critical quantum information science initiatives
+────────────────────────────────────────────────────────────
+IBM intends to partner with Fermilab’s SQMS Center to advance critical quantum information science initiatives
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+IBM intends to partner with Fermilab’s SQMS Center to advance critical quantum information science initiatives
+July 18, 2024
+Tags:
+partnership
+quantum computing
+SQMS
+SQMS Center
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+IBM plans to join Fermilab’s SQMS Center to further accelerate critical technologies and applications of superconducting quantum systems and expand quantum workforce development programs.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Hugh Collins, IBM
+hughdcollins@ibm.com
+, 646-275-4815
+The addition of IBM as a new partner in the Superconducting Quantum Materials and Systems Center, a
+DOE National Quantum Information Science Research Center
+, hosted by Fermilab, has been approved by the U.S. Department of Energy Office of Science, Science Programs. As a major national and international research center,
+SQMS
+is dedicated to advancing critical quantum technologies, with a focus on
+superconducting
+quantum systems.
+IBM
+is an industry leader in developing superconducting
+quantum computing
+technology. This collaboration intends to leverage the strengths of these two organizations to address key hurdles in quantum computing, communication and large-scale deployment of superconducting quantum platforms.
+“We welcome the addition of IBM to the SQMS collaboration, which brings together some of the world’s top experts in superconducting materials, devices and quantum systems. This collaboration aims to leverage our complementary technical strengths and shared goals to advance superconducting quantum systems for progressing toward a fault-tolerant quantum computer,” said Anna Grassellino, SQMS Center Director.
+The SQMS Center brings together more than 30 partner institutions representing national labs, industry and academia. The diverse collaboration unites over 500 experts from around the world working together to bring transformational advances in quantum information science.
+Pictured (left to right) at the SQMS Quantum Garage at Fermilab are: Akshay Murthy, associate scientist at Fermilab; Yao Lu, associate scientist at Fermilab; Jason Orcutt, principal research scientist at IBM; Tanay Roy, associate scientist at Fermilab; Andre Vallieres, PhD student at Northwestern University; Silvia Zorzetti, department head, quantum computing co-design and communication at Fermilab; Jacob Hanson-Flores, summer intern at Fermilab; Alessandro Reineri, PhD student at Illinois Institute of Technology; Joey Yaker, PhD student at Northwestern University. Photo: Dan Svoboda, Fermilab
+As part of the collaboration, IBM intends to focus on five critical areas: large-scale cryogenics, superconducting qubit noise sources, quantum interconnects, quantum computing applications for fundamental physics and quantum workforce development.
+“Fermilab and the SQMS Center are the ideal places to develop these key technologies and produce them at scale,” said Lia Merminga, Fermilab director. “We have decades of experience building large, complex superconducting cryogenic systems for accelerators and adopting advanced instrumentation to further our science mission. The advancement of quantum information science is a national priority, and Fermilab is deeply engaged in that progress.”
+Large-scale cryogenics
+SQMS and IBM intend to work together to advance technologies critical for scaling up quantum computers to large-scale data centers. SQMS is already proposing novel solutions for higher efficiency large-scale milliKelvin cryogenics at Fermilab. These developments in cryogenics will include the world’s largest dilution refrigerator to host 3D superconducting radiofrequency (SRF)-based quantum computing and sensing platforms, called
+Colossus
+. IBM will provide practical information and specifications to broaden the impact of Colossus. This includes developing a large-scale cooling system based on LHe/N2 plants, which would suit IBM’s future large-scale commercial quantum computing systems.
+High-quality and high-density quantum interconnects
+SQMS is designing and prototyping high-quality and high-density quantum interconnects based on 3D SRF platforms for quantum computing platforms being developed at Fermilab. These developments are also applicable to scaling up chip-based modular systems. Fermilab and IBM aim to explore the feasibility and usability of quantum links as part of a commercial quantum system with a focus on high-quality microwave cables.
+Noise reduction in qubits and processors
+As part of the SQMS Center, IBM and SQMS partners intend to work together to further the scientific understanding of mechanisms limiting the performance of superconducting qubits and developing practical schemes for the so-called “1/f flux noise” abatement.
+Development of scientific applications of quantum computing systems
+SQMS partners and IBM plan to advance the study of physics-based applications of quantum computing systems. For example, in condensed matter physics, researchers aim to explore the use of IBM’s utility-scale processors to support a quantum many-body dynamics simulation, whose complexity approaches a quantum advantage regime. For high-energy physics, partners will explore simulations of lattice quantum field theories.
+Quantum workforce development programs
+To attract and train the next generation of a diverse quantum workforce, SQMS established several successful workforce development programs, including the U.S. Quantum Information Science School shared with the other four National Quantum Information Science Research Centers (NQISRC) funded by DOE. IBM has a robust quantum education program that has enabled millions of learners worldwide and helped provide industry and domain expertise at Fortune 500 companies, universities, laboratories and startups within the IBM Quantum Network by providing tools to build their quantum workforce. SQMS and IBM plan to join forces to strengthen national quantum workforce development programs.
+Colossus will offer 5 cubic meters of space and cool components to around 0.01K. Photo: Ryan Postel, Fermilab
+“As we accelerate towards building a large-scale, fault-tolerant quantum computer, we need to solve and scale complex challenges such as efficient, large-scale refrigeration and high-density and low-loss quantum interconnects and advance our understanding of noise sources and how to reduce them,” said Jay Gambetta, IBM Fellow and Vice President, IBM Quantum. “The planned participation in the SQMS Center’s research is a pillar for progressing our roadmap towards large-scale quantum computing. Alongside the collaboration to break through quantum hardware barriers, IBM and Fermilab intend to work together to drive scientific applications of quantum computing and build a quantum-ready workforce.”
+The start of the collaboration is pending final approval of a legal agreement between IBM and Fermi Research Alliance, LLC.
+The Superconducting Quantum Materials and Systems Center at Fermilab is supported by the
+DOE Office of Science
+.
+The Superconducting Quantum Materials and Systems Center is one of the five U.S. Department of Energy National Quantum Information Science Research Centers. Led by Fermi National Accelerator Laboratory, SQMS is a collaboration of more than 30 partner institutions — national labs, academia, and industry — working together to bring transformational advances in the field of quantum information science. The center leverages Fermilab’s expertise in building complex particle accelerators to engineer multiqubit quantum processor platforms based on state-of-the-art qubits and superconducting technologies. Working hand in hand with embedded industry partners, SQMS will build a quantum computer and new quantum sensors at Fermilab, which will open unprecedented computational opportunities. For more information, please visit
+sqmscenter.fnal.gov
+.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC. Visit Fermilab’s website at
+https://www.fnal.gov
+and follow us on Twitter
+@Fermilab
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

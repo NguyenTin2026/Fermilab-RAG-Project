@@ -1,0 +1,185 @@
+URL: https://news.fnal.gov/2025/11/energy-department-announces-partnership-with-fermilab-and-qblox-to-manufacture-foundational-quantum-control-platform-for-u-s-research-and-innovation/
+Title: Energy Department announces partnership with Fermilab and Qblox to manufacture foundational quantum control platform for U.S. research and innovation
+────────────────────────────────────────────────────────────
+Energy Department announces partnership with Fermilab and Qblox to manufacture foundational quantum control platform for U.S. research and innovation
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Energy Department announces partnership with Fermilab and Qblox to manufacture foundational quantum control platform for U.S. research and innovation
+November 18, 2025
+Tags:
+DOE
+emerging technologies
+QICK
+quantum
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The U.S. Department of Energy (DOE) today announced a partnership between Fermi National Accelerator Laboratory and Qblox, under which Qblox will coordinate manufacturing, distribution and support for the Quantum Instrumentation Control Kit (QICK) to advance U.S. quantum research and workforce development.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+DOE Office of Technology and Commercialization
+otc@hq.doe.gov
+Editor’s note: This
+press release
+was originally posted by the Department of Energy Office of Technology Commercialization. Fermilab began developing the Quantum Instrumentation Control Kit (QICK) in 2021. QICK’s use has expanded, reaching a community of about 500 users, primarily at U.S. national labs, in academia and industry. Partnering with Qblox will facilitate a new way to distribute QICK to a much wider audience in the U.S, including universities and industry, and bolster the quantum computing workforce.
+The QICK team at Fermilab will continue scientific development of the tool, while Qblox will take on new workforce development, training and support.
+The QICK Kit developed at Fermilab is a fully integrated, cost effective, 32 RF/DC channel box with maximum flexibility for scientists. Credit: Ryan Postel, Fermilab
+The U.S. Department of Energy’s (DOE) Office of Technology Commercialization today announced a partnership between Fermi National Accelerator Laboratory (Fermilab) and Qblox to manufacture and distribute the Quantum Instrumentation Control Kit (QICK) in the United States, a platform for advancing quantum research and building a high-tech workforce. Facilitated by DOE’s Office of Technology Commercialization, this effort marks an important step in advancing U.S. capabilities in quantum computing, sensing, and networking.
+Developed by Fermilab, QICK is an open-source platform for managing quantum readouts and controls. It plays a critical role in synchronizing quantum processors and sensors, making it a foundational technology for the growing quantum ecosystem.
+Through the partnership, Qblox, a leader in control and readout electronics that bridge quantum and classical systems, will coordinate QICK manufacturing, distribution, and supply chain operations in the United States. “This partnership demonstrates how DOE’s National Laboratories and private industry can work together to accelerate the commercialization of quantum technologies while strengthening U.S. manufacturing and workforce capabilities,” said Energy Department
+Under Secretary for Science Dr. Darío Gil. “By supporting the transition of QICK from research to production, we are laying the groundwork for scalable, interoperable quantum systems that serve national and scientific priorities.”
+Sho Uemura, the lead software developer and a core member of the QICK development team at Fermilab, led the rollout of QICK version 2.0, which features new software and firmware that adds functionality, including a brand-new core processor to improve quantum control.
+Credit: Ryan Postel, Fermilab
+“This collaboration underscores Qblox’s commitment to open-source developments and advancing the U.S. quantum ecosystem through workforce development and innovation” said Qblox Founderand CEO, Niels Bultink. “Qblox is proud to facilitate this Made-in-the-USA platform to strengthen America’s quantum infrastructure, cultivate a highly skilled talent pool, and cement the nation’s position as a global leader in quantum technology.”
+The collaboration is being launched through a Letter of Intent between Fermilab and Qblox, with plans to formalize under a Cooperative Research and Development Agreement (CRADA) and full licensing arrangement in the coming weeks.
+Together, DOE, Fermilab, and Qblox are creating a scalable model for public-private collaboration — one that ensures key elements of the quantum supply chain are developed and built domestically.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab’s new director clarifies mission and achieves progress in first 100 days
+April 24, 2026
+AI
+DUNE
+Genesis Misson
+HL-LHC Accelerator Upgrade Project
+LBNF
+MAGIS-100
+QICK
+quantum
+SQMS
+Fermilab feature
+With a sharp focus on Fermilab’s core scientific mission, Norbert Holtkamp is establishing clear priorities and a disciplined strategy that align the laboratory with the nation’s most ambitious research goals. His leadership is positioning Fermilab for long‑term success.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

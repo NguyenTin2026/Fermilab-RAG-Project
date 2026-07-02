@@ -1,0 +1,218 @@
+URL: https://news.fnal.gov/2026/03/a-chilling-new-search-for-dark-matter-will-soon-be-underway/
+Title: A chilling new search for dark matter will soon be underway
+────────────────────────────────────────────────────────────
+A chilling new search for dark matter will soon be underway
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+A chilling new search for dark matter will soon be underway
+March 17, 2026
+| By:
+Madeleine O’Keefe
+Tags:
+cryogenics
+dark matter
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab has contributed vital components to the SuperCDMS experiment, located deep underground in a nickel mine outside of Sudbury, Canada.
+When he’s working at SNOLAB, Hogan Nguyen’s day starts at 4:30 a.m.
+After preparing his lunch — usually a sandwich or leftovers — and driving to his workplace near Sudbury, Canada, the Fermilab senior scientist dons 15 pounds of safety gear. Like a city commuter catching his subway, Nguyen and 30 to 40 other workers must be ready to leave on schedule at 6:30 a.m. Unlike a subway, however, their mass transit is an elevator, known to miners as a cage, that takes them more than a mile below Earth’s surface in four minutes.
+“I think there is a light inside, but they don’t turn it on, so we descend the shaft in darkness,” said Lauren Hsu, a scientist at the U.S. Department of Energy’s Fermi National Accelerator Laboratory, who has made this trip many times before. “They have to fit as many people into it as possible, so we are crammed in shoulder to shoulder. The cage descends so quickly that if you don’t swallow frequently on the descent, your ears will hurt from the pressure change.”
+None of them will be back to the surface for another 10 hours. “If you go underground and you’re missing one critical screw, it can change your plans for the whole day,” said Hsu.
+One of the world’s deepest laboratories,
+SNOLAB is a 6,000-square-yard underground space
+for experiments and supporting infrastructure. In a network of underground caverns originally carved out for a nickel mine, SNOLAB experiments are shielded from cosmic rays that could produce false positives in the detectors.
+Hogan Nguyen works on the SuperCDMS experiment at SNOLAB. Credit: SuperCDMS collaboration
+As a class-2000 clean room, SNOLAB can have no more than 2,000 particles per cubic foot of air, so the experiments are additionally protected from trace radioactivity originating in common materials such as dirt. These factors make SNOLAB ideal for studying rare phenomena like dark matter or neutrino oscillations. Its namesake experiment is the
+Nobel Prize-winning
+Sudbury Neutrino Observatory, or SNO, which has since been upgraded to
+SNO+
+.
+Today, SNOLAB hosts a number of
+neutrino and astroparticle physics experiments
+, one of which is the Super Cryogenic Dark Matter Search, or SuperCDMS. Along with the LUX-ZEPLIN experiment and the Fermilab-hosted
+Axion Dark Matter eXperiment-Gen2
+, SuperCDMS SNOLAB is a second generation dark matter search experiment. It is jointly funded by the U.S. Department of Energy Office of Science, the U.S. National Science Foundation, the Canada Foundation for Innovation, and the Natural Sciences and Engineering Research Council of Canada, with SLAC National Accelerator Laboratory serving as the lead laboratory.
+SuperCDMS is shown while installation was in progress. Installation was completed late last year, except for the shielding. In the foreground is the end of a cylindrical vessel, the E-tank, which is the interface between the detector readout cables and the room-temperature electronics that digitize the detector signals. The yellow platform surrounds the SNOBOX cryostat houses the detectors, and the pink plastic is covering the cylindrical shielding around the SNOBOX. The white gantry crane overhead is used for installation of heavy items. Credit: Lauren Hsu
+After a timeline adjustment due to the COVID-19 pandemic, SuperCDMS’s installation, with the exception of its shielding, was completed last year. The collaboration just successfully cooled the experiment to the temperature required for the superconducting detectors to become operational, a temperature colder than outer space. Science-quality data taking is on schedule to start in mid-2026.
+For Hsu, who has been part of CDMS efforts since 2007 when she was a postdoc at Fermilab, and Nguyen, who joined SuperCDMS in 2024, it’s a thrilling time. After recent retirements, they are now the only Fermilab representatives working on its installation, though Fermilab has been involved since the 1990s.
+The predecessor to SuperCDMS was the Fermilab-led CDMS at the Soudan Underground Laboratory. After some minor upgrades, it became SuperCDMS Soudan, and operations ended in 2015. Three years later, SuperCDMS SNOLAB — an even bigger upgrade to CDMS — was approved for construction.
+Today, the
+SuperCDMS collaboration
+has over 100 members from 25 institutions in North America, Europe and Asia. Member institutions contribute different pieces of the experiment, from the shielding, detectors and cold hardware to the background studies, reconstruction software, simulations and more.
+“It’s like assembling a very intricate jigsaw puzzle where you have each piece made by a different person,” said Hsu, “and you expect it all to fit together perfectly the first time you try to put it together.” But before assembling a jigsaw puzzle, the pieces need to be in one place.
+Lauren Hsu working on the SuperCDMS calibration system, when it was still at Fermilab in 2018. Credit: Lauren Hsu
+When the cage arrives underground, Nguyen and his colleagues must “tag in” — hang up their personal tags in a designated area to indicate who is underground. At the end of the day, they’ll remove their tags to ensure everyone knows who came back out.
+Down here, Nguyen and the others always travel in groups flanked by guides: one leading and one behind. It is hot and dark, and everyone wears a headlamp. Together, they walk about a kilometer to the cavern that contains SNOLAB. Now they can finally remove the safety gear, take a shower and get dressed for the clean room — donning clean lab coveralls, hair nets, hard hats, safety glasses and safety boots — and eat breakfast in the underground kitchen. At last, they can enter the clean room and begin their eight-hour day of work.
+For Nguyen and the half-dozen SuperCDMS collaborators typically with him, that has meant assembling and installing the latest dark matter direct-detection experiment.
+Dark matter
+is the name given to a mysterious substance that makes up 85% of matter in the universe. It doesn’t interact with any kind of light and only interacts with gravity, so astrophysicists only know dark matter exists because we can observe its influence on normal matter.
+In theory, dark matter particles are permeating Earth constantly — we just have to figure out a way to detect them. Physicists have approached the dark matter search with a variety of methods and types of experiments. As a direct-detection experiment, SuperCDMS looks for signals caused by dark matter particles themselves.
+SuperCDMS is sensitive to so-called “light dark matter” — dark matter particles about the mass of a
+mass of a proton
+. It uses 10-centimeter-diameter silicon and germanium crystals that are photolithographically
+patterned with sensors
+. Scientists believe dark matter particles will scatter off the nuclei in the crystals and produce a type of vibration called a phonon.
+The first phase of the cryogenic system takes the brunt of the heat load, cooling SuperCDMS from room temperature to 50 kelvin, about minus 370 degrees Fahrenheit. The next stage lowers the temperature from 50 kelvin to 4 kelvin, which is minus 452 degrees Fahrenheit, and the final stage brings it down to the goal of 0.02 kelvin — less than minus 459.6 degrees Fahrenheit.
+Fermilab led the design and fabrication of the cryogenic system, the warm electronics and associated infrastructure, and the calibration system, which was designed and built by Hsu. Fermilab also contributed the seismic platform on which the entire experiment stands. The platform is supported by springs that absorb the shock from a seismic event, somewhat like the suspension system of a car.
+All these systems had to be brought down, piece by piece, into SNOLAB via the lone elevator. “Ideally what you would want to do is assemble your whole experiment on the surface and then just plop it down there,” said Hsu. “But the cage is very small, so we have to bring everything down piecemeal and put it together underground.”
+To protect the integrity of the clean room, practically everything brought in must be cleaned to SNOLAB’s standards. Throughout the day, the lab space is vacuumed and cleaned frequently. And no one can return to the surface until the scheduled 4:30 p.m. cage ride up.
+Despite the challenges, that time underground is incredibly rewarding. “The best part is meeting new people, making friends along the way, working as a team. It makes the day go faster,” said Nguyen. “Everyone is having a good time making progress. It’s a lot of fun.”
+Last fall, SuperCDMS completed the installation of the cryogenic system and safety and operational checks. They then began the test of the cryogenic system, known as cooldown.
+“It’s an unforgiving technology,” said Nguyen, who is the lead on the first stage of the cryogenic system, the 50-kelvin cooler. “If something doesn’t work, you don’t reach the ultimate 20 millikelvin.”
+The large copper cryostat in the foreground, called the SNOBOX, houses SuperCDMS’s detectors. The yellow platforms surrounding it were temporary scaffolding for scientists to work inside the cryostat. Credit: Lauren Hsu
+With cooldown completed, the collaboration is beginning to add voltage to the detectors to start measuring background and noise signals. They are aiming to start collecting publication-quality data later this year.
+If dark matter exists in the form that SuperCDMS thinks it does, “the expected interaction rate is extremely low, said Hsu. “This is what we call a rare event search. If we’re lucky enough to even see a signal, we don’t expect to see more than a few events per year for our entire experiment.”
+And when they do make a detection, SuperCDMS will ideally confirm this with signals from other dark matter experiments, like LUX-ZEPLIN.
+In the end, the physicists are all excited to see the experiment function as designed, take good data, and hopefully make a detection. Basically, “I want to see us discover dark matter,” said Nguyen.
+It would be quite a reward for those 4:30 a.m. wake-ups and long workdays.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+SuperCDMS SNOLAB is jointly funded by the U.S. Department of Energy Office of Science, the U.S. National Science Foundation, the Canada Foundation for Innovation, and the Natural Sciences and Engineering Research Council of Canada. For more information, please
+visit
+supercdms.slac.stanford.edu
+.
+Recommended reading
+View all news
+Using AI, Fermilab researcher probes how transistors behave in extreme cold
+May 26, 2026
+AI
+cryogenics
+Genesis Mission
+microelectronics
+Fermilab feature
+Olivia Seidel’s work draws on Fermilab’s deep expertise in microelectronics and cryogenic devices to support key goals of the Genesis Mission — a sweeping U.S. Department of Energy artificial intelligence initiative.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+Yao Lu receives Early Career Award to harness quantum entanglement for dark matter search
+April 23, 2026
+dark matter
+quantum
+SQMS
+Fermilab feature
+Supported by a DOE Early Career Award, a Fermilab scientist is building a scalable superconducting cavity array to detect faint signals from mysterious dark photons with unprecedented speed and sensitivity.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

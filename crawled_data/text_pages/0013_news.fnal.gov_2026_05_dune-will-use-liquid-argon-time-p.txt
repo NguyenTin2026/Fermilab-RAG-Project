@@ -1,0 +1,200 @@
+URL: https://news.fnal.gov/2026/05/dune-will-use-liquid-argon-time-projection-chamber-technology-both-near-and-far/
+Title: DUNE will use liquid-argon time projection chamber technology both near and far
+────────────────────────────────────────────────────────────
+DUNE will use liquid-argon time projection chamber technology both near and far
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Fermilab feature
+DUNE will use liquid-argon time projection chamber technology both near and far
+May 21, 2026
+| By:
+Zachary Burton
+and
+Anne Heavey
+Tags:
+Deep Underground Neutrino Experiment
+DUNE
+LBNF
+liquid argon
+neutrino
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Deep Underground Neutrino Experiment’s innovative hybrid near detector will be a game changer. An active prototyping program over the last few years has been refining and validating the design of this smaller detector’s key element, a liquid-argon time projection chamber, and the data analysis tools and methods that go with it.
+Physicists discovered decades ago that odd little particles called neutrinos, of which there are three known “flavors,” morph between these flavors as they travel, and they call this phenomenon neutrino oscillation. The Deep Underground Neutrino Experiment, developed by an international collaboration and hosted by Fermi National Accelerator Laboratory, aims to answer fundamental questions about the early evolution of the universe through its study of these oscillations. This requires a neutrino beam and the ability to sample the neutrinos right out of the gate in their original state and again after they change.
+To capture the data, DUNE is building both a near detector and a far detector in the path of the most intense neutrino beam ever created. The hybrid near detector, located only about 2,000 feet downstream from the
+neutrino source at Fermilab
+in Batavia, Illinois, will get the first taste. But most of the neutrinos will travel 800 miles on to the
+far detector
+at the
+Sanford Underground Research Facility
+in Lead, South Dakota, where only a small proportion will interact with the detector because the beam will spread out over that distance and neutrinos are famously elusive. The rest will harmlessly sail on, largely unimpeded, through the Earth’s crust and beyond.
+Since the DUNE far detector will use
+liquid-argon time projection chamber
+technology to measure neutrinos, it is critical that the same technology be used for the near detector to facilitate a comparison of data on the same target — liquid argon. This part of DUNE’s near detector is called ND-LAr, short for “near detector liquid argon.”
+“Despite being only 1% the size of one far detector module, this ND-LAr detector is still large enough to fully contain the signals from neutrinos.”
+Michele Weber, the University of Bern
+As part of DUNE’s plan to measure neutrinos over a wide range of energies, the ND-LAr, along with an accompanying muon spectrometer, will be able to move sideways off axis to better characterize the beam. A stationary beam monitor will remain on axis to watch for any beam variations that could affect measurements.
+“Despite being only 1% the size of one far detector module, this ND-LAr detector is still large enough to fully contain the signals from neutrinos,” said Michele Weber from the University of Bern who is also the leader of the ND-LAr consortium. “This enables a precise comparison with what is seen at the far detector, thereby revealing the neutrino oscillation that occurs between the two sites.”
+This graphic shows the engineering design model of the underground DUNE near detector hall. The neutrino beam enters from the right. The liquid-argon time projection chamber, labeled ND-LAr, is the first to encounter the neutrino beam. Directly behind it sits the muon spectrometer, shown in blue and green. Both can move off the beam axis, toward the upper right, to sample different neutrino energies. The third component, the beam monitor at the farthest end of the hall, depicted in yellow and blue, stays in place, on axis in the beam. Credit: DUNE Collaboration
+Given that the neutrino beam broadens with distance, more like the light from a flashlight than a laser beam, the near detector will see a much more concentrated flux of neutrinos than will the far detector — one of the reasons the near detector does not have to be so large. This concentration of neutrinos leads to a phenomenon called “pileup” in the detector, where the rate of neutrino interactions overwhelms the rate at which the detector can record the charge signals that emanate from them. The ND-LAr design cleverly mitigates this problem by segmenting its volume into mini detectors, called modules, with individual pixelated readout. The numerous interactions occur in different modules, without overwhelming any of them.
+An engineering design model of the near detector’s liquid-argon time-projection chamber. The detector includes seven rows, each with five LArTPC modules housed inside a single cryostat. Credit: DUNE Collaboration
+ND‑LAr uses the novel liquid-argon pixel system, or LArPix, that was invented by physicists and engineers at Lawrence Berkeley National Laboratory. This end‑to‑end pixelated sensor and electronics system can image neutrino events in true 3D, which is an important aspect to resolving individual neutrino interactions in the detector.
+Brooke Russell, a researcher with the Massachusetts Institute of Technology, is testing reconstruction efforts for this type of pileup mitigation. By anticipating pileup from the neutrino beam, the team hopes to paint as accurate a picture as possible and not be overwhelmed by the rate of neutrino interactions.
+“ND-LAr is unique in that we purposely partition neutrino signals across multiple optically segmented volumes and algorithmically stitch these signals back together,” Russell said.
+Through these segmentation and reconstruction efforts, DUNE will provide consistent clarity of the recorded neutrino interactions.
+Even with the segmentation, interactions that occur very close to one another in space may be misinterpreted as a single event unless light signals are also collected to separate them in time, according to Zoya Vallari of the Ohio State University, an analysis coordinator for the ND-LAr. The instantaneous signals that scintillation light produces in the liquid argon make it possible to distinguish the potentially overlapping charge signals.
+“The prototyping program for the DUNE liquid-argon near detector has been wildly successful, advancing multiple novel detector technologies and algorithms for data analysis.”
+Dan Dwyer, Lawrence Berkeley National Laboratory
+The DUNE ND-LAr team has been developing and prototyping the segmented liquid-argon time projection chamber design, primarily at the University of Bern, in Switzerland, starting in 2016 with a program called ArgonCube to test the component technologies. In 2022 the steadily growing team constructed and tested a demonstrator of four half-size time-projection chamber modules,
+called 2×2
+. After collecting data from a neutrino beam source, this detector is now in a non-beam data collection phase at Fermilab, recording events from cosmic rays and other sources, such as calibration data. The effort currently involves more than 100 scientists from roughly 40 institutions.
+“The 2×2 program has been pivotal in shaping our software, simulation and analysis frameworks,” said Vallari. “The data we collected is driving progress in calibration, event reconstruction and charge-light matching.”
+“The experience gained with 2×2 has enabled us to thoroughly validate the detector concept in a realistic environment,” added Livio Calivers, a freshly minted Ph.D. from Bern. “As a young researcher, it gave me the opportunity to build an experiment from scratch and ultimately analyze real data from neutrino interactions.”
+The team built and tested a single full-scale module in 2024 that incorporated improvements guided by insights from the 2×2 effort. A full row of five modules is currently in the works to test production, assembly and integration procedures, aiming for production to start at Fermilab in 2026.
+Researchers extract the full-scale demonstrator, an instrumented liquid-argon test module for the DUNE ND-LAr, out of a test cryostat at Bern following successful data-taking. Credit: Dres Hubacher, University of Bern
+“The prototyping program for the DUNE liquid-argon near detector has been wildly successful, advancing multiple novel detector technologies and algorithms for data analysis,” said Dan Dwyer of Berkeley Lab who is also the technical lead for ND-LAr. “These results give us confidence that we can cope with the very high intensity of the DUNE neutrino beam and achieve DUNE’s ambitious scientific goals.”
+Fermi National Accelerator Laboratory is America’s national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Mark Ross‑Lonergan elected co-spokesperson for MicroBooNE collaboration
+May 27, 2026
+MicroBooNE
+neutrino
+Short-Baseline Neutrino program
+Fermilab feature
+MicroBooNE, with its large neutrino detector at Fermilab, has wrapped up the data-collecting phase and will continue to conduct analysis under fresh leadership.
+Fermilab marks major milestone for world-leading DUNE experiment
+May 7, 2026
+cryogenics
+DUNE
+LBNF/DUNE
+milestone
+Press release
+An event at the far site of the Deep Underground Neutrino Experiment at the Sanford Underground Research Facility in South Dakota marked the start of steel beams being lowered underground to house DUNE’s massive particle detectors. The event was attended by senior leaders from the Department of Energy; members of Congress; Fermilab, CERN and SURF leadership; and members of the local community, all of whom had the chance to sign one of the steel beams being installed.
+A minute with Jacopo Bernardini
+April 27, 2026
+DUNE
+engineering
+PIP-II
+Fermilab feature
+After joining Fermilab in 2020, Jacopo Bernardini was recently appointed level-3 manager for the 650-MHz cryomodules for the Proton Improvement Plan-II project. PIP-II is building a new, powerful linear accelerator that will create the world’s most intense beam of neutrinos for the Deep Underground Neutrino Experiment. An amateur triathlete outside of work, Bernardini enjoys working with collaborators around the world as well as watching a design become reality.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

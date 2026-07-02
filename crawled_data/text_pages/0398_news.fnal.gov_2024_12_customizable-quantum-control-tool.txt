@@ -1,0 +1,207 @@
+URL: https://news.fnal.gov/2024/12/customizable-quantum-control-toolkit-developed-at-fermilab-ready-for-commercial-production/
+Title: Customizable quantum control toolkit developed at Fermilab ready for commercial production
+────────────────────────────────────────────────────────────
+Customizable quantum control toolkit developed at Fermilab ready for commercial production
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Customizable quantum control toolkit developed at Fermilab ready for commercial production
+December 4, 2024
+| By:
+Marcia Teckenbrock
+Tags:
+emerging technologies
+partnership
+QICK
+quantum
+quantum computing
+qubits
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+The Quantum Instrumentation Control Kit now features updated software and firmware and new companion hardware called QICK box. This Fermilab-developed system combines everything a scientist might need to conduct mind-bending research in a pizza-box-sized case.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Scientists hope to harness the powers of quantum computers to solve unprecedented problems. Central to this goal is the ability to communicate between the quantum and classical computing worlds. To do so, they must manipulate the signals that travel both worlds to optimize their ability to read the information stored within the quantum bits inside a quantum computer.
+To help meet these needs, engineers at the U.S. Department of Energy’s Fermi National Accelerator Laboratory created the
+Quantum Instrumentation Control Kit
+in 2022
+. QICK is a combination of a radio frequency circuit board, control and readout hardware and open-source software to control it. Today, with more than 350 registered users worldwide, the engineers created a new companion product called “QICK box,” which they are now ready to
+bring to market
+.
+The Quantum Instrumentation Control Kit developed at Fermilab is a fully integrated, cost effective, 32 RF/DC channel box with maximum flexibility for scientists. Credit: Ryan Postel, Fermilab
+This lab-in-a-box can help scientists more easily increase signal-to-noise ratio and qubit control by strengthening the amplification and filtering of incoming and outgoing signals. QICK box includes the original QICK system based on a commercial field-programmable gate array board, or FPGA board, and adds a custom front end with all the electronics and cabling.
+“Rather than having to buy a vendor board and the dozens of amplifiers, filters and other hardware needed to connect the equipment, scientists can use the QICK box, which has everything built in, is easy to use and optimized,” said Fermilab engineering physicist Sho Uemura, lead QICK software developer and a core member of the QICK development team.
+Not only is the QICK box compact and cost effective, it is also flexible. Scientists can tailor the system to their needs, a bit like building a LEGO® system. They can mix and match their radio and lower frequency circuit boards, and their inputs and outputs. They can choose the number and type of additional daughter boards to buy and add them to the main board.
+On the path toward an ideal readout and control system
+At the heart of the QICK box is the original QICK, comprised of the FPGA, the control and readout hardware and the open-source software. QICK has ultralow noise and low latency and provides a scalable high density of output and input channels. The new custom hardware preserves these features, but also optimizes space and improves accuracy and precision. Recently, the development team rolled out QICK version 2.0 with new software and firmware, adding functionality including a brand-new core processor to improve quantum control.
+Though a few companies are creating similar quantum control systems, QICK is different. The QICK team worked closely with the scientific and quantum information science (QIS) research communities to solve specific and challenging problems at their labs. The hardware used is common to many applications, but there is great flexibility in how researchers use it.
+“QICK is very powerful because the field of quantum right now is changing so rapidly,” said Travis Humble, director of Oak Ridge National Laboratory’s
+Quantum Science Center
+, one of five national QIS research centers, and a primary driver of QICK’s early and ongoing development.
+“I think QICK is entering that research space where we expect there to be a lot of fluctuation in the hardware design, whereas the other companies are not making the radical changes to development we know the QICK box is capable of. It’s really a different model,” said Humble.
+The Fermilab team began developing QICK software and firmware in 2020 in collaboration with University of Chicago researchers. The latter aimed to create and test a controller based on a commercial FPGA board, which is often used in scientific experiments and in quantum computing experiments.
+Sho Uemura, the lead software developer and a core member of the QICK development team at Fermilab, led the roll out of the QICK version 2.0, which features new software and firmware that adds functionality including a brand-new core processor to improve quantum control.
+Credit: Ryan Postel, Fermilab
+While cutting their teeth on designing an adaptable system over the past few years, the Fermilab team developed a close group of collaborators at institutions including Fermilab, the University of Chicago, and Stanford and Princeton Universities. These collaborators provide real-world
+quantum applications
+for QICK and present new ideas for potential functionality. They then test and debug the new features before they are added.
+For example, Yale University’s Professor Michael Hatridge and his students are using QICK to explore ways to apply quantum techniques they’ve developed to help producers of larger quantum systems more readily use the technology.
+“Our goal is to build a model that shows there are better ways to scale up from simple experiments we can do in the lab with a handful of qubits to larger machines. We need it to be big enough in terms of size to prove our techniques work and unique enough in operation to point to some new ways of thinking how to build quantum computers,” said Hatridge.
+“We’re using QICK to be a really high-performance, inexpensive platform that we can add to as needed and to push forward control electronics capabilities for more complicated experiments,” Hatridge added.
+Thinking outside the box
+Fermilab engineer Gustavo Cancelo, who leads the QICK development and commercialization teams, spent most of the last three-plus decades designing electronics for experiments, not individual users. In such cases, he explains, the experiment is the only customer, and it sets the specifications at the very beginning of the design process. With QICK, it’s different.
+The Fermilab QICK development team includes Sho Uemura, Gustavo Cancelo, Martin Di Federico, Sara Sussman, Ken Treptow and Neal Wilcer. Credit: Ryan Postel, Fermilab
+“We are trying to commercialize a product for users that develop new ideas every day. When you design a car or a TV, you want most people to use it and like it,” said Cancelo. “So, with QICK, we try hard to think ahead and put in functionality we think users will need in the future. Quantum devices are a moving target. Every new user will bring new ideas for qubits that don’t exist yet.”
+In just four years, QICK has evolved from a system used by a few scientists for one specific purpose to one used by hundreds worldwide for a variety of applications. With the addition of the customizable QICK box, the engineering team and its supporters and collaborators believe that it will enable future discoveries in science and quantum information science research.
+Companies interested in commercializing the technology should contact Fermilab’s Office of Partnerships and Technology Transfer at
+optt@fnal.gov
+. The development of QICK at Fermilab is supported primarily through the lab’s key partnership in the Quantum Science Center, a DOE National Quantum Initiative Science Research Center headquartered at Oak Ridge National Laboratory.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. A U.S. Department of Energy Office of Science laboratory, Fermilab is located near Chicago, Illinois, and operated under contract by the Fermi Research Alliance LLC, a joint partnership between the University of Chicago and the Universities Research Association, Inc. Visit
+Fermilab’s website
+and follow us on X/Twitter at
+@Fermilab
+.
+Recommended reading
+View all news
+Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization
+June 3, 2026
+partnership
+QICK
+quantum
+Fermilab feature
+Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.
+Anna Grassellino appointed to DOE Office of Science Advisory Committee
+May 1, 2026
+DOE
+Office of Science
+quantum
+SQMS
+Fermilab feature
+Anna Grassellino of Fermilab will serve on SCAC and chair the quantum subcommittee, tasked with advancing national quantum goals.
+Fermilab teams up with NIU to launch quantum science program
+April 30, 2026
+education
+partnership
+SQMS Center
+Press release
+Fermilab and Northern Illinois University are joining forces to offer a unique Master of Science in Physics program specializing in quantum science and technology. This innovative graduate program combines the expertise of a DOE national laboratory quantum center and a prominent state university to prepare the next generation of quantum experts.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies

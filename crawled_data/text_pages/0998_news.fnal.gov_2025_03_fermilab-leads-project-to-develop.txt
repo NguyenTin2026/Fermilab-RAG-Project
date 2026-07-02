@@ -1,0 +1,198 @@
+URL: https://news.fnal.gov/2025/03/fermilab-leads-project-to-develop-novel-quantum-sensor/
+Title: Fermilab leads project to develop novel quantum sensor
+────────────────────────────────────────────────────────────
+Fermilab leads project to develop novel quantum sensor
+Home
+About
+Jobs
+Contact
+Phone book
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Search
+Home
+About
+Jobs
+Contact
+Phone book
+Search
+Science
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+DUNE at LBNF
+Newsroom
+News and features
+Press
+                        releases
+Fermilab in
+                        the news
+Fact sheets
+Media contacts
+Subscribe to our public newsletter
+Social media
+Community
+Hours and public access
+Tours, programs and events
+Calendar of public events
+Education programs
+Lederman Science Center
+Subscribe to our public newsletter
+Resources
+Employees
+Researchers
+Job seekers
+Public
+Neighbors
+Industry
+Business Visitors
+Students and teachers
+Media
+Facebook
+X (Twitter)
+Instagram
+YouTube
+LinkedIn
+Press release
+Fermilab leads project to develop novel quantum sensor
+March 24, 2025
+| By:
+Marcia Teckenbrock
+Tags:
+collaboration
+quantum sensor
+qubits
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Menu
+Newsroom
+News and features
+Press releases
+Fermilab in the news
+Fact sheets
+Contact us
+Site search
+Fermilab is finalizing a partnership with Diraq and several universities for the Quandarum project. The project team intends to combine extreme environment electronics and silicon spin qubits to develop a quantum sensor that could profoundly impact the field of high-energy physics.
+Media contact
+Tracy Marc, Fermilab
+media@fnal.gov
+, 224-290-7803
+Researchers at the Department of Energy’s Fermi National Accelerator Laboratory, along with scientists and engineers at the computer chip manufacturer Diraq, University of Wisconsin-Madison, University of Chicago and Manchester University, have proposed the development of a quantum sensor made of quantum bits called spin qubits in silicon to probe beyond Standard Model physics. Diraq is a global leader in quantum computing technology on silicon, which is essential to the Quandarum project.
+By placing many spin qubits together on a chip to form a sensor, the researchers seek to enable scientists to tease out even the faintest signals from the cosmos. Such a sensor could potentially be used to detect axions, hypothetical particles that some scientists believe comprise dark matter.
+Led by Fermilab, the Quandarum project is one of 25 projects funded for a total of $71 million by the DOE program
+Quantum Information Science Enabled Discovery
+. The QuantISED program supports innovative research at national laboratories and universities that applies quantum technologies to use for fundamental science discovery.
+With this award, researchers plan to develop a novel sensor, bringing together for the first time two specialized technologies: spin qubits in silicon and cryogenic “skipper” analog-to-digital converter circuits used for the readout of dark matter detectors.
+Silicon spin-based quantum sensors can provide a powerful platform for testing theories around dark matter because they can exploit quantum interactions to increase sensitivity and explore the limits of what scientists understand about high-energy physics.
+It’s all about the spin
+Spin qubits store information in the direction of an electron’s spin, a property defined by quantum mechanics. The spin state of an electron is very sensitive to weak electromagnetic fields in the environment, allowing for extremely precise measurements.
+“We can’t directly measure what the direction of the spin is, but we can measure small movements of charge because moving charge creates a change in the electric field which can be measured,” said Adam Quinn, Fermilab engineer and project principal investigator.
+Pictured, left to right, are some members of the Quandarum project to produce a quantum sensor to search for dark matter: Troy England (Fermilab), David Miller (University of Chicago), Adam Quinn (Fermilab) and Arne Laucht (Diraq). Credit: Dan Svoboda, Fermilab
+However, because electron spins are so small, densely packed, and sensitive to even the slightest disturbance, extracting information from spin qubits is quite difficult.
+“The core challenge of this sensor is the readout, and the key to success is having the ability to read out information with minimal noise,” said Quinn.
+To achieve this, Quinn and his fellow researchers are seeking new ways to use highly scaled readout techniques based on cryogenic application-specific integrated circuits, or ASICs, which would be co-designed using Diraq’s qubit sensor. ASICs are manufactured the same way as the chips that power most electronics today. However, they will use specialized design and layout techniques to achieve superior performance, particularly in extreme environments, such as in a cryogenic chamber.
+The Fermilab team is building on prior work at Fermilab on the readout of skipper charge-coupled devices, or skipper CCDs. Engineers developed skipper CCDs to increase the readout accuracy by overcoming noise. By using an action called skipping to move the charge back and forth multiple times, skipper devices enable a more precise measurement at the single-electron level. The Fermilab team plans to apply this innovation to the readout of qubits, with several iterative chip designs that will allow them to more tightly integrate the qubits and readout electronics. They believe this will ultimately lead to a low-power, highly sensitive detector.
+Fermilab has been developing novel readout chips for particle physics experiments for many years. Now, engineers and scientists will employ some of these same types of microelectronic circuits and apply them to the development of the new sensor.
+Scaling up
+However, producing the quantity of qubits needed — potentially thousands — putting them together on a silicon chip, and making them work properly is not easy.  During the manufacturing process, each one must be nearly identical and must perform similarly to the others.
+Diraq, a company with world-leading expertise indeveloping spin qubits in silicon, is one company that is well positioned to manufacture spin qubits at the scale needed. Silicon is the preferred material because the industrial infrastructure to produce it is firmly established.
+“In addition to quantum computing, the inherent characteristics and material properties of silicon spin-based qubits offer significant promise for large quantum-sensing array technology and particle detection applications,” said Andrew Dzurak, founder and CEO of Diraq.
+“By utilizing high-precision fabrication processes we are looking to enable the production of quality controlled integrated silicon spin qubits at cost-effective and commercial volumes. This technology has the potential to underpin the development not only of large-scale quantum computers but large-scale quantum sensing platforms,” he said.
+The scalability advantages available via silicon CMOS wafer manufacture deliver significant promise for Diraq’s patented spin-based quantum dot technology. Credit: Diraq
+One step at a time
+Over the next five years, the goal is to combine the two technologies — spin qubits and skipper readout technology — onto a single chip. However, to get there, they will build several prototypes.
+“We’re going to start out by re-using existing chips and putting them together,” said Quinn. “We expect that to be a good proof of concept, but one lacking great performance. Then, over the next few years, we’re going to design better and better ASICs to improve performance.
+Fermilab and Diraq will be joined on the Quandarum project by scientists from University of Wisconsin-Madison, University of Chicago and Manchester University, who will be developing algorithms and modeling the interactions of the physics phenomena. All participating institutions are seeking to leverage the technology being developed for the mutual benefit of the Quandarum project and the high-energy physics research they are conducting.
+“This project exemplifies the power of interdisciplinary collaboration and innovation to advance quantum technologies for fundamental science,” said Fermilab Microelectronics Division Head Farah Fahim.
+“By combining Fermilab’s expertise in extreme environment electronics and constructing sensitive large-area detectors with Diraq’s world-class capabilities in silicon spin qubits, the Quandarum project will push the boundaries of quantum sensing to tackle one of the most profound mysteries of our universe,” said Fahim.
+Quandarum is funded for a total of five years.
+Fermi National Accelerator Laboratory is America’s premier national laboratory for particle physics and accelerator research. Fermi Forward Discovery Group manages Fermilab for the U.S. Department of Energy Office of Science. Visit Fermilab’s website at
+www.fnal.gov
+and follow us on social media.
+Recommended reading
+View all news
+Dave Newbold elected co-spokesperson of DUNE collaboration
+March 17, 2026
+collaboration
+DUNE
+leadership
+Press release
+The Deep Underground Neutrino Experiment collaboration announced that a new spokesperson was elected to co-lead the largest neutrino experiment in the U.S. DUNE is at a pivotal time in the development of the massive far detectors and the build-out of the underground space in South Dakota.
+DOE national quantum research centers reach breakthrough towards building scalable quantum computers
+February 26, 2026
+emerging technologies
+ions
+microelectronics
+quantum
+quantum electronics
+qubits
+Press release
+A partnership between the Quantum Science Center and the Quantum Systems Accelerator, two U.S. Department of Energy national quantum information science research centers, has enabled a breakthrough by Fermilab and MIT Lincoln Laboratory. Researchers used cryoelectronics to control ion traps, a key step toward realizing scalable quantum computers.
+HiLumi LHC: full-scale tests start
+February 24, 2026
+accelerator magnets
+collaboration
+HL-LHC Accelerator Upgrade Project
+Press release
+Scientists at CERN have triggered the complex cooldown of a 95-meter-long test stand that reproduces the underground configuration of innovative technologies for the Large Hadron Collider’s high-luminosity upgrade.
+We bring the world together to solve the mysteries of matter, energy, space and time.
+Subscribe to our newsletters
+About
+Community
+Newsroom
+Contact
+Resources
+For Employees
+For Industry
+Jobs
+Science
+DUNE at LBNF
+Particle Physics
+Particle Accelerators
+Detectors, Computing, Quantum
+Particle Physics 101
+Fermi National Accelerator Laboratory
+Managed by
+Fermi Forward Discovery Group, LLC
+for the
+U.S. Department of Energy Office of Science
+Security, Privacy, Legal
+|
+Use of Cookies
