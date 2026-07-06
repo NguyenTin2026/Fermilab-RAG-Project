@@ -16,7 +16,7 @@ QLoRA 4-bit (nf4) | r=32, alpha=64, dropout 0.05, all linear layers
 lr 2e-4 cosine + 3% warmup | effective batch 16 | 2 epochs | max_len 2048
 """
 
-import argparse, json, random
+import argparse, json, random, shutil
 from pathlib import Path
 
 BASE_MODEL = "Qwen/Qwen3-4B-Instruct-2507"   # swap for SmolLM3-3B for the second run
@@ -44,6 +44,7 @@ def train(args):
     train_rows, val_rows = load_messages(args.data)
     print(f"train pairs: {len(train_rows)}  val pairs: {len(val_rows)}")
 
+    torch.cuda.set_device(0)
     bnb = BitsAndBytesConfig(                      # the "Q" in QLoRA
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
@@ -51,7 +52,7 @@ def train(args):
         bnb_4bit_use_double_quant=True,
     )
     model = AutoModelForCausalLM.from_pretrained(
-        BASE_MODEL, quantization_config=bnb, device_map="auto",
+        BASE_MODEL, quantization_config=bnb, device_map={"": 0},
         attn_implementation="sdpa",
     )
     tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL)
@@ -66,18 +67,19 @@ def train(args):
     cfg = SFTConfig(
         output_dir=args.out,
         num_train_epochs=2,
-        per_device_train_batch_size=2,
-        gradient_accumulation_steps=8,             # effective batch = 16
+        per_device_train_batch_size=1,
+        gradient_accumulation_steps=16,             # effective batch = 16
         learning_rate=2e-4,
         lr_scheduler_type="cosine",
         warmup_ratio=0.03,
-        max_length=2048,
+        max_length=1024,
         packing=False,
         bf16=True,
         gradient_checkpointing=True,               # trade speed for VRAM
         logging_steps=5,
-        eval_strategy="steps", eval_steps=25,
+        eval_strategy="no",
         save_strategy="epoch",
+        save_total_limit=3,
         report_to="none",
     )
 
@@ -101,7 +103,7 @@ def train(args):
 QUESTIONS = [
     "What does Fermilab's NOvA experiment study?",
     "What is the goal of the DUNE experiment at LBNF?",
-    "What did the SeaQuest experiment measure?",
+    "What is Fermilab's primary mission as America's particle physics and accelerator laboratory?",
 ]
 
 def chat(adapter_dir):
@@ -109,6 +111,7 @@ def chat(adapter_dir):
     from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
     from peft import PeftModel
 
+    torch.cuda.set_device(0)
     bnb = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
                              bnb_4bit_compute_dtype=torch.bfloat16)
     tok = AutoTokenizer.from_pretrained(adapter_dir)
@@ -121,7 +124,7 @@ def chat(adapter_dir):
         return tok.decode(out[0][ids["input_ids"].shape[-1]:], skip_special_tokens=True)
 
     base = AutoModelForCausalLM.from_pretrained(BASE_MODEL,
-              quantization_config=bnb, device_map="auto")
+              quantization_config=bnb, device_map={"": 0})
     print("=" * 30, "BASE MODEL", "=" * 30)
     for q in QUESTIONS:
         print(f"\nQ: {q}\nA: {ask(base, q)}")
@@ -143,6 +146,8 @@ def merge(adapter_dir):
               torch_dtype=torch.bfloat16, device_map="cpu")
     merged = PeftModel.from_pretrained(base, adapter_dir).merge_and_unload()
     out = Path(adapter_dir) / "merged"
+    if out.exists():
+        shutil.rmtree(out)
     merged.save_pretrained(out)
     AutoTokenizer.from_pretrained(adapter_dir).save_pretrained(out)
     print(f"merged model -> {out}")

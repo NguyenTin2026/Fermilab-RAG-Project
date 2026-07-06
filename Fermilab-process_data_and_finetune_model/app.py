@@ -97,6 +97,17 @@ MAX_HISTORY_TURNS = 3
 APP_DIR = Path(__file__).parent              # folder this script lives in
 FEEDBACK_LOG_PATH = APP_DIR / "feedback_log.jsonl"  # where 👍/👎 feedback is stored (feature 2)
 
+# The fine-tuned model is a single shared GPU resource loaded once (via
+# @st.cache_resource below) and reused across EVERY browser session that
+# connects to this Streamlit server. If two people click "ask" at nearly the
+# same moment, both would otherwise call model.generate() concurrently on the
+# same model/GPU state -- transformers' generate() (and the background-thread
+# streaming pattern used here) is not safe for that and can corrupt outputs
+# or crash the CUDA context. This lock serializes generation across ALL
+# sessions: the second request simply waits its turn (still shown as a normal
+# spinner to that user) instead of racing the first one.
+GENERATION_LOCK = Lock()
+
 st.set_page_config(
     page_title="Fermilab Q&A Assistant Dashboard",
     page_icon="⚛️",

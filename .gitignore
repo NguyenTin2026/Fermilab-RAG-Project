@@ -8,6 +8,33 @@ ndo1/
 venv/
 .venv/
 
+# Secrets and environment files
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.token
+*.tok
+secrets.*
+credentials.*
+config.local.*
+*.jsonl.*
+
+# Local runtime and logs
+*.log
+*.out
+*.err
+*.pid
+*.sqlite3
+*.db
+*.bak
+feedback_log.jsonl
+
 # Model weights / fine-tuning artifacts (too large for GitHub)
 Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/
 
