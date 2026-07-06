@@ -1,228 +1,271 @@
-# Fermilab Project: Data Crawling & Domain-Specific Language Model Fine-Tuning (LLM & Embeddings)
+# Fermilab RAG Project
 
-This project is a comprehensive end-to-end repository consisting of two main tracks to harvest and process scientific/technical documents, construct synthetic training pairs, and fine-tune specialized models for particle physics and tech-scouting applications:
+This repository contains a full end-to-end workflow for building a Fermilab-focused question-answering assistant.
 
-1. **Fermilab Q&A Assistant Track**: An automated pipeline that crawls Fermilab websites, cleans and chunks technical web content, utilizes the Gemini API to synthesize high-quality Question-Answering pairs, fine-tunes a `Qwen/Qwen3-4B-Instruct-2507` model via QLoRA, and serves it through a Streamlit dashboard powered by Retrieval-Augmented Generation (RAG).
-2. **Discovery Hub Track (Embedding Fine-Tuning)**: A pipeline that ingests, cleans, and standardizes diverse technical/legal documents (USPTO patents, AUTM invention listings) and maps them against clinical/business research queries (ClinicalTrials.gov), generates matching query-document pairs, mines hard negatives, and fine-tunes an embedding model (`Qwen/Qwen3-Embedding-0.6B` or 4B LoRA) via Multiple Negatives Ranking Loss (MNRL).
+In short, you can:
+1. crawl public Fermilab web pages,
+2. clean and chunk the text,
+3. generate synthetic Q&A pairs,
+4. fine-tune a language model with QLoRA,
+5. compare before/after responses,
+6. launch a Streamlit app for interactive use.
 
----
-
-## 📂 File and Directory Map
-
-Below is the core structure of the repository:
-
-* **Root Directory (`/home/x-ndo5/Fermilab_Project/`)**:
-  * [fermilab.py](file:///home/x-ndo5/Fermilab_Project/fermilab.py): BFS web crawler script targeting public Fermilab domains.
-  * [wait_and_report.py](file:///home/x-ndo5/Fermilab_Project/wait_and_report.py): Script to automatically wait for the crawler milestone output and construct the submission report.
-  * **[Fermilab-process_data_and_finetune_model](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model)**: Directory for corpus processing and Q&A model fine-tuning.
-    * [01b_process_text_corpus.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/01b_process_text_corpus.py): Cleaning, boilerplate stripping, greedy-packing text into chunks, and deterministic train/test splitting.
-    * [02_generate_qa.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/02_generate_qa.py): Generates grounded Q&A pairs from training chunks using the Gemini API.
-    * [03_finetune_qlora.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/03_finetune_qlora.py): 4-bit QLoRA training script. Includes `--chat` and `--merge` modes.
-    * [app.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/app.py): Streamlit web application serving the fine-tuned model with a hybrid RAG search engine, RAG vs. No-RAG comparison, metrics dashboard, and corpus topology map.
-    * [retriever.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/retriever.py): Hybrid RAG retriever combining BM25 lexical search and dense embeddings via Reciprocal Rank Fusion (RRF).
-  * **[Discovery code and instructions](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions)**: Directory for embedding model fine-tuning.
-    * [parse.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/parse.py): Standardizes USPTO, AUTM, and ClinicalTrials documents into a unified schema.
-    * [generate_queries.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/generate_queries.py): Generates clinical/business research queries from technical documents using Gemini API.
-    * [build_dataset.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/build_dataset.py): Mines hard negative documents using the base model and creates train/eval splits.
-    * [train.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/train.py): Fine-tunes the embedding model via Multiple Negatives Ranking Loss (MNRL).
-    * [evaluate.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/evaluate.py): Computes Recall@k and MRR@k metrics for evaluation.
-    * [Makefile](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/Makefile): Declares commands for automating the embedding fine-tuning steps.
-    * [requirements.txt](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/requirements.txt): Dependency package list for the Discovery Hub track.
+The project is organized into two main parts:
+- Fermilab Q&A assistant pipeline: crawl data, process corpus, generate training pairs, fine-tune the model, and run the app.
+- Discovery track: optional embedding model experiments for retrieval tasks.
 
 ---
 
-## ⚡ Track 1: Fermilab Q&A Assistant Pipeline
+## 1. Before you start
 
-This pipeline builds a domain-specific Q&A model trained on crawled Fermilab documents. Data flows as follows:
-```
-crawled web pages (.txt) ──► [Stage 1] Process ──► corpus_st7.jsonl ──► [Stage 2] Generate QA ──► train_qa.jsonl ──► [Stage 3] Fine-tune QLoRA ──► ft-qwen3-fermilab/
-```
+Make sure you have:
+- Python 3.10+ installed
+- a GPU with CUDA support if you want to run fine-tuning
+- a Gemini API key from Google AI Studio
+- internet access for downloading the model and crawling pages
 
-### 0. Environment Setup
-
-Activate the pre-existing virtual environment (e.g., `ndo1`):
+### Recommended folder layout
+After cloning, the project root should look like this:
 ```bash
-cd /home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model
+Fermilab-Project/
+├── fermilab.py
+├── wait_and_report.py
+├── Fermilab-process_data_and_finetune_model/
+├── Discovery code and instructions/
+└── README.md
+```
+
+---
+
+## 2. Clone the repository
+
+```bash
+git clone https://github.com/NguyenTin2026/Fermilab-RAG-Project.git
+cd Fermilab-RAG-Project
+```
+
+---
+
+## 3. Create and activate a Python environment
+
+If you already have a virtual environment, you can reuse it. Otherwise create one:
+
+```bash
+python3 -m venv ndo1
 source ndo1/bin/activate
 ```
-Install dependencies if required (append `--break-system-packages` if system package controls prevent basic pip installs):
+
+If you are on a system where pip is blocked by OS packaging rules, use:
+
 ```bash
-pip install --break-system-packages google-genai torch transformers trl peft bitsandbytes accelerate datasets PyMuPDF
-```
-Acquire a Gemini API key from [Google AI Studio](https://aistudio.google.com) and export it to your environment:
-```bash
-export GEMINI_API_KEY=AIzaSy...your_key...
+pip install --break-system-packages -U pip
 ```
 
-### Step 1: Data Collection (Web Crawler)
-Execute the web crawler to download up to 1,000 public pages from Fermilab subdomains (`news.fnal.gov`, `education.fnal.gov`, etc.):
+---
+
+## 4. Install dependencies
+
+From the repository root:
+
 ```bash
-cd /home/x-ndo5/Fermilab_Project
+pip install --break-system-packages torch transformers trl peft bitsandbytes accelerate datasets google-genai PyMuPDF streamlit pandas
+```
+
+If you also want to run the optional discovery/embedding track, install the extra requirements from the subfolder:
+
+```bash
+cd "Discovery code and instructions"
+pip install --break-system-packages -r requirements.txt
+cd ..
+```
+
+---
+
+## 5. Set your Gemini API key
+
+Export your API key in the terminal before running any generation step:
+
+```bash
+export GEMINI_API_KEY="your_actual_key_here"
+```
+
+You can verify it with:
+
+```bash
+echo "$GEMINI_API_KEY"
+```
+
+> Keep your key private. Do not commit it into the repository.
+
+---
+
+## 6. Run the Fermilab Q&A workflow step by step
+
+### Step 6.1: Crawl the Fermilab pages
+
+Run the crawler from the repository root:
+
+```bash
 python3 fermilab.py
 ```
-* **How it works**: Starts from 4 seed URLs, runs BFS link discovery restricted to approved domains, and observes a polite 1.5-second delay between requests.
-* **Outputs**: 
-  * Raw HTML pages at `crawled_data/html_pages/`
-  * Clean text pages at `crawled_data/text_pages/`
-  * Metadata spreadsheet tracking success/fail status at [download_report_1000.csv](file:///home/x-ndo5/Fermilab_Project/crawled_data/download_report_1000.csv)
 
-To monitor checkpoints and output the final assignment report automatically, run:
+This will create:
+- crawled HTML files in `crawled_data/html_pages/`
+- cleaned text files in `crawled_data/text_pages/`
+- a crawling report in `crawled_data/download_report_1000.csv`
+
+If you want a summary report after the crawl finishes, run:
+
 ```bash
 python3 wait_and_report.py
 ```
 
-### Step 2: Corpus Ingestion & Processing
-To clean text documents, strip recurring website headers/footers (site chrome/boilerplate), partition text into 350-450 word chunks, and enforce a leakage-safe Train/Test split:
-```bash
-cd /home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model
-python3 01b_process_text_corpus.py \
-    --text_dir ../crawled_data/text_pages \
-    --report ../crawled_data/download_report_1000.csv \
-    --out corpus_st7.jsonl
-```
-* **Reference Metrics**: Successfully processed 2,233 text documents into 8,847 chunks, yielding 7,100 train chunks (80.25%) and 1,747 test chunks (19.75%). Strip-filtered 68 unique boilerplate lines that occurred on 30% or more pages.
+### Step 6.2: Process the corpus
 
-### Step 3: Synthetic Q&A Generation
-Run the offline validation self-test to verify formatting and deduplication logic without calling the API:
+Go to the training folder and build the processed corpus:
+
+```bash
+cd Fermilab-process_data_and_finetune_model
+python3 01b_process_text_corpus.py \
+  --text_dir ../crawled_data/text_pages \
+  --report ../crawled_data/download_report_1000.csv \
+  --out corpus_st7.jsonl
+```
+
+This produces a cleaned and chunked corpus file for later training.
+
+### Step 6.3: Generate synthetic Q&A pairs
+
+First, run a self-test to verify the generation script works:
+
 ```bash
 python3 02_generate_qa.py --selftest
 ```
-Run Q&A generation using Gemini (fully resume-safe; if interrupted with Ctrl+C, it will resume from the last unprocessed chunk):
+
+Then generate the training data:
+
 ```bash
 python3 02_generate_qa.py --corpus corpus_st7.jsonl --out train_qa.jsonl
 ```
-* **Anti-Leakage Design**: The script only reads chunks marked as `train` in `corpus_st7.jsonl` and drops generated questions sharing an 8-gram sequence with the evaluation gold set.
 
-### Step 4: QLoRA Fine-Tuning
-This is a computationally heavy step requiring a GPU with at least 12GB VRAM. It trains the default `Qwen/Qwen3-4B-Instruct-2507` model.
-Run inside a `tmux` session to ensure training is unaffected by SSH disconnections:
+This creates the training file used for fine-tuning.
+
+### Step 6.4: Fine-tune the model
+
+This step is the most expensive one and requires GPU memory. It uses QLoRA and trains the base model `Qwen/Qwen3-4B-Instruct-2507`.
+
+Run it inside a terminal session that will stay alive:
+
 ```bash
 tmux new -s finetune
 python3 03_finetune_qlora.py --data train_qa.jsonl --out ./ft-qwen3-fermilab
 ```
-* **Hyperparameters**: Effective batch size of 16 (per-device batch 2 * gradient accumulation 8). Cosine learning rate schedule starting at $2 \times 10^{-4}$ with 3% warmup. Max sequence length of 2,048 tokens. 4-bit NF4 quantization.
-* **Reference Results**:
-  * Training completed in 232 seconds for 54 steps (2 epochs) on a single GPU.
-  * Training loss dropped ~58% (from **2.921** down to **1.101**).
-  * Mean token accuracy rose from **56.3%** to **73.88%** (training) and **72.6%** (validation).
-  * Output adapters are saved in `./ft-qwen3-fermilab`.
 
-### Step 5: Validation & Model Merging
-To inspect base vs. fine-tuned responses side-by-side on verification questions:
+If you prefer to run it directly without tmux, that also works, but tmux helps if your SSH connection drops.
+
+### Step 6.5: Compare base vs fine-tuned answers
+
+After training, compare the base model and the fine-tuned adapter:
+
 ```bash
 python3 03_finetune_qlora.py --chat ./ft-qwen3-fermilab
 ```
-*(If you encounter a `transformers` version-specific generation error, please refer to the Troubleshooting section).*
 
-Once satisfied with performance, bake the adapters back into the base model weights for simple, fast inference:
+This prints example answers for a few Fermilab-related questions.
+
+### Step 6.6: Merge the adapter into full weights
+
+If you want a full merged model for simpler inference:
+
 ```bash
 python3 03_finetune_qlora.py --merge ./ft-qwen3-fermilab
 ```
-The full weights will be written to `./ft-qwen3-fermilab/merged`.
 
-### Step 6: Deploy Streamlit Dashboard
-Launch the web interface for interactive QA and verification:
+The merged model will be saved under:
+
+```bash
+Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/merged
+```
+
+---
+
+## 7. Launch the Streamlit app
+
+From the training folder:
+
 ```bash
 streamlit run app.py --server.fileWatcherType none
 ```
-Open the provided URL in your web browser. The app features:
-* **Standard Chat Engine**: A chat window comparing RAG grounding vs. open-ended generation.
-* **Hallucination reduction tests**: Runs comparative analysis side-by-side with RAG active/inactive.
-* **Corpus Topology Map**: 2D scatter visualization of topic density in the crawled documents.
-* **Metrics Dashboard**: Visualizes crawler progress, HTTP status distribution, and model training metrics.
+
+Open the local URL shown in the terminal.
+
+The app supports:
+- chat with the model,
+- RAG-based retrieval,
+- side-by-side comparison,
+- simple metrics and feedback views.
 
 ---
 
-## ⚡ Track 2: Discovery Hub (Embedding Fine-Tuning)
+## 8. Optional: Discovery/embedding track
 
-This track focuses on training a retrieval/embedding model to bridge the vocabulary and register gap between technical/legal descriptions and clinical/business inquiries:
-* **Document side**: Sáng chế/Patent (USPTO - st5) and technology transfer listings (AUTM - st1) in technical language.
-* **Query side**: Clinical trials (st2) and scout research interests in clinical/business registers.
+If you also want to try the embedding-based retrieval workflow, go to:
 
-### ⚠️ Package Path Notice
-The scripts in this track are packaged as a module named `discovery_ft`. To run commands via `make` or python CLI without hitting a `ModuleNotFoundError`, you must do one of the following:
-1. **Set `PYTHONPATH` (Recommended)**: Set the environment variable to point to the source folder:
-   ```bash
-   export PYTHONPATH="/home/x-ndo5/Fermilab_Project/Discovery code and instructions"
-   ```
-2. **Rename/Symlink Directory**: Rename or create a symlink named `discovery_ft` mapping to the folder.
-
-### 0. Environment Setup
-Install the specific dependencies for sentence embeddings:
 ```bash
-cd "/home/x-ndo5/Fermilab_Project/Discovery code and instructions"
-pip install -r requirements.txt --break-system-packages
+cd "Discovery code and instructions"
 ```
-Ensure your `GEMINI_API_KEY` is exported in the shell.
 
-### Command Execution Workflow (via Makefile)
-We provide a structured [Makefile](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/Makefile) to automate all steps of the embedding pipeline. Run `make help` to inspect available steps.
+Useful commands:
 
-#### 1. Ingest and Inspect Dictionaries
 ```bash
+make help
 make inspect
-```
-Runs [parse.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/parse.py). It reads raw JSON files, parses USPTO patents, ClinicalTrials, and AUTM pages, strips legal boilerplate, maps CPC codes, and aggregates them into a standardized `embedding_text` schema.
-
-#### 2. Generate Synthetic Training Queries
-```bash
 make pairs
-```
-Runs [generate_queries.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/generate_queries.py). It reads the documents, prompts Gemini API with few-shot business registers, and creates matching query-document pairs saved to `pairs.jsonl`.
-* *Tip*: Dry-run prompt verification can be run for free using:
-  ```bash
-  python -m discovery_ft.generate_queries --in data --dry-run | head -40
-  ```
-
-#### 3. Mine Hard Negatives & Build Splits
-```bash
 make dataset
-```
-Runs [build_dataset.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/build_dataset.py). The base model encodes all documents and finds the most similar documents (excluding the true target) to act as hard contrastive negative samples. Writes the outputs to `dataset/train.jsonl` and `eval.jsonl`.
-
-#### 4. Benchmark Baseline Model (Before Fine-Tuning)
-```bash
 make baseline
-```
-Runs [evaluate.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/evaluate.py) to assess the untrained model's Recall@k and MRR@10 performance on the held-out evaluation triplets.
-
-#### 5. Fine-Tune Embedding Model
-```bash
 make train
-```
-Runs [train.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/train.py) to train `Qwen/Qwen3-Embedding-0.6B` using Multiple Negatives Ranking Loss (MNRL). Features like mixed-precision (`fp16`/`bf16`) and gradient checkpointing are pre-configured to fit onto a single 12GB GPU.
-* *Note on larger architectures*: To train a larger 4B model using parameter-efficient adapters (LoRA), add the `--lora` flag:
-  ```bash
-  python -m discovery_ft.train --model Qwen/Qwen3-Embedding-4B --lora --batch 4 --grad-accum 4 --out runs/qwen4b-lora
-  ```
-
-#### 6. Evaluate Fine-Tuned Model
-```bash
 make eval
-```
-Runs [evaluate.py](file:///home/x-ndo5/Fermilab_Project/Discovery%20code%20and%20instructions/evaluate.py) using the fine-tuned checkpoint at `runs/qwen06b-ft/final` to measure the metrics improvement against the baseline recorded in Step 4.
-
-To run the entire pipeline in a single command sequence:
-```bash
 make all
 ```
 
----
-
-## 🛠️ Troubleshooting & Frequently Asked Questions (FAQs)
-
-| Error Message / Issue | Root Cause | Resolution |
-| :--- | :--- | :--- |
-| `ModuleNotFoundError: No module named 'fitz'` | Trying to run PDF parser (`01_process_corpus.py`) on crawled raw text data. | Run `python3 -m pip install PyMuPDF` (do not install the package named `fitz`) or use the text-ingest variant [01b_process_text_corpus.py](file:///home/x-ndo5/Fermilab_Project/Fermilab-process_data_and_finetune_model/01b_process_text_corpus.py) instead. |
-| `error: externally-managed-environment` | System Python environment blocks external packages to maintain OS integrity. | Append `--break-system-packages` to the `pip install` command string. |
-| `KeyError: 'GEMINI_API_KEY'` | Gemini API authorization key not found in shell environment variables. | Set the key: `export GEMINI_API_KEY=your_actual_key_from_google_ai_studio`. |
-| `AttributeError` / `KeyError` in `--chat` interface comparison | In newer `transformers` library versions (5.x), the dictionary must be unpacked explicitly when calling `model.generate()`. | Patch the `ask()` function in the script to pass tokenizer dict inputs as unpacked kwargs: `model.generate(**ids, ...)` and access prompt length via `ids["input_ids"].shape[-1]`. |
-| Out-Of-Memory (OOM) on GPU | Batch size is too high for VRAM capacity. | Decrease `--batch` (e.g. to 8 or 4) and increase `--grad-accum` to match the target effective batch size. |
+This track is optional and is separate from the main Q&A fine-tuning pipeline.
 
 ---
 
-## 🔮 Limitations & Future Work
+## 9. Common issues
 
-1. **Synthesized Training Size**: 438 training pairs is small for a 4B parameter language model. Scaling the dataset using varied generation temperatures and more diverse seed prompts will improve out-of-domain robustness.
-2. **Retrieval Reranking**: Integrating a cross-encoder model as a secondary stage inside `retriever.py` to rerank the top retrieved documents will yield a significant boost in precision.
-3. **Retrieval-Augmented Fine-Tuning (RAFT)**: Tinh chỉnh (fine-tune) models on prompts that deliberately mix relevant context alongside unrelated distractors. This forces the model to ignore noisy information during RAG execution.
+### Problem: `ModuleNotFoundError`
+Install the missing package with pip.
+
+### Problem: `KeyError: 'GEMINI_API_KEY'`
+Make sure you exported the key before running the generation script.
+
+### Problem: out-of-memory during training
+Reduce the batch size or use a smaller model configuration.
+
+### Problem: disk full during merge
+The merged model can be large. Free some space or remove older checkpoints before running the merge step.
+
+---
+
+## 10. Security note
+
+This repository may contain local data, model outputs, and private environment information. Keep your API keys and any sensitive files out of Git.
+
+The repository already uses a Git ignore file to avoid pushing large artifacts such as:
+- virtual environment folders,
+- model weights,
+- crawled data,
+- embeddings and logs.
+
+---
+
+## 11. Expected output files
+
+After a full run, you will usually have:
+- `crawled_data/html_pages/`
+- `crawled_data/text_pages/`
+- `Fermilab-process_data_and_finetune_model/corpus_st7.jsonl`
+- `Fermilab-process_data_and_finetune_model/train_qa.jsonl`
+- `Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/`
+- `Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/merged/`
