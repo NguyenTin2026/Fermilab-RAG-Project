@@ -13,7 +13,7 @@ After training:
 
 Hyperparameters follow the project methodology doc:
 QLoRA 4-bit (nf4) | r=32, alpha=64, dropout 0.05, all linear layers
-lr 2e-4 cosine + 3% warmup | effective batch 16 | 2 epochs | max_len 2048
+lr 2e-4 cosine + 3% warmup | effective batch 16 | 2 epochs | max_len 1024
 """
 
 import argparse, json, random, shutil
@@ -77,7 +77,12 @@ def train(args):
         bf16=True,
         gradient_checkpointing=True,               # trade speed for VRAM
         logging_steps=5,
-        eval_strategy="no",
+        # Bat eval dinh ky: truoc day eval_strategy="no" -> eval_dataset khong bao gio
+        # duoc dung va loi khuyen "theo doi eval_loss" ben duoi khong the thuc hien.
+        # Gio eval moi 25 step de ra eval_loss/eval_token_acc (khop bang trong report).
+        eval_strategy="steps",
+        eval_steps=25,
+        per_device_eval_batch_size=1,
         save_strategy="epoch",
         save_total_limit=3,
         report_to="none",

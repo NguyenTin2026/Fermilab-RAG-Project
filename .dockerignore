@@ -1,0 +1,13 @@
+.git
+crawled_data/
+**/ft-qwen3-fermilab/
+**/corpus_embeddings.npy
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+ndo1/
+.env
+Assignment*.docx
+*.pptx
+Discovery code and instructions/

@@ -33,7 +33,7 @@ import re                                    # used to "sanitize" downloaded fil
 import json
 import html as html_lib                     # escape text before putting it in HTML (anti-XSS)
 from pathlib import Path
-from threading import Thread                 # run model.generate() in the background for streaming
+from threading import Thread, Lock           # Thread: chay generate() nen de stream | Lock: serialize generate() giua cac session (fix: truoc day thieu import Lock -> NameError luc khoi dong)
 from urllib.parse import urlparse
 from datetime import datetime, timezone      # used for chat export (feature 7) and feedback logging (feature 2)
 
@@ -389,8 +389,11 @@ def generate_answer(messages, temperature):
         return_dict=True,
     ).to(model.device)
 
-    with torch.no_grad():                  # inference only, no gradients
-        output = model.generate(**inputs, **_build_gen_kwargs(temperature))
+    # Serialize generation: chi 1 luot generate() chay tren GPU tai mot thoi diem
+    # (transformers generate() khong an toan khi 2 session goi dong thoi).
+    with GENERATION_LOCK:
+        with torch.no_grad():              # inference only, no gradients
+            output = model.generate(**inputs, **_build_gen_kwargs(temperature))
 
     # Keep only the newly generated tokens (drop the prompt part).
     new_tokens = output[0][inputs["input_ids"].shape[-1]:]
@@ -428,13 +431,19 @@ def generate_answer_stream(messages, temperature):
         except Exception as e:
             error_box["error"] = e   # keep the error to surface it later
 
-    # generate() blocks until done -> run it in a thread so the for-loop can read in parallel.
-    thread = Thread(target=_worker)
-    thread.start()
+    # Serialize generation across ALL sessions (xem chu thich o GENERATION_LOCK).
+    # Giu lock suot ca luot stream: session thu 2 cho toi luot thay vi chay dua.
+    GENERATION_LOCK.acquire()
+    try:
+        # generate() blocks until done -> run it in a thread so the for-loop can read in parallel.
+        thread = Thread(target=_worker)
+        thread.start()
 
-    for token in streamer:
-        yield token
-    thread.join()
+        for token in streamer:
+            yield token
+        thread.join()
+    finally:
+        GENERATION_LOCK.release()   # luon nha lock ke ca khi loi/ngat giua chung
 
     if "error" in error_box:
         raise error_box["error"]   # surface the error so the caller can fall back

@@ -1,0 +1,35 @@
+# Fermilab RAG Q&A Assistant — Python dependencies (main project).
+# Cai bang:  pip install -r requirements.txt
+# Python 3.10+  (da test tren 3.12).
+#
+# GHI CHU: torch nen cai dung ban CUDA hop voi GPU cua ban.
+# Vi du tren Anvil (CUDA 12.x):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+# roi moi cai phan con lai:  pip install -r requirements.txt
+
+# --- Core RAG + serving ---
+streamlit>=1.36
+torch>=2.2
+transformers>=4.44
+sentence-transformers>=3.0     # retriever.py: dense embeddings (all-MiniLM-L6-v2)
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3              # app.py load_corpus_map: TfidfVectorizer + TruncatedSVD
+
+# --- Fine-tuning (Stage 3: 03_finetune_qlora.py) ---
+peft>=0.11
+trl>=0.9
+datasets>=2.19
+bitsandbytes>=0.43            # QLoRA 4-bit (nf4). Chi chay tren GPU/Linux.
+accelerate>=0.30             # can cho device_map="auto"
+
+# --- Data pipeline (crawl + QA generation) ---
+requests>=2.31
+beautifulsoup4>=4.12         # import 'bs4' trong parse/crawl
+PyMuPDF>=1.24                # import 'fitz' — doc PDF arXiv
+google-genai>=0.3            # 02_generate_qa.py: Gemini teacher model
+
+# --- Optional (app.py tu bo qua neu thieu, khong crash) ---
+fpdf2>=2.7                   # xuat PDF trong Chat tab
+python-docx>=1.1            # xuat .docx
+pypdf>=4.2                  # dinh kem PDF lam context tam thoi

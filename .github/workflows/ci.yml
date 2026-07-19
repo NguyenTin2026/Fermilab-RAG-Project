@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Test offline chi can numpy + pytest (khong nap model/GPU).
+      - name: Install test deps
+        run: pip install numpy pytest
+
+      - name: Syntax check all Python files
+        run: |
+          find . -name "*.py" -not -path "./crawled_data/*" -print0 \
+            | xargs -0 -n1 python -m py_compile
+
+      - name: Run offline tests
+        run: python -m pytest tests/ -q

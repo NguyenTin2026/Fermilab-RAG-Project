@@ -48,6 +48,22 @@ git clone https://github.com/NguyenTin2026/Fermilab-RAG-Project.git
 cd Fermilab-RAG-Project
 ```
 
+**Important — pull the large corpus file (Git LFS).** `corpus_st7.jsonl` is stored
+with Git LFS. Without this step you only get a small pointer file and the retriever
+will fail to load:
+
+```bash
+git lfs install     # once per machine
+git lfs pull        # download the real corpus_st7.jsonl (~190 MB)
+```
+
+**Model weights are NOT in this repo** (too large). The app looks for a fine-tuned
+model under `Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab/`. Either
+run the fine-tuning yourself (Step 6.4) or place a pre-trained adapter/merged model
+there. If no local weights are found, the app falls back to the base model — but
+because it runs with `HF_HUB_OFFLINE=1`, the base model must already be cached
+locally, or the app cannot start.
+
 ---
 
 ## 3. Create and activate a Python environment
@@ -69,11 +85,15 @@ pip install --break-system-packages -U pip
 
 ## 4. Install dependencies
 
-From the repository root, run:
+From the repository root, install everything from `requirements.txt`:
 
 ```bash
-pip install --break-system-packages torch transformers trl peft bitsandbytes accelerate datasets google-genai PyMuPDF streamlit pandas
+pip install --break-system-packages -r requirements.txt
 ```
+
+> Note: on a GPU machine you usually want the CUDA build of `torch`. Install it
+> first (e.g. `pip install torch --index-url https://download.pytorch.org/whl/cu121`),
+> then run the line above for the rest.
 
 If you also want to try the optional discovery or embedding track, install the extra requirements from the subfolder:
 
@@ -87,16 +107,18 @@ cd ..
 
 ## 5. Set your Gemini API key
 
-Export your API key before running any generation step:
+Copy the template and fill in your key (the `.env` file is git-ignored, so it is
+never committed):
+
+```bash
+cp .env.example .env
+# then edit .env and set GEMINI_API_KEY=...
+```
+
+Or just export it in your shell before running any generation step:
 
 ```bash
 export GEMINI_API_KEY="your_actual_key_here"
-```
-
-You can verify it with:
-
-```bash
-echo "$GEMINI_API_KEY"
 ```
 
 > Keep your key private. Do not share it or commit it to the repository.
@@ -208,6 +230,39 @@ The app supports:
 - retrieval-based answers,
 - side-by-side comparison,
 - simple metrics and feedback views.
+
+---
+
+## 7b. Evaluate answer quality (RAG vs No-RAG)
+
+Loss and token-accuracy from training are only a proxy. To measure whether the
+system actually answers Fermilab questions correctly, use the harness in `eval/`
+(needs the corpus via `git lfs pull` and a fine-tuned model):
+
+```bash
+# Retrieval quality: Recall@k / MRR
+python eval/eval_retrieval.py --k 1,3,5
+
+# End-to-end answer quality: RAG vs No-RAG, token-F1 (+ optional Gemini judge)
+python eval/eval_generation.py --top_k 3 --judge
+```
+
+See `eval/README.md` for details. The gold set (`eval/gold_qa.jsonl`) ships with a
+small seed of questions — expand it to 50–100 for trustworthy numbers.
+
+---
+
+## 7c. Run in Docker (optional)
+
+```bash
+docker build -t fermilab-rag .
+docker run -p 8501:8501 --env-file .env \
+  -v $PWD/Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab:/app/Fermilab-process_data_and_finetune_model/ft-qwen3-fermilab \
+  fermilab-rag
+```
+
+The image does not bundle model weights or the LFS corpus — mount them at run time.
+For GPU inference, use a CUDA base image and add `--gpus all`.
 
 ---
 
